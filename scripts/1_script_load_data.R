@@ -26,7 +26,7 @@ fish_gather <- function(dt) {
 # Import data -------------------------------------------------------------
 
 #folder to import from
-folder <- "2020-01-06"
+folder <- "2020-01-17"
 
 # make list of filenames from the data in your folder
 filenames_csv <- list.files(paste("database/data_to_add/",folder, sep = ""), pattern = "*.csv")
@@ -45,12 +45,14 @@ for(name in seq_along(filenames_xlsx)){
   data_xlsx.list[[name]] <- read_excel(paste("database/data_to_add/",folder,"/", filenames_xlsx[name], sep = ""))
 }
 
-# make a new data frame + add columns to it that are in the master data frame
+# make data frame of csv's and excel files
 new_csv <- bind_rows(unclass(lapply(data_csv.list, FUN = fish_gather))) 
 new_xlsx <- bind_rows(unclass(lapply(data_xlsx.list, FUN = fish_gather))) 
-new_data <- bind_rows(new_csv, new_xlsx) %>% 
-  mutate(start_date = parse_date_time(start_date, orders = c("ymd","dmy")),
-         end_date = parse_date_time(end_date, orders = c("ymd","dmy"))) %>% 
+
+#combine csv and excel file dataframes
+new_data <- bind_rows(new_csv, new_xlsx) %>%
+#   mutate(start_date = parse_date_time(start_date, orders = c("ymd","dmy")),
+#          end_date = parse_date_time(end_date, orders = c("ymd","dmy"))) %>% 
   mutate_all(funs('as.character'))
 
 
