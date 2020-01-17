@@ -18,6 +18,7 @@ data_fish_current <- readRDS("~/GitHub/Freshwater-Fish-Diet-Database/database/da
 fish_gather <- function(dt) {
   dt <- dt  %>% 
     clean_names() %>% 
+    remove_empty("rows") %>% 
     rename_at(1, ~"site_name") %>% 
     gather(prey_taxon, measurement, -"site_name":-"notes") %>% 
     mutate_each(funs("as.character"))}
@@ -38,7 +39,7 @@ data_xlsx.list <- NULL
 
 # add files to list
 for(name in seq_along(filenames_csv)){
-  data_csv.list[[name]] <- read.csv(paste("database/data_to_add/",folder,"/",filenames_csv[name], sep = ""))
+  data_csv.list[[name]] <- read.csv(paste("database/data_to_add/",folder,"/",filenames_csv[name], sep = ""),na.strings=c("","NA"))
 }
 
 for(name in seq_along(filenames_xlsx)){
