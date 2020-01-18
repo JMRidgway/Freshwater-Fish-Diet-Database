@@ -9,6 +9,8 @@ library(repmis)
 library(readxl)
 library(rlist)
 
+#Use this script to: add new data to the master data frame, add lat/lon info, and exctract stage information
+
 # Load master data frame *** make sure its the most recent one *** ---------------------------------------------------
 data_fish_current <- readRDS("~/GitHub/Freshwater-Fish-Diet-Database/database/data_fish.rds") %>% 
   mutate_all(funs("as.character")) 
@@ -17,14 +19,21 @@ data_fish_current <- readRDS("~/GitHub/Freshwater-Fish-Diet-Database/database/da
 folder <- "2020-01-18"
 
 # Functions ---------------------------------------------------------------
-#fish_gather cleans and gathers the imported data
+#fish_gather cleans and gathers the imported data and adds life stage information
 fish_gather <- function(dt) {
   dt <- dt  %>% 
     clean_names() %>% 
     remove_empty("rows") %>% 
     rename_at(1, ~"site_name") %>% 
     gather(prey_taxon, measurement, -"site_name":-"notes") %>% 
-    mutate_each(funs("as.character"))}
+    mutate_each(funs("as.character")) %>% 
+    mutate(prey_stage = case_when(grepl("arva", prey_taxon) ~"larvae",
+                                  grepl("adult",prey_taxon) ~ "adults",
+                                  grepl("ymph", prey_taxon) ~ "larvae",
+                                  grepl("upae", prey_taxon) ~ "pupae",
+                                  grepl("pupa", prey_taxon) ~ "pupae",
+                                  grepl("Pupa", prey_taxon) ~ "pupae",
+                                  TRUE ~ "unknown"))}
 
 # make list of filenames to import ***double check that folder is assigned correctly ***
 filenames_csv <- list.files(paste("database/data_to_add/",folder, sep = ""), pattern = "*.csv")
@@ -54,8 +63,9 @@ combine_data <- bind_rows(new_csv, new_xlsx) %>%
   mutate_all(funs('as.character')) 
 
 
-#get lat and lon (requires API from google and internet connection - if it doesn't work, skip this step)
-lat_lon <- combine_data %>% filter(!is.na(site_name)) %>% 
+#get lat/lon (requires API from google and internet connection - if it doesn't work, skip this step)
+lat_lon <- combine_data %>% 
+  filter(!is.na(site_name)) %>% 
   distinct(site_name) %>% 
   mutate_geocode(site_name) %>% 
   mutate_all(funs('as.character'))
@@ -63,10 +73,9 @@ lat_lon <- combine_data %>% filter(!is.na(site_name)) %>%
 #add lat/lon to data
 new_data <- merge(lat_lon, combine_data)
 
-#append new data to master data frame
-data_fish <- bind_rows(new_data, data_fish_current)
+#append new data to master data frame and extract prey stage information
+data_fish <- bind_rows(new_data, data_fish_current) 
 
 #save updated version of master data frame
 saveRDS(data_fish, file = "database/data_fish.rds")
-
 
