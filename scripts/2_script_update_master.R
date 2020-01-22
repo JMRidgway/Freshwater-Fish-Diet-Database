@@ -1,3 +1,14 @@
+library(tidyverse)
+library(ggridges)
+library(lubridate)
+library(ggmap)
+library(httr)
+library(cowplot)
+library(janitor)
+library(repmis)
+library(readxl)
+library(rlist)
+library(RCurl)
 
 # Stack all new_data files ----------------------------------------------
 
@@ -26,7 +37,8 @@ lat_lon <- data_to_add %>%
   mutate_all(funs('as.character'))
 
 #add lat/lon and taxa info to data
-new_data_latlon <- data_to_add %>% full_join(lat_lon, by = "site_name") %>% 
+new_data_latlon <- data_to_add %>% 
+  full_join(lat_lon, by = "site_name") %>% 
   left_join(prey_taxa_all) %>% 
   left_join(fish_taxon_add) %>% 
   mutate(dateadded = as.character(Sys.Date()))
@@ -35,7 +47,8 @@ new_data_latlon <- data_to_add %>% full_join(lat_lon, by = "site_name") %>%
 # Append new data to existing data ----------------------------------------
 
 #load master data frame and save a backup
-data_fish <- read_csv("database/data_fish.csv") %>% mutate_all(funs('as.character')) 
+data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
+  mutate_all(funs('as.character')) 
 write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)
 
 #stack new data to old data

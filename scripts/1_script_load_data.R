@@ -1,3 +1,5 @@
+#Use this script to tidy newly exctracted data, add lat/lon info, extract stage and taxanomic info
+
 library(tidyverse)
 library(ggridges)
 library(lubridate)
@@ -8,18 +10,18 @@ library(janitor)
 library(repmis)
 library(readxl)
 library(rlist)
+library(RCurl)
 
 
 # Load taxa info ----------------------------------------------------------
 
-#Use this script to add new data to the master data frame, add lat/lon info, extract stage and taxanomic info
 #load taxa names to append later
-prey_taxa_all <- read_csv("prey_taxa_all.csv")
-fish_taxa_all <- read_csv("fish_taxa_all.csv")
+prey_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/prey_taxa_all.csv"))
+fish_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/fish_taxa_all.csv"))
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020_01_22"
+folder <- "2020_01_22b"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information
