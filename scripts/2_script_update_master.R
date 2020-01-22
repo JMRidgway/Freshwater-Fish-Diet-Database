@@ -1,3 +1,4 @@
+#Use this script to add data to the master data frame. It will also make a backup of the current master data frame.
 library(tidyverse)
 library(ggridges)
 library(lubridate)
@@ -64,3 +65,6 @@ saveRDS(data_fish_updated, file = "database/data_fish.rds")
 move_files_from <- list.files(path = "./database/data_to_add",pattern = "*.csv")
 move_files_to <- paste0("./database/data_already_added/", move_files_from)
 file.rename(from = paste0("./database/data_to_add/",move_files_from), to = move_files_to)
+
+
+# PUSH CHANGES TO GITHUB 
