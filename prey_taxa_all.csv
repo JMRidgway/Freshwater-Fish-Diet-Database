@@ -1,920 +1,920 @@
-"","prey_taxon","prey_kingdom","prey_class","prey_order","prey_family","prey_species"
-"1","Ostracoda","Metazoa","Ostracoda",NA,NA,NA
-"2","fish_and_fish_remains",NA,NA,NA,NA,NA
-"3","fish_eggs",NA,NA,NA,NA,NA
-"4","terrestrial_insects_parts",NA,NA,NA,NA,NA
-"5","detritus",NA,NA,NA,NA,NA
-"6","insect_parts",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
-"7","Fish scales",NA,NA,NA,NA,NA
-"8","terrestrial_insects_unkwon",NA,NA,NA,NA,NA
-"9","algae_and_plant_material_unknown",NA,NA,NA,NA,NA
-"10","detritus_and_other",NA,NA,NA,NA,NA
-"11","Diatoms",NA,NA,NA,NA,NA
-"12","chaetopoda",NA,NA,NA,NA,NA
-"13","Fish",NA,NA,NA,NA,NA
-"14","unidentified_debris",NA,NA,NA,NA,"unidentified"
-"15","thysanura_adult",NA,NA,NA,NA,NA
-"16","unidentified_plant_remains",NA,NA,NA,NA,"unidentified"
-"17","acarida",NA,NA,NA,NA,NA
-"18","fish_ova",NA,NA,NA,NA,NA
-"19","chironomidae_larvae",NA,NA,NA,NA,NA
-"20","moina_hutchinsoni",NA,NA,NA,NA,NA
-"21","diaphanosoma_leuchtenbergianum",NA,NA,NA,NA,NA
-"22","cypricercus_sp",NA,NA,NA,NA,NA
-"23","nodularia_sp","Metazoa","Bivalvia","Unionida","Unionidae",NA
-"24","plant_material",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"25","unknown_insects",NA,NA,NA,NA,"unidentified"
-"26","Miscellaneous",NA,NA,NA,NA,NA
-"27","ova_eggs",NA,NA,NA,NA,NA
-"28","insect_remains",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
-"29","crustacea_remains",NA,NA,NA,NA,NA
-"30","terrestrial",NA,NA,NA,NA,NA
-"31","Algae",NA,NA,NA,NA,NA
-"32","adult_diptera",NA,NA,NA,NA,NA
-"33","Insect eggs",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
-"34","anabaena_sp",NA,NA,"Nostocales","Nostocaceae",NA
-"35","merismopedia_sp",NA,NA,"Synechococcales","Merismopediaceae",NA
-"36","oscillatoria_sp_1_2_5_Âµm_5_Âµm",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
-"37","oscillatoria_sp_2_3_2_Âµm_10_Âµm",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
-"38","oscillatoria_sp_3",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
-"39","amphora_sp_1",NA,"Bacillariophyceae","Thalassiophysales","Catenulaceae",NA
-"40","amphora_sp_2",NA,"Bacillariophyceae","Thalassiophysales","Catenulaceae",NA
-"41","amphora_sp_3",NA,"Bacillariophyceae","Thalassiophysales","Catenulaceae",NA
-"42","cyclotella_sp",NA,"Coscinodiscophyceae","Thalassiosirales","Stephanodiscaceae",NA
-"43","cymbella_sp_1",NA,"Bacillariophyceae","Cymbellales","Cymbellaceae",NA
-"44","cocconeis_sp",NA,"Bacillariophyceae","Cocconeidales","Cocconeidaceae",NA
-"45","cymatopleura_sp",NA,"Bacillariophyceae","Surirellales","Surirellaceae",NA
-"46","diatoma_sp",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"47","gomphonema_sp",NA,"Bacillariophyceae","Cymbellales","Gomphonemataceae",NA
-"48","gyrosigma_sp",NA,"Bacillariophyceae","Naviculales","Pleurosigmataceae",NA
-"49","gyrosigma_sp_1",NA,"Bacillariophyceae","Naviculales","Pleurosigmataceae",NA
-"50","navicula_sp_1",NA,"Bacillariophyceae","Naviculales","Naviculaceae",NA
-"51","nitzschia_sigmoida",NA,NA,NA,NA,NA
-"52","nitzshia_sp",NA,NA,NA,NA,NA
-"53","fragilaria_sp_1_150_Âµm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"54","fragilaria_sp_2_8_Âµm_215_Âµm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"55","fragilaria_sp_3_8_320_Âµm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"56","fragilaria_sp_4_10_Âµm_200_250_Âµm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"57","fragilaria_sp_5_400_Âµm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"58","fragilaria_sp_6_370_500_Âµm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"59","frustulia_sp",NA,"Bacillariophyceae","Naviculales","Amphipleuraceae",NA
-"60","melosira_sp",NA,"Coscinodiscophyceae","Melosirales","Melosiraceae",NA
-"61","pinnularia_sp_1",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
-"62","pinnularia_sp_2",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
-"63","stauroneis_sp_1",NA,"Bacillariophyceae","Naviculales","Stauroneidaceae",NA
-"64","stauroneis_sp_2",NA,"Bacillariophyceae","Naviculales","Stauroneidaceae",NA
-"65","surirella_sp_1",NA,"Bacillariophyceae","Surirellales","Surirellaceae",NA
-"66","surirella_sp_2",NA,"Bacillariophyceae","Surirellales","Surirellaceae",NA
-"67","bacillariophyceae_50_m",NA,"Bacillariophyceae",NA,NA,NA
-"68","vaucheria_sp",NA,"Xanthophyceae","Vaucheriales","Vaucheriaceae",NA
-"69","fungus",NA,NA,NA,NA,NA
-"70","fish_aquatic",NA,NA,NA,NA,NA
-"71","unidentified_insects_terrestrial",NA,NA,NA,NA,"unidentified"
-"72","copepoda_gen_sp",NA,NA,NA,NA,NA
-"73","micronecta_sp",NA,NA,NA,NA,NA
-"74","esolus_spp",NA,NA,NA,NA,NA
-"75","orectochilus_sp",NA,NA,NA,NA,NA
-"76","fish_1",NA,NA,NA,NA,NA
-"77","Invertebrates",NA,NA,NA,NA,NA
-"78","terrestrial_arthropods",NA,NA,NA,NA,NA
-"79","conchostraca_ostracoda",NA,NA,NA,NA,NA
-"80","scales",NA,NA,NA,NA,NA
-"81","plant_debris",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"82","organic_matter",NA,NA,NA,NA,NA
-"83","damselfly_nymph",NA,NA,NA,NA,NA
-"84","damselfly_adult",NA,NA,NA,NA,NA
-"85","hydrachnida",NA,NA,NA,NA,NA
-"86","terrestria_coleoptera",NA,NA,NA,NA,NA
-"87","copepoda_undet",NA,NA,NA,NA,NA
-"88","fish_larvae",NA,NA,NA,NA,NA
-"89","fish_remains",NA,NA,NA,NA,NA
-"90","organic_mat_undet",NA,NA,NA,NA,NA
-"91","mytilopsis_leucopheata",NA,NA,NA,NA,NA
-"92","hydroids",NA,NA,NA,NA,NA
-"93","foraminifera",NA,NA,NA,NA,NA
-"94","algae_filamentous",NA,NA,NA,NA,NA
-"95","crustacea_undet",NA,NA,NA,NA,NA
-"96","copepoda_harpacticoid",NA,NA,NA,NA,NA
-"97","detritus_sand",NA,NA,NA,NA,NA
-"98","copepoda_arguloid",NA,NA,NA,NA,NA
-"99","penaeid_shrimp",NA,NA,NA,NA,NA
-"100","oscillatoriaceae",NA,NA,NA,NA,NA
-"101","nostoc_sp",NA,NA,NA,NA,NA
-"102","calothrix_sp",NA,NA,NA,NA,NA
-"103","hydrosera_sp",NA,NA,NA,NA,NA
-"104","hemerodromia_stellaris",NA,NA,NA,NA,NA
-"105","oxyethira_maya",NA,NA,NA,NA,NA
-"106","hyposmocoma_spp",NA,NA,NA,NA,NA
-"107","terrestrial_plants",NA,NA,NA,NA,NA
-"108","adult",NA,NA,NA,NA,NA
-"109","fish_parts",NA,NA,NA,NA,NA
-"110","plant_remains",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"111","anabaena",NA,NA,"Nostocales","Nostocaceae",NA
-"112","nostoc",NA,NA,NA,NA,NA
-"113","protococcus",NA,NA,NA,NA,NA
-"114","melosira",NA,"Coscinodiscophyceae","Melosirales","Melosiraceae",NA
-"115","navicula",NA,"Bacillariophyceae","Naviculales","Naviculaceae",NA
-"116","unidentified_eggs_and_other_remains",NA,NA,NA,NA,"unidentified"
-"117","fish_entire",NA,NA,NA,NA,NA
-"118","surface_food",NA,NA,NA,NA,NA
-"119","worms",NA,NA,NA,NA,NA
-"120","fish_other",NA,NA,NA,NA,NA
-"121","hyphessobrycon_callistus",NA,NA,NA,NA,NA
-"122","aphyocharax_nasutus",NA,NA,NA,NA,NA
-"123","roeboides_paranensis",NA,NA,NA,NA,NA
-"124","schizodon_altoparanae",NA,NA,NA,NA,NA
-"125","cyphocharax_modesta",NA,NA,NA,NA,NA
-"126","calichthys_cafichthys",NA,NA,NA,NA,NA
-"127","not_identified",NA,NA,NA,NA,NA
-"128","cyanophyceae",NA,NA,NA,NA,NA
-"129","euglenophyceae",NA,NA,NA,NA,NA
-"130","algae_unknwon",NA,NA,NA,NA,NA
-"131","sporangium_pteridophyta",NA,NA,NA,NA,NA
-"132","higher_plants",NA,NA,NA,NA,NA
-"133","protista",NA,NA,NA,NA,NA
-"134","adult_insect_terrestrial",NA,NA,NA,NA,NA
-"135","adult_insect_aquatic",NA,NA,NA,NA,NA
-"136","adult_insect_unknown",NA,NA,NA,NA,NA
-"137","animal_materials_unknwon",NA,NA,NA,NA,NA
-"138","detritus_sediment",NA,NA,NA,NA,NA
-"139","pteridophyta",NA,NA,NA,NA,NA
-"140","centrales",NA,NA,NA,NA,NA
-"141","oscillatoria",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
-"142","chironomidae_larvae_and_pupae",NA,NA,NA,NA,NA
-"143","culicidae_larvae",NA,NA,NA,NA,NA
-"144","testacea",NA,NA,NA,NA,NA
-"145","algae_and_plant_debris",NA,NA,NA,NA,NA
-"146","undetermined_copepods",NA,NA,NA,NA,NA
-"147","fragilaria",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
-"148","spirulina",NA,NA,NA,NA,NA
-"149","homoeothrix",NA,NA,NA,NA,NA
-"150","filamentous green algae",NA,NA,NA,NA,NA
-"151","green_algal_unicells",NA,NA,NA,NA,NA
-"152","unidentified_insect_larvae",NA,NA,NA,NA,"unidentified"
-"153","unidentified_insect_parts",NA,NA,NA,NA,"unidentified"
-"154","araneida",NA,NA,NA,NA,NA
-"155","pulmonata",NA,NA,NA,NA,NA
-"156","Tendipedidae",NA,NA,NA,NA,NA
-"157","unidentified_material",NA,NA,NA,NA,"unidentified"
-"158","indeterminate_aquatic_insects",NA,NA,NA,NA,NA
-"159","indeterminate_molluscs",NA,NA,NA,NA,NA
-"160","diatoms_flamentous_algae_with_substrate",NA,NA,NA,NA,NA
-"161","soil_debris_detritus",NA,NA,NA,NA,NA
-"162","algae_with_substrate",NA,NA,NA,NA,NA
-"163","soil_mud_sand",NA,NA,NA,NA,NA
-"164","bosmina_coregoni",NA,NA,NA,NA,NA
-"165","alona_rectangula",NA,NA,NA,NA,NA
-"166","gobioninae",NA,NA,NA,NA,NA
-"167","homalopterinae",NA,NA,NA,NA,NA
-"168","unidentified_fish",NA,NA,NA,NA,"unidentified"
-"169","limnoperna_lacustris",NA,NA,NA,NA,NA
-"170","unidentified_aquatic_insects",NA,NA,NA,NA,"unidentified"
-"171","roccus_americanus",NA,NA,NA,NA,NA
-"172","fish_debris",NA,NA,NA,NA,NA
-"173","algae_detritus",NA,NA,NA,NA,NA
-"174","chironomid_adults",NA,NA,NA,NA,NA
-"175","copepoda_copepodids",NA,NA,NA,NA,NA
-"176","iliocryptus_sordidus",NA,NA,NA,NA,NA
-"177","asplachna_sp",NA,NA,NA,NA,NA
-"178","larvae_chironomidae",NA,NA,NA,NA,NA
-"179","larvae_chaoborus",NA,NA,NA,NA,NA
-"180","larvae_trichoptera",NA,NA,NA,NA,NA
-"181","small_ostracoda",NA,NA,NA,"Anelloviridae","Small anellovirus"
-"182","detritus_substratum",NA,NA,NA,NA,NA
-"183","larvae_worms",NA,NA,NA,NA,NA
-"184","thallassius_massajae",NA,NA,NA,NA,NA
-"185","gastropod_eggs",NA,NA,NA,NA,NA
-"186","Baetis sp.",NA,NA,NA,NA,NA
-"187","tipulid_larvae",NA,NA,NA,NA,NA
-"188","limnaea_pereger",NA,NA,NA,NA,NA
-"189","trichoptera_larvae_unknown",NA,NA,NA,NA,NA
-"190","pisidiuml_sphaerium",NA,NA,NA,NA,NA
-"191","leptocerid_larvae",NA,NA,NA,NA,NA
-"192","fish_indet",NA,NA,NA,NA,NA
-"193","plant_matter",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"194","rice",NA,NA,NA,NA,NA
-"195","blue_green_algae",NA,NA,NA,NA,NA
-"196","mosquito_pupae",NA,NA,NA,"Nodaviridae","Mosquito nodavirus MNV-1"
-"197","unidentified_dipteran_larvae",NA,NA,NA,NA,"unidentified"
-"198","scales_of_fsh",NA,NA,NA,NA,NA
-"199","blue_filamentous_algae",NA,NA,NA,NA,NA
-"200","adult_liemiptera",NA,NA,NA,NA,NA
-"201","triehopteran_larvae",NA,NA,NA,NA,NA
-"202","fish_retnains",NA,NA,NA,NA,NA
-"203","green_filamentous_algae",NA,NA,NA,NA,NA
-"204","insect_fragment",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
-"205","fish_remaining",NA,NA,NA,NA,NA
-"206","crustacea_isopoda_adult",NA,NA,NA,NA,NA
-"207","vegetative_tissue",NA,NA,NA,NA,NA
-"208","cyanophyceae_oscillatoria_sp",NA,NA,NA,NA,NA
-"209","dyctioptera_ootheca",NA,NA,NA,NA,NA
-"210","chroococcus",NA,NA,"Chroococcales","Chroococcaceae",NA
-"211","merismopedia",NA,NA,"Synechococcales","Merismopediaceae",NA
-"212","microcystis",NA,NA,"Chroococcales","Microcystaceae",NA
-"213","arthrospira",NA,NA,"Oscillatoriales","Microcoleaceae",NA
-"214","cymbella",NA,"Bacillariophyceae","Cymbellales","Cymbellaceae",NA
-"215","nitzschia",NA,"Bacillariophyceae","Bacillariales","Bacillariaceae",NA
-"216","pinnularia",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
-"217","algae_unicell_filament",NA,NA,NA,NA,NA
-"218","bacillariophyceae",NA,"Bacillariophyceae",NA,NA,NA
-"219","Protozoa",NA,NA,NA,NA,NA
-"220","organic_matter_not_identified",NA,NA,NA,NA,NA
-"221","copepoda_larvae",NA,NA,NA,NA,NA
-"222","unident_terr_insect",NA,NA,NA,NA,NA
-"223","unident_aq_insect",NA,NA,NA,NA,NA
-"224","unident_fish",NA,NA,NA,NA,NA
-"225","fish_bone",NA,NA,NA,NA,NA
-"226","fish_fin",NA,NA,NA,NA,NA
-"227","unidentified_plant_parts",NA,NA,NA,NA,"unidentified"
-"228","unidentified_fruit_seed",NA,NA,NA,NA,"unidentified"
-"229","unidentified_animal_parts",NA,NA,NA,NA,"unidentified"
-"230","detritus_mud",NA,NA,NA,NA,NA
-"231","microcystis_sp",NA,NA,"Chroococcales","Microcystaceae",NA
-"232","oscillatoria_sp",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
-"233","green_algae_unicellular",NA,NA,NA,NA,NA
-"234","green_algae_filamentous",NA,NA,NA,NA,NA
-"235","navicula_sp",NA,"Bacillariophyceae","Naviculales","Naviculaceae",NA
-"236","pinnularia_sp",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
-"237","nitzchia_sp",NA,NA,NA,NA,NA
-"238","Daphnia sp.","Metazoa","Branchiopoda","Diplostraca","Daphniidae","Daphnia sp."
-"239","Cambarus sp.",NA,NA,NA,NA,NA
-"240","Gyrinidae","Metazoa","Insecta","Coleoptera","Gyrinidae",NA
-"241","Arachnoids",NA,NA,NA,NA,NA
-"242","Ceratopogonidae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
-"243","Unidentified Diptera",NA,NA,NA,NA,"unidentified"
-"244","Chaoborus","Metazoa","Insecta","Diptera","Chaoboridae",NA
-"245","Entomostraca",NA,NA,NA,NA,NA
-"246","Organic  detritus",NA,NA,NA,NA,NA
-"247","Malacostraca","Metazoa","Malacostraca",NA,NA,NA
-"248","Cladocera eggs","Metazoa","Branchiopoda","Diplostraca",NA,NA
-"249","Cyclops viridis",NA,NA,NA,NA,NA
-"250","Cylops viridis eggs",NA,NA,NA,NA,NA
-"251","Polygonum seeds","Viridiplantae","Magnoliopsida","Caryophyllales","Polygonaceae",NA
-"252","Potamogeton","Viridiplantae","Magnoliopsida","Alismatales","Potamogetonaceae",NA
-"253","Corethra  sp",NA,NA,NA,NA,NA
-"254","Elodea leaves","Viridiplantae","Magnoliopsida","Alismatales","Hydrocharitaceae",NA
-"255","Hydrophilidae","Metazoa","Insecta","Coleoptera","Hydrophilidae",NA
-"256","Parasitic  flatworms",NA,NA,NA,NA,NA
-"257","Insect organs",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
-"258","Vorticella",NA,"Oligohymenophorea","Sessilida","Vorticellidae",NA
-"259","Ichneumon fly","Metazoa","Insecta","Hymenoptera","Ichneumonidae",NA
-"260","Mycetobia","Metazoa","Insecta","Diptera","Anisopodidae",NA
-"261","Damselfly",NA,NA,NA,NA,NA
-"262","Plant  tissue",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"263","Chara","Viridiplantae","Charophyceae","Charales","Characeae",NA
-"264","Cladocera sp","Metazoa","Branchiopoda","Diplostraca",NA,NA
-"265","Daphnia longispina","Metazoa","Branchiopoda","Diplostraca","Daphniidae","Daphnia longispina"
-"266","Ephemeridae","Metazoa","Insecta","Ephemeroptera","Ephemeridae",NA
-"267","Sisyra","Metazoa","Insecta","Neuroptera","Sisyridae",NA
-"268","Chaetophora",NA,NA,NA,NA,NA
-"269","Fish flesh",NA,NA,NA,NA,NA
-"270","Formica","Metazoa","Insecta","Hymenoptera","Formicidae",NA
-"271","Haliplus  longulus","Metazoa","Insecta","Coleoptera","Haliplidae","Haliplus longulus"
-"272","Hordeum jubatum seed","Viridiplantae","Magnoliopsida","Poales","Poaceae","Hordeum jubatum"
-"273","Hydroporus sp","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
-"274","Insect  legs",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
-"275","Potamogeton stems, leaves","Viridiplantae","Magnoliopsida","Alismatales","Potamogetonaceae",NA
-"276","Animal_tissue",NA,NA,NA,NA,NA
-"277","Arctiidae halisidota","Metazoa","Insecta","Lepidoptera","Erebidae",NA
-"278","Hydroporus","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
-"279","Oxyethira","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
-"280","Incidentalmatter",NA,NA,NA,NA,NA
-"281","Gomphidae(Gomphus)",NA,NA,NA,NA,NA
-"282","
-
-
-
-
-
-
+"X1","prey_taxon","prey_kingdom","prey_class","prey_order","prey_family","prey_species"
+1,"Ostracoda","Metazoa","Ostracoda",NA,NA,NA
+2,"fish_and_fish_remains",NA,NA,NA,NA,NA
+3,"fish_eggs",NA,NA,NA,NA,NA
+4,"terrestrial_insects_parts",NA,NA,NA,NA,NA
+5,"detritus",NA,NA,NA,NA,NA
+6,"insect_parts",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
+7,"Fish scales",NA,NA,NA,NA,NA
+8,"terrestrial_insects_unkwon",NA,NA,NA,NA,NA
+9,"algae_and_plant_material_unknown",NA,NA,NA,NA,NA
+10,"detritus_and_other",NA,NA,NA,NA,NA
+11,"Diatoms",NA,NA,NA,NA,NA
+12,"chaetopoda",NA,NA,NA,NA,NA
+13,"Fish",NA,NA,NA,NA,NA
+14,"unidentified_debris",NA,NA,NA,NA,"unidentified"
+15,"thysanura_adult",NA,NA,NA,NA,NA
+16,"unidentified_plant_remains",NA,NA,NA,NA,"unidentified"
+17,"acarida",NA,NA,NA,NA,NA
+18,"fish_ova",NA,NA,NA,NA,NA
+19,"chironomidae_larvae",NA,NA,NA,NA,NA
+20,"moina_hutchinsoni",NA,NA,NA,NA,NA
+21,"diaphanosoma_leuchtenbergianum",NA,NA,NA,NA,NA
+22,"cypricercus_sp",NA,NA,NA,NA,NA
+23,"nodularia_sp","Metazoa","Bivalvia","Unionida","Unionidae",NA
+24,"plant_material",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+25,"unknown_insects",NA,NA,NA,NA,"unidentified"
+26,"Miscellaneous",NA,NA,NA,NA,NA
+27,"ova_eggs",NA,NA,NA,NA,NA
+28,"insect_remains",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
+29,"crustacea_remains",NA,NA,NA,NA,NA
+30,"terrestrial",NA,NA,NA,NA,NA
+31,"Algae",NA,NA,NA,NA,NA
+32,"adult_diptera",NA,NA,NA,NA,NA
+33,"Insect eggs",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
+34,"anabaena_sp",NA,NA,"Nostocales","Nostocaceae",NA
+35,"merismopedia_sp",NA,NA,"Synechococcales","Merismopediaceae",NA
+36,"oscillatoria_sp_1_2_5_µm_5_µm",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
+37,"oscillatoria_sp_2_3_2_µm_10_µm",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
+38,"oscillatoria_sp_3",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
+39,"amphora_sp_1",NA,"Bacillariophyceae","Thalassiophysales","Catenulaceae",NA
+40,"amphora_sp_2",NA,"Bacillariophyceae","Thalassiophysales","Catenulaceae",NA
+41,"amphora_sp_3",NA,"Bacillariophyceae","Thalassiophysales","Catenulaceae",NA
+42,"cyclotella_sp",NA,"Coscinodiscophyceae","Thalassiosirales","Stephanodiscaceae",NA
+43,"cymbella_sp_1",NA,"Bacillariophyceae","Cymbellales","Cymbellaceae",NA
+44,"cocconeis_sp",NA,"Bacillariophyceae","Cocconeidales","Cocconeidaceae",NA
+45,"cymatopleura_sp",NA,"Bacillariophyceae","Surirellales","Surirellaceae",NA
+46,"diatoma_sp",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+47,"gomphonema_sp",NA,"Bacillariophyceae","Cymbellales","Gomphonemataceae",NA
+48,"gyrosigma_sp",NA,"Bacillariophyceae","Naviculales","Pleurosigmataceae",NA
+49,"gyrosigma_sp_1",NA,"Bacillariophyceae","Naviculales","Pleurosigmataceae",NA
+50,"navicula_sp_1",NA,"Bacillariophyceae","Naviculales","Naviculaceae",NA
+51,"nitzschia_sigmoida",NA,NA,NA,NA,NA
+52,"nitzshia_sp",NA,NA,NA,NA,NA
+53,"fragilaria_sp_1_150_µm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+54,"fragilaria_sp_2_8_µm_215_µm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+55,"fragilaria_sp_3_8_320_µm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+56,"fragilaria_sp_4_10_µm_200_250_µm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+57,"fragilaria_sp_5_400_µm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+58,"fragilaria_sp_6_370_500_µm",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+59,"frustulia_sp",NA,"Bacillariophyceae","Naviculales","Amphipleuraceae",NA
+60,"melosira_sp",NA,"Coscinodiscophyceae","Melosirales","Melosiraceae",NA
+61,"pinnularia_sp_1",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
+62,"pinnularia_sp_2",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
+63,"stauroneis_sp_1",NA,"Bacillariophyceae","Naviculales","Stauroneidaceae",NA
+64,"stauroneis_sp_2",NA,"Bacillariophyceae","Naviculales","Stauroneidaceae",NA
+65,"surirella_sp_1",NA,"Bacillariophyceae","Surirellales","Surirellaceae",NA
+66,"surirella_sp_2",NA,"Bacillariophyceae","Surirellales","Surirellaceae",NA
+67,"bacillariophyceae_50_m",NA,"Bacillariophyceae",NA,NA,NA
+68,"vaucheria_sp",NA,"Xanthophyceae","Vaucheriales","Vaucheriaceae",NA
+69,"fungus",NA,NA,NA,NA,NA
+70,"fish_aquatic",NA,NA,NA,NA,NA
+71,"unidentified_insects_terrestrial",NA,NA,NA,NA,"unidentified"
+72,"copepoda_gen_sp",NA,NA,NA,NA,NA
+73,"micronecta_sp",NA,NA,NA,NA,NA
+74,"esolus_spp",NA,NA,NA,NA,NA
+75,"orectochilus_sp",NA,NA,NA,NA,NA
+76,"fish_1",NA,NA,NA,NA,NA
+77,"Invertebrates",NA,NA,NA,NA,NA
+78,"terrestrial_arthropods",NA,NA,NA,NA,NA
+79,"conchostraca_ostracoda",NA,NA,NA,NA,NA
+80,"scales",NA,NA,NA,NA,NA
+81,"plant_debris",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+82,"organic_matter",NA,NA,NA,NA,NA
+83,"damselfly_nymph",NA,NA,NA,NA,NA
+84,"damselfly_adult",NA,NA,NA,NA,NA
+85,"hydrachnida",NA,NA,NA,NA,NA
+86,"terrestria_coleoptera",NA,NA,NA,NA,NA
+87,"copepoda_undet",NA,NA,NA,NA,NA
+88,"fish_larvae",NA,NA,NA,NA,NA
+89,"fish_remains",NA,NA,NA,NA,NA
+90,"organic_mat_undet",NA,NA,NA,NA,NA
+91,"mytilopsis_leucopheata",NA,NA,NA,NA,NA
+92,"hydroids",NA,NA,NA,NA,NA
+93,"foraminifera",NA,NA,NA,NA,NA
+94,"algae_filamentous",NA,NA,NA,NA,NA
+95,"crustacea_undet",NA,NA,NA,NA,NA
+96,"copepoda_harpacticoid",NA,NA,NA,NA,NA
+97,"detritus_sand",NA,NA,NA,NA,NA
+98,"copepoda_arguloid",NA,NA,NA,NA,NA
+99,"penaeid_shrimp",NA,NA,NA,NA,NA
+100,"oscillatoriaceae",NA,NA,NA,NA,NA
+101,"nostoc_sp",NA,NA,NA,NA,NA
+102,"calothrix_sp",NA,NA,NA,NA,NA
+103,"hydrosera_sp",NA,NA,NA,NA,NA
+104,"hemerodromia_stellaris",NA,NA,NA,NA,NA
+105,"oxyethira_maya",NA,NA,NA,NA,NA
+106,"hyposmocoma_spp",NA,NA,NA,NA,NA
+107,"terrestrial_plants",NA,NA,NA,NA,NA
+108,"adult",NA,NA,NA,NA,NA
+109,"fish_parts",NA,NA,NA,NA,NA
+110,"plant_remains",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+111,"anabaena",NA,NA,"Nostocales","Nostocaceae",NA
+112,"nostoc",NA,NA,NA,NA,NA
+113,"protococcus",NA,NA,NA,NA,NA
+114,"melosira",NA,"Coscinodiscophyceae","Melosirales","Melosiraceae",NA
+115,"navicula",NA,"Bacillariophyceae","Naviculales","Naviculaceae",NA
+116,"unidentified_eggs_and_other_remains",NA,NA,NA,NA,"unidentified"
+117,"fish_entire",NA,NA,NA,NA,NA
+118,"surface_food",NA,NA,NA,NA,NA
+119,"worms",NA,NA,NA,NA,NA
+120,"fish_other",NA,NA,NA,NA,NA
+121,"hyphessobrycon_callistus",NA,NA,NA,NA,NA
+122,"aphyocharax_nasutus",NA,NA,NA,NA,NA
+123,"roeboides_paranensis",NA,NA,NA,NA,NA
+124,"schizodon_altoparanae",NA,NA,NA,NA,NA
+125,"cyphocharax_modesta",NA,NA,NA,NA,NA
+126,"calichthys_cafichthys",NA,NA,NA,NA,NA
+127,"not_identified",NA,NA,NA,NA,NA
+128,"cyanophyceae",NA,NA,NA,NA,NA
+129,"euglenophyceae",NA,NA,NA,NA,NA
+130,"algae_unknwon",NA,NA,NA,NA,NA
+131,"sporangium_pteridophyta",NA,NA,NA,NA,NA
+132,"higher_plants",NA,NA,NA,NA,NA
+133,"protista",NA,NA,NA,NA,NA
+134,"adult_insect_terrestrial",NA,NA,NA,NA,NA
+135,"adult_insect_aquatic",NA,NA,NA,NA,NA
+136,"adult_insect_unknown",NA,NA,NA,NA,NA
+137,"animal_materials_unknwon",NA,NA,NA,NA,NA
+138,"detritus_sediment",NA,NA,NA,NA,NA
+139,"pteridophyta",NA,NA,NA,NA,NA
+140,"centrales",NA,NA,NA,NA,NA
+141,"oscillatoria",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
+142,"chironomidae_larvae_and_pupae",NA,NA,NA,NA,NA
+143,"culicidae_larvae",NA,NA,NA,NA,NA
+144,"testacea",NA,NA,NA,NA,NA
+145,"algae_and_plant_debris",NA,NA,NA,NA,NA
+146,"undetermined_copepods",NA,NA,NA,NA,NA
+147,"fragilaria",NA,"Fragilariophyceae","Fragilariales","Fragilariaceae",NA
+148,"spirulina",NA,NA,NA,NA,NA
+149,"homoeothrix",NA,NA,NA,NA,NA
+150,"filamentous green algae",NA,NA,NA,NA,NA
+151,"green_algal_unicells",NA,NA,NA,NA,NA
+152,"unidentified_insect_larvae",NA,NA,NA,NA,"unidentified"
+153,"unidentified_insect_parts",NA,NA,NA,NA,"unidentified"
+154,"araneida",NA,NA,NA,NA,NA
+155,"pulmonata",NA,NA,NA,NA,NA
+156,"Tendipedidae",NA,NA,NA,NA,NA
+157,"unidentified_material",NA,NA,NA,NA,"unidentified"
+158,"indeterminate_aquatic_insects",NA,NA,NA,NA,NA
+159,"indeterminate_molluscs",NA,NA,NA,NA,NA
+160,"diatoms_flamentous_algae_with_substrate",NA,NA,NA,NA,NA
+161,"soil_debris_detritus",NA,NA,NA,NA,NA
+162,"algae_with_substrate",NA,NA,NA,NA,NA
+163,"soil_mud_sand",NA,NA,NA,NA,NA
+164,"bosmina_coregoni",NA,NA,NA,NA,NA
+165,"alona_rectangula",NA,NA,NA,NA,NA
+166,"gobioninae",NA,NA,NA,NA,NA
+167,"homalopterinae",NA,NA,NA,NA,NA
+168,"unidentified_fish",NA,NA,NA,NA,"unidentified"
+169,"limnoperna_lacustris",NA,NA,NA,NA,NA
+170,"unidentified_aquatic_insects",NA,NA,NA,NA,"unidentified"
+171,"roccus_americanus",NA,NA,NA,NA,NA
+172,"fish_debris",NA,NA,NA,NA,NA
+173,"algae_detritus",NA,NA,NA,NA,NA
+174,"chironomid_adults",NA,NA,NA,NA,NA
+175,"copepoda_copepodids",NA,NA,NA,NA,NA
+176,"iliocryptus_sordidus",NA,NA,NA,NA,NA
+177,"asplachna_sp",NA,NA,NA,NA,NA
+178,"larvae_chironomidae",NA,NA,NA,NA,NA
+179,"larvae_chaoborus",NA,NA,NA,NA,NA
+180,"larvae_trichoptera",NA,NA,NA,NA,NA
+181,"small_ostracoda",NA,NA,NA,"Anelloviridae","Small anellovirus"
+182,"detritus_substratum",NA,NA,NA,NA,NA
+183,"larvae_worms",NA,NA,NA,NA,NA
+184,"thallassius_massajae",NA,NA,NA,NA,NA
+185,"gastropod_eggs",NA,NA,NA,NA,NA
+186,"Baetis sp.",NA,NA,NA,NA,NA
+187,"tipulid_larvae",NA,NA,NA,NA,NA
+188,"limnaea_pereger",NA,NA,NA,NA,NA
+189,"trichoptera_larvae_unknown",NA,NA,NA,NA,NA
+190,"pisidiuml_sphaerium",NA,NA,NA,NA,NA
+191,"leptocerid_larvae",NA,NA,NA,NA,NA
+192,"fish_indet",NA,NA,NA,NA,NA
+193,"plant_matter",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+194,"rice",NA,NA,NA,NA,NA
+195,"blue_green_algae",NA,NA,NA,NA,NA
+196,"mosquito_pupae",NA,NA,NA,"Nodaviridae","Mosquito nodavirus MNV-1"
+197,"unidentified_dipteran_larvae",NA,NA,NA,NA,"unidentified"
+198,"scales_of_fsh",NA,NA,NA,NA,NA
+199,"blue_filamentous_algae",NA,NA,NA,NA,NA
+200,"adult_liemiptera",NA,NA,NA,NA,NA
+201,"triehopteran_larvae",NA,NA,NA,NA,NA
+202,"fish_retnains",NA,NA,NA,NA,NA
+203,"green_filamentous_algae",NA,NA,NA,NA,NA
+204,"insect_fragment",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
+205,"fish_remaining",NA,NA,NA,NA,NA
+206,"crustacea_isopoda_adult",NA,NA,NA,NA,NA
+207,"vegetative_tissue",NA,NA,NA,NA,NA
+208,"cyanophyceae_oscillatoria_sp",NA,NA,NA,NA,NA
+209,"dyctioptera_ootheca",NA,NA,NA,NA,NA
+210,"chroococcus",NA,NA,"Chroococcales","Chroococcaceae",NA
+211,"merismopedia",NA,NA,"Synechococcales","Merismopediaceae",NA
+212,"microcystis",NA,NA,"Chroococcales","Microcystaceae",NA
+213,"arthrospira",NA,NA,"Oscillatoriales","Microcoleaceae",NA
+214,"cymbella",NA,"Bacillariophyceae","Cymbellales","Cymbellaceae",NA
+215,"nitzschia",NA,"Bacillariophyceae","Bacillariales","Bacillariaceae",NA
+216,"pinnularia",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
+217,"algae_unicell_filament",NA,NA,NA,NA,NA
+218,"bacillariophyceae",NA,"Bacillariophyceae",NA,NA,NA
+219,"Protozoa",NA,NA,NA,NA,NA
+220,"organic_matter_not_identified",NA,NA,NA,NA,NA
+221,"copepoda_larvae",NA,NA,NA,NA,NA
+222,"unident_terr_insect",NA,NA,NA,NA,NA
+223,"unident_aq_insect",NA,NA,NA,NA,NA
+224,"unident_fish",NA,NA,NA,NA,NA
+225,"fish_bone",NA,NA,NA,NA,NA
+226,"fish_fin",NA,NA,NA,NA,NA
+227,"unidentified_plant_parts",NA,NA,NA,NA,"unidentified"
+228,"unidentified_fruit_seed",NA,NA,NA,NA,"unidentified"
+229,"unidentified_animal_parts",NA,NA,NA,NA,"unidentified"
+230,"detritus_mud",NA,NA,NA,NA,NA
+231,"microcystis_sp",NA,NA,"Chroococcales","Microcystaceae",NA
+232,"oscillatoria_sp",NA,NA,"Oscillatoriales","Oscillatoriaceae",NA
+233,"green_algae_unicellular",NA,NA,NA,NA,NA
+234,"green_algae_filamentous",NA,NA,NA,NA,NA
+235,"navicula_sp",NA,"Bacillariophyceae","Naviculales","Naviculaceae",NA
+236,"pinnularia_sp",NA,"Bacillariophyceae","Naviculales","Pinnulariaceae",NA
+237,"nitzchia_sp",NA,NA,NA,NA,NA
+238,"Daphnia sp.","Metazoa","Branchiopoda","Diplostraca","Daphniidae","Daphnia sp."
+239,"Cambarus sp.",NA,NA,NA,NA,NA
+240,"Gyrinidae","Metazoa","Insecta","Coleoptera","Gyrinidae",NA
+241,"Arachnoids",NA,NA,NA,NA,NA
+242,"Ceratopogonidae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
+243,"Unidentified Diptera",NA,NA,NA,NA,"unidentified"
+244,"Chaoborus","Metazoa","Insecta","Diptera","Chaoboridae",NA
+245,"Entomostraca",NA,NA,NA,NA,NA
+246,"Organic  detritus",NA,NA,NA,NA,NA
+247,"Malacostraca","Metazoa","Malacostraca",NA,NA,NA
+248,"Cladocera eggs","Metazoa","Branchiopoda","Diplostraca",NA,NA
+249,"Cyclops viridis",NA,NA,NA,NA,NA
+250,"Cylops viridis eggs",NA,NA,NA,NA,NA
+251,"Polygonum seeds","Viridiplantae","Magnoliopsida","Caryophyllales","Polygonaceae",NA
+252,"Potamogeton","Viridiplantae","Magnoliopsida","Alismatales","Potamogetonaceae",NA
+253,"Corethra  sp",NA,NA,NA,NA,NA
+254,"Elodea leaves","Viridiplantae","Magnoliopsida","Alismatales","Hydrocharitaceae",NA
+255,"Hydrophilidae","Metazoa","Insecta","Coleoptera","Hydrophilidae",NA
+256,"Parasitic  flatworms",NA,NA,NA,NA,NA
+257,"Insect organs",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
+258,"Vorticella",NA,"Oligohymenophorea","Sessilida","Vorticellidae",NA
+259,"Ichneumon fly","Metazoa","Insecta","Hymenoptera","Ichneumonidae",NA
+260,"Mycetobia","Metazoa","Insecta","Diptera","Anisopodidae",NA
+261,"Damselfly",NA,NA,NA,NA,NA
+262,"Plant  tissue",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+263,"Chara","Viridiplantae","Charophyceae","Charales","Characeae",NA
+264,"Cladocera sp","Metazoa","Branchiopoda","Diplostraca",NA,NA
+265,"Daphnia longispina","Metazoa","Branchiopoda","Diplostraca","Daphniidae","Daphnia longispina"
+266,"Ephemeridae","Metazoa","Insecta","Ephemeroptera","Ephemeridae",NA
+267,"Sisyra","Metazoa","Insecta","Neuroptera","Sisyridae",NA
+268,"Chaetophora",NA,NA,NA,NA,NA
+269,"Fish flesh",NA,NA,NA,NA,NA
+270,"Formica","Metazoa","Insecta","Hymenoptera","Formicidae",NA
+271,"Haliplus  longulus","Metazoa","Insecta","Coleoptera","Haliplidae","Haliplus longulus"
+272,"Hordeum jubatum seed","Viridiplantae","Magnoliopsida","Poales","Poaceae","Hordeum jubatum"
+273,"Hydroporus sp","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
+274,"Insect  legs",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
+275,"Potamogeton stems, leaves","Viridiplantae","Magnoliopsida","Alismatales","Potamogetonaceae",NA
+276,"Animal_tissue",NA,NA,NA,NA,NA
+277,"Arctiidae halisidota","Metazoa","Insecta","Lepidoptera","Erebidae",NA
+278,"Hydroporus","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
+279,"Oxyethira","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
+280,"Incidentalmatter",NA,NA,NA,NA,NA
+281,"Gomphidae(Gomphus)",NA,NA,NA,NA,NA
+282,"
+
+
+
+
+
+
 Coenagriidae","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
-"283","Liumephilidae",NA,NA,NA,NA,NA
-"284","Aquatic  insects unknown",NA,NA,NA,NA,NA
-"285","Animal  remains","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
-"286","Epheineroptera",NA,NA,NA,NA,NA
-"287","Coenagrlidae",NA,NA,NA,NA,NA
-"288","Notonectidate (Notonecta)","Metazoa","Insecta","Odonata","Gomphidae",NA
-"289","Belostomatidae","Metazoa","Insecta","Odonata","Aeshnidae",NA
-"290","Haliplidae","Metazoa","Insecta","Odonata","Libellulidae",NA
-"291","Limnephilidae","Metazoa","Insecta","Hemiptera",NA,NA
-"292","Notemigonus","Metazoa","Insecta","Hemiptera","Corixidae",NA
-"293","Benthicinsectlarvae","Metazoa","Insecta","Hemiptera","Belostomatidae",NA
-"294","OtherDiptem","Metazoa","Insecta","Coleoptera","Haliplidae",NA
-"295","Non-tanypodinae","Metazoa","Insecta","Trichoptera","Limnephilidae",NA
-"296","Hydropsyche",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"297","Glossosoma","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
-"298","Isogenus",NA,NA,NA,NA,"unidentified"
-"299","Tanypodinae","Metazoa","Insecta","Odonata","Gomphidae",NA
-"300","Tipulidae","Metazoa","Malacostraca","Amphipoda","Hyalellidae",NA
-"301","atherinoides","Metazoa","Insecta","Diptera","Tipulidae",NA
-"302","Cyprinidae","Metazoa","Insecta","Diptera","Tipulidae",NA
-"303","spp.","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
-"304","Hesperocorixa","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
-"305","Polycentropodidae",NA,NA,NA,NA,NA
-"306","Leptohyphidae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
-"307","Stenelmis",NA,NA,NA,NA,NA
-"308","Scaphirhynchusspp.",NA,NA,NA,NA,NA
-"309","Digested material","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ictalurus punctatus"
-"310","Echinogammarus sp.","Metazoa","Insecta","Coleoptera","Elmidae",NA
-"311","Procambarus clarkii","Metazoa","Insecta","Diptera","Empididae",NA
-"312","Nematocera exuviae",NA,NA,NA,NA,NA
-"313","Other insecta","Metazoa","Malacostraca","Amphipoda","Gammaridae",NA
-"314","Other invertebrates","Metazoa","Malacostraca","Decapoda","Cambaridae","Procambarus clarkii"
-"315","Rutilus rutilus","Metazoa","Insecta","Diptera",NA,NA
-"316","Other fish","Metazoa","Insecta","Diptera",NA,NA
-"317","Camptocercus","Metazoa","Insecta","Diptera",NA,NA
-"318","Gainmarus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Rutilus rutilus"
-"319","Lampetra","Metazoa","Branchiopoda","Diplostraca","Chydoridae",NA
-"320","Dorosoma","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
-"321","Unidentifed  fish",NA,NA,NA,NA,NA
-"322","chilopocla","Metazoa","Hyperoartia","Petromyzontiformes","Petromyzontidae",NA
-"323","Sceloporus","Metazoa","Actinopteri","Clupeiformes","Clupeidae",NA
-"324","Notemzgonus",NA,NA,NA,NA,NA
-"325","Geraniaceae","Metazoa",NA,"Squamata","Phrynosomatidae",NA
-"326","Aphidae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
-"327","Hydracara","Viridiplantae","Magnoliopsida","Geraniales","Geraniaceae",NA
-"328","Tamarix  seed",NA,NA,NA,NA,NA
-"329","Other  animal","Metazoa","Chilopoda",NA,NA,NA
-"330","Baetis  spp.",NA,NA,NA,NA,NA
-"331","Tricorythodes  sp.","Viridiplantae","Magnoliopsida","Caryophyllales","Tamaricaceae",NA
-"332","Enteromorpha  sp.","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
-"333","Cladophora  spp.",NA,NA,NA,NA,NA
-"334","Spirogyra  spp.","Metazoa","Insecta","Ephemeroptera","Leptohyphidae",NA
-"335","Drift  animal","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
-"336","Erpetogomphus  spp.",NA,NA,NA,NA,NA
-"337","Taenionema  sp.","Viridiplantae","Ulvophyceae","Ulvales","Ulvaceae",NA
-"338","Paralimna  sp.","Viridiplantae","Ulvophyceae","Cladophorales","Cladophoraceae",NA
-"339","Ephippia","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
-"340","Vallisneria","Metazoa","Insecta","Plecoptera","Taeniopterygidae",NA
-"341","Hyacinth  roots",NA,NA,NA,NA,NA
-"342","Rhithropanopeus","Viridiplantae","Magnoliopsida","Alismatales","Hydrocharitaceae",NA
-"343","Chironomid Pupal Skins",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"344","Chironomid Tube Remains","Metazoa","Branchiopoda","Diplostraca",NA,NA
-"345","Diptera Small Green","Metazoa","Malacostraca","Decapoda","Portunidae",NA
-"346","Insect  Remains","Metazoa","Malacostraca","Decapoda","Panopeidae",NA
-"347","Crustacea (Unidentifed)",NA,NA,NA,NA,NA
-"348","Fish  Remains",NA,NA,NA,NA,NA
-"349","Chironomid  Pupae","Metazoa","Insecta","Diptera",NA,NA
-"350","Mysidopsis  sp",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
-"351","Diptera  and
-
-
-
-
-
-
+283,"Liumephilidae",NA,NA,NA,NA,NA
+284,"Aquatic  insects unknown",NA,NA,NA,NA,NA
+285,"Animal  remains","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
+286,"Epheineroptera",NA,NA,NA,NA,NA
+287,"Coenagrlidae",NA,NA,NA,NA,NA
+288,"Notonectidate (Notonecta)","Metazoa","Insecta","Odonata","Gomphidae",NA
+289,"Belostomatidae","Metazoa","Insecta","Odonata","Aeshnidae",NA
+290,"Haliplidae","Metazoa","Insecta","Odonata","Libellulidae",NA
+291,"Limnephilidae","Metazoa","Insecta","Hemiptera",NA,NA
+292,"Notemigonus","Metazoa","Insecta","Hemiptera","Corixidae",NA
+293,"Benthicinsectlarvae","Metazoa","Insecta","Hemiptera","Belostomatidae",NA
+294,"OtherDiptem","Metazoa","Insecta","Coleoptera","Haliplidae",NA
+295,"Non-tanypodinae","Metazoa","Insecta","Trichoptera","Limnephilidae",NA
+296,"Hydropsyche",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+297,"Glossosoma","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
+298,"Isogenus",NA,NA,NA,NA,"unidentified"
+299,"Tanypodinae","Metazoa","Insecta","Odonata","Gomphidae",NA
+300,"Tipulidae","Metazoa","Malacostraca","Amphipoda","Hyalellidae",NA
+301,"atherinoides","Metazoa","Insecta","Diptera","Tipulidae",NA
+302,"Cyprinidae","Metazoa","Insecta","Diptera","Tipulidae",NA
+303,"spp.","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
+304,"Hesperocorixa","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
+305,"Polycentropodidae",NA,NA,NA,NA,NA
+306,"Leptohyphidae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
+307,"Stenelmis",NA,NA,NA,NA,NA
+308,"Scaphirhynchusspp.",NA,NA,NA,NA,NA
+309,"Digested material","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ictalurus punctatus"
+310,"Echinogammarus sp.","Metazoa","Insecta","Coleoptera","Elmidae",NA
+311,"Procambarus clarkii","Metazoa","Insecta","Diptera","Empididae",NA
+312,"Nematocera exuviae",NA,NA,NA,NA,NA
+313,"Other insecta","Metazoa","Malacostraca","Amphipoda","Gammaridae",NA
+314,"Other invertebrates","Metazoa","Malacostraca","Decapoda","Cambaridae","Procambarus clarkii"
+315,"Rutilus rutilus","Metazoa","Insecta","Diptera",NA,NA
+316,"Other fish","Metazoa","Insecta","Diptera",NA,NA
+317,"Camptocercus","Metazoa","Insecta","Diptera",NA,NA
+318,"Gainmarus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Rutilus rutilus"
+319,"Lampetra","Metazoa","Branchiopoda","Diplostraca","Chydoridae",NA
+320,"Dorosoma","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
+321,"Unidentifed  fish",NA,NA,NA,NA,NA
+322,"chilopocla","Metazoa","Hyperoartia","Petromyzontiformes","Petromyzontidae",NA
+323,"Sceloporus","Metazoa","Actinopteri","Clupeiformes","Clupeidae",NA
+324,"Notemzgonus",NA,NA,NA,NA,NA
+325,"Geraniaceae","Metazoa",NA,"Squamata","Phrynosomatidae",NA
+326,"Aphidae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
+327,"Hydracara","Viridiplantae","Magnoliopsida","Geraniales","Geraniaceae",NA
+328,"Tamarix  seed",NA,NA,NA,NA,NA
+329,"Other  animal","Metazoa","Chilopoda",NA,NA,NA
+330,"Baetis  spp.",NA,NA,NA,NA,NA
+331,"Tricorythodes  sp.","Viridiplantae","Magnoliopsida","Caryophyllales","Tamaricaceae",NA
+332,"Enteromorpha  sp.","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
+333,"Cladophora  spp.",NA,NA,NA,NA,NA
+334,"Spirogyra  spp.","Metazoa","Insecta","Ephemeroptera","Leptohyphidae",NA
+335,"Drift  animal","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
+336,"Erpetogomphus  spp.",NA,NA,NA,NA,NA
+337,"Taenionema  sp.","Viridiplantae","Ulvophyceae","Ulvales","Ulvaceae",NA
+338,"Paralimna  sp.","Viridiplantae","Ulvophyceae","Cladophorales","Cladophoraceae",NA
+339,"Ephippia","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
+340,"Vallisneria","Metazoa","Insecta","Plecoptera","Taeniopterygidae",NA
+341,"Hyacinth  roots",NA,NA,NA,NA,NA
+342,"Rhithropanopeus","Viridiplantae","Magnoliopsida","Alismatales","Hydrocharitaceae",NA
+343,"Chironomid Pupal Skins",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+344,"Chironomid Tube Remains","Metazoa","Branchiopoda","Diplostraca",NA,NA
+345,"Diptera Small Green","Metazoa","Malacostraca","Decapoda","Portunidae",NA
+346,"Insect  Remains","Metazoa","Malacostraca","Decapoda","Panopeidae",NA
+347,"Crustacea (Unidentifed)",NA,NA,NA,NA,NA
+348,"Fish  Remains",NA,NA,NA,NA,NA
+349,"Chironomid  Pupae","Metazoa","Insecta","Diptera",NA,NA
+350,"Mysidopsis  sp",NA,"Mollicutes","Acholeplasmatales","Acholeplasmataceae","Insect BA phytoplasma"
+351,"Diptera  and
+
+
+
+
+
+
 Hymenoptera",NA,NA,NA,NA,NA
-"352","Anispotera",NA,NA,NA,NA,NA
-"353","Diptera and Hymenoptera",NA,NA,NA,NA,NA
-"354","Other  Diptera","Metazoa","Malacostraca","Mysida","Mysidae",NA
-"355","Chirominae",NA,NA,NA,NA,NA
-"356","Cyclorhapha","Metazoa","Insecta","Hymenoptera",NA,NA
-"357","Ameletus","Metazoa","Insecta","Diptera",NA,NA
-"358","Gammaridae","Metazoa","Insecta","Diptera","Chironomidae",NA
-"359","Chironornidse","Metazoa","Insecta","Ephemeroptera","Ephemeridae",NA
-"360","Unidentifable  parts","Metazoa","Insecta","Ephemeroptera","Ameletidae",NA
-"361","Chironomidae  adults","Metazoa","Malacostraca","Isopoda","Asellidae",NA
-"362","Aquatic  Coleoptera","Metazoa","Malacostraca","Amphipoda","Gammaridae",NA
-"363","Plant  seeds","Metazoa","Insecta","Diptera","Chironomidae",NA
-"364","Ameiurus nebulosus",NA,NA,NA,NA,NA
-"365","Neogobius melanostomus","Metazoa","Insecta","Odonata",NA,NA
-"366","Orconectes propinquus",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
-"367","Micro-crustacea","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus nebulosus"
-"368","Freshwater drum","Metazoa","Actinopteri","Amiiformes","Amiidae","Amia calva"
-"369","Plant","Metazoa","Actinopteri","Gobiiformes","Gobiidae","Neogobius melanostomus"
-"370","Misc.  Coleoptera",NA,NA,NA,NA,NA
-"371","Gerridae,  Microvelia",NA,NA,NA,NA,NA
-"372","Mosquito",NA,NA,NA,NA,NA
-"373","Dorosoma pEtenense","Metazoa","Insecta","Hemiptera","Gerridae",NA
-"374","Dorosoma spp.",NA,NA,NA,NA,NA
-"375","Lepomis cyanellus",NA,NA,NA,"Nodaviridae","Mosquito nodavirus MNV-1"
-"376","Lepomis spp.","Metazoa","Actinopteri","Clupeiformes","Clupeidae","Dorosoma petenense"
-"377","Pomoxis annularis","Metazoa","Actinopteri","Clupeiformes","Clupeidae",NA
-"378","Centrarchidae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis cyanellus"
-"379","Ameiurus melas","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Chaenobryttus gulosus"
-"380","Ameiurus natalis","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis humilis"
-"381","Ictalurus furcatus","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis megalotis"
-"382","Ictalurus spp.","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
-"383","Pylodictis olivaris","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Pomoxis annularis"
-"384","Ictaluridae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
-"385","Cyprinella lutrensis","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus melas"
-"386","Cyprinella venusta","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus natalis"
-"387","Cyprinus carpio","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ictalurus furcatus"
-"388","Notropis buchanani","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
-"389","Notropis shumardi","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Pylodictis olivaris"
-"390","Pimephales vigilax","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
-"391","Carpoides carpio","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Cyprinella lutrensis"
-"392","Ictiobus bubalus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Cyprinella venusta"
-"393","Lepisosteus sp.","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Cyprinus carpio"
-"394","Percidae","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis buchanani"
-"395","Percina sciera","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis shumardi"
-"396","Percina spp.","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Pimephales vigilax"
-"397","Atherinopsidae",NA,NA,NA,NA,NA
-"398","Macrobranchium","Metazoa","Actinopteri","Cypriniformes","Catostomidae","Ictiobus bubalus"
-"399","Odonata Anisoptera",NA,NA,NA,NA,NA
-"400","Diptera Tipulidae","Metazoa","Actinopteri","Perciformes","Percidae",NA
-"401","Amphibia Anura","Metazoa","Actinopteri","Perciformes","Percidae","Percina sciera"
-"402","Rodentia","Metazoa","Actinopteri","Perciformes","Percidae",NA
-"403","Dipterous
-
-
-
-
-
-
+352,"Anispotera",NA,NA,NA,NA,NA
+353,"Diptera and Hymenoptera",NA,NA,NA,NA,NA
+354,"Other  Diptera","Metazoa","Malacostraca","Mysida","Mysidae",NA
+355,"Chirominae",NA,NA,NA,NA,NA
+356,"Cyclorhapha","Metazoa","Insecta","Hymenoptera",NA,NA
+357,"Ameletus","Metazoa","Insecta","Diptera",NA,NA
+358,"Gammaridae","Metazoa","Insecta","Diptera","Chironomidae",NA
+359,"Chironornidse","Metazoa","Insecta","Ephemeroptera","Ephemeridae",NA
+360,"Unidentifable  parts","Metazoa","Insecta","Ephemeroptera","Ameletidae",NA
+361,"Chironomidae  adults","Metazoa","Malacostraca","Isopoda","Asellidae",NA
+362,"Aquatic  Coleoptera","Metazoa","Malacostraca","Amphipoda","Gammaridae",NA
+363,"Plant  seeds","Metazoa","Insecta","Diptera","Chironomidae",NA
+364,"Ameiurus nebulosus",NA,NA,NA,NA,NA
+365,"Neogobius melanostomus","Metazoa","Insecta","Odonata",NA,NA
+366,"Orconectes propinquus",NA,NA,NA,NA,"Plant DNA excision vector pX6-GFP"
+367,"Micro-crustacea","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus nebulosus"
+368,"Freshwater drum","Metazoa","Actinopteri","Amiiformes","Amiidae","Amia calva"
+369,"Plant","Metazoa","Actinopteri","Gobiiformes","Gobiidae","Neogobius melanostomus"
+370,"Misc.  Coleoptera",NA,NA,NA,NA,NA
+371,"Gerridae,  Microvelia",NA,NA,NA,NA,NA
+372,"Mosquito",NA,NA,NA,NA,NA
+373,"Dorosoma pEtenense","Metazoa","Insecta","Hemiptera","Gerridae",NA
+374,"Dorosoma spp.",NA,NA,NA,NA,NA
+375,"Lepomis cyanellus",NA,NA,NA,"Nodaviridae","Mosquito nodavirus MNV-1"
+376,"Lepomis spp.","Metazoa","Actinopteri","Clupeiformes","Clupeidae","Dorosoma petenense"
+377,"Pomoxis annularis","Metazoa","Actinopteri","Clupeiformes","Clupeidae",NA
+378,"Centrarchidae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis cyanellus"
+379,"Ameiurus melas","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Chaenobryttus gulosus"
+380,"Ameiurus natalis","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis humilis"
+381,"Ictalurus furcatus","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis megalotis"
+382,"Ictalurus spp.","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
+383,"Pylodictis olivaris","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Pomoxis annularis"
+384,"Ictaluridae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
+385,"Cyprinella lutrensis","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus melas"
+386,"Cyprinella venusta","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus natalis"
+387,"Cyprinus carpio","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ictalurus furcatus"
+388,"Notropis buchanani","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
+389,"Notropis shumardi","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Pylodictis olivaris"
+390,"Pimephales vigilax","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
+391,"Carpoides carpio","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Cyprinella lutrensis"
+392,"Ictiobus bubalus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Cyprinella venusta"
+393,"Lepisosteus sp.","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Cyprinus carpio"
+394,"Percidae","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis buchanani"
+395,"Percina sciera","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis shumardi"
+396,"Percina spp.","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Pimephales vigilax"
+397,"Atherinopsidae",NA,NA,NA,NA,NA
+398,"Macrobranchium","Metazoa","Actinopteri","Cypriniformes","Catostomidae","Ictiobus bubalus"
+399,"Odonata Anisoptera",NA,NA,NA,NA,NA
+400,"Diptera Tipulidae","Metazoa","Actinopteri","Perciformes","Percidae",NA
+401,"Amphibia Anura","Metazoa","Actinopteri","Perciformes","Percidae","Percina sciera"
+402,"Rodentia","Metazoa","Actinopteri","Perciformes","Percidae",NA
+403,"Dipterous
+
+
+
+
+
+
 ","Metazoa","Insecta","Odonata",NA,NA
-"404","Aquatic
-
-
-
-
-
-
-nymphs
-
-
-
-
-
-
-and
-
-
-
-
-
-
+404,"Aquatic
+
+
+
+
+
+
+nymphs
+
+
+
+
+
+
+and
+
+
+
+
+
+
 larvae","Metazoa","Insecta","Diptera",NA,NA
-"405","Lepidopterous","Metazoa","Amphibia",NA,NA,NA
-"406","Noturus gyrinus","Metazoa","Mammalia","Rodentia",NA,NA
-"407","Micropterus sp.",NA,NA,NA,NA,NA
-"408","Etheostoma spp.",NA,NA,NA,NA,NA
-"409","Lochmaeus manteo",NA,NA,NA,NA,NA
-"410","Unid. Insects",NA,NA,NA,NA,NA
-"411","Freshwater shrimp","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Noturus gyrinus"
-"412","Asellidae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
-"413","Brown  trout","Metazoa","Actinopteri","Perciformes","Percidae",NA
-"414","Central  mudminnow","Metazoa","Actinopteri",NA,"Sciaenidae","Aplodinotus grunniens"
-"415","Johnny  darter","Metazoa","Amphibia","Anura","Hylidae","Dryophytes cinereus"
-"416","Shiner  spp.","Metazoa","Insecta","Coleoptera","Scarabaeidae",NA
-"417","Coleopterans","Metazoa","Insecta","Hemiptera","Cicadidae",NA
-"418","Ephemeropterans","Metazoa","Insecta","Lepidoptera","Notodontidae","Lochmaeus manteo"
-"419","Odonates",NA,NA,NA,NA,NA
-"420","Frog","Metazoa","Malacostraca","Isopoda","Asellidae",NA
-"421","Total  Diptera",NA,NA,NA,NA,NA
-"422","Chrysomelidae",NA,NA,NA,NA,NA
-"423","Other macroinvert.","Metazoa","Phylactolaemata",NA,"Pectinatellidae",NA
-"424","crustacea","Metazoa",NA,NA,NA,NA
-"425","Amphipoda","Metazoa","Malacostraca","Amphipoda",NA,NA
-"426","Decapoda","Metazoa","Malacostraca","Decapoda",NA,NA
-"427","Mysidacea","Metazoa","Malacostraca",NA,NA,NA
-"428","isopoda","Metazoa","Malacostraca","Isopoda",NA,NA
-"429","Cladocera","Metazoa","Branchiopoda","Diplostraca",NA,NA
-"430","Trichoptera","Metazoa","Insecta","Trichoptera",NA,NA
-"431","Coleoptera","Metazoa","Insecta","Coleoptera",NA,NA
-"432","Homoptera","Metazoa","Insecta","Hemiptera",NA,NA
-"433","Hemiptera","Metazoa","Insecta","Hemiptera",NA,NA
-"434","Hymenoptera","Metazoa","Insecta","Hymenoptera",NA,NA
-"435","gastropoda","Metazoa","Gastropoda",NA,NA,NA
-"436","Annelida","Metazoa",NA,NA,NA,NA
-"437","Acari","Metazoa","Arachnida",NA,NA,NA
-"438","georissidae","Metazoa","Insecta","Coleoptera","Georissidae",NA
-"439","psephenidae_larvae","Metazoa","Insecta","Coleoptera","Psephenidae",NA
-"440","Chironomidae","Metazoa","Insecta","Diptera","Chironomidae",NA
-"441","Baetidae","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
-"442","Heptageniidae","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
-"443","Corixidae","Metazoa","Insecta","Hemiptera","Corixidae",NA
-"444","sialidae","Metazoa","Insecta","Megaloptera","Sialidae",NA
-"445","Anisoptera","Metazoa","Insecta","Odonata",NA,NA
-"446","aeshnidae","Metazoa","Insecta","Odonata","Aeshnidae",NA
-"447","Zygoptera","Metazoa","Insecta","Odonata",NA,NA
-"448","Plecoptera","Metazoa","Insecta","Plecoptera",NA,NA
-"449","collembola","Metazoa","Collembola",NA,NA,NA
-"450","attelabidae","Metazoa","Insecta","Coleoptera","Attelabidae",NA
-"451","Araneae","Metazoa","Arachnida","Araneae",NA,NA
-"452","Formicidae","Metazoa","Insecta","Hymenoptera","Formicidae",NA
-"453","crambidae_larvae_terrestrial","Metazoa","Insecta","Lepidoptera","Crambidae",NA
-"454","orthoptera","Metazoa","Insecta","Orthoptera",NA,NA
-"455","Diptera","Metazoa","Insecta","Diptera",NA,NA
-"456","Ephemeroptera","Metazoa","Insecta","Ephemeroptera",NA,NA
-"457","Megaloptera","Metazoa","Insecta","Megaloptera",NA,NA
-"458","Odonata","Metazoa","Insecta","Odonata",NA,NA
-"459","diplopoda","Metazoa","Diplopoda",NA,NA,NA
-"460","ephemeroptera_larvae","Metazoa","Insecta","Ephemeroptera",NA,NA
-"461","plecoptera_larvae","Metazoa","Insecta","Plecoptera",NA,NA
-"462","Lepidoptera","Metazoa","Insecta","Lepidoptera",NA,NA
-"463","lepidoptera_pupae","Metazoa","Insecta","Lepidoptera",NA,NA
-"464","diptera_adult","Metazoa","Insecta","Diptera",NA,NA
-"465","hymenoptera_adult","Metazoa","Insecta","Hymenoptera",NA,NA
-"466","odonata_larvae","Metazoa","Insecta","Odonata",NA,NA
-"467","Arachnida","Metazoa","Arachnida",NA,NA,NA
-"468","Mollusca","Metazoa",NA,NA,NA,NA
-"469","chironomidae_pupae","Metazoa","Insecta","Diptera","Chironomidae",NA
-"470","chironomidae_adults","Metazoa","Insecta","Diptera","Chironomidae",NA
-"471","hyalella_azteca","Metazoa","Malacostraca","Amphipoda","Hyalellidae","Hyalella azteca"
-"472","cyclops_vernalis","Metazoa","Hexanauplia","Cyclopoida","Cyclopidae","Acanthocyclops vernalis"
-"473","alona_costala","Metazoa","Branchiopoda","Diplostraca","Chydoridae","Flavalona costata"
-"474","cladophora_sp","Viridiplantae","Ulvophyceae","Cladophorales","Cladophoraceae",NA
-"475","reticulotermes_flavipes","Metazoa","Insecta","Blattodea","Rhinotermitidae","Reticulitermes flavipes"
-"476","cyperaceae","Viridiplantae","Magnoliopsida","Poales","Cyperaceae",NA
-"477","Nematoda","Metazoa",NA,NA,NA,NA
-"478","physa_sp","Metazoa","Gastropoda",NA,"Physidae",NA
-"479","Hydropsychidae","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
-"480","helicopsyche","Metazoa","Insecta","Trichoptera","Helicopsychidae",NA
-"481","Chironomus","Metazoa","Insecta","Diptera","Chironomidae",NA
-"482","Simulium","Metazoa","Insecta","Diptera","Simuliidae",NA
-"483","diptera_pupae","Metazoa","Insecta","Diptera",NA,NA
-"484","cambarus","Metazoa","Malacostraca","Decapoda","Cambaridae",NA
-"485","Pelecypoda","Metazoa","Bivalvia",NA,NA,NA
-"486","Hydracarina","Metazoa","Arachnida","Trombidiformes",NA,NA
-"487","Oligochaeta","Metazoa","Clitellata",NA,NA,NA
-"488","bryozoa_statoblasts","Metazoa",NA,NA,NA,NA
-"489","Gammarus","Metazoa","Malacostraca","Amphipoda","Gammaridae",NA
-"490","diptera_larvae_1_100_150_Âµm_head_length","Metazoa","Insecta","Diptera",NA,NA
-"491","diptera_larvae_2_800_900_Âµm_head_length","Metazoa","Insecta","Diptera",NA,NA
-"492","insecta_larvae","Metazoa","Insecta",NA,NA,NA
-"493","insecta_pupae","Metazoa","Insecta",NA,NA,NA
-"494","insecta_adult","Metazoa","Insecta",NA,NA,NA
-"495","hemiptera_pupae","Metazoa","Insecta","Hemiptera",NA,NA
-"496","oligochaeta_setae","Metazoa","Clitellata",NA,NA,NA
-"497","rotifera_keratella_sp","Metazoa",NA,NA,NA,NA
-"498","Copepoda","Metazoa","Hexanauplia",NA,NA,NA
-"499","ankistrodesmus_sp","Viridiplantae","Chlorophyceae","Sphaeropleales","Selenastraceae",NA
-"500","closterium_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Closteriaceae",NA
-"501","Scenedesmus_sp_1","Viridiplantae","Chlorophyceae","Sphaeropleales","Scenedesmaceae",NA
-"502","pediastrum_sp","Viridiplantae","Chlorophyceae","Sphaeropleales","Hydrodictyaceae",NA
-"503","oedogonium_sp","Viridiplantae","Chlorophyceae","Oedogoniales","Oedogoniaceae",NA
-"504","desmidium_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Desmidiaceae",NA
-"505","cosmarium_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Desmidiaceae",NA
-"506","diptera_aquatic","Metazoa","Insecta","Diptera",NA,NA
-"507","ephemeroptera_aquatic","Metazoa","Insecta","Ephemeroptera",NA,NA
-"508","trichoptera_aquatic","Metazoa","Insecta","Trichoptera",NA,NA
-"509","diptera_terrestrial","Metazoa","Insecta","Diptera",NA,NA
-"510","coleoptera_terrestrial","Metazoa","Insecta","Coleoptera",NA,NA
-"511","dugesia_spp","Metazoa","Rhabditophora","Tricladida","Dugesiidae",NA
-"512","lumbriculidae","Metazoa","Clitellata","Lumbriculida","Lumbriculidae",NA
-"513","ancylus_fluviatilis","Metazoa","Gastropoda",NA,"Ancylidae","Ancylus fluviatilis"
-"514","hydracarina_gen_sp","Metazoa","Arachnida","Trombidiformes",NA,NA
-"515","baetis_spp","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
-"516","ephemerella_spp","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
-"517","ecdyonurus_spp","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
-"518","epeorus_spp","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
-"519","habrophlebia_sp","Metazoa","Insecta","Ephemeroptera","Leptophlebiidae",NA
-"520","leuctra_geniculata","Metazoa","Insecta","Plecoptera","Leuctridae","Leuctra geniculata"
-"521","perla_sp","Metazoa","Insecta","Plecoptera","Perlidae",NA
-"522","boyeria_irene","Metazoa","Insecta","Odonata","Aeshnidae","Boyeria irene"
-"523","ophiogomphus_sp","Metazoa","Insecta","Odonata","Gomphidae",NA
-"524","aphelocheirus_aestivalis","Metazoa","Insecta","Hemiptera","Aphelocheiridae",NA
-"525","elmis_sp","Metazoa","Insecta","Coleoptera","Elmidae",NA
-"526","macronychus_sp","Metazoa","Insecta","Coleoptera","Elmidae",NA
-"527","oulimnius_sp","Metazoa","Insecta","Coleoptera","Elmidae",NA
-"528","hydraena_sp","Metazoa","Insecta","Coleoptera","Hydraenidae",NA
-"529","micrasema_sp","Metazoa","Insecta","Trichoptera","Brachycentridae",NA
-"530","hydropsyche_spp","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
-"531","lepidostoma_sp","Metazoa","Insecta","Trichoptera","Lepidostomatidae",NA
-"532","Leptoceridae","Metazoa","Insecta","Trichoptera","Leptoceridae",NA
-"533","allogamus_sp","Metazoa","Insecta","Trichoptera","Limnephilidae",NA
-"534","chimarra_marginata","Metazoa","Insecta","Trichoptera","Philopotamidae",NA
-"535","polycentropus_sp","Metazoa","Insecta","Trichoptera","Polycentropodidae",NA
-"536","rhyacophila_spp","Metazoa","Insecta","Trichoptera","Rhyacophilidae",NA
-"537","rhyacophila_spp_1","Metazoa","Insecta","Trichoptera","Rhyacophilidae",NA
-"538","Baetis","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
-"539","Heptagenia","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
-"540","neureclipsis","Metazoa","Insecta","Trichoptera","Polycentropodidae",NA
-"541","cyclops","Metazoa","Hexanauplia","Cyclopoida","Cyclopidae",NA
-"542","simocephalus","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
-"543","Isonychia","Metazoa","Insecta","Ephemeroptera","Isonychiidae",NA
-"544","laccophilus","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
-"545","Brachycentrus","Metazoa","Insecta","Trichoptera","Brachycentridae",NA
-"546","Gerridae","Metazoa","Insecta","Hemiptera","Gerridae",NA
-"547","corixidae_1","Metazoa","Insecta","Hemiptera","Corixidae",NA
-"548","gerridae_1","Metazoa","Insecta","Hemiptera","Gerridae",NA
-"549","ephemera","Metazoa","Insecta","Ephemeroptera","Ephemeridae",NA
-"550","dixidae_midge_larvae","Metazoa","Insecta","Diptera","Dixidae",NA
-"551","Ephoron","Metazoa","Insecta","Ephemeroptera","Polymitarcyidae",NA
-"552","potamanthus","Metazoa","Insecta","Ephemeroptera","Potamanthidae",NA
-"553","Dorosoma cepedianum","Metazoa","Actinopteri","Clupeiformes","Clupeidae","Dorosoma cepedianum"
-"554","notropis_atherinoides","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis atherinoides"
-"555","aplodinatus_grunniens","Metazoa","Actinopteri",NA,"Sciaenidae","Aplodinotus grunniens"
-"556","notropis_volucellus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis volucellus"
-"557","Lepomis macrochirus","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis macrochirus"
-"558","lamptera_aepyptera","Metazoa","Hyperoartia","Petromyzontiformes","Petromyzontidae","Lampetra aepyptera"
-"559","morone_chrysops","Metazoa","Actinopteri",NA,"Moronidae","Morone chrysops"
-"560","Ambloplites rupestris","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Ambloplites rupestris"
-"561","nemouridae","Metazoa","Insecta","Plecoptera","Nemouridae",NA
-"562","Perlodidae","Metazoa","Insecta","Plecoptera","Perlodidae",NA
-"563","pyralidae","Metazoa","Insecta","Lepidoptera","Pyralidae",NA
-"564","psephenidae","Metazoa","Insecta","Coleoptera","Psephenidae",NA
-"565","Culicidae","Metazoa","Insecta","Diptera","Culicidae",NA
-"566","cestoda","Metazoa","Cestoda",NA,NA,NA
-"567","chironomidae_nonadult","Metazoa","Insecta","Diptera","Chironomidae",NA
-"568","trichoptera_nonadult","Metazoa","Insecta","Trichoptera",NA,NA
-"569","isoptera","Metazoa","Insecta","Blattodea",NA,NA
-"570","cladocera_copepoda","Metazoa","Branchiopoda","Diplostraca",NA,NA
-"571","mollusca_gastropoda_bivalvia","Metazoa",NA,NA,NA,NA
-"572","salmo_trutta","Metazoa","Actinopteri","Salmoniformes","Salmonidae","Salmo trutta"
-"573","thysanoptera","Metazoa","Insecta","Thysanoptera",NA,NA
-"574","Rotifera","Metazoa",NA,NA,NA,NA
-"575","rangia cuneata","Metazoa","Bivalvia","Veneroida","Mactridae","Rangia cuneata"
-"576","vertebrata","Metazoa",NA,NA,NA,NA
-"577","gobiosoma_bosci","Metazoa","Actinopteri","Gobiiformes","Gobiidae","Gobiosoma bosc"
-"578","penaeus","Metazoa","Malacostraca","Decapoda","Penaeidae",NA
-"579","rithropanopeus_harrisii","Metazoa","Malacostraca","Decapoda","Panopeidae","Rhithropanopeus harrisii"
-"580","callinectes_sapidus","Metazoa","Malacostraca","Decapoda","Portunidae","Callinectes sapidus"
-"581","anchoa_mitchilli","Metazoa","Actinopteri","Clupeiformes","Engraulidae","Anchoa mitchilli"
-"582","cyprinodon_variegatus","Metazoa","Actinopteri","Cyprinodontiformes","Cyprinodontidae","Cyprinodon variegatus"
-"583","Gambusia affinis","Metazoa","Actinopteri","Cyprinodontiformes","Poeciliidae","Gambusia affinis"
-"584","micropogon_undulatus","Metazoa","Actinopteri",NA,"Sciaenidae","Micropogonias undulatus"
-"585","myrophis_sp","Metazoa","Actinopteri","Anguilliformes","Ophichthidae",NA
-"586","syngnathus_sp","Metazoa","Actinopteri","Syngnathiformes","Syngnathidae",NA
-"587","palaemonetes_sp","Metazoa","Malacostraca","Decapoda","Palaemonidae",NA
-"588","macrobrachium_ohione","Metazoa","Malacostraca","Decapoda","Palaemonidae","Macrobrachium ohione"
-"589","insecta_diptera","Metazoa","Insecta",NA,NA,NA
-"590","cirripedia","Metazoa","Hexanauplia",NA,NA,NA
-"591","palaemonidae","Metazoa","Malacostraca","Decapoda","Palaemonidae",NA
-"592","insecta_undet","Metazoa","Insecta",NA,NA,NA
-"593","penaeus_setiferus","Metazoa","Malacostraca","Decapoda","Penaeidae","Penaeus setiferus"
-"594","callianassa_sp","Metazoa","Malacostraca","Decapoda","Callianassidae",NA
-"595","citharichthys_spilopterus","Metazoa","Actinopteri","Pleuronectiformes","Paralichthyidae","Citharichthys spilopterus"
-"596","Menidia beryllina","Metazoa","Actinopteri","Atheriniformes","Atherinopsidae","Menidia beryllina"
-"597","cynoscion","Metazoa","Actinopteri",NA,"Sciaenidae",NA
-"598","mollienesia_latipinna","Metazoa","Actinopteri","Cyprinodontiformes","Poeciliidae","Poecilia latipinna"
-"599","Palaemonetes","Metazoa","Malacostraca","Decapoda","Palaemonidae",NA
-"600","penaeus_sp","Metazoa","Malacostraca","Decapoda","Penaeidae",NA
-"601","bivalvia","Metazoa","Bivalvia",NA,NA,NA
-"602","nematodes","Metazoa","Insecta","Coleoptera","Eucnemidae",NA
-"603","clarias_sp","Metazoa","Actinopteri","Siluriformes","Clariidae",NA
-"604","cephalopods","Metazoa","Cephalopoda",NA,NA,NA
-"605","rhizoclonium_sp","Viridiplantae","Ulvophyceae","Cladophorales","Cladophoraceae",NA
-"606","ulothrix_sp","Viridiplantae","Ulvophyceae","Ulotrichales","Ulotrichaceae",NA
-"607","spirogyra_sp","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
-"608","rivularia_sp","Metazoa","Gastropoda","Architaenioglossa","Viviparidae",NA
-"609","scatella_spp","Metazoa","Insecta","Diptera","Ephydridae",NA
-"610","procanace_spp","Metazoa","Insecta","Diptera","Canacidae",NA
-"611","limonia_spp","Metazoa","Insecta","Diptera","Limoniidae",NA
-"612","hydroptila_arctia","Metazoa","Insecta","Trichoptera","Hydroptilidae","Hydroptila arctia"
-"613","diptera_immature","Metazoa","Insecta","Diptera",NA,NA
-"614","aegla_sp","Metazoa","Malacostraca","Decapoda","Aeglidae",NA
-"615","perciformes","Metazoa","Actinopteri","Perciformes",NA,NA
-"616","synbranchiformes","Metazoa","Actinopteri","Synbranchiformes",NA,NA
-"617","siluriformes","Metazoa","Actinopteri","Siluriformes",NA,NA
-"618","characiformes","Metazoa","Actinopteri","Characiformes",NA,NA
-"619","mammalia_rodentia","Metazoa","Mammalia",NA,NA,NA
-"620","eudorina","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
-"621","Volvox","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
-"622","scenedesmus","Viridiplantae","Chlorophyceae","Sphaeropleales","Scenedesmaceae",NA
-"623","closterium","Viridiplantae","Zygnemophyceae","Desmidiales","Closteriaceae",NA
-"624","keratella_cochlearis","Metazoa","Monogononta","Ploima","Brachionidae","Keratella cochlearis"
-"625","chaoborus_larvae","Metazoa","Insecta","Diptera","Chaoboridae",NA
-"626","bosmina_longirostris","Metazoa","Branchiopoda","Diplostraca","Bosminidae",NA
-"627","cyclestheria_hislopi","Metazoa","Branchiopoda","Diplostraca","Cyclestheriidae","Cyclestheria hislopi"
-"628","caridina_sp","Metazoa","Malacostraca","Decapoda","Atyidae",NA
-"629","diaphanosoma_excisum_sars","Metazoa","Branchiopoda","Diplostraca","Sididae","Diaphanosoma excisum"
-"630","mesocyclops_leuckarti","Metazoa","Hexanauplia","Cyclopoida","Cyclopidae","Mesocyclops leuckarti"
-"631","radix_peregra","Metazoa","Gastropoda",NA,"Lymnaeidae","Peregriana peregra"
-"632","clupeidae","Metazoa","Actinopteri","Clupeiformes","Clupeidae",NA
-"633","cypriniformes","Metazoa","Actinopteri","Cypriniformes",NA,NA
-"634","characiformes_characidae","Metazoa","Actinopteri","Characiformes",NA,NA
-"635","tetragonopterinae","Metazoa","Actinopteri","Characiformes","Characidae",NA
-"636","astyanax_bimaculatus","Metazoa","Actinopteri","Characiformes","Characidae","Astyanax bimaculatus"
-"637","btyconamericus_stramineus","Metazoa","Actinopteri","Characiformes","Characidae","Bryconamericus stramineus"
-"638","moenkhausia_intermedia","Metazoa","Actinopteri","Characiformes","Characidae","Moenkhausia intermedia"
-"639","cheirodontinae","Metazoa","Actinopteri","Characiformes","Characidae",NA
-"640","cheirodon_notomefas","Metazoa","Actinopteri","Characiformes","Characidae","Serrapinnus notomelas"
-"641","acestrorhynchus_lacustris","Metazoa","Actinopteri","Characiformes","Acestrorhynchidae","Acestrorhynchus lacustris"
-"642","characidium_fasciatum","Metazoa","Actinopteri","Characiformes","Crenuchidae","Characidium fasciatum"
-"643","serrasalmus_marginatus","Metazoa","Actinopteri","Characiformes","Serrasalmidae","Serrasalmus marginatus"
-"644","anostomidae","Metazoa","Actinopteri","Characiformes","Anostomidae",NA
-"645","leporinus_obtusidens","Metazoa","Actinopteri","Characiformes","Anostomidae","Megaleporinus obtusidens"
-"646","steindachnerina_insculpta","Metazoa","Actinopteri","Characiformes","Curimatidae","Steindachnerina insculpta"
-"647","prochilodus_lineatus","Metazoa","Actinopteri","Characiformes","Prochilodontidae","Prochilodus lineatus"
-"648","hoplias_malabaricus","Metazoa","Actinopteri","Characiformes","Erythrinidae","Hoplias malabaricus"
-"649","rhaphiodon_vulpinus","Metazoa","Actinopteri","Characiformes","Characidae","Rhaphiodon vulpinus"
-"650","gymnotus_carapo","Metazoa","Actinopteri","Gymnotiformes","Gymnotidae","Gymnotus carapo"
-"651","eigenmannia_cf_triineata","Metazoa","Actinopteri","Gymnotiformes","Sternopygidae","Eigenmannia trilineata"
-"652","apteronotus_alb_irons","Metazoa","Actinopteri","Gymnotiformes","Apteronotidae",NA
-"653","apteronotus_spp","Metazoa","Actinopteri","Gymnotiformes","Apteronotidae",NA
-"654","rhamphychthys_rostratus","Metazoa","Actinopteri","Gymnotiformes","Rhamphichthyidae","Rhamphichthys rostratus"
-"655","doradidae","Metazoa","Actinopteri","Siluriformes","Doradidae",NA
-"656","pterodoras_granulosus","Metazoa","Actinopteri","Siluriformes","Doradidae","Pterodoras granulosus"
-"657","trachydoras_paraguayensis","Metazoa","Actinopteri","Siluriformes","Doradidae","Trachydoras paraguayensis"
-"658","auchenipteridae","Metazoa","Actinopteri","Siluriformes","Auchenipteridae",NA
-"659","parauchenipterus_galeatus","Metazoa","Actinopteri","Siluriformes","Auchenipteridae","Trachelyopterus galeatus"
-"660","pimelodidae","Metazoa","Actinopteri","Siluriformes","Pimelodidae",NA
-"661","pimelodella_grad_is","Metazoa","Actinopteri","Siluriformes","Heptapteridae",NA
-"662","callichthyidae","Metazoa","Actinopteri","Siluriformes","Callichthyidae",NA
-"663","corydoras_aeneus","Metazoa","Actinopteri","Siluriformes","Callichthyidae","Corydoras aeneus"
-"664","hypostomus_spp","Metazoa","Actinopteri","Siluriformes","Loricariidae",NA
-"665","loricarfchthys_platymetopon","Metazoa","Actinopteri","Siluriformes","Loricariidae","Loricariichthys platymetopon"
-"666","synbranchus_marmoratus","Metazoa","Actinopteri","Synbranchiformes","Synbranchidae","Synbranchus marmoratus"
-"667","plagioscion_squamosissimus","Metazoa","Actinopteri",NA,"Sciaenidae","Plagioscion squamosissimus"
-"668","ctenicichla_britskii","Metazoa","Actinopteri","Cichliformes","Cichlidae","Crenicichla britskii"
-"669","cichlasoma_paranaense","Metazoa","Actinopteri","Cichliformes","Cichlidae","Cichlasoma paranaense"
-"670","macrobrachium_amazonicum","Metazoa","Malacostraca","Decapoda","Palaemonidae","Macrobrachium amazonicum"
-"671","Chlorophyceae","Viridiplantae","Chlorophyceae",NA,NA,NA
-"672","acarinae","Metazoa","Arachnida","Sarcoptiformes","Acaridae",NA
-"673","bryophyta","Viridiplantae",NA,NA,NA,NA
-"674","Spirogyra","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
-"675","diptera_larvae_and_pupae","Metazoa","Insecta","Diptera",NA,NA
-"676","ceratopogonidae_larvae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
-"677","chaoboridae_larvae","Metazoa","Insecta","Diptera","Chaoboridae",NA
-"678","Simuliidae","Metazoa","Insecta","Diptera","Simuliidae",NA
-"679","hemiptera_44","Metazoa","Insecta","Hemiptera",NA,NA
-"680","Neuroptera","Metazoa","Insecta","Neuroptera",NA,NA
-"681","Bryozoa","Metazoa",NA,NA,NA,NA
-"682","hemiptera_61","Metazoa","Insecta","Hemiptera",NA,NA
-"683","Atyaephyra desmaresti","Metazoa","Malacostraca","Decapoda","Atyidae","Atyaephyra desmarestii"
-"684","odonata_undet","Metazoa","Insecta","Odonata",NA,NA
-"685","plecoptera_nymphs","Metazoa","Insecta","Plecoptera",NA,NA
-"686","Heteroptera","Metazoa","Insecta","Hemiptera",NA,NA
-"687","megaloptera_larvae","Metazoa","Insecta","Megaloptera",NA,NA
-"688","gambusia_holbrooki","Metazoa","Actinopteri","Cyprinodontiformes","Poeciliidae","Gambusia holbrooki"
-"689","diptera_pupae_adult","Metazoa","Insecta","Diptera",NA,NA
-"690","odonata_newt","Metazoa","Insecta","Odonata",NA,NA
-"691","plecoptera_newt","Metazoa","Insecta","Plecoptera",NA,NA
-"692","psocoptera","Metazoa","Insecta","Psocoptera",NA,NA
-"693","gordioidea","Metazoa","Gordioida","Gordea",NA,NA
-"694","diptera_nymphs","Metazoa","Insecta","Diptera",NA,NA
-"695","ectoprocta_statoblasts","Metazoa",NA,NA,NA,NA
-"696","spongillidae_gemmules","Metazoa","Demospongiae","Spongillida","Spongillidae",NA
-"697","lymnaea","Metazoa","Gastropoda",NA,"Lymnaeidae",NA
-"698","valvata","Metazoa","Gastropoda",NA,"Valvatidae",NA
-"699","theodoxus","Metazoa","Gastropoda","Cycloneritida","Neritidae",NA
-"700","potamopyrgus","Metazoa","Gastropoda","Littorinimorpha","Tateidae",NA
-"701","mollusca_indeterminate","Metazoa",NA,NA,NA,NA
-"702","sphaerium","Metazoa","Bivalvia","Veneroida","Sphaeriidae",NA
-"703","fontinalis","Viridiplantae","Bryopsida","Hypnales","Fontinalaceae",NA
-"704","ranunculus","Viridiplantae","Magnoliopsida","Ranunculales","Ranunculaceae",NA
-"705","daphnia_hyalina","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
-"706","alona_sp","Metazoa","Branchiopoda","Diplostraca","Chydoridae",NA
-"707","daphnia_sp","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
-"708","chydorus_sphaericus","Metazoa","Branchiopoda","Diplostraca","Chydoridae","Chydorus sphaericus"
-"709","hymenoptera_larvae","Metazoa","Insecta","Hymenoptera",NA,NA
-"710","sphaeriidae","Metazoa","Bivalvia","Veneroida","Sphaeriidae",NA
-"711","Planorbidae","Metazoa","Gastropoda",NA,"Planorbidae",NA
-"712","botiinae","Metazoa","Actinopteri","Cypriniformes","Botiidae",NA
-"713","siluridae","Metazoa","Actinopteri","Siluriformes","Siluridae",NA
-"714","gobiidae","Metazoa","Actinopteri","Gobiiformes","Gobiidae",NA
-"715","polychaeta","Metazoa","Polychaeta",NA,NA,NA
-"716","Corydalidae","Metazoa","Insecta","Megaloptera","Corydalidae",NA
-"717","Alosa pseudoharengus","Metazoa","Actinopteri","Clupeiformes","Clupeidae","Alosa pseudoharengus"
-"718","lucania_parva","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Lucania parva"
-"719","fundulus_sp","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae",NA
-"720","fundulus_diaphanus","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Fundulus diaphanus"
-"721","fundulus_heteroclitus","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Fundulus heteroclitus"
-"722","fundulus_majalis","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Fundulus majalis"
-"723","menidia_spp","Metazoa","Actinopteri","Atheriniformes","Atherinopsidae",NA
-"724","perca_favescens","Metazoa","Actinopteri","Perciformes","Percidae","Perca flavescens"
-"725","Lepomis gibbosus","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis gibbosus"
-"726","Ruppia","Viridiplantae","Magnoliopsida","Alismatales","Cymodoceaceae",NA
-"727","potamocypris","Metazoa","Ostracoda","Podocopida","Cyprididae",NA
-"728","ochthebius","Metazoa","Insecta","Coleoptera","Hydraenidae",NA
-"729","cyprinodon_eggs","Metazoa","Actinopteri","Cyprinodontiformes","Cyprinodontidae",NA
-"730","tabanus_larvae","Metazoa","Insecta","Diptera","Tabanidae",NA
-"731","diaphanosoma_sp","Metazoa","Branchiopoda","Diplostraca","Sididae",NA
-"732","sida_crystallina","Metazoa","Branchiopoda","Diplostraca","Sididae","Sida crystallina"
-"733","moina_sp","Metazoa","Branchiopoda","Diplostraca","Moinidae",NA
-"734","ceriodaphnia_pulchella","Metazoa","Branchiopoda","Diplostraca","Daphniidae","Ceriodaphnia pulchella"
-"735","leptodora_kindtii","Metazoa","Branchiopoda","Diplostraca","Leptodoridae","Leptodora kindtii"
-"736","brachionus_sp","Metazoa","Monogononta","Ploima","Brachionidae",NA
-"737","keratella_quadrata","Metazoa","Monogononta","Ploima","Brachionidae","Keratella quadrata"
-"738","lamellibranchiata","Metazoa","Bivalvia",NA,NA,NA
-"739","zygoptera_larvae","Metazoa","Insecta","Odonata",NA,NA
-"740","daphniidae","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
-"741","cloeon","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
-"742","bezzia","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
-"743","appasus","Metazoa","Insecta","Hemiptera","Belostomatidae",NA
-"744","leptocerus","Metazoa","Insecta","Trichoptera","Leptoceridae",NA
-"745","anax","Metazoa","Insecta","Odonata","Aeshnidae",NA
-"746","lestes","Metazoa","Insecta","Odonata","Lestidae",NA
-"747","ischnura","Metazoa","Insecta","Odonata","Coenagrionidae",NA
-"748","africallagma","Metazoa","Insecta","Odonata","Coenagrionidae",NA
-"749","potamonautes_sidneyi","Metazoa","Malacostraca","Decapoda","Potamonautidae","Potamonautes sidneyi"
-"750","palaemon_capensis","Metazoa","Malacostraca","Decapoda","Palaemonidae","Palaemon capensis"
-"751","hymenoptera_adults","Metazoa","Insecta","Hymenoptera",NA,NA
-"752","hydroptila_sp_larvae","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
-"753","hydropsyche_sp_larvae","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
-"754","ephemerella_ignita_nymphs","Metazoa","Insecta","Ephemeroptera","Ephemerellidae","Serratella ignita"
-"755","gammarus_pulex","Metazoa","Malacostraca","Amphipoda","Gammaridae","Gammarus pulex"
-"756","sialis_larvae","Metazoa","Insecta","Megaloptera","Sialidae",NA
-"757","mollusca_indet","Metazoa",NA,NA,NA,NA
-"758","ephemeroptera_nymphs_unknown","Metazoa","Insecta","Ephemeroptera",NA,NA
-"759","rhyacophila_sp_larvae","Metazoa","Insecta","Trichoptera","Rhyacophilidae",NA
-"760","asellus_sp","Metazoa","Malacostraca","Isopoda","Asellidae",NA
-"761","valvata_piscinalis","Metazoa","Gastropoda",NA,"Valvatidae","Valvata piscinalis"
-"762","planorbis_spp","Metazoa","Gastropoda",NA,"Planorbidae",NA
-"763","phryganea_sp_larvae","Metazoa","Insecta","Trichoptera","Phryganeidae",NA
-"764","phoxinus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
-"765","perca","Metazoa","Actinopteri","Perciformes","Percidae",NA
-"766","synodontis_sp","Metazoa","Actinopteri","Siluriformes","Mochokidae",NA
-"767","desmids","Viridiplantae","Zygnemophyceae","Desmidiales",NA,NA
-"768","pentaneura_larvae","Metazoa","Insecta","Diptera","Chironomidae",NA
-"769","pentaneura_pupae","Metazoa","Insecta","Diptera","Chironomidae",NA
-"770","mollusca_bivalves","Metazoa",NA,NA,NA,NA
-"771","chrysichthys_spp","Metazoa","Actinopteri","Siluriformes","Claroteidae",NA
-"772","isoptera_termites","Metazoa","Insecta","Blattodea",NA,NA
-"773","cambaridae","Metazoa","Malacostraca","Decapoda","Cambaridae",NA
-"774","corbiculidae","Metazoa","Bivalvia","Veneroida","Corbiculidae",NA
-"775","physidae","Metazoa","Gastropoda",NA,"Physidae",NA
-"776","vespidae","Metazoa","Insecta","Hymenoptera","Vespidae",NA
-"777","naucoridae","Metazoa","Insecta","Hemiptera","Naucoridae",NA
-"778","argulus","Metazoa","Ichthyostraca","Arguloida","Argulidae",NA
-"779","vespidae_adult","Metazoa","Insecta","Hymenoptera","Vespidae",NA
-"780","psychodidae_larvae","Metazoa","Insecta","Diptera","Psychodidae",NA
-"781","calliphoridae_larvae","Metazoa","Insecta","Diptera","Calliphoridae",NA
-"782","dixidae_larvae","Metazoa","Insecta","Diptera","Dixidae",NA
-"783","muscidae_adult","Metazoa","Insecta","Diptera","Muscidae",NA
-"784","auchenorrhyncha_adult","Metazoa","Insecta","Hemiptera",NA,NA
-"785","hydrophilidae_adult","Metazoa","Insecta","Coleoptera","Hydrophilidae",NA
-"786","ptilodactylidae_adult","Metazoa","Insecta","Coleoptera","Ptilodactylidae",NA
-"787","lampyridae_larvae","Metazoa","Insecta","Coleoptera","Lampyridae",NA
-"788","gyrinidae_adult","Metazoa","Insecta","Coleoptera","Gyrinidae",NA
-"789","chrysomelidae_adult","Metazoa","Insecta","Coleoptera","Chrysomelidae",NA
-"790","ephemeroptera_baetidae_nymph","Metazoa","Insecta","Ephemeroptera",NA,NA
-"791","hydropsychidae_larvae","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
-"792","helicopsychidae_larvae","Metazoa","Insecta","Trichoptera","Helicopsychidae",NA
-"793","hydrobiosidae_larvae","Metazoa","Insecta","Trichoptera","Hydrobiosidae",NA
-"794","lepidoptera_adult","Metazoa","Insecta","Lepidoptera",NA,NA
-"795","arachnida_araneae_adult","Metazoa","Arachnida",NA,NA,NA
-"796","nematoda_parasite","Metazoa",NA,NA,NA,NA
-"797","porifera_gemmules_spicules","Metazoa",NA,NA,NA,NA
-"798","anisoptera_larvae","Metazoa","Insecta","Odonata",NA,NA
-"799","characidae","Metazoa","Actinopteri","Characiformes","Characidae",NA
-"800","cichlidae","Metazoa","Actinopteri","Cichliformes","Cichlidae",NA
-"801","synbranchidae","Metazoa","Actinopteri","Synbranchiformes","Synbranchidae",NA
-"802","heptapteridae","Metazoa","Actinopteri","Siluriformes","Heptapteridae",NA
-"803","crenuchidae","Metazoa","Actinopteri","Characiformes","Crenuchidae",NA
-"804","hypopomidae","Metazoa","Actinopteri","Gymnotiformes","Hypopomidae",NA
-"805","oxyethira_sp","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
-"806","parapeneus_longirostris","Metazoa","Malacostraca","Decapoda","Penaeidae","Parapenaeus longirostris"
-"807","sicyonia_sp","Metazoa","Malacostraca","Decapoda","Sicyoniidae",NA
-"808","chlamydomonas","Viridiplantae","Chlorophyceae","Chlamydomonadales","Chlamydomonadaceae",NA
-"809","volvox_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
-"810","chlamydomonas_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Chlamydomonadaceae",NA
-"811","closteriopsis_sp","Viridiplantae","Trebouxiophyceae","Chlorellales","Chlorellaceae",NA
-"812","crucigenia_sp","Viridiplantae","Chlorophyceae","Sphaeropleales","Scenedesmaceae",NA
-"813","eudorina_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
-"814","pleodorina_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
-"815","staurastrum_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Desmidiaceae",NA
-"816","zygnema_sp","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
-"817","keratella_sd","Metazoa","Monogononta","Ploima","Brachionidae",NA
-"818","Nemata","Metazoa",NA,NA,NA,NA
-"819","Nais","Metazoa","Clitellata","Haplotaxida","Naididae",NA
-"820","Ephemerella","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
-"821","Probezzia","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
-"822","Ephemerellidae","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
-"823","Cheumatopsyche","Metazoa","Insecta","Odonata","Gomphidae",NA
-"824","Muscidae","Metazoa","Insecta","Trichoptera","Glossosomatidae",NA
-"825","Crambidae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
-"826","Leucrocuta","Metazoa","Insecta","Plecoptera","Perlodidae",NA
-"827","Polymitarcyidae","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
-"828","Ametropus","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
-"829","Cercobrachys","Metazoa","Insecta","Diptera","Muscidae",NA
-"830","Stylurus","Metazoa","Insecta","Lepidoptera","Crambidae",NA
-"831","Curculionidae","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
-"832","Coptotomus","Metazoa","Insecta","Ephemeroptera","Polymitarcyidae",NA
-"833","Traverella","Metazoa","Insecta","Ephemeroptera","Ametropodidae",NA
-"834","Ormosia","Metazoa","Insecta","Ephemeroptera","Caenidae",NA
-"835","Hagenius","Metazoa","Insecta","Odonata","Gomphidae",NA
-"836","Hyalella","Metazoa","Insecta","Coleoptera","Curculionidae",NA
-"837","Homoneuria","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
-"838","Tipula","Metazoa","Insecta","Ephemeroptera","Leptophlebiidae",NA
-"839","Dolichopodidae","Metazoa","Insecta","Diptera","Limoniidae",NA
-"840","Lachlania","Metazoa","Insecta","Odonata","Gomphidae",NA
-"841","Ictalurus","Metazoa","Insecta","Diptera","Tipulidae",NA
-"842","punctatus","Metazoa","Insecta","Diptera","Dolichopodidae",NA
-"843","Macrhybopsis spp.","Metazoa","Insecta","Ephemeroptera","Oligoneuriidae",NA
-"844","Scaphirhynchus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
-"845","Culicoides","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
-"846","Gomphidae","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
-"847","Caenidae","Metazoa","Actinopteri","Acipenseriformes","Acipenseridae",NA
-"848","Nigronia","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
-"849","Heteroceridae","Metazoa","Insecta","Hemiptera","Corixidae",NA
-"850","Rhithrogena","Metazoa","Insecta","Odonata","Gomphidae",NA
-"851","Arctoconopa","Metazoa","Insecta","Ephemeroptera","Caenidae",NA
-"852","Tricorythodes","Metazoa","Insecta","Ephemeroptera","Leptohyphidae",NA
-"853","Branchiura","Metazoa","Insecta","Megaloptera","Corydalidae",NA
-"854","Noturusflavus","Metazoa","Insecta","Coleoptera","Heteroceridae",NA
-"855","Ictalurus punctatus","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
-"856","Empididae","Metazoa","Insecta","Ephemeroptera","Leptohyphidae",NA
-"857","Other","Metazoa","Insecta","Coleoptera","Elmidae",NA
-"858","Bottom Debris","Metazoa","Insecta","Diptera","Empididae",NA
-"859","NA","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus nebulosus"
-"860","Undetermined","Metazoa","Actinopteri","Amiiformes","Amiidae","Amia calva"
-"861","Remains","Metazoa","Actinopteri","Gobiiformes","Gobiidae","Neogobius melanostomus"
-"862","Terrestrial
-
-
-
-
-
-
+405,"Lepidopterous","Metazoa","Amphibia",NA,NA,NA
+406,"Noturus gyrinus","Metazoa","Mammalia","Rodentia",NA,NA
+407,"Micropterus sp.",NA,NA,NA,NA,NA
+408,"Etheostoma spp.",NA,NA,NA,NA,NA
+409,"Lochmaeus manteo",NA,NA,NA,NA,NA
+410,"Unid. Insects",NA,NA,NA,NA,NA
+411,"Freshwater shrimp","Metazoa","Actinopteri","Siluriformes","Ictaluridae","Noturus gyrinus"
+412,"Asellidae","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae",NA
+413,"Brown  trout","Metazoa","Actinopteri","Perciformes","Percidae",NA
+414,"Central  mudminnow","Metazoa","Actinopteri",NA,"Sciaenidae","Aplodinotus grunniens"
+415,"Johnny  darter","Metazoa","Amphibia","Anura","Hylidae","Dryophytes cinereus"
+416,"Shiner  spp.","Metazoa","Insecta","Coleoptera","Scarabaeidae",NA
+417,"Coleopterans","Metazoa","Insecta","Hemiptera","Cicadidae",NA
+418,"Ephemeropterans","Metazoa","Insecta","Lepidoptera","Notodontidae","Lochmaeus manteo"
+419,"Odonates",NA,NA,NA,NA,NA
+420,"Frog","Metazoa","Malacostraca","Isopoda","Asellidae",NA
+421,"Total  Diptera",NA,NA,NA,NA,NA
+422,"Chrysomelidae",NA,NA,NA,NA,NA
+423,"Other macroinvert.","Metazoa","Phylactolaemata",NA,"Pectinatellidae",NA
+424,"crustacea","Metazoa",NA,NA,NA,NA
+425,"Amphipoda","Metazoa","Malacostraca","Amphipoda",NA,NA
+426,"Decapoda","Metazoa","Malacostraca","Decapoda",NA,NA
+427,"Mysidacea","Metazoa","Malacostraca",NA,NA,NA
+428,"isopoda","Metazoa","Malacostraca","Isopoda",NA,NA
+429,"Cladocera","Metazoa","Branchiopoda","Diplostraca",NA,NA
+430,"Trichoptera","Metazoa","Insecta","Trichoptera",NA,NA
+431,"Coleoptera","Metazoa","Insecta","Coleoptera",NA,NA
+432,"Homoptera","Metazoa","Insecta","Hemiptera",NA,NA
+433,"Hemiptera","Metazoa","Insecta","Hemiptera",NA,NA
+434,"Hymenoptera","Metazoa","Insecta","Hymenoptera",NA,NA
+435,"gastropoda","Metazoa","Gastropoda",NA,NA,NA
+436,"Annelida","Metazoa",NA,NA,NA,NA
+437,"Acari","Metazoa","Arachnida",NA,NA,NA
+438,"georissidae","Metazoa","Insecta","Coleoptera","Georissidae",NA
+439,"psephenidae_larvae","Metazoa","Insecta","Coleoptera","Psephenidae",NA
+440,"Chironomidae","Metazoa","Insecta","Diptera","Chironomidae",NA
+441,"Baetidae","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
+442,"Heptageniidae","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
+443,"Corixidae","Metazoa","Insecta","Hemiptera","Corixidae",NA
+444,"sialidae","Metazoa","Insecta","Megaloptera","Sialidae",NA
+445,"Anisoptera","Metazoa","Insecta","Odonata",NA,NA
+446,"aeshnidae","Metazoa","Insecta","Odonata","Aeshnidae",NA
+447,"Zygoptera","Metazoa","Insecta","Odonata",NA,NA
+448,"Plecoptera","Metazoa","Insecta","Plecoptera",NA,NA
+449,"collembola","Metazoa","Collembola",NA,NA,NA
+450,"attelabidae","Metazoa","Insecta","Coleoptera","Attelabidae",NA
+451,"Araneae","Metazoa","Arachnida","Araneae",NA,NA
+452,"Formicidae","Metazoa","Insecta","Hymenoptera","Formicidae",NA
+453,"crambidae_larvae_terrestrial","Metazoa","Insecta","Lepidoptera","Crambidae",NA
+454,"orthoptera","Metazoa","Insecta","Orthoptera",NA,NA
+455,"Diptera","Metazoa","Insecta","Diptera",NA,NA
+456,"Ephemeroptera","Metazoa","Insecta","Ephemeroptera",NA,NA
+457,"Megaloptera","Metazoa","Insecta","Megaloptera",NA,NA
+458,"Odonata","Metazoa","Insecta","Odonata",NA,NA
+459,"diplopoda","Metazoa","Diplopoda",NA,NA,NA
+460,"ephemeroptera_larvae","Metazoa","Insecta","Ephemeroptera",NA,NA
+461,"plecoptera_larvae","Metazoa","Insecta","Plecoptera",NA,NA
+462,"Lepidoptera","Metazoa","Insecta","Lepidoptera",NA,NA
+463,"lepidoptera_pupae","Metazoa","Insecta","Lepidoptera",NA,NA
+464,"diptera_adult","Metazoa","Insecta","Diptera",NA,NA
+465,"hymenoptera_adult","Metazoa","Insecta","Hymenoptera",NA,NA
+466,"odonata_larvae","Metazoa","Insecta","Odonata",NA,NA
+467,"Arachnida","Metazoa","Arachnida",NA,NA,NA
+468,"Mollusca","Metazoa",NA,NA,NA,NA
+469,"chironomidae_pupae","Metazoa","Insecta","Diptera","Chironomidae",NA
+470,"chironomidae_adults","Metazoa","Insecta","Diptera","Chironomidae",NA
+471,"hyalella_azteca","Metazoa","Malacostraca","Amphipoda","Hyalellidae","Hyalella azteca"
+472,"cyclops_vernalis","Metazoa","Hexanauplia","Cyclopoida","Cyclopidae","Acanthocyclops vernalis"
+473,"alona_costala","Metazoa","Branchiopoda","Diplostraca","Chydoridae","Flavalona costata"
+474,"cladophora_sp","Viridiplantae","Ulvophyceae","Cladophorales","Cladophoraceae",NA
+475,"reticulotermes_flavipes","Metazoa","Insecta","Blattodea","Rhinotermitidae","Reticulitermes flavipes"
+476,"cyperaceae","Viridiplantae","Magnoliopsida","Poales","Cyperaceae",NA
+477,"Nematoda","Metazoa",NA,NA,NA,NA
+478,"physa_sp","Metazoa","Gastropoda",NA,"Physidae",NA
+479,"Hydropsychidae","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
+480,"helicopsyche","Metazoa","Insecta","Trichoptera","Helicopsychidae",NA
+481,"Chironomus","Metazoa","Insecta","Diptera","Chironomidae",NA
+482,"Simulium","Metazoa","Insecta","Diptera","Simuliidae",NA
+483,"diptera_pupae","Metazoa","Insecta","Diptera",NA,NA
+484,"cambarus","Metazoa","Malacostraca","Decapoda","Cambaridae",NA
+485,"Pelecypoda","Metazoa","Bivalvia",NA,NA,NA
+486,"Hydracarina","Metazoa","Arachnida","Trombidiformes",NA,NA
+487,"Oligochaeta","Metazoa","Clitellata",NA,NA,NA
+488,"bryozoa_statoblasts","Metazoa",NA,NA,NA,NA
+489,"Gammarus","Metazoa","Malacostraca","Amphipoda","Gammaridae",NA
+490,"diptera_larvae_1_100_150_µm_head_length","Metazoa","Insecta","Diptera",NA,NA
+491,"diptera_larvae_2_800_900_µm_head_length","Metazoa","Insecta","Diptera",NA,NA
+492,"insecta_larvae","Metazoa","Insecta",NA,NA,NA
+493,"insecta_pupae","Metazoa","Insecta",NA,NA,NA
+494,"insecta_adult","Metazoa","Insecta",NA,NA,NA
+495,"hemiptera_pupae","Metazoa","Insecta","Hemiptera",NA,NA
+496,"oligochaeta_setae","Metazoa","Clitellata",NA,NA,NA
+497,"rotifera_keratella_sp","Metazoa",NA,NA,NA,NA
+498,"Copepoda","Metazoa","Hexanauplia",NA,NA,NA
+499,"ankistrodesmus_sp","Viridiplantae","Chlorophyceae","Sphaeropleales","Selenastraceae",NA
+500,"closterium_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Closteriaceae",NA
+501,"Scenedesmus_sp_1","Viridiplantae","Chlorophyceae","Sphaeropleales","Scenedesmaceae",NA
+502,"pediastrum_sp","Viridiplantae","Chlorophyceae","Sphaeropleales","Hydrodictyaceae",NA
+503,"oedogonium_sp","Viridiplantae","Chlorophyceae","Oedogoniales","Oedogoniaceae",NA
+504,"desmidium_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Desmidiaceae",NA
+505,"cosmarium_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Desmidiaceae",NA
+506,"diptera_aquatic","Metazoa","Insecta","Diptera",NA,NA
+507,"ephemeroptera_aquatic","Metazoa","Insecta","Ephemeroptera",NA,NA
+508,"trichoptera_aquatic","Metazoa","Insecta","Trichoptera",NA,NA
+509,"diptera_terrestrial","Metazoa","Insecta","Diptera",NA,NA
+510,"coleoptera_terrestrial","Metazoa","Insecta","Coleoptera",NA,NA
+511,"dugesia_spp","Metazoa","Rhabditophora","Tricladida","Dugesiidae",NA
+512,"lumbriculidae","Metazoa","Clitellata","Lumbriculida","Lumbriculidae",NA
+513,"ancylus_fluviatilis","Metazoa","Gastropoda",NA,"Ancylidae","Ancylus fluviatilis"
+514,"hydracarina_gen_sp","Metazoa","Arachnida","Trombidiformes",NA,NA
+515,"baetis_spp","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
+516,"ephemerella_spp","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
+517,"ecdyonurus_spp","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
+518,"epeorus_spp","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
+519,"habrophlebia_sp","Metazoa","Insecta","Ephemeroptera","Leptophlebiidae",NA
+520,"leuctra_geniculata","Metazoa","Insecta","Plecoptera","Leuctridae","Leuctra geniculata"
+521,"perla_sp","Metazoa","Insecta","Plecoptera","Perlidae",NA
+522,"boyeria_irene","Metazoa","Insecta","Odonata","Aeshnidae","Boyeria irene"
+523,"ophiogomphus_sp","Metazoa","Insecta","Odonata","Gomphidae",NA
+524,"aphelocheirus_aestivalis","Metazoa","Insecta","Hemiptera","Aphelocheiridae",NA
+525,"elmis_sp","Metazoa","Insecta","Coleoptera","Elmidae",NA
+526,"macronychus_sp","Metazoa","Insecta","Coleoptera","Elmidae",NA
+527,"oulimnius_sp","Metazoa","Insecta","Coleoptera","Elmidae",NA
+528,"hydraena_sp","Metazoa","Insecta","Coleoptera","Hydraenidae",NA
+529,"micrasema_sp","Metazoa","Insecta","Trichoptera","Brachycentridae",NA
+530,"hydropsyche_spp","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
+531,"lepidostoma_sp","Metazoa","Insecta","Trichoptera","Lepidostomatidae",NA
+532,"Leptoceridae","Metazoa","Insecta","Trichoptera","Leptoceridae",NA
+533,"allogamus_sp","Metazoa","Insecta","Trichoptera","Limnephilidae",NA
+534,"chimarra_marginata","Metazoa","Insecta","Trichoptera","Philopotamidae",NA
+535,"polycentropus_sp","Metazoa","Insecta","Trichoptera","Polycentropodidae",NA
+536,"rhyacophila_spp","Metazoa","Insecta","Trichoptera","Rhyacophilidae",NA
+537,"rhyacophila_spp_1","Metazoa","Insecta","Trichoptera","Rhyacophilidae",NA
+538,"Baetis","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
+539,"Heptagenia","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
+540,"neureclipsis","Metazoa","Insecta","Trichoptera","Polycentropodidae",NA
+541,"cyclops","Metazoa","Hexanauplia","Cyclopoida","Cyclopidae",NA
+542,"simocephalus","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
+543,"Isonychia","Metazoa","Insecta","Ephemeroptera","Isonychiidae",NA
+544,"laccophilus","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
+545,"Brachycentrus","Metazoa","Insecta","Trichoptera","Brachycentridae",NA
+546,"Gerridae","Metazoa","Insecta","Hemiptera","Gerridae",NA
+547,"corixidae_1","Metazoa","Insecta","Hemiptera","Corixidae",NA
+548,"gerridae_1","Metazoa","Insecta","Hemiptera","Gerridae",NA
+549,"ephemera","Metazoa","Insecta","Ephemeroptera","Ephemeridae",NA
+550,"dixidae_midge_larvae","Metazoa","Insecta","Diptera","Dixidae",NA
+551,"Ephoron","Metazoa","Insecta","Ephemeroptera","Polymitarcyidae",NA
+552,"potamanthus","Metazoa","Insecta","Ephemeroptera","Potamanthidae",NA
+553,"Dorosoma cepedianum","Metazoa","Actinopteri","Clupeiformes","Clupeidae","Dorosoma cepedianum"
+554,"notropis_atherinoides","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis atherinoides"
+555,"aplodinatus_grunniens","Metazoa","Actinopteri",NA,"Sciaenidae","Aplodinotus grunniens"
+556,"notropis_volucellus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae","Notropis volucellus"
+557,"Lepomis macrochirus","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis macrochirus"
+558,"lamptera_aepyptera","Metazoa","Hyperoartia","Petromyzontiformes","Petromyzontidae","Lampetra aepyptera"
+559,"morone_chrysops","Metazoa","Actinopteri",NA,"Moronidae","Morone chrysops"
+560,"Ambloplites rupestris","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Ambloplites rupestris"
+561,"nemouridae","Metazoa","Insecta","Plecoptera","Nemouridae",NA
+562,"Perlodidae","Metazoa","Insecta","Plecoptera","Perlodidae",NA
+563,"pyralidae","Metazoa","Insecta","Lepidoptera","Pyralidae",NA
+564,"psephenidae","Metazoa","Insecta","Coleoptera","Psephenidae",NA
+565,"Culicidae","Metazoa","Insecta","Diptera","Culicidae",NA
+566,"cestoda","Metazoa","Cestoda",NA,NA,NA
+567,"chironomidae_nonadult","Metazoa","Insecta","Diptera","Chironomidae",NA
+568,"trichoptera_nonadult","Metazoa","Insecta","Trichoptera",NA,NA
+569,"isoptera","Metazoa","Insecta","Blattodea",NA,NA
+570,"cladocera_copepoda","Metazoa","Branchiopoda","Diplostraca",NA,NA
+571,"mollusca_gastropoda_bivalvia","Metazoa",NA,NA,NA,NA
+572,"salmo_trutta","Metazoa","Actinopteri","Salmoniformes","Salmonidae","Salmo trutta"
+573,"thysanoptera","Metazoa","Insecta","Thysanoptera",NA,NA
+574,"Rotifera","Metazoa",NA,NA,NA,NA
+575,"rangia cuneata","Metazoa","Bivalvia","Veneroida","Mactridae","Rangia cuneata"
+576,"vertebrata","Metazoa",NA,NA,NA,NA
+577,"gobiosoma_bosci","Metazoa","Actinopteri","Gobiiformes","Gobiidae","Gobiosoma bosc"
+578,"penaeus","Metazoa","Malacostraca","Decapoda","Penaeidae",NA
+579,"rithropanopeus_harrisii","Metazoa","Malacostraca","Decapoda","Panopeidae","Rhithropanopeus harrisii"
+580,"callinectes_sapidus","Metazoa","Malacostraca","Decapoda","Portunidae","Callinectes sapidus"
+581,"anchoa_mitchilli","Metazoa","Actinopteri","Clupeiformes","Engraulidae","Anchoa mitchilli"
+582,"cyprinodon_variegatus","Metazoa","Actinopteri","Cyprinodontiformes","Cyprinodontidae","Cyprinodon variegatus"
+583,"Gambusia affinis","Metazoa","Actinopteri","Cyprinodontiformes","Poeciliidae","Gambusia affinis"
+584,"micropogon_undulatus","Metazoa","Actinopteri",NA,"Sciaenidae","Micropogonias undulatus"
+585,"myrophis_sp","Metazoa","Actinopteri","Anguilliformes","Ophichthidae",NA
+586,"syngnathus_sp","Metazoa","Actinopteri","Syngnathiformes","Syngnathidae",NA
+587,"palaemonetes_sp","Metazoa","Malacostraca","Decapoda","Palaemonidae",NA
+588,"macrobrachium_ohione","Metazoa","Malacostraca","Decapoda","Palaemonidae","Macrobrachium ohione"
+589,"insecta_diptera","Metazoa","Insecta",NA,NA,NA
+590,"cirripedia","Metazoa","Hexanauplia",NA,NA,NA
+591,"palaemonidae","Metazoa","Malacostraca","Decapoda","Palaemonidae",NA
+592,"insecta_undet","Metazoa","Insecta",NA,NA,NA
+593,"penaeus_setiferus","Metazoa","Malacostraca","Decapoda","Penaeidae","Penaeus setiferus"
+594,"callianassa_sp","Metazoa","Malacostraca","Decapoda","Callianassidae",NA
+595,"citharichthys_spilopterus","Metazoa","Actinopteri","Pleuronectiformes","Paralichthyidae","Citharichthys spilopterus"
+596,"Menidia beryllina","Metazoa","Actinopteri","Atheriniformes","Atherinopsidae","Menidia beryllina"
+597,"cynoscion","Metazoa","Actinopteri",NA,"Sciaenidae",NA
+598,"mollienesia_latipinna","Metazoa","Actinopteri","Cyprinodontiformes","Poeciliidae","Poecilia latipinna"
+599,"Palaemonetes","Metazoa","Malacostraca","Decapoda","Palaemonidae",NA
+600,"penaeus_sp","Metazoa","Malacostraca","Decapoda","Penaeidae",NA
+601,"bivalvia","Metazoa","Bivalvia",NA,NA,NA
+602,"nematodes","Metazoa","Insecta","Coleoptera","Eucnemidae",NA
+603,"clarias_sp","Metazoa","Actinopteri","Siluriformes","Clariidae",NA
+604,"cephalopods","Metazoa","Cephalopoda",NA,NA,NA
+605,"rhizoclonium_sp","Viridiplantae","Ulvophyceae","Cladophorales","Cladophoraceae",NA
+606,"ulothrix_sp","Viridiplantae","Ulvophyceae","Ulotrichales","Ulotrichaceae",NA
+607,"spirogyra_sp","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
+608,"rivularia_sp","Metazoa","Gastropoda","Architaenioglossa","Viviparidae",NA
+609,"scatella_spp","Metazoa","Insecta","Diptera","Ephydridae",NA
+610,"procanace_spp","Metazoa","Insecta","Diptera","Canacidae",NA
+611,"limonia_spp","Metazoa","Insecta","Diptera","Limoniidae",NA
+612,"hydroptila_arctia","Metazoa","Insecta","Trichoptera","Hydroptilidae","Hydroptila arctia"
+613,"diptera_immature","Metazoa","Insecta","Diptera",NA,NA
+614,"aegla_sp","Metazoa","Malacostraca","Decapoda","Aeglidae",NA
+615,"perciformes","Metazoa","Actinopteri","Perciformes",NA,NA
+616,"synbranchiformes","Metazoa","Actinopteri","Synbranchiformes",NA,NA
+617,"siluriformes","Metazoa","Actinopteri","Siluriformes",NA,NA
+618,"characiformes","Metazoa","Actinopteri","Characiformes",NA,NA
+619,"mammalia_rodentia","Metazoa","Mammalia",NA,NA,NA
+620,"eudorina","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
+621,"Volvox","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
+622,"scenedesmus","Viridiplantae","Chlorophyceae","Sphaeropleales","Scenedesmaceae",NA
+623,"closterium","Viridiplantae","Zygnemophyceae","Desmidiales","Closteriaceae",NA
+624,"keratella_cochlearis","Metazoa","Monogononta","Ploima","Brachionidae","Keratella cochlearis"
+625,"chaoborus_larvae","Metazoa","Insecta","Diptera","Chaoboridae",NA
+626,"bosmina_longirostris","Metazoa","Branchiopoda","Diplostraca","Bosminidae",NA
+627,"cyclestheria_hislopi","Metazoa","Branchiopoda","Diplostraca","Cyclestheriidae","Cyclestheria hislopi"
+628,"caridina_sp","Metazoa","Malacostraca","Decapoda","Atyidae",NA
+629,"diaphanosoma_excisum_sars","Metazoa","Branchiopoda","Diplostraca","Sididae","Diaphanosoma excisum"
+630,"mesocyclops_leuckarti","Metazoa","Hexanauplia","Cyclopoida","Cyclopidae","Mesocyclops leuckarti"
+631,"radix_peregra","Metazoa","Gastropoda",NA,"Lymnaeidae","Peregriana peregra"
+632,"clupeidae","Metazoa","Actinopteri","Clupeiformes","Clupeidae",NA
+633,"cypriniformes","Metazoa","Actinopteri","Cypriniformes",NA,NA
+634,"characiformes_characidae","Metazoa","Actinopteri","Characiformes",NA,NA
+635,"tetragonopterinae","Metazoa","Actinopteri","Characiformes","Characidae",NA
+636,"astyanax_bimaculatus","Metazoa","Actinopteri","Characiformes","Characidae","Astyanax bimaculatus"
+637,"btyconamericus_stramineus","Metazoa","Actinopteri","Characiformes","Characidae","Bryconamericus stramineus"
+638,"moenkhausia_intermedia","Metazoa","Actinopteri","Characiformes","Characidae","Moenkhausia intermedia"
+639,"cheirodontinae","Metazoa","Actinopteri","Characiformes","Characidae",NA
+640,"cheirodon_notomefas","Metazoa","Actinopteri","Characiformes","Characidae","Serrapinnus notomelas"
+641,"acestrorhynchus_lacustris","Metazoa","Actinopteri","Characiformes","Acestrorhynchidae","Acestrorhynchus lacustris"
+642,"characidium_fasciatum","Metazoa","Actinopteri","Characiformes","Crenuchidae","Characidium fasciatum"
+643,"serrasalmus_marginatus","Metazoa","Actinopteri","Characiformes","Serrasalmidae","Serrasalmus marginatus"
+644,"anostomidae","Metazoa","Actinopteri","Characiformes","Anostomidae",NA
+645,"leporinus_obtusidens","Metazoa","Actinopteri","Characiformes","Anostomidae","Megaleporinus obtusidens"
+646,"steindachnerina_insculpta","Metazoa","Actinopteri","Characiformes","Curimatidae","Steindachnerina insculpta"
+647,"prochilodus_lineatus","Metazoa","Actinopteri","Characiformes","Prochilodontidae","Prochilodus lineatus"
+648,"hoplias_malabaricus","Metazoa","Actinopteri","Characiformes","Erythrinidae","Hoplias malabaricus"
+649,"rhaphiodon_vulpinus","Metazoa","Actinopteri","Characiformes","Characidae","Rhaphiodon vulpinus"
+650,"gymnotus_carapo","Metazoa","Actinopteri","Gymnotiformes","Gymnotidae","Gymnotus carapo"
+651,"eigenmannia_cf_triineata","Metazoa","Actinopteri","Gymnotiformes","Sternopygidae","Eigenmannia trilineata"
+652,"apteronotus_alb_irons","Metazoa","Actinopteri","Gymnotiformes","Apteronotidae",NA
+653,"apteronotus_spp","Metazoa","Actinopteri","Gymnotiformes","Apteronotidae",NA
+654,"rhamphychthys_rostratus","Metazoa","Actinopteri","Gymnotiformes","Rhamphichthyidae","Rhamphichthys rostratus"
+655,"doradidae","Metazoa","Actinopteri","Siluriformes","Doradidae",NA
+656,"pterodoras_granulosus","Metazoa","Actinopteri","Siluriformes","Doradidae","Pterodoras granulosus"
+657,"trachydoras_paraguayensis","Metazoa","Actinopteri","Siluriformes","Doradidae","Trachydoras paraguayensis"
+658,"auchenipteridae","Metazoa","Actinopteri","Siluriformes","Auchenipteridae",NA
+659,"parauchenipterus_galeatus","Metazoa","Actinopteri","Siluriformes","Auchenipteridae","Trachelyopterus galeatus"
+660,"pimelodidae","Metazoa","Actinopteri","Siluriformes","Pimelodidae",NA
+661,"pimelodella_grad_is","Metazoa","Actinopteri","Siluriformes","Heptapteridae",NA
+662,"callichthyidae","Metazoa","Actinopteri","Siluriformes","Callichthyidae",NA
+663,"corydoras_aeneus","Metazoa","Actinopteri","Siluriformes","Callichthyidae","Corydoras aeneus"
+664,"hypostomus_spp","Metazoa","Actinopteri","Siluriformes","Loricariidae",NA
+665,"loricarfchthys_platymetopon","Metazoa","Actinopteri","Siluriformes","Loricariidae","Loricariichthys platymetopon"
+666,"synbranchus_marmoratus","Metazoa","Actinopteri","Synbranchiformes","Synbranchidae","Synbranchus marmoratus"
+667,"plagioscion_squamosissimus","Metazoa","Actinopteri",NA,"Sciaenidae","Plagioscion squamosissimus"
+668,"ctenicichla_britskii","Metazoa","Actinopteri","Cichliformes","Cichlidae","Crenicichla britskii"
+669,"cichlasoma_paranaense","Metazoa","Actinopteri","Cichliformes","Cichlidae","Cichlasoma paranaense"
+670,"macrobrachium_amazonicum","Metazoa","Malacostraca","Decapoda","Palaemonidae","Macrobrachium amazonicum"
+671,"Chlorophyceae","Viridiplantae","Chlorophyceae",NA,NA,NA
+672,"acarinae","Metazoa","Arachnida","Sarcoptiformes","Acaridae",NA
+673,"bryophyta","Viridiplantae",NA,NA,NA,NA
+674,"Spirogyra","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
+675,"diptera_larvae_and_pupae","Metazoa","Insecta","Diptera",NA,NA
+676,"ceratopogonidae_larvae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
+677,"chaoboridae_larvae","Metazoa","Insecta","Diptera","Chaoboridae",NA
+678,"Simuliidae","Metazoa","Insecta","Diptera","Simuliidae",NA
+679,"hemiptera_44","Metazoa","Insecta","Hemiptera",NA,NA
+680,"Neuroptera","Metazoa","Insecta","Neuroptera",NA,NA
+681,"Bryozoa","Metazoa",NA,NA,NA,NA
+682,"hemiptera_61","Metazoa","Insecta","Hemiptera",NA,NA
+683,"Atyaephyra desmaresti","Metazoa","Malacostraca","Decapoda","Atyidae","Atyaephyra desmarestii"
+684,"odonata_undet","Metazoa","Insecta","Odonata",NA,NA
+685,"plecoptera_nymphs","Metazoa","Insecta","Plecoptera",NA,NA
+686,"Heteroptera","Metazoa","Insecta","Hemiptera",NA,NA
+687,"megaloptera_larvae","Metazoa","Insecta","Megaloptera",NA,NA
+688,"gambusia_holbrooki","Metazoa","Actinopteri","Cyprinodontiformes","Poeciliidae","Gambusia holbrooki"
+689,"diptera_pupae_adult","Metazoa","Insecta","Diptera",NA,NA
+690,"odonata_newt","Metazoa","Insecta","Odonata",NA,NA
+691,"plecoptera_newt","Metazoa","Insecta","Plecoptera",NA,NA
+692,"psocoptera","Metazoa","Insecta","Psocoptera",NA,NA
+693,"gordioidea","Metazoa","Gordioida","Gordea",NA,NA
+694,"diptera_nymphs","Metazoa","Insecta","Diptera",NA,NA
+695,"ectoprocta_statoblasts","Metazoa",NA,NA,NA,NA
+696,"spongillidae_gemmules","Metazoa","Demospongiae","Spongillida","Spongillidae",NA
+697,"lymnaea","Metazoa","Gastropoda",NA,"Lymnaeidae",NA
+698,"valvata","Metazoa","Gastropoda",NA,"Valvatidae",NA
+699,"theodoxus","Metazoa","Gastropoda","Cycloneritida","Neritidae",NA
+700,"potamopyrgus","Metazoa","Gastropoda","Littorinimorpha","Tateidae",NA
+701,"mollusca_indeterminate","Metazoa",NA,NA,NA,NA
+702,"sphaerium","Metazoa","Bivalvia","Veneroida","Sphaeriidae",NA
+703,"fontinalis","Viridiplantae","Bryopsida","Hypnales","Fontinalaceae",NA
+704,"ranunculus","Viridiplantae","Magnoliopsida","Ranunculales","Ranunculaceae",NA
+705,"daphnia_hyalina","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
+706,"alona_sp","Metazoa","Branchiopoda","Diplostraca","Chydoridae",NA
+707,"daphnia_sp","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
+708,"chydorus_sphaericus","Metazoa","Branchiopoda","Diplostraca","Chydoridae","Chydorus sphaericus"
+709,"hymenoptera_larvae","Metazoa","Insecta","Hymenoptera",NA,NA
+710,"sphaeriidae","Metazoa","Bivalvia","Veneroida","Sphaeriidae",NA
+711,"Planorbidae","Metazoa","Gastropoda",NA,"Planorbidae",NA
+712,"botiinae","Metazoa","Actinopteri","Cypriniformes","Botiidae",NA
+713,"siluridae","Metazoa","Actinopteri","Siluriformes","Siluridae",NA
+714,"gobiidae","Metazoa","Actinopteri","Gobiiformes","Gobiidae",NA
+715,"polychaeta","Metazoa","Polychaeta",NA,NA,NA
+716,"Corydalidae","Metazoa","Insecta","Megaloptera","Corydalidae",NA
+717,"Alosa pseudoharengus","Metazoa","Actinopteri","Clupeiformes","Clupeidae","Alosa pseudoharengus"
+718,"lucania_parva","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Lucania parva"
+719,"fundulus_sp","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae",NA
+720,"fundulus_diaphanus","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Fundulus diaphanus"
+721,"fundulus_heteroclitus","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Fundulus heteroclitus"
+722,"fundulus_majalis","Metazoa","Actinopteri","Cyprinodontiformes","Fundulidae","Fundulus majalis"
+723,"menidia_spp","Metazoa","Actinopteri","Atheriniformes","Atherinopsidae",NA
+724,"perca_favescens","Metazoa","Actinopteri","Perciformes","Percidae","Perca flavescens"
+725,"Lepomis gibbosus","Metazoa","Actinopteri","Centrarchiformes","Centrarchidae","Lepomis gibbosus"
+726,"Ruppia","Viridiplantae","Magnoliopsida","Alismatales","Cymodoceaceae",NA
+727,"potamocypris","Metazoa","Ostracoda","Podocopida","Cyprididae",NA
+728,"ochthebius","Metazoa","Insecta","Coleoptera","Hydraenidae",NA
+729,"cyprinodon_eggs","Metazoa","Actinopteri","Cyprinodontiformes","Cyprinodontidae",NA
+730,"tabanus_larvae","Metazoa","Insecta","Diptera","Tabanidae",NA
+731,"diaphanosoma_sp","Metazoa","Branchiopoda","Diplostraca","Sididae",NA
+732,"sida_crystallina","Metazoa","Branchiopoda","Diplostraca","Sididae","Sida crystallina"
+733,"moina_sp","Metazoa","Branchiopoda","Diplostraca","Moinidae",NA
+734,"ceriodaphnia_pulchella","Metazoa","Branchiopoda","Diplostraca","Daphniidae","Ceriodaphnia pulchella"
+735,"leptodora_kindtii","Metazoa","Branchiopoda","Diplostraca","Leptodoridae","Leptodora kindtii"
+736,"brachionus_sp","Metazoa","Monogononta","Ploima","Brachionidae",NA
+737,"keratella_quadrata","Metazoa","Monogononta","Ploima","Brachionidae","Keratella quadrata"
+738,"lamellibranchiata","Metazoa","Bivalvia",NA,NA,NA
+739,"zygoptera_larvae","Metazoa","Insecta","Odonata",NA,NA
+740,"daphniidae","Metazoa","Branchiopoda","Diplostraca","Daphniidae",NA
+741,"cloeon","Metazoa","Insecta","Ephemeroptera","Baetidae",NA
+742,"bezzia","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
+743,"appasus","Metazoa","Insecta","Hemiptera","Belostomatidae",NA
+744,"leptocerus","Metazoa","Insecta","Trichoptera","Leptoceridae",NA
+745,"anax","Metazoa","Insecta","Odonata","Aeshnidae",NA
+746,"lestes","Metazoa","Insecta","Odonata","Lestidae",NA
+747,"ischnura","Metazoa","Insecta","Odonata","Coenagrionidae",NA
+748,"africallagma","Metazoa","Insecta","Odonata","Coenagrionidae",NA
+749,"potamonautes_sidneyi","Metazoa","Malacostraca","Decapoda","Potamonautidae","Potamonautes sidneyi"
+750,"palaemon_capensis","Metazoa","Malacostraca","Decapoda","Palaemonidae","Palaemon capensis"
+751,"hymenoptera_adults","Metazoa","Insecta","Hymenoptera",NA,NA
+752,"hydroptila_sp_larvae","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
+753,"hydropsyche_sp_larvae","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
+754,"ephemerella_ignita_nymphs","Metazoa","Insecta","Ephemeroptera","Ephemerellidae","Serratella ignita"
+755,"gammarus_pulex","Metazoa","Malacostraca","Amphipoda","Gammaridae","Gammarus pulex"
+756,"sialis_larvae","Metazoa","Insecta","Megaloptera","Sialidae",NA
+757,"mollusca_indet","Metazoa",NA,NA,NA,NA
+758,"ephemeroptera_nymphs_unknown","Metazoa","Insecta","Ephemeroptera",NA,NA
+759,"rhyacophila_sp_larvae","Metazoa","Insecta","Trichoptera","Rhyacophilidae",NA
+760,"asellus_sp","Metazoa","Malacostraca","Isopoda","Asellidae",NA
+761,"valvata_piscinalis","Metazoa","Gastropoda",NA,"Valvatidae","Valvata piscinalis"
+762,"planorbis_spp","Metazoa","Gastropoda",NA,"Planorbidae",NA
+763,"phryganea_sp_larvae","Metazoa","Insecta","Trichoptera","Phryganeidae",NA
+764,"phoxinus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
+765,"perca","Metazoa","Actinopteri","Perciformes","Percidae",NA
+766,"synodontis_sp","Metazoa","Actinopteri","Siluriformes","Mochokidae",NA
+767,"desmids","Viridiplantae","Zygnemophyceae","Desmidiales",NA,NA
+768,"pentaneura_larvae","Metazoa","Insecta","Diptera","Chironomidae",NA
+769,"pentaneura_pupae","Metazoa","Insecta","Diptera","Chironomidae",NA
+770,"mollusca_bivalves","Metazoa",NA,NA,NA,NA
+771,"chrysichthys_spp","Metazoa","Actinopteri","Siluriformes","Claroteidae",NA
+772,"isoptera_termites","Metazoa","Insecta","Blattodea",NA,NA
+773,"cambaridae","Metazoa","Malacostraca","Decapoda","Cambaridae",NA
+774,"corbiculidae","Metazoa","Bivalvia","Veneroida","Corbiculidae",NA
+775,"physidae","Metazoa","Gastropoda",NA,"Physidae",NA
+776,"vespidae","Metazoa","Insecta","Hymenoptera","Vespidae",NA
+777,"naucoridae","Metazoa","Insecta","Hemiptera","Naucoridae",NA
+778,"argulus","Metazoa","Ichthyostraca","Arguloida","Argulidae",NA
+779,"vespidae_adult","Metazoa","Insecta","Hymenoptera","Vespidae",NA
+780,"psychodidae_larvae","Metazoa","Insecta","Diptera","Psychodidae",NA
+781,"calliphoridae_larvae","Metazoa","Insecta","Diptera","Calliphoridae",NA
+782,"dixidae_larvae","Metazoa","Insecta","Diptera","Dixidae",NA
+783,"muscidae_adult","Metazoa","Insecta","Diptera","Muscidae",NA
+784,"auchenorrhyncha_adult","Metazoa","Insecta","Hemiptera",NA,NA
+785,"hydrophilidae_adult","Metazoa","Insecta","Coleoptera","Hydrophilidae",NA
+786,"ptilodactylidae_adult","Metazoa","Insecta","Coleoptera","Ptilodactylidae",NA
+787,"lampyridae_larvae","Metazoa","Insecta","Coleoptera","Lampyridae",NA
+788,"gyrinidae_adult","Metazoa","Insecta","Coleoptera","Gyrinidae",NA
+789,"chrysomelidae_adult","Metazoa","Insecta","Coleoptera","Chrysomelidae",NA
+790,"ephemeroptera_baetidae_nymph","Metazoa","Insecta","Ephemeroptera",NA,NA
+791,"hydropsychidae_larvae","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
+792,"helicopsychidae_larvae","Metazoa","Insecta","Trichoptera","Helicopsychidae",NA
+793,"hydrobiosidae_larvae","Metazoa","Insecta","Trichoptera","Hydrobiosidae",NA
+794,"lepidoptera_adult","Metazoa","Insecta","Lepidoptera",NA,NA
+795,"arachnida_araneae_adult","Metazoa","Arachnida",NA,NA,NA
+796,"nematoda_parasite","Metazoa",NA,NA,NA,NA
+797,"porifera_gemmules_spicules","Metazoa",NA,NA,NA,NA
+798,"anisoptera_larvae","Metazoa","Insecta","Odonata",NA,NA
+799,"characidae","Metazoa","Actinopteri","Characiformes","Characidae",NA
+800,"cichlidae","Metazoa","Actinopteri","Cichliformes","Cichlidae",NA
+801,"synbranchidae","Metazoa","Actinopteri","Synbranchiformes","Synbranchidae",NA
+802,"heptapteridae","Metazoa","Actinopteri","Siluriformes","Heptapteridae",NA
+803,"crenuchidae","Metazoa","Actinopteri","Characiformes","Crenuchidae",NA
+804,"hypopomidae","Metazoa","Actinopteri","Gymnotiformes","Hypopomidae",NA
+805,"oxyethira_sp","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
+806,"parapeneus_longirostris","Metazoa","Malacostraca","Decapoda","Penaeidae","Parapenaeus longirostris"
+807,"sicyonia_sp","Metazoa","Malacostraca","Decapoda","Sicyoniidae",NA
+808,"chlamydomonas","Viridiplantae","Chlorophyceae","Chlamydomonadales","Chlamydomonadaceae",NA
+809,"volvox_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
+810,"chlamydomonas_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Chlamydomonadaceae",NA
+811,"closteriopsis_sp","Viridiplantae","Trebouxiophyceae","Chlorellales","Chlorellaceae",NA
+812,"crucigenia_sp","Viridiplantae","Chlorophyceae","Sphaeropleales","Scenedesmaceae",NA
+813,"eudorina_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
+814,"pleodorina_sp","Viridiplantae","Chlorophyceae","Chlamydomonadales","Volvocaceae",NA
+815,"staurastrum_sp","Viridiplantae","Zygnemophyceae","Desmidiales","Desmidiaceae",NA
+816,"zygnema_sp","Viridiplantae","Zygnemophyceae","Zygnematales","Zygnemataceae",NA
+817,"keratella_sd","Metazoa","Monogononta","Ploima","Brachionidae",NA
+818,"Nemata","Metazoa",NA,NA,NA,NA
+819,"Nais","Metazoa","Clitellata","Haplotaxida","Naididae",NA
+820,"Ephemerella","Metazoa","Insecta","Trichoptera","Hydroptilidae",NA
+821,"Probezzia","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
+822,"Ephemerellidae","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
+823,"Cheumatopsyche","Metazoa","Insecta","Odonata","Gomphidae",NA
+824,"Muscidae","Metazoa","Insecta","Trichoptera","Glossosomatidae",NA
+825,"Crambidae","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
+826,"Leucrocuta","Metazoa","Insecta","Plecoptera","Perlodidae",NA
+827,"Polymitarcyidae","Metazoa","Insecta","Ephemeroptera","Ephemerellidae",NA
+828,"Ametropus","Metazoa","Insecta","Trichoptera","Hydropsychidae",NA
+829,"Cercobrachys","Metazoa","Insecta","Diptera","Muscidae",NA
+830,"Stylurus","Metazoa","Insecta","Lepidoptera","Crambidae",NA
+831,"Curculionidae","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
+832,"Coptotomus","Metazoa","Insecta","Ephemeroptera","Polymitarcyidae",NA
+833,"Traverella","Metazoa","Insecta","Ephemeroptera","Ametropodidae",NA
+834,"Ormosia","Metazoa","Insecta","Ephemeroptera","Caenidae",NA
+835,"Hagenius","Metazoa","Insecta","Odonata","Gomphidae",NA
+836,"Hyalella","Metazoa","Insecta","Coleoptera","Curculionidae",NA
+837,"Homoneuria","Metazoa","Insecta","Coleoptera","Dytiscidae",NA
+838,"Tipula","Metazoa","Insecta","Ephemeroptera","Leptophlebiidae",NA
+839,"Dolichopodidae","Metazoa","Insecta","Diptera","Limoniidae",NA
+840,"Lachlania","Metazoa","Insecta","Odonata","Gomphidae",NA
+841,"Ictalurus","Metazoa","Insecta","Diptera","Tipulidae",NA
+842,"punctatus","Metazoa","Insecta","Diptera","Dolichopodidae",NA
+843,"Macrhybopsis spp.","Metazoa","Insecta","Ephemeroptera","Oligoneuriidae",NA
+844,"Scaphirhynchus","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
+845,"Culicoides","Metazoa","Actinopteri","Siluriformes","Ictaluridae",NA
+846,"Gomphidae","Metazoa","Actinopteri","Cypriniformes","Cyprinidae",NA
+847,"Caenidae","Metazoa","Actinopteri","Acipenseriformes","Acipenseridae",NA
+848,"Nigronia","Metazoa","Insecta","Diptera","Ceratopogonidae",NA
+849,"Heteroceridae","Metazoa","Insecta","Hemiptera","Corixidae",NA
+850,"Rhithrogena","Metazoa","Insecta","Odonata","Gomphidae",NA
+851,"Arctoconopa","Metazoa","Insecta","Ephemeroptera","Caenidae",NA
+852,"Tricorythodes","Metazoa","Insecta","Ephemeroptera","Leptohyphidae",NA
+853,"Branchiura","Metazoa","Insecta","Megaloptera","Corydalidae",NA
+854,"Noturusflavus","Metazoa","Insecta","Coleoptera","Heteroceridae",NA
+855,"Ictalurus punctatus","Metazoa","Insecta","Ephemeroptera","Heptageniidae",NA
+856,"Empididae","Metazoa","Insecta","Ephemeroptera","Leptohyphidae",NA
+857,"Other","Metazoa","Insecta","Coleoptera","Elmidae",NA
+858,"Bottom Debris","Metazoa","Insecta","Diptera","Empididae",NA
+859,NA,"Metazoa","Actinopteri","Siluriformes","Ictaluridae","Ameiurus nebulosus"
+860,"Undetermined","Metazoa","Actinopteri","Amiiformes","Amiidae","Amia calva"
+861,"Remains","Metazoa","Actinopteri","Gobiiformes","Gobiidae","Neogobius melanostomus"
+862,"Terrestrial
+
+
+
+
+
+
 invertebrates","Metazoa","Malacostraca","Decapoda","Cambaridae","Orconectes propinquus"
-"863","Bottom
-
-
-
-
-
-
+863,"Bottom
+
+
+
+
+
+
 ooze","Metazoa","Malacostraca","Decapoda","Cambaridae","Orconectes virilis"

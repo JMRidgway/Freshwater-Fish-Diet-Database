@@ -1,7 +1,7 @@
-library(brms)
 library(tidyverse)
 library(ggridges)
 library(lubridate)
+library(ggmap)
 library(httr)
 library(cowplot)
 library(janitor)
@@ -9,22 +9,25 @@ library(repmis)
 library(readxl)
 library(rlist)
 
-#Use this script to: add new data to the master data frame, add lat/lon info, and exctract stage information
 
-# Load master data frame *** make sure its the most recent one *** ---------------------------------------------------
-data_fish_current <- readRDS("~/GitHub/Freshwater-Fish-Diet-Database/database/data_fish.rds") %>% 
-  mutate_all(funs("as.character")) 
+# Load taxa info ----------------------------------------------------------
 
-#folder to import from - name of folder in the working directory that contains extracted csvs to add
-folder <- "data_already_added/2020-01-18"
+#Use this script to add new data to the master data frame, add lat/lon info, extract stage and taxanomic info
+#load taxa names to append later
+prey_taxa_all <- read_csv("prey_taxa_all.csv")
+fish_taxa_all <- read_csv("fish_taxa_all.csv")
+
+#set folder to import from - name of folder in the working directory that contains extracted csvs to add
+#MANUALLY CHANGE THE FOLDER NAME BELOW #
+folder <- "2020_01_22"
 
 # Functions ---------------------------------------------------------------
-#fish_gather cleans and gathers the imported data and adds life stage information
+#fish_gather cleans and gathers the imported data and extracts life stage information
 fish_gather <- function(dt) {
   dt <- dt  %>% 
     clean_names() %>% 
     remove_empty("rows") %>% 
-    rename_at(1, ~"site_name") %>%
+    # rename_at(1, ~"site_name") %>%
     gather(prey_taxon, measurement, -"site_name":-"notes") %>% 
     mutate_each(funs("as.character")) %>% 
     mutate(prey_stage = case_when(grepl("arva", prey_taxon) ~"larvae",
@@ -34,13 +37,18 @@ fish_gather <- function(dt) {
                                   grepl("pupa", prey_taxon) ~ "pupae",
                                   grepl("Pupa", prey_taxon) ~ "pupae",
                                   grepl("immatur", prey_taxon) ~ "larvae",
+                                  grepl("notadult", prey_taxon) ~ "larvae/pupae",
                                   TRUE ~ "unknown"))}
 
-# make list of filenames to import ***double check that folder is assigned correctly ***
+
+
+# Get files, tidy, and stack ----------------------------------------------
+
+# make lists of filenames to import ***double check that folder is assigned correctly ***
 filenames_csv <- list.files(paste("database/data_to_add/",folder, sep = ""), pattern = "*.csv")
 filenames_xlsx <- list.files(paste("database/data_to_add/",folder, sep = ""), pattern = "*.xlsx")
 
-# empty object to put data into - one for ,csv + one for .xlsx
+# empty objects to put data into - one for ,csv + one for .xlsx
 data_csv.list <- NULL
 data_xlsx.list <- NULL
 
@@ -53,30 +61,17 @@ for(name in seq_along(filenames_xlsx)){
   data_xlsx.list[[name]] <- read_excel(paste("database/data_to_add/",folder,"/", filenames_xlsx[name], sep = ""))
 }
 
-# fun the fish_gather function on each file, then make it into a dataframe
+# run the fish_gather function on each file, then make it into a dataframe
 new_csv <- bind_rows(unclass(lapply(data_csv.list, FUN = fish_gather))) 
 new_xlsx <- bind_rows(unclass(lapply(data_xlsx.list, FUN = fish_gather))) 
 
 #combine csv and excel dataframes
-combine_data <- bind_rows(new_csv, new_xlsx) %>%
-#   mutate(start_date = parse_date_time(start_date, orders = c("ymd","dmy")),
-#          end_date = parse_date_time(end_date, orders = c("ymd","dmy"))) %>% 
-  mutate_all(funs('as.character')) 
-
-
-#get lat/lon (requires API from google and internet connection - if it doesn't work, skip this step)
-lat_lon <- combine_data %>% 
-  filter(!is.na(site_name)) %>% 
-  distinct(site_name) %>% 
-  mutate_geocode(site_name) %>% 
+combine_data <- bind_rows(new_csv, new_xlsx) %>% 
   mutate_all(funs('as.character'))
 
-#add lat/lon to data
-new_data <- combine_data %>% left_join(lat_lon)
+#save a copy as a csv
+write.csv(combine_data, file = paste0("database/data_to_add/",folder,".csv"),row.names=FALSE)
 
-#append new data to master data frame and extract prey stage information
-data_fish <- bind_rows(new_data, data_fish_current) 
 
-#save updated version of master data frame
-saveRDS(data_fish, file = "database/data_fish.rds")
-#now take this data to open refine to clean
+#----------REPEAT FOR ALL FOLDERS WITH FILES TO ADD----------------
+
