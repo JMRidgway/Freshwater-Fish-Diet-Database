@@ -41,7 +41,7 @@ lat_lon <- data_to_add %>%
 new_data_latlon <- data_to_add %>% 
   full_join(lat_lon, by = "site_name") %>% 
   left_join(prey_taxa_all) %>% 
-  left_join(fish_taxon_add) %>% 
+  left_join(fish_taxa_all) %>% 
   mutate(dateadded = as.character(Sys.Date()))
 
 

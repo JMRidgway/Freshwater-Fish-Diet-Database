@@ -10,10 +10,14 @@ library(readxl)
 library(rlist)
 library(ggmap)
 
+data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
+  mutate_all(funs('as.character')) %>% 
+  remove_empty("rows")
 
 sites <- data_fish %>% distinct(site_name,lat,lon) %>% filter(!is.na(lat)) %>% 
   mutate(lat = as.numeric(lat),
          lon = as.numeric(lon))
+
 world <- map_data("world")
 
 
