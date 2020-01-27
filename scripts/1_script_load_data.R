@@ -21,7 +21,7 @@ fish_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRid
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020-01-24jeffb"
+folder <- "2020-01-25jeff"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information
