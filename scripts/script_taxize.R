@@ -1,5 +1,37 @@
 
-data_fish_prey_taxa
+library(tidyverse)
+library(ggridges)
+library(lubridate)
+library(ggmap)
+library(httr)
+library(cowplot)
+library(janitor)
+library(repmis)
+library(readxl)
+library(rlist)
+library(RCurl)
+library(taxize)
+
+#full database
+data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
+  mutate_all(funs('as.character')) %>% 
+  remove_empty("rows")
+
+#taxa names distinct
+prey_taxa_distinct <- data_fish %>% distinct(prey_taxon, .keep_all = T) 
+fish_taxa_distinct <- data_fish %>% distinct(type_of_fish, .keep_all = T) 
+
+#load taxa names list
+prey_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/prey_taxa_all.csv"))
+fish_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/fish_taxa_all.csv"))
+
+# taxa we already have
+prey_already_taxized <- prey_taxa_all %>% filter(!is.na(prey_kingdom))
+fish_already_taxized <- fish_taxa_all %>% filter(!is.na(fish_order))
+
+#taxa we need to add
+prey_needed <- prey_taxa_distinct %>% filter(is.na(prey_kingdom))
+
 
 prey_taxon <- data_fish_refined %>% distinct(prey_taxon)
 
