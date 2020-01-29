@@ -1,44 +1,40 @@
 type_of_fish,fish_order_add,fish_family_add,fish_species_add
-Astyanax sp.,Characiformes,Characidae,Astyanax sp.
-Lepomis m. macrochirus,Centrarchiformes,Centrarchidae,Lepomis macrochirus
-Squalius carolitertii,Cypriniformes,Cyprinidae,Squalius carolitertii
-Oreochromis niloticus,Cichliformes,Cichlidae,Oreochromis niloticus
-Clariuas gariepinus,Siluriformes,Clariidae,Clarias gariepinus
-Heterobranchus bidorsalis,Siluriformes,Clariidae,Heterobranchus bidorsalis
-Clarias liocephalus,Siluriformes,Clariidae,Clarias liocephalus
+"
+Notropis_atherinoides",Cypriniformes,Cyprinidae,Notropis atherinoides
+"
+Notropis_blennius",Cypriniformes,Cyprinidae,Notropis blennius
+...10_NA,,,
+...7_NA,,,
+...8_NA,,,
+...9_NA,,,
+Amargosa Pupfish,Cyprinodontiformes,Cyprinodontidae,Cyprinodon nevadensis
+B(?)_nigrum,Perciformes,Percidae,Etheostoma nigrum
+Bagrus  doniac  niger,Siluriformes,Bagridae,Bagrus docmac
+bluegill,Perciformes,Centrachidae,Lepomis macrochirus
+bluegill sunfish,Perciformes,Centrachidae,Lepomis macrochirus
+C.(?)_clarki,Cypriniformes,Catostomidae,Catostomus clarki
+channel catfish,Siluriformes,Ictaluridae,Ictalurus punctatus
 Chrysichthys nigrodigitatus,Siluriformes,Claroteidae,Chrysichthys nigrodigitatus
-Micropterus_dolomieu,Centrarchiformes,Centrarchidae,Micropterus dolomieu
-Notropis_cornutus,Cypriniformes,Cyprinidae,Luxilus cornutus
-Hyborhynchus_notatus,Cypriniformes,Cyprinidae,Pimephales notatus
-Hyborhynchus_hankinsoni,Cypriniformes,Cyprinidae,Hybognathus hankinsoni
-Pinephales_promelas,Cypriniformes,Cyprinidae,Pimephales promelas
-C._perspizuus,Cypriniformes,Cyprinidae,Pimephales vigilax
-H._notatus,Cypriniformes,Cyprinidae,Pimephales notatus
-H._hankinsoni,Cypriniformes,Cyprinidae,Hybognathus hankinsoni
-C._anomalum,Cypriniformes,Cyprinidae,Campostoma anomalum
-Scaphirhynchus_albus,Acipenseriformes,Acipenseridae,Scaphirhynchus albus
-Ameiurus_na,Siluriformes,Ictaluridae,Ameiurus sp.
-Haplochromis_nigricans,Cichliformes,Cichlidae,Haplochromis nigricans
-Lepomis_macrpchirus,Centrarchiformes,Centrarchidae,Lepomis macrochirus
-Lepomis_gibbosus,Centrarchiformes,Centrarchidae,Lepomis gibbosus
-Lepomis_gibbons,Centrarchiformes,Centrarchidae,Lepomis gibbosus
-Esox_vermiculatus,Esociformes,Esocidae,Esox vermiculatus
-Semotilus_Atromaculatus,Cypriniformes,Cyprinidae,Semotilus atromaculatus
-Microperca_prolearis,Perciformes,Percidae,Etheostoma proeliare
-Labidestiies_sicculus,Atheriniformes,Atherinopsidae,Labidesthes sicculus
-Alosa sapidissima,Clupeiformes,Clupeidae,Alosa sapidissima
-Alosa macedonica,Clupeiformes,Clupeidae,Alosa macedonica
-Noturus gyrinus,Siluriformes,Ictaluridae,Noturus gyrinus
-Pseudotropheus tropheops,Cichliformes,Cichlidae,Tropheops tropheops
-Labeotropheus fuelleborni,Cichliformes,Cichlidae,Labeotropheus fuelleborni
-Melanochromis auratus,Cichliformes,Cichlidae,Melanochromis auratus
-Pseudotropheus gracilior,Cichliformes,Cichliformes,Tropheops gracilior
-Pseudotropheus elongatus,Cichliformes,Cichlidae,Pseudotropheus elongatus
-Petrotilapia nigra,Cichliformes,Cichlidae,Petrotilapia nigra
-Pseudotropheus zebra,Cichliformes,Cichlidae,Maylandia zebra
-Dorosoma petenense,Clupeiformes,Clupeidae,Dorosoma petenense
-Clarius aghoyiensis,Siluriformes,Clariidae,Clarius aghoyiensis
-Clarius huthupogon,Siluriformes,Clariidae,Clarias buthupogon
-Clarius  macromysiax,Siluriformes,Clariidae,Clarius  macromysiax
-Clarius alhopunctattr.c,Siluriformes,Clariidae,Clarius albopunctatus
-Clarius buettifkoferi,Siluriformes,Clariidae,Clarias buettikoferi
+Chrysicthys  auratus longifilis,Siluriformes,Claroteidae,Chrysicthys  auratus longifilis
+E.(?)_inconstans,Gasterosteiformes,Gasterosteidae,Culaea inconstans
+E._aestivalis,Cypriniformes,Cyprinidae,Rhinichthys osculus
+largemouth bass,Perciformes,Centrachidae,Micropterus salmoides
+longear sunfish,Perciformes,Centrachidae,Lepomis megalotis
+Luxiluscornutus_na,Cypriniformes,Cyprinidae,Luxilus cornutus
+M.(?)_lesueurii,Cypriniformes,Catostomidae,Moxostoma macrolepidotum
+Microglanus sp.,Siluriformes,Pseudopimelodidae,Microglanus sp.
+N._cornutus,Cypriniformes,Cyprinidae,Luxilus cornutus
+N._deliciosus,Cypriniformes,Cyprinidae,Notropis deliciosus
+N._dorsalis,Cypriniformes,Cyprinidae,Notropis dorsalis
+N._rubellus,Cypriniformes,Cyprinidae,Notropis rubellus
+N._spilopterus,Cypriniformes,Cyprinidae,Cyprinella spiloptera
+NA,,,
+na_aestivalis,Cypriniformes,Cyprinidae,Rhinichthys osculus
+na_deliciosus,Cypriniformes,Cyprinidae,Notropis deliciosus
+na_perspicuus,Cypriniformes,Cyprinidae,Pimephales vigilax
+P._mirabilis,Cypriniformes,Cyprinidae,Phenacobius mirabilis
+P._Promelas,Cypriniformes,Cyprinidae,Pimephales promelas
+readear sunfish,Perciformes,Centrachidae,Lepomis microlophus
+redspotted sunfish,Perciformes,Centrachidae,Lepomis mineatus
+S._atromaculatus,Cypriniformes,Cyprinidae,Semotilus atromaculatus
+warmouth,Perciformes,Centrachidae,Lepomis gulosus
