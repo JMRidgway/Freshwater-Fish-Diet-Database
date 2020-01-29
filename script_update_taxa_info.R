@@ -77,3 +77,5 @@ data_fish_temp %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
 data_fish %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
 
 saveRDS(data_fish, file = "data_fish.rds")
+write.csv(fish_taxa_all, file = "fish_taxa_all.csv")
+write.csv(prey_taxa_all, file = "prey_taxa_all.csv")

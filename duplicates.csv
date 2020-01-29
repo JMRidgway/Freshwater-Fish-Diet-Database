@@ -1,0 +1,13 @@
+"","prey_taxon","prey_kingdom_add","prey_class_add","prey_order_add","prey_family_add","prey_species_add"
+"1","hydracarina","Metazoa","Arachnida","Trombidiformes",NA,NA
+"2","hydracarina",NA,NA,NA,NA,NA
+"3","nematoda","Metazoa",NA,NA,NA,NA
+"4","nematoda","Metazoa","Gastropoda",NA,"Ancylidae",NA
+"5","neuroptera","Metazoa","Insecta","Neuroptera",NA,NA
+"6","neuroptera","Metazoa","Malacostraca","Decapoda","Desmocarididae",NA
+"7","pteridophyta",NA,NA,NA,NA,NA
+"8","pteridophyta","Metazoa","Gastropoda",NA,"Thiaridae",NA
+"9","simulidae_larvae",NA,NA,NA,NA,NA
+"10","simulidae_larvae","Metazoa","Gastropoda","Cycloneritida","Neritidae",NA
+"11","trichoptera_larvae",NA,NA,NA,NA,NA
+"12","trichoptera_larvae",NA,NA,NA,NA,NA

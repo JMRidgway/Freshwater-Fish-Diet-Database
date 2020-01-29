@@ -17,71 +17,141 @@ data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Data
   mutate_all(funs('as.character')) %>% 
   remove_empty("rows")
 
-#taxa names distinct
-prey_taxa_distinct <- data_fish %>% distinct(prey_taxon, .keep_all = T) 
-fish_taxa_distinct <- data_fish %>% distinct(type_of_fish, .keep_all = T) 
-
-#load taxa names list
+#taxa we have
 prey_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/prey_taxa_all.csv"))
 fish_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/fish_taxa_all.csv"))
 
-# taxa we already have
-prey_already_taxized <- prey_taxa_all %>% filter(!is.na(prey_kingdom))
-fish_already_taxized <- fish_taxa_all %>% filter(!is.na(fish_order))
+#taxa names distinct
+prey_taxa_needed <- data_fish %>% 
+  filter(is.na(prey_kingdom)) %>% 
+  mutate(prey_taxon = str_trim(prey_taxon)) %>% 
+  distinct(prey_taxon)
 
-#taxa we need to add
-prey_needed <- prey_taxa_distinct %>% filter(is.na(prey_kingdom))
+fish_taxa_needed <- data_fish %>% filter(is.na(fish_family)) %>% 
+  distinct(type_of_fish, .keep_all = T) 
+ 
+prey_taxa_gnr <- gnr_resolve(names = prey_taxa_needed$prey_taxon, best_match_only = T)
 
-
-prey_taxon <- data_fish_refined %>% distinct(prey_taxon)
-
-prey_taxon_gnr <- gnr_resolve(names = prey_taxon$prey_taxon, best_match_only = T)
-
-prey_taxon_gnr_alreadyhave <- prey_taxon_gnr %>% 
+prey_taxa_gnr %>% 
   rename(prey_taxon = user_supplied_name) %>% 
-  left_join(data_fish_prey_taxa) %>% 
-  select(prey_taxon, kingdom_add, family_add,
-                                            class_add, order_add, species_add)
+  select(prey_taxon, matched_name) %>% 
+  right_join(data_fish) %>% 
+  left_join(prey_taxa_to_add)
+
+# 
+# prey_taxon_gnr_alreadyhave <- prey_taxon_gnr %>% 
+#   rename(prey_taxon = user_supplied_name) %>% 
+#   left_join(data_fish_prey_taxa) %>% 
+#   select(prey_taxon, kingdom_add, family_add,
+#                                             class_add, order_add, species_add)
+
+prey_taxa_gnr_distinct <- distinct(prey_taxa_gnr, matched_name)
+prey_taxa_added <- classification(prey_taxa_gnr_distinct$matched_name, db = "ncbi", 
+                                  return_id = T)
+
+prey_taxa_to_add <- rbind(prey_taxa_added) %>% 
+  filter(rank != "no rank") %>% 
+  select(-id) %>% 
+  pivot_wider(names_from = rank,
+              values_from = name) %>% 
+  select(query, kingdom, class, order, family, species) %>% 
+  rename(matched_name = query,
+         prey_kingdom_add = kingdom,
+         prey_class_add = class,
+         prey_order_add = order,
+         prey_family_add = family, 
+         prey_species_add = species) %>% 
+  right_join(prey_taxa_gnr, by = "matched_name") %>% 
+  rename(prey_taxon = user_supplied_name) %>% 
+  select(prey_taxon, prey_kingdom_add, prey_class_add, 
+         prey_order_add, prey_family_add, prey_species_add) 
 
 
-prey_taxa_names <- prey_taxon_gnr_alreadyhave %>%
-  filter(is.na(kingdom_add)) %>%
-  select(prey_taxon) %>%
-  rename(user_supplied_name = prey_taxon) %>%
-  left_join(prey_taxon_gnr) 
+prey_taxa_to_add %>% 
+  group_by(prey_taxon) %>%
+  filter(n()>1) %>% arrange(prey_taxon) %>% View()
 
 
-prey_taxa_names_distinct <- prey_taxa_names %>% 
-  distinct(matched_name)
+
+test <- data_fish %>% 
+  select(prey_taxon) %>% 
+  distinct()
+
+test2 <- prey_taxa_gnr %>% 
+  rename(prey_taxon = user_supplied_name) %>% 
+  select(prey_taxon, matched_name) %>% 
+  right_join(test)
 
 
-first_1_49 <- prey_taxa_names_distinct %>% slice(1:49)
 
-prey_taxa_taxized_1 <- classification(first_1_49$matched_name,
-                                    db = "ncbi", return_id = T)
-
-first_50_99 <- prey_taxa_names_distinct %>% slice(50:99)
-
-prey_taxa_taxized_2 <- classification(first_50_99$matched_name,
-                                      db = "ncbi", return_id = T)
+setdiff(test$prey_taxon, test2$prey_taxon)  
 
 
-first_100_149 <- prey_taxa_names_distinct %>% slice(100:149)
-prey_taxa_taxized_4 <- classification(first_100_149$matched_name,
-                                      db = "ncbi", return_id = T)
+mutate(prey_kingdom = case_when(is.na(prey_kingdom) ~ prey_kingdomadd,
+                                  TRUE ~ prey_kingdom),
+         prey_class = case_when(is.na(prey_class) ~ prey_classadd,
+                                TRUE ~ prey_class),
+         prey_order = case_when(is.na(prey_order) ~ prey_orderadd,
+                                TRUE ~ prey_order),
+         prey_family = case_when(is.na(prey_family) ~ prey_familyadd,
+                                 TRUE ~ prey_family),
+         prey_species = case_when(is.na(prey_species) ~ prey_speciesadd,
+                                  TRUE ~ prey_species)) %>% 
+  group_by(prey_family) %>% tally() %>% arrange(-n)
+         
+         
+         fish_order = case_when(is.na(fish_order) ~ fish_orderadd,
+                                TRUE ~ fish_order),
+         fish_family = case_when(is.na(fish_family) ~ fish_familyadd,
+                                 TRUE ~ fish_family),
+         fish_species = case_when(is.na(fish_species) ~ fish_speciesadd,
+                                  TRUE ~ fish_species)) %>% 
+  select(-prey_kingdomadd, -prey_classadd, -prey_orderadd,
+         -prey_familyadd, -prey_speciesadd)
+         -fish_orderadd, -fish_speciesadd, -fish_familyadd)
 
-first_150_198 <- prey_taxa_names_distinct %>% slice(150:198)
-prey_taxa_taxized_5 <- classification(first_150_198$matched_name,
-                                      db = "ncbi", return_id = T)
 
 
-first_199_235 <- prey_taxa_names_distinct %>% slice(199:235)
-prey_taxa_taxized_6 <- classification(first_199_235$matched_name,
-                                      db = "ncbi", return_id = T)
 
-first_236_272 <- prey_taxa_names_distinct %>% slice(236:272)
-prey_taxa_taxized_7 <- classification(first_236_272$matched_name,
-                                      db = "ncbi", return_id = T)
+# 
+# prey_taxa_names <- prey_taxon_gnr_alreadyhave %>%
+#   filter(is.na(kingdom_add)) %>%
+#   select(prey_taxon) %>%
+#   rename(user_supplied_name = prey_taxon) %>%
+#   left_join(prey_taxon_gnr) 
+# 
+# 
+# prey_taxa_names_distinct <- prey_taxa_names %>% 
+#   distinct(matched_name)
+# 
+# 
+# first_1_49 <- prey_taxa_names_distinct %>% slice(1:49)
+# 
+# prey_taxa_taxized_1 <- classification(first_1_49$matched_name,
+#                                     db = "ncbi", return_id = T)
+# 
+# first_50_99 <- prey_taxa_names_distinct %>% slice(50:99)
+# 
+# prey_taxa_taxized_2 <- classification(first_50_99$matched_name,
+#                                       db = "ncbi", return_id = T)
+# 
+# 
+# first_100_149 <- prey_taxa_names_distinct %>% slice(100:149)
+# prey_taxa_taxized_4 <- classification(first_100_149$matched_name,
+#                                       db = "ncbi", return_id = T)
+# 
+# first_150_198 <- prey_taxa_names_distinct %>% slice(150:198)
+# prey_taxa_taxized_5 <- classification(first_150_198$matched_name,
+#                                       db = "ncbi", return_id = T)
+# 
+# 
+# first_199_235 <- prey_taxa_names_distinct %>% slice(199:235)
+# prey_taxa_taxized_6 <- classification(first_199_235$matched_name,
+#                                       db = "ncbi", return_id = T)
+# 
+# first_236_272 <- prey_taxa_names_distinct %>% slice(236:272)
+# prey_taxa_taxized_7 <- classification(first_236_272$matched_name,
+#                                       db = "ncbi", return_id = T)
 
 
 prey_taxon_add <- rbind(prey_taxa_taxized_1,
