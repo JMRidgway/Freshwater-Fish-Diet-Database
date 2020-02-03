@@ -23,17 +23,18 @@ fish_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRid
 
 #taxa names distinct
 prey_taxa_needed <- data_fish_temp %>% 
-  filter(is.na(prey_kingdom)) %>% 
-  mutate(prey_taxon = str_trim(prey_taxon)) %>% 
-  distinct(prey_taxon)
+  filter(is.na(prey_class)) %>% 
+  group_by(prey_taxon_cleaned) %>% 
+  tally() %>% 
+  drop_na()
 
 fish_taxa_needed <- data_fish_temp %>% filter(is.na(fish_family)) %>% 
   distinct(type_of_fish, .keep_all = T) 
  
-prey_taxa_gnr <- gnr_resolve(names = prey_taxa_needed$prey_taxon, best_match_only = T)
+prey_taxa_gnr <- gnr_resolve(names = prey_taxa_needed$prey_taxon_cleaned, best_match_only = T)
 
 prey_taxa_gnr_distinct <- distinct(prey_taxa_gnr, matched_name)
-prey_taxa_added <- classification(prey_taxa_gnr_distinct$matched_name, db = "ncbi", 
+prey_taxa_added <- classification(prey_taxa_needed$prey_taxon_cleaned, db = "gbif", 
                                   return_id = T)
 
 prey_taxa_to_add <- rbind(prey_taxa_added) %>% 
