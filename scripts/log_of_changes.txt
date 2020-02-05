@@ -10,3 +10,5 @@ Added a column called "prey_type" that identifies animal, plant, detritus, sand,
 Deleted some rows with missing values or duplicates that were identified during taxizing
 Added a "measure_numeric" column that contains the measurements as numbers
 Assigned trace values to 0.0001 in "measure_numeric" b/c the lowest non-zero value in the dataset was 0.0002, so this is half of that.
+Fixed data entry error with Ayinla (forgot to delte column before gathering, so prey taxon included % and No., etc).
+Added pipe to 2_script_update_master.R that will create a measure_numeric column and fix typos based on previous occurrences.
