@@ -13,11 +13,26 @@ library(rlist)
 library(RCurl)
 
 
-# Load taxa info ----------------------------------------------------------
 
-#load taxa names to append later
-prey_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/prey_taxa_all.csv"))
-fish_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRidgway/Freshwater-Fish-Diet-Database/master/fish_taxa_all.csv"))
+# Load master data set ----------------------------------------------------
+data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
+  mutate_all(funs('as.character')) %>% 
+  remove_empty("rows")
+
+#make a list of taxa names to append later for prey and fish ----------------------------------------------------------
+#makes two sets, one with original spelling, and the other in sentence case.
+prey_taxa_all <- data_fish %>% select(prey_taxon, prey_type, prey_kingdom, prey_phylum, prey_class, prey_order, prey_family, prey_genus, prey_species) %>% 
+  distinct(prey_taxon, .keep_all = TRUE) %>% 
+  mutate(prey_taxon_sent = str_to_sentence(prey_taxon)) %>% 
+  gather(key, prey_taxon, c(prey_taxon, prey_taxon_sent)) %>% 
+  select(-key)
+
+fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fish_genus_species) %>% 
+  distinct(type_of_fish, .keep_all = TRUE) %>% 
+  mutate(type_of_fish_sent = str_to_sentence(type_of_fish)) %>% 
+  gather(key, type_of_fish, c(type_of_fish, type_of_fish_sent)) %>% 
+  select(-key)
+
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
