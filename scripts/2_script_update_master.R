@@ -54,6 +54,7 @@ data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Data
 
 write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)
 
+
 #stack new data to old data
 data_fish_updated <- bind_rows(data_fish, new_data_latlon)
 
