@@ -1,0 +1,12 @@
+2020-01
+Dates that only had month and year were assigned a day as "1" to allow the dates to have a common format. 
+Dates that had only year (e.g. sampled between 1955 and 1957) were assigned 1/1/1955 and 1/1/1957, unless seasons were given , in which case month corresponded with the start and end of each season relative to the hemisphere of the site.
+
+
+2020-02-05
+All below were done to database/data_fish.rds
+Finalized all prey_taxon taxonomic information - most used classification in taxize package, but some were searched and entered by hand in excel, then imported to data_fish.rds
+Added a column called "prey_type" that identifies animal, plant, detritus, sand, etc.
+Deleted some rows with missing values or duplicates that were identified during taxizing
+Added a "measure_numeric" column that contains the measurements as numbers
+Assigned trace values to 0.0001 in "measure_numeric" b/c the lowest non-zero value in the dataset was 0.0002, so this is half of that.
