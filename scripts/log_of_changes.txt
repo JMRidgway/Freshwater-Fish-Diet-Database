@@ -16,3 +16,4 @@ Added pipe to 2_script_update_master.R that will create a measure_numeric column
 2020-02-06
 updated dates to common format
 updated missing fish species. Column "fish_species" currently has zero NA's
+updated length measures to common format (total length, standard length, fork length, wet weight, na, NA)
