@@ -17,3 +17,13 @@ Added pipe to 2_script_update_master.R that will create a measure_numeric column
 updated dates to common format
 updated missing fish species. Column "fish_species" currently has zero NA's
 updated length measures to common format (total length, standard length, fork length, wet weight, na, NA)
+
+2020-02-07
+Removed frequency of occurrence data from two papers (White and Wallace 1973 and Modde and Schmulbach 1977)
+cleaned the measurement_unit and measurement_type columns. Now cleaned into a single column measurement_typeunits
+Added fish_id this way... %>% unite(fish_id_add, c(site_name, predator_min_length, predator_max_length, type_of_fish,
+                       sample_size, measurement_type, measurement_units, author, year, citation, table_figure, 
+                       start_date, end_date, fish_family, fish_genus, fish_species), remove = F, na.rm = F) %>%
+  mutate(fish_id = as.numeric(as.factor(fish_id_add))) %>% 
+  select(-fish_id_add)
+Lots of percentage data don't add up to 100. Need to work on this on Monday.
