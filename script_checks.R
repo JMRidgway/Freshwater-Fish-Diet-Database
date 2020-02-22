@@ -17,17 +17,16 @@ library(RCurl)
 #   remove_empty("rows") 
 
 #check if percent measures do not sum to 100
-data_fish %>% 
+data_fish_update %>% 
   distinct() %>% 
   unite(author_year_tbl, c("author", "year", "table_figure"),sep = "_", remove = F) %>% 
   distinct() %>% 
-  filter(grepl("proportion", measurement_typeunits)) %>% 
-  mutate(fish_id_temp = as.numeric(as.factor(fish_id_temp))) %>% 
-  group_by(fish_id_temp,  citation, author_year_tbl, sample_size, start_date) %>% 
+  filter(grepl("percent", measurement_typeunits)) %>% 
+  group_by(fish_id,  citation, author_year_tbl, sample_size, start_date) %>% 
   summarize(total = sum(as.numeric(measure_numeric))) %>% 
   filter(total != 100) %>% 
   ungroup() %>% 
-  distinct(fish_id_temp,  total, citation, author_year_tbl, sample_size, start_date) %>% 
+  distinct(fish_id,  total, citation, author_year_tbl, sample_size, start_date) %>% 
   arrange(-total) %>% View()
 
 # temp <-data_fish %>%  mutate(start_date = case_when(author == "Idodo_Umeh" ~ "3/1/1982",

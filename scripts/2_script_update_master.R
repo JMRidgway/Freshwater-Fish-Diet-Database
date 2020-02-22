@@ -32,7 +32,7 @@ data_to_add <- bind_rows(unclass(lapply(data_combine_csv.list, FUN = fish_mutate
 
 #get lat/lon (requires API from google and internet connection - if it doesn't work, skip this step)
 lat_lon <- data_to_add %>% 
-  # filter(!is.na(site_name)) %>% 
+  # filter(is.na(site_name)) %>% View()
   distinct(site_name) %>% 
   mutate_geocode(site_name) %>% 
   mutate_all(as.character)
@@ -92,9 +92,9 @@ write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),
 
 
 #stack new data to old data and create a numeric column of measures (check for new cases)
-data_fish_update <- bind_rows(data_fish, new_data_latlon) %>% 
-  mutate(fish_id = case_when(fish_id == "NA" ~ as.numeric(as.factor(fish_id_new)),
-                             TRUE ~ as.numeric(as.factor(fish_id_add))))
+data_fish_update <- bind_rows(data_fish, new_data_latlon) 
+  # mutate(fish_id = case_when(fish_id == "NA" ~ as.numeric(as.factor(fish_id_new)),
+  #                            TRUE ~ as.numeric(as.factor(fish_id_add))))
 
 #save updated data as "data_fish.rds"
 saveRDS(data_fish_update, file = "database/data_fish.rds")

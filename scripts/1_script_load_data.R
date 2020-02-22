@@ -39,12 +39,15 @@ fish_gather <- function(dt){
     clean_names() %>% 
     remove_empty("rows") %>% 
     # rename_at(1, ~"site_name") %>%
-    mutate(fish_id_new = paste0(author,"_", year,"_",table_figure,"_", sample_size, "_",measurement_units, measurement_type,
+    mutate(row = row_number(),
+           fish_id = paste0(author,"_", year,"_",table_figure,"_",
+                                row, "_", sample_size, "_",measurement_units, measurement_type,
                                 "_", site_name,"_",
                                 predator_min_length, "_", predator_max_length, "_", sample_id,
                                 "_", start_date, "_", end_date, habitat, microhabitat)) %>%
-    select(fish_id_new, everything()) %>% 
-    gather(prey_taxon, measurement, -"fish_id_new":-"notes") %>% 
+    select(fish_id, -row, everything()) %>%
+    select(-row) %>% 
+    gather(prey_taxon, measurement, -"fish_id":-"notes") %>% 
     mutate_each(as.character) %>% 
     mutate(prey_stage = case_when(grepl("arva", prey_taxon) ~"larvae",
                                   grepl("adult",prey_taxon) ~ "adults",
