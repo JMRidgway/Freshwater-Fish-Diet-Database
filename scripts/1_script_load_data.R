@@ -15,9 +15,9 @@ library(RCurl)
 
 
 # Load master data set ----------------------------------------------------
-# data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
-#   mutate_all(funs('as.character')) %>% 
-#   remove_empty("rows")
+data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>%
+  mutate_all(funs('as.character')) %>%
+  remove_empty("rows")
 
 #make a list of taxa names to append later for prey and fish ----------------------------------------------------------
 #makes two sets, one with original spelling, and the other in sentence case.
