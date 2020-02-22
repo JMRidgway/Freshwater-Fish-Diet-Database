@@ -15,38 +15,37 @@ library(RCurl)
 
 
 # Load master data set ----------------------------------------------------
-data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
-  mutate_all(funs('as.character')) %>% 
-  remove_empty("rows")
+# data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
+#   mutate_all(funs('as.character')) %>% 
+#   remove_empty("rows")
 
 #make a list of taxa names to append later for prey and fish ----------------------------------------------------------
 #makes two sets, one with original spelling, and the other in sentence case.
-prey_taxa_all <- data_fish %>% select(prey_taxon, prey_type, prey_kingdom, prey_phylum, prey_class, prey_order, prey_family, prey_genus, prey_species) %>% 
-  distinct(prey_taxon, .keep_all = TRUE) %>% 
-  mutate(prey_taxon_sent = str_to_sentence(prey_taxon)) %>% 
-  gather(key, prey_taxon, c(prey_taxon, prey_taxon_sent)) %>% 
-  select(-key)
+prey_taxa_all <- data_fish %>% select(prey_taxon, prey_kingdom, prey_class, prey_order, prey_family, prey_species) %>% 
+  distinct(prey_taxon, .keep_all = TRUE) 
 
 fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fish_genus_species) %>% 
-  distinct(type_of_fish, .keep_all = TRUE) %>% 
-  mutate(type_of_fish_sent = str_to_sentence(type_of_fish)) %>% 
-  gather(key, type_of_fish, c(type_of_fish, type_of_fish_sent)) %>% 
-  select(-key)
+  distinct(type_of_fish, .keep_all = TRUE) 
 
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020-02-05jeff"
+folder <- "2020-02-16jeff"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information
-fish_gather <- function(dt) {
+fish_gather <- function(dt){
   dt <- dt  %>% 
     clean_names() %>% 
     remove_empty("rows") %>% 
     # rename_at(1, ~"site_name") %>%
-    gather(prey_taxon, measurement, -"site_name":-"notes") %>% 
-    mutate_each(funs("as.character")) %>% 
+    mutate(fish_id_new = paste0(author,"_", year,"_",table_figure,"_", sample_size, "_",measurement_units, measurement_type,
+                                "_", site_name,"_",
+                                predator_min_length, "_", predator_max_length, "_", sample_id,
+                                "_", start_date, "_", end_date, habitat, microhabitat)) %>%
+    select(fish_id_new, everything()) %>% 
+    gather(prey_taxon, measurement, -"fish_id_new":-"notes") %>% 
+    mutate_each(as.character) %>% 
     mutate(prey_stage = case_when(grepl("arva", prey_taxon) ~"larvae",
                                   grepl("adult",prey_taxon) ~ "adults",
                                   grepl("ymph", prey_taxon) ~ "larvae",
@@ -55,7 +54,8 @@ fish_gather <- function(dt) {
                                   grepl("Pupa", prey_taxon) ~ "pupae",
                                   grepl("immatur", prey_taxon) ~ "larvae",
                                   grepl("notadult", prey_taxon) ~ "larvae/pupae",
-                                  TRUE ~ "unknown"))}
+                                  TRUE ~ "unknown"),
+           prey_taxon = str_replace(prey_taxon, "_", " "))}
 
 
 
@@ -87,8 +87,7 @@ combine_data <- bind_rows(new_csv, new_xlsx) %>%
   mutate_all(funs('as.character'))
 
 #save a copy as a csv
-write.csv(combine_data, file = paste0("database/data_to_add/",folder,".csv"),row.names=FALSE)
-
+write.csv(combine_data, file = paste0("database/data_to_add/",Sys.Date(),".csv"),row.names=FALSE)
 
 #----------REPEAT FOR ALL FOLDERS WITH FILES TO ADD----------------
 

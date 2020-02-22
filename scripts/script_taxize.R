@@ -23,18 +23,27 @@ fish_taxa_all <- read.csv(text = getURL("https://raw.githubusercontent.com/JMRid
 
 #taxa names distinct
 prey_taxa_needed <- data_fish_temp %>% 
-  filter(is.na(prey_class)) %>% 
-  group_by(prey_taxon_cleaned) %>% 
+  filter(is.na(prey_kingdom)) %>% 
+  group_by(prey_taxon) %>% 
   tally() %>% 
+  drop_na() %>% 
+  left_join(prey_taxa_to_clean) %>% 
+  distinct(search_term) %>% 
   drop_na()
+
+prey_taxa_needed <- data_fish_temp %>% 
+  filter(is.na(prey_kingdom)) %>% 
+  distinct(prey_taxon)
+write.csv(prey_taxa_needed, file = "prey_taxa_needed.csv")
+
 
 fish_taxa_needed <- data_fish_temp %>% filter(is.na(fish_family)) %>% 
   distinct(type_of_fish, .keep_all = T) 
  
-prey_taxa_gnr <- gnr_resolve(names = prey_taxa_needed$prey_taxon_cleaned, best_match_only = T)
+prey_taxa_gnr <- gnr_resolve(names = prey_taxa_needed$search_term, best_match_only = T)
 
 prey_taxa_gnr_distinct <- distinct(prey_taxa_gnr, matched_name)
-prey_taxa_added <- classification(prey_taxa_needed$prey_taxon_cleaned, db = "gbif", 
+prey_taxa_added <- classification(prey_taxa_needed$search_term, db = "eol", 
                                   return_id = T)
 
 prey_taxa_to_add <- rbind(prey_taxa_added) %>% 
@@ -42,77 +51,85 @@ prey_taxa_to_add <- rbind(prey_taxa_added) %>%
   select(-id) %>% 
   pivot_wider(names_from = rank,
               values_from = name) %>% 
-  select(query, kingdom, class, order, family, species) %>% 
-  rename(matched_name = query,
+  select(query, kingdom, class, order, family, genus, species) %>% 
+  rename(prey_taxon = query,
          prey_kingdom_add = kingdom,
          prey_class_add = class,
          prey_order_add = order,
-         prey_family_add = family, 
+         prey_family_add = family,
+         prey_genus_add = genus,
          prey_species_add = species) %>% 
-  right_join(prey_taxa_gnr, by = "matched_name") %>% 
-  rename(prey_taxon = user_supplied_name) %>% 
+  # right_join(prey_taxa_gnr, by = "matched_name") %>% 
+  # rename(prey_taxon = user_supplied_name) %>% 
   select(prey_taxon, prey_kingdom_add, prey_class_add, 
-         prey_order_add, prey_family_add, prey_species_add) 
-
-
-duplicates <- prey_taxa_to_add %>% 
-  group_by(prey_taxon) %>%
-  filter(n()>1) %>% arrange(prey_taxon) %>% 
-  ungroup() %>% 
-  mutate(delete_row = delete) %>% 
-  unite(delete_id, c("prey_taxon", "prey_kingdom_add","prey_class_add","prey_order_add"),
-        remove = F)
-# write.csv(duplicates, file = "duplicates.csv")
-
-delete <- c(NA,
-            "delete",
-            NA,
-            "delete",
-            NA,
-            "delete",
-            NA,
-            "delete",
-            NA,
-            "delete",
-            NA,
-            "delete")
-
-prey_taxa_to_add_full <- prey_taxa_to_add %>% 
-  unite(delete_id, c("prey_taxon", "prey_kingdom_add","prey_class_add","prey_order_add"),
-      remove = F) %>% 
-  left_join(duplicates) %>% 
-  filter(delete_row != "delete" | is.na(delete_row)) %>% 
-  select(-delete_id) %>% 
-  distinct()
-
-prey_taxa_to_add_full %>%
-  group_by(prey_taxon) %>%
-  filter(n()>1) %>% arrange(prey_taxon) %>% 
-  distinct() %>% View()
+         prey_order_add, prey_family_add, prey_species_add, prey_genus_add) 
   
+# 
+# 
+# duplicates <- prey_taxa_to_add %>% 
+#   group_by(prey_taxon) %>%
+#   filter(n()>1) %>% arrange(prey_taxon) %>% 
+#   ungroup() %>% 
+#   mutate(delete_row = delete) %>% 
+#   unite(delete_id, c("prey_taxon", "prey_kingdom_add","prey_class_add","prey_order_add"),
+#         remove = F)
+# # write.csv(duplicates, file = "duplicates.csv")
+# 
+# delete <- c(NA,
+#             "delete",
+#             NA,
+#             "delete",
+#             NA,
+#             "delete",
+#             NA,
+#             "delete",
+#             NA,
+#             "delete",
+#             NA,
+#             "delete")
+# 
+# prey_taxa_to_add_full <- prey_taxa_to_add %>% 
+#   unite(delete_id, c("prey_taxon", "prey_kingdom_add","prey_class_add","prey_order_add"),
+#       remove = F) %>% 
+#   left_join(duplicates) %>% 
+#   filter(delete_row != "delete" | is.na(delete_row)) %>% 
+#   select(-delete_id) %>% 
+#   distinct()
+# 
+# prey_taxa_to_add_full %>%
+#   group_by(prey_taxon) %>%
+#   filter(n()>1) %>% arrange(prey_taxon) %>% 
+#   distinct() %>% View()
+#   
 
+prey_taxa_to_add <- read_csv("prey_taxa_needed.csv")
 
 test_fish <- data_fish_temp %>% 
-  left_join(prey_taxa_to_add_full) %>% 
+  left_join(prey_taxa_to_add) %>%
   mutate(prey_kingdom = case_when(is.na(prey_kingdom) ~ prey_kingdom_add,
                                   TRUE ~ prey_kingdom),
+         prey_phylum = case_when(is.na(prey_phylum) ~ prey_phylum_add,
+                                 TRUE ~ prey_phylum),
          prey_class = case_when(is.na(prey_class) ~ prey_class_add,
                                 TRUE ~ prey_class),
          prey_order = case_when(is.na(prey_order) ~ prey_order_add,
                                 TRUE ~ prey_order),
          prey_family = case_when(is.na(prey_family) ~ prey_family_add,
                                  TRUE ~ prey_family),
+         prey_genus = case_when(is.na(prey_genus) ~ prey_genus_add,
+                                 TRUE ~ prey_genus),
          prey_species = case_when(is.na(prey_species) ~ prey_species_add,
                                   TRUE ~ prey_species)) %>% 
   select(-contains("_add"))
 
 
-data_fish %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
-test_fish %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
+data_fish %>% group_by(prey_class) %>% tally() %>% arrange(-n)
+test_fish %>% group_by(prey_class) %>% tally() %>% arrange(-n)
 
 # 
-# data_fish <- test_fish
-# saveRDS(data_fish, file = "database/data_fish.rds")
+data_fish <- test_fish
+saveRDS(data_fish, file = "database/data_fish.rds")
+
 
 
 # Taxize fish -------------------------------------------------------------
@@ -134,7 +151,10 @@ fish_taxa_gnr <- gnr_resolve(names = fish_taxa_needed$type_of_fish, best_match_o
 
 
 fish_taxa_gnr_distinct <- distinct(fish_taxa_gnr, matched_name)
-fish_taxa_added <- classification(fish_taxa_gnr_distinct$matched_name, db = "ncbi", 
+
+
+fish_taxa_needed <- read_csv("fish_taxa_needed.csv")
+fish_taxa_added <- classification(fish_taxa_needed$search_fish, db = "gbif", 
                                   return_id = T)
 
 fish_taxa_to_add <- rbind(fish_taxa_added) %>% 

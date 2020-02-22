@@ -11,7 +11,8 @@ library(rlist)
 library(ggmap)
 
 data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
-  mutate_all(funs('as.character')) %>% 
+  mutate_all(as.character) %>% 
+  mutate(measure_numeric = as.numeric(measure_numeric)) %>% 
   remove_empty("rows")
 
 sites <- data_fish %>% distinct(site_name,lat,lon) %>% filter(!is.na(lat)) %>% 
@@ -28,4 +29,5 @@ ggplot() +
              shape = 21,
              fill = "yellow") + 
   theme_void()
+
 

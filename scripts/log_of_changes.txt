@@ -27,3 +27,127 @@ Added fish_id this way... %>% unite(fish_id_add, c(site_name, predator_min_lengt
   mutate(fish_id = as.numeric(as.factor(fish_id_add))) %>% 
   select(-fish_id_add)
 Lots of percentage data don't add up to 100. Need to work on this on Monday.
+
+2020-02-11
+re-added some data that didn't add to 100. 
+
+
+2020-02-12
+fixed typos in Allin 1928. All percentages now add to 100. Error was in Chloryphyceae that was entered as 20 when it should have been 10 (checked originals).
+updated errors in the following (all _updated were turned into data_fish)
+data_fish_updated <- data_fish %>% 
+  mutate(measurement = case_when(fish_id == 396 & prey_taxon == "Chlorophyceae" ~ "10",
+                                 fish_id == 447 & prey_taxon == "Fish" ~ "50",
+                                 TRUE ~ measurement),
+         measure_numeric = case_when(fish_id == 396 & prey_taxon == "Chlorophyceae" ~ "10",
+                                     fish_id == 447 & prey_taxon == "Fish" ~ "50",
+                                     TRUE ~ measure_numeric))
+
+
+data_fish_updated <- data_fish %>% filter(prey_taxon != "x" & prey_taxon != "x_1")
+
+As of 2020-02-012 at 133pm, all percent data is <=105. I assume that most of the values that are above 100 are due to papers reporting the averages of percent in each category, rather than percent of the total prey caught.
+fixed Adite and Miller 2015 to be proportions rather than percents (measurement type and measurement_typeunits were fixed)
+
+
+2020-02-14
+removed Yalcin 2001. Numbers in original paper are not percentages, even though table says they are. 
+removed Whitaker 1977 (or 1997 typo). Need to re-extract due to table continuation that was lost.
+removed Cable 1923. Need to re-extract. Lot's of problems.
+removed Roman 2014. Numbers were reported for "main items only' according to table 2 legend.
+removed Huish 1957. Need to re-extract. Lot's of problems in original extraction.
+removed Moffet & Hunt. Numbers did not add to 100. Deleted.
+removed Goodson 1965. Numbers did not add to 100, but need to check and re-extract
+removed Klieman et al. 2019. Need to re-extract. Numbers were not correct. Table extrated included a sum column.
+
+removed sample sizes of zero (Crawford and Cable papers)
+re-entered and Wasserman et al. Original extraction missed a table continuation
+re-entered Brown 1938. Original had error in extraction. 
+re-entered Williams 1980 tables 1, 2, and 5. Original had error in extraction.
+re-entered Maddern tbl4
+
+data_fish_updated <- data_fish %>% 
+  filter(sample_size != "0", 
+         author != "Yalcin",
+         author != "Kliemann et al", #need to re-extract
+         author != "Goodson", #need to re-extract
+         author != "Edds et al.", #delete and do not use. Numbers do not add to 100%
+         author != "Moffet&Hunt", #delete and do not use. Numbers do not add to 100%
+         author != "Huish", #need to re-extract
+         author != "Cable", #need to re-extract
+         !grepl("Rom<e1>n-V", author), # numbers not reported for all prey taxa - do not use
+         !grepl("Whitaker Jr, J. O.", citation)) %>% #need to re-extract
+  mutate(start_date = case_when(author == "Idodo_Umeh" ~ "3/1/1982",
+                                TRUE ~ start_date),
+         end_date = case_when(author == "Idodo_Umeh" ~ "2/1/1984",
+                              TRUE ~ start_date),
+         fish_id_temp = paste0(author,"_", year,"_",table_figure,"_", sample_size, "_",measurement_units, measurement_type,
+                                                    "_", site_name,"_",
+                                                    predator_min_length, "_", predator_max_length, "_", sample_id,
+                                                    "_", start_date, "_", end_date, habitat, 
+                               microhabitat),
+         fish_id_old = fish_id,
+         fish_id = as.numeric(as.factor(fish_id_temp)),
+         fish_id = case_when(fish_id == 886 ~ 887,
+                             author == "Elakhame" & sample_size == "25" ~ 465,
+                             TRUE ~ fish_id)) %>% 
+  filter(fish_id != 782 | author != "Crawford",
+         fish_id != 809 | author != "Crawford",
+         fish_id != 409 | author != "Adalsteinsson", #total added to 92
+         fish_id != 410 | author != "Adalsteinsson", #total added to 95
+         fish_id != 421 | author != "Dorgeloh") 
+
+
+2020-02-16
+deleted Alexander and Perkins 2013. Data did not add to 100 in original
+deleted one sample from Arawomo b/c original data did not add to 100
+
+2020-02-17
+Checked Cochran & Adelman tbl2. One sample adds to 98%. Left it in, b/c the data are averages. Probably a result of averaging, rather than mistaken entry.
+Deleted Rice 1942 table 1. Need to re-extract. Mistakes in extraction step initially. 
+Checked Galat 1983 tbl2. One sample adds to 98%. Left it in, b/c the data are averages. Probably a result of averaging, rather than mistaken entry.
+Checked Mathur 1977 tbl3. Trace values are "<5%" 
+Checked de Almeida 1997 tbl1. It's at 101%, likely due to averaging.
+
+deleted three other papers and added them to the "need_to_reextract.xlxs" file.
+Current data_fish_updated has only percentages that are between 98 and 101. Checks on these suggest that they are mostly due to averaging, not mistakes.
+
+2020-02-18
+Checked de Held 1974 Table 3. It's at 101%, likely due to averaging.
+Checked Wilde 2001 table 2. It's at 101%, likely due to averaging.
+deleted Sanchez-Hernandez 2012. Need to re-extract. It has a two-page table, but only one page was extracted originally.
+deleted Mathur 1977 Table 3
+delted Adite 1997 Table 3
+deleted Adite 1997 Table 4
+
+data_fish_updated <- data_fish %>% 
+  filter(sample_size != "0", 
+         author != "Yalcin",
+         author != "Kliemann et al", #need to re-extract
+         author != "Goodson", #need to re-extract
+         author != "Edds et al.", #delete and do not use. Numbers do not add to 100%
+         author != "Moffet&Hunt", #delete and do not use. Numbers do not add to 100%
+         author != "Huish", #need to re-extract
+         author != "Cable", #need to re-extract
+         author_year_tbl != "Darnell_1958_tbl3", #duplicate
+         !grepl("George_1979", author_year_tbl), #need to re-extract
+         author_year_tbl != "Mathur_1977_tbl3", #need to re-extract
+         author_year_tbl != "Adite_1997_table_3", #need to re-extract
+         author_year_tbl != "Adite_1997_table_4", #need to re-extract
+         author_year_tbl != "Sanchez-Hernandez_2012_tbl2", #need to re-extract
+         author_year_tbl != "Keast_1978_tbl1", #need to re-extract. Numbers below 100, but later odd as well.
+         author_year_tbl != "Rice_1942_tbl1", #need to re-extract
+         author_year_tbl != "Aranha_1998_tbl3", #delete and re-enter. more than 100
+         author_year_tbl != "Adalsteinsson_1979_table 2", #delete and do not use. Numbers do not add to 100% in original
+         !grepl("Greger&Deacon_1980", author_year_tbl), #delete and re-extract. more than 100
+         !grepl("Rom<e1>n-V", author), # numbers not reported for all prey taxa - do not use
+         !grepl("Whitaker Jr, J. O.", citation)) %>% #need to re-extract
+  bind_rows(add_other_to_100) %>%
+  filter(fish_id != 782 | author != "Crawford", #totals did not add to 100 in original
+         fish_id != 809 | author != "Crawford", #totals did not add to 100 in original
+         fish_id != 286 | author != "Dorgeloh", #totals did not add to 100 in original
+         fish_id != 284 | author != "Dorgeloh", #totals did not add to 100 in original
+         author_year_tbl != "Alexander_2013_tbl1", #totals did not add to 100 in original
+         author_year_tbl != "Dorgeloh_1994_NA", #totals did not add to 100 in original
+         author_year_tbl != "Arawomo_1976_tbl2") #totals did not add to 100 in original 
+

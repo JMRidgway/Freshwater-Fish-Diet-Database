@@ -1,0 +1,806 @@
+"prey_taxon","prey_taxon_refined"
+"pteridophyta",NA
+"simulidae_larvae",NA
+"culicidae_larvae",NA
+"trichoptera_larvae","Trichoptera"
+"testacea",NA
+"centrales",NA
+"penales",NA
+"chironomidae_larvae_and_pupae",NA
+"oscillatoria",NA
+"root_leaf_stem_angyospermae",NA
+"fruits_seeds_angyospermae","Plantae"
+"detritus_sediment",NA
+"surface_food",NA
+"benthic_crustacea","Crustacean"
+"chironomid_larvae",NA
+"own_eggs",NA
+"plankton",NA
+"undigestible_trash",NA
+"sticklebacks",NA
+"detritus",NA
+"algae","Plantae"
+"protist_rotifoer",NA
+"vegetation",NA
+"seeds","Plantae"
+"microcrustaceans","Crustacean"
+"worms",NA
+"molluscs",NA
+"macrocrustaceans","Crustacean"
+"aquatic_insects","Insecta"
+"terrestrial_arthropods",NA
+"fish_other",NA
+"mugiliforms",NA
+"fish_eggs",NA
+"chaoborids",NA
+"fish_and_fish_remains",NA
+"tendipeds",NA
+"megaloptra",NA
+"elimdae",NA
+"non_filamentous_algae","Plantae"
+"fish_scales",NA
+"filamentous_algae","Plantae"
+"vascular_plant",NA
+"insect_parts","Insecta"
+"algae_and_plant_material_unknown","Plantae"
+"terrestrial_insect_parts","Insecta"
+"aquatic_insect_parts","Insecta"
+"terrestrial_insects_unkwon","Insecta"
+"detritus_and_other",NA
+"atyaephyra_desmaresti",NA
+"algae_and_plant_debris","Plantae"
+"nymphs_undet",NA
+"cyanophyceae",NA
+"euglenophyceae",NA
+"zignemaphyceae",NA
+"algae_unknwon","Plantae"
+"vegetable_materials_n_id",NA
+"sporangium_pteridophyta",NA
+"higher_plants",NA
+"seed","Plantae"
+"protista",NA
+"adult_insect_terrestrial","Insecta"
+"adult_insect_aquatic","Insecta"
+"adult_insect_unknown","Insecta"
+"immature_insect_aquatic","Insecta"
+"immature_insect_aquatic_1","Insecta"
+"immature_insect_unknown","Insecta"
+"fish",NA
+"eggs_unknown",NA
+"animal_materials_unknwon",NA
+"sand",NA
+"baccilariophyceae",NA
+"caddisfly_adult",NA
+"cladocem",NA
+"midge_adult",NA
+"mayfly_adult",NA
+"caddisfly_larvae",NA
+"water_fleas",NA
+"damselfly_nymph",NA
+"damselfly_adult",NA
+"aquatic_coleoptera_adult",NA
+"stonefly_nymph",NA
+"mayfly_nymph",NA
+"midge_larvae_pupae",NA
+"gastropods",NA
+"hydrachnida",NA
+"terrestria_coleoptera",NA
+"flies",NA
+"copepods",NA
+"chironomid_pupae",NA
+"gammarids",NA
+"bernie_cladocerm",NA
+"zooplanklon",NA
+"diatoms",NA
+"unidenfied_plant",NA
+"chaetopoda",NA
+"unidentified_insect","Insecta"
+"unidentified_debris",NA
+"thysanura_adult",NA
+"unidentified_plant_remains",NA
+"unsegmented_worms",NA
+"acarida",NA
+"arichnida",NA
+"unidentified_insects","Insecta"
+"fish_ova",NA
+"chironomidae_larvae",NA
+"unidentifed_parts",NA
+"ova_eggs",NA
+"calanoid",NA
+"rangia_cuneata",NA
+"foraminifera",NA
+"dipter_larvae","Diptera"
+"copepoda_undet",NA
+"harpacticoid",NA
+"bottom_diatoms",NA
+"hydroids",NA
+"sand_and_silt",NA
+"algae_filamentous","Plantae"
+"copepoda_arguloid",NA
+"palaemonid_shrimp_undet",NA
+"eggs_and_cysts",NA
+"crabs_undet",NA
+"sponges",NA
+"vascular_plants",NA
+"mysid_shrimp",NA
+"mytilopsis_leucopheata",NA
+"arguloid",NA
+"rot_if_era",NA
+"planktonic_diatoms",NA
+"fish_remains",NA
+"menidia_beryllina",NA
+"crabs",NA
+"cyclopoid",NA
+"pupae_adults",NA
+"crustacea_undet","Crustacean"
+"gambusia_affinis",NA
+"organic_mat_undet",NA
+"undetermined_copepods",NA
+"palaemonid_shrimp",NA
+"pal_aemonetes_sp",NA
+"penaeid_shrimp",NA
+"fish_larvae",NA
+"detritus_sand",NA
+"copepoda_harpacticoid",NA
+"sponge",NA
+"ran_gia_cuneata",NA
+"not_identified",NA
+"aquatic_vegetation",NA
+"hyphessobrycon_callistus",NA
+"schizodon_altoparanae",NA
+"aphyocharax_nasutus",NA
+"calichthys_cafichthys",NA
+"cyphocharax_modesta",NA
+"m_sanctae_filomenae",NA
+"roeboides_paranensis",NA
+"a_schubarti",NA
+"amphipods",NA
+"vegetable_mat",NA
+"shrimp",NA
+"shrimps",NA
+"parts_of_fishes",NA
+"tilapians",NA
+"fragilaria",NA
+"spirulina",NA
+"green_algal_unicells",NA
+"others",NA
+"filamentous_green_algae","Plantae"
+"inorganic_material",NA
+"fpom",NA
+"homoeothrix",NA
+"vegetation_detritus",NA
+"zooplankton",NA
+"terrestrial_insects","Insecta"
+"miscellaneous",NA
+"fishes",NA
+"araneida",NA
+"pulmonata",NA
+"unidentified_insect_larvae","Insecta"
+"plant_material",NA
+"unidentified_insect_parts","Insecta"
+"digested_animal_matter",NA
+"ttichoptera_larvae",NA
+"epemeroptera_newt",NA
+"other_aquatic_insects","Insecta"
+"diaplomus_skills",NA
+"nauplii",NA
+"cypricercus_sp",NA
+"diaphanosoma_leuchtenbergianum",NA
+"moina_hutchinsoni",NA
+"liemiptera",NA
+"molusca",NA
+"trichopters","Trichoptera"
+"moluscs",NA
+"other_diptera","Diptera"
+"tendipedidae",NA
+"other_insects","Insecta"
+"plant_materials",NA
+"alona_rectangula",NA
+"unidentified",NA
+"unidentified_material",NA
+"macroinvertebrates","Arthropods"
+"coleoptra",NA
+"unidentifiable_material",NA
+"microscopic_plants",NA
+"unidentifed_insects","Insecta"
+"unknown_insects","Insecta"
+"dipteran_pupae_adults","Diptera"
+"unidentifed",NA
+"dipteran_larvae","Diptera"
+"aerial_insects","Insecta"
+"maggots",NA
+"other_dipera_larvae",NA
+"indeterminate_molluscs",NA
+"simidium_pupae",NA
+"indeterminate_aquatic_insects","Insecta"
+"simtdium_pupae",NA
+"macrophytes_indeterminate",NA
+"simidium_larvae",NA
+"macrophytes",NA
+"debris_detritus",NA
+"mixed_algae","Plantae"
+"simtdium_larvae",NA
+"soil_debris_detritus",NA
+"sphaeriwn",NA
+"soil_mud_sand",NA
+"algae_with_substrate","Plantae"
+"diatoms_flamentous_algae_with_substrate","Plantae"
+"other_diptera_larvae","Diptera"
+"rice",NA
+"thread",NA
+"ephemeropteran_nymphs",NA
+"calothrix_sp",NA
+"oxyethira_maya",NA
+"dugesia_sp",NA
+"hemerodromia_stellaris",NA
+"oscillatoriaceae",NA
+"nostoc_sp",NA
+"hydrosera_sp",NA
+"others_aquatic_insect","Insecta"
+"aquatic_plants",NA
+"terrestrial_plants",NA
+"aquatic_invertebrates","Arthropods"
+"others_terrestrial_insect","Insecta"
+"simulbdae",NA
+"chiro_adults",NA
+"psychoinyiidae",NA
+"chiro_pupae",NA
+"chiro_larvae",NA
+"crustacea_remains","Crustacean"
+"vascular_remains",NA
+"other_trichoptera","Trichoptera"
+"chironomus_larvae",NA
+"arachnids",NA
+"bosmina_coregoni",NA
+"ciadotanytarsus_sp",NA
+"einfeldiu_sp",NA
+"identifed_animal_materials",NA
+"unidentifed_organic_material",NA
+"gobioninae",NA
+"homalopterinae",NA
+"unidentified_fish",NA
+"gammarid",NA
+"mollusk",NA
+"limnoperna_lacustris",NA
+"benthic_invertebrates","Arthropods"
+"unidentified_aquatic_insects","Insecta"
+"phytodetritus",NA
+"aquatic_insect_larvae","Insecta"
+"phytoplankton",NA
+"plant_seeds","Plantae"
+"eggs",NA
+"terrestrial",NA
+"alosa_pseudoharengus",NA
+"lepomis_gibbosus",NA
+"roccus_americanus",NA
+"fish_egg",NA
+"fish_debris",NA
+"unidentifed_fsh",NA
+"aquatic_arthropoda",NA
+"other_diptera_nonadult","Diptera"
+"terrestrial_arthropoda",NA
+"conchostraca_ostracoda",NA
+"invertebrate_eggs","Arthropods"
+"rests_of_fish",NA
+"rests_of_insects","Insecta"
+"scales",NA
+"inorganic_matter",NA
+"seeds_and_fruits","Plantae"
+"plant_debris",NA
+"organic_matter",NA
+"chironomid_adults",NA
+"animals",NA
+"empty_space",NA
+"algae_detritus","Plantae"
+"annelids",NA
+"plant_remains",NA
+"heminoptera",NA
+"bivalves",NA
+"adult",NA
+"fish_parts",NA
+"mollusks",NA
+"decapods",NA
+"juveniles",NA
+"fish_entire",NA
+"pediast_um",NA
+"navicula",NA
+"glenodinum",NA
+"trichocercia",NA
+"chironomoid_pupae",NA
+"insect_remains","Insecta"
+"ostracods",NA
+"total_fish",NA
+"other_remains",NA
+"anabaena",NA
+"total_insects","Insecta"
+"unidentified_eggs_and_other_remains",NA
+"protococcus",NA
+"total_crustaceans","Crustacean"
+"chironomoid_larvae",NA
+"nostoc",NA
+"melosira",NA
+"total_algae_and_rotifers","Plantae"
+"fish_aquatic",NA
+"crayfish_aquatic",NA
+"unidentified_insects_terrestrial","Insecta"
+"debris",NA
+"adult_diptera","Diptera"
+"merismopedia_sp",NA
+"oscillatoria_sp_2_3_2_<U+00B5>m_10_<U+00B5>m",NA
+"gyrosigma_sp",NA
+"pinnularia_sp_2",NA
+"surirella_sp_1",NA
+"surirella_sp_2",NA
+"unbranched_filamentous_algae_10_<U+00B5>m_50_m","Plantae"
+"unbranched_filamentous_algae_20_<U+00B5>m_30_m","Plantae"
+"gyrosigma_sp_1",NA
+"pinnularia_sp_1",NA
+"unbranched_filamentous_algae_120_<U+00B5>m_100_m","Plantae"
+"oscillatoria_sp_3",NA
+"cymbella_sp_3",NA
+"unbranched_filamentous_algae_20_<U+00B5>m_20_m","Plantae"
+"branched_filamentous_algae_150_<U+00B5>m_200_m","Plantae"
+"unbranched_filamentous_algae_100_<U+00B5>m_200_300_m","Plantae"
+"cymbella_sp_1",NA
+"unbranched_filamentous_algae_70_<U+00B5>m_80_m","Plantae"
+"amphora_sp_1",NA
+"oscillatoria_sp_1_2_5_<U+00B5>m_5_<U+00B5>m",NA
+"cyclotella_sp",NA
+"fragilaria_sp_1_150_<U+00B5>m",NA
+"particles_of_higher_vascular_plants",NA
+"vaucheria_sp",NA
+"branched_filamentous_algae_40_<U+00B5>m_250_m","Plantae"
+"branched_filamentous_algae_50_<U+00B5>m_400_m","Plantae"
+"amphora_sp_3",NA
+"nitzschia_sigmoida",NA
+"stauroneis_sp_1",NA
+"cymatopleura_sp",NA
+"unbranched_filamentous_algae_40_50_<U+00B5>m_200_m","Plantae"
+"amphora_sp_2",NA
+"fungus",NA
+"stauroneis_sp_2",NA
+"navicula_sp_1",NA
+"unbranched_filamentous_algae_25_<U+00B5>m_5_10_m","Plantae"
+"fragilaria_sp_6_370_500_<U+00B5>m",NA
+"frustulia_sp",NA
+"unbranched_filamentous_algae_50_60_<U+00B5>m_75_m","Plantae"
+"navicula_sp_3",NA
+"melosira_sp",NA
+"cocconeis_sp",NA
+"unbranched_filamentous_algae_30_<U+00B5>m_100_m","Plantae"
+"bacillariophyceae_50_m",NA
+"gomphonema_sp",NA
+"nitzshia_sp",NA
+"diatoma_sp",NA
+"unbranched_filamentous_algae_50_<U+00B5>m_60_m","Plantae"
+"fragilaria_sp_3_8_320_<U+00B5>m",NA
+"anabaena_sp",NA
+"cymbella_sp_2",NA
+"fragilaria_sp_2_8_<U+00B5>m_215_<U+00B5>m",NA
+"navicula_sp_2",NA
+"fragilaria_sp_4_10_<U+00B5>m_200_250_<U+00B5>m",NA
+"x_sponson_bugs_9",NA
+"fish_1",NA
+"tadpoles",NA
+"isomychia",NA
+"dorosoma_cepedianum",NA
+"ktalurus_punctatus",NA
+"ambloplites_rupestris",NA
+"decapod",NA
+"invertebrates","Arthropods"
+"cl_insecta","Insecta"
+"cl_crustacea","Crustacean"
+"sand_silt",NA
+"fragilaria_sp_5_400_<U+00B5>m",NA
+"table_2_continued",NA
+"copepoda_gen_sp",NA
+"micronecta_sp",NA
+"esolus_spp",NA
+"orectochilus_sp",NA
+"crustacean","Crustacean"
+"others_29",NA
+"others_39",NA
+"large_ostracoda",NA
+"small_ostracoda",NA
+"sessile_algae","Plantae"
+"detritus_substratum",NA
+"larvae_worms",NA
+"macroinsects","Insecta"
+"tomoptema",NA
+"acan",NA
+"thallassius_massajae",NA
+"chiromonid",NA
+"notonectid",NA
+"veliid",NA
+"trithemus",NA
+"others_44",NA
+"isopod",NA
+"copepod",NA
+"gastropod_eggs",NA
+"haplotaxid_oligochaetes",NA
+"harpacticoid_copepods",NA
+"cladocerans",NA
+"plant_seed","Plantae"
+"insect_eggs","Insecta"
+"thhysamoptera_adults",NA
+"chironoinicl_larvae",NA
+"elmid_larvae",NA
+"llarpacticoid_copepods",NA
+"chrionomid_pupae",NA
+"polycentropid_larvae",NA
+"trichopt_1_indet",NA
+"ephemeropt_n_indet",NA
+"si_m_uli_um_larvae",NA
+"tipulid_larvae",NA
+"limnaea_pereger",NA
+"winged_trichoptera","Trichoptera"
+"trichoptera_larvae_unknown","Trichoptera"
+"corixid",NA
+"pisidiuml_sphaerium",NA
+"leptocerid_larvae",NA
+"trichopt_i_indet",NA
+"fish_indet",NA
+"baetid_nymph",NA
+"winged_insects_terrest","Insecta"
+"winged_ephemeroptera",NA
+"amphibian_frog_bones",NA
+"crustaceans","Crustacean"
+"insects","Insecta"
+"plant_matter",NA
+"semi_digested_organic_matter",NA
+"crayfish",NA
+"prawns",NA
+"clupeids",NA
+"chiysicihys_sp",NA
+"synociontis_sp",NA
+"bones",NA
+"chrysicthys_sp",NA
+"fine_sand",NA
+"coarse_sand",NA
+"garri_fibres",NA
+"blue_green_algae","Plantae"
+"filamentous_g_reen_algae","Plantae"
+"fru_its",NA
+"oligochaetes_segments",NA
+"odonate_nymphs",NA
+"trichopteran_larvae","Trichoptera"
+"mosquito_pupae",NA
+"unidentified_dipteran_larvae","Diptera"
+"notonecitidae",NA
+"x1nsect_parts",NA
+"mites",NA
+"scales_of_fsh",NA
+"bones_of_fsh",NA
+"blue_filamentous_algae","Plantae"
+"fruits",NA
+"setac_of_oligochaetes",NA
+"adult_liemiptera",NA
+"triehopteran_larvae",NA
+"chironomuslarvae",NA
+"chiron017111s_pupae",NA
+"fish_retnains",NA
+"chtronomus_pupae",NA
+"coleopteran_larvae",NA
+"cichlids",NA
+"linidentified_fish",NA
+"green_filamentous_algae","Plantae"
+"oligochaetes",NA
+"shell_fragments",NA
+"other_prey",NA
+"dragonflies",NA
+"damselflies",NA
+"mayflies",NA
+"grass_shrimp",NA
+"catfish",NA
+"shiners",NA
+"killifishes",NA
+"large_cypriniformes",NA
+"sunfishes",NA
+"largemouth_bass",NA
+"chain_pickerel",NA
+"shad",NA
+"insect_fragment","Insecta"
+"mesovelidae",NA
+"unidentifiable_vegetal_matter",NA
+"hydracarinae",NA
+"digested_matter",NA
+"fish_remaining",NA
+"arthropod_fragment",NA
+"miriapoda_diplopoda_adult",NA
+"crustacea_isopoda_adult","Crustacean"
+"vegetative_tissue",NA
+"cyanophyceae_oscillatoria_sp",NA
+"feather",NA
+"oocytes",NA
+"dyctioptera_ootheca",NA
+"rocks",NA
+"micronekton",NA
+"zoobenthos",NA
+"unidentifable",NA
+"chroococcus",NA
+"merismopedia",NA
+"microcystis",NA
+"arthrospira",NA
+"cymbella",NA
+"nitzschia",NA
+"pinnularia",NA
+"gleocystis",NA
+"a_falcatus",NA
+"a_convulatus",NA
+"algae_unicell_filament","Plantae"
+"bacillariophyceae",NA
+"vegetal_matter",NA
+"protozoa",NA
+"teleost",NA
+"organic_matter_not_identified",NA
+"silt_biofilm",NA
+"teleost_invertebrate_eggs","Arthropods"
+"terrestrial_insects_parts","Insecta"
+"copepoda_larvae",NA
+"unident_terr_insect","Insecta"
+"unident_aq_insect","Insecta"
+"aquatic_insect_eggs","Insecta"
+"unident_fish",NA
+"fish_bone",NA
+"fish_fin",NA
+"leaf_litter",NA
+"fine_detritus",NA
+"woody_debris",NA
+"collembolla",NA
+"mud",NA
+"bait_mash_of_oil_and_garri",NA
+"unidentified_plant_parts",NA
+"unidentified_fruit_seed","Plantae"
+"unidentified_animal_parts",NA
+"x_trichopteran_larva","Trichoptera"
+"hymenopteran_nymph",NA
+"partially_digested_shrimps",NA
+"crab_parts",NA
+"detritus_mud",NA
+"green_algae","Plantae"
+"colonial_green_algae","Plantae"
+"sand_grains",NA
+"insect_larvae","Insecta"
+"mud_detritus",NA
+"microcystis_sp",NA
+"oscillatoria_sp",NA
+"green_algae_unicellular","Plantae"
+"costnarium_sp",NA
+"eurastrunz_sp",NA
+"scenedestnus_sp",NA
+"selenastrumsp",NA
+"vo_vox_sp",NA
+"green_algae_filamentous","Plantae"
+"navicula_sp",NA
+"pinnularia_sp",NA
+"nitzchia_sp",NA
+"PlumateIla",NA
+"Ooze",NA
+"Unidentifed  material",NA
+"copepoda_copepodids",NA
+"iliocryptus_sordidus",NA
+"asplachna_sp",NA
+"larvae_chironomidae",NA
+"larvae_chaoborus",NA
+"larvae_trichoptera","Trichoptera"
+"nymphs_insecta","Insecta"
+"nymphs_odonata",NA
+"nymphs_ephemeroptera",NA
+"nymphs_diptera","Diptera"
+"b_longirostris",NA
+"c_pulchella",NA
+"i_sordidus",NA
+"decanoda",NA
+"nymphs_insecta_other","Insecta"
+"nymphs_diptera_other","Diptera"
+"x52",NA
+"s_mossambicus",NA
+"p_philander",NA
+"cichlid_fry",NA
+"g_giurus",NA
+"h_orbiculare",NA
+"c_nilotica",NA
+"p_sidneyi",NA
+"g_lignorunz",NA
+"p_latipes",NA
+"c_carinata",NA
+"p_adttsta",NA
+"m_tuberctdatus",NA
+"b_capillata",NA
+"mollusea_gastropodes",NA
+"anisopteran_larvae",NA
+"zygopteran_larvae",NA
+"stratiomydae",NA
+"simulidae",NA
+"corixdae",NA
+"macrophytes_shoots_and_roots",NA
+"pisces",NA
+"oreochromis_niloticus",NA
+"aptocheilichthyes_sp",NA
+"thermocyclopes_equatorialis",NA
+"clarias_gariepinus",NA
+"cyanophytes",NA
+"dinoflagelates",NA
+"immature_insects","Insecta"
+"adults_insects","Insecta"
+"prawn",NA
+"plant_parts",NA
+"unidentified_items",NA
+"cyanophyta",NA
+"crysophyta",NA
+"aphasmida",NA
+"other_insecta","Insecta"
+"unidentified_prey",NA
+"nonprey_items",NA
+"other",NA
+"rotifer",NA
+"diatom",NA
+"dinoflagellate",NA
+"clams",NA
+"Organic  detritus",NA
+"Inorganic  detritus",NA
+"Detrius",NA
+"Bottom
+ooze",NA
+"Diptera
+","Diptera"
+"Ephemeroptera
+",NA
+"Trichoptera
+","Trichoptera"
+"Dipterous
+","Diptera"
+"Miscellaneous",NA
+"Terrestrial insects
+","Insecta"
+"Fish
+",NA
+"Cheumatopsyche",NA
+"Ephoron",NA
+"Heptageniidae",NA
+"Muscidae",NA
+"Crambidae",NA
+"Homoneuria",NA
+"Notropis",NA
+"Dromogomphus",NA
+"Heptagenia",NA
+"Glossosoma",NA
+"UnknownFish",NA
+"Simulium",NA
+"Isogenus",NA
+"atherinoides",NA
+"punctatus",NA
+"spp.",NA
+"Unidentifable  parts",NA
+"Organic-inorganic  debris",NA
+"Remains",NA
+"Undetermined",NA
+"Sand",NA
+"Unidentifed",NA
+"Digested material",NA
+"Sand grains",NA
+"Bottom Debris",NA
+"secteggs",NA
+"Nais",NA
+"Diptera  and
+Hymenoptera","Diptera"
+"Anispotera",NA
+"Diptera and Hymenoptera","Diptera"
+"Pelecypoda",NA
+"Chaoborid",NA
+"Others",NA
+"Largebluegill",NA
+"Otherfish",NA
+"Leopardfrogs",NA
+"Miscellaneous
+invertebrates","Arthropods"
+"Incidentalmatter",NA
+"Unidentifable
+fshremains",NA
+"Corizidae",NA
+"
+Oligochaeta",NA
+"
+Coenagriidae",NA
+"
+Hydrophilidae",NA
+"
+Hydroptilidae",NA
+"Hemiptera
+Corixidae",NA
+"
+Dytiscidae",NA
+"Undigestible  debris",NA
+"Debris  and  detritus",NA
+"Aquatic
+invertebrates","Arthropods"
+NA,NA
+"b_diversicornis",NA
+"trichocerca_capucina",NA
+"other_rotifera",NA
+"diaphanosoma_cf_mong",NA
+"other_cladocera",NA
+"immature_cladocera",NA
+"adults_copepodites",NA
+"harpacticoida",NA
+"insecta_larvae_nymphs","Insecta"
+"t_similis",NA
+"polyarthra_spp",NA
+"notholca_squamula",NA
+"daphnia_cucullata",NA
+"diaphanosoma_cf_mongolianum",NA
+"leydigia_leydigi",NA
+"larvae_chaoborus_flavicans",NA
+"rhodeus_amarus",NA
+"knipowitschia_caucasica",NA
+"calothrix",NA
+"eucapsis",NA
+"lynghya",NA
+"oscillatoria_thin",NA
+"bulbochaeta",NA
+"chlorella",NA
+"cladophora",NA
+"coelastrum",NA
+"cosmarium",NA
+"dimophococcus",NA
+"oedogonium",NA
+"pediastrum",NA
+"selenastrum",NA
+"sirogonium",NA
+"staurastrum",NA
+"acananthes",NA
+"amphora",NA
+"eunotia",NA
+"nitschia_spiculum",NA
+"pleurosigma",NA
+"rhopoladia",NA
+"stephanodiscus",NA
+"surirella",NA
+"dictyoptera",NA
+"mn_remains",NA
+"polycystis",NA
+"cosmaria",NA
+"vol_vocales",NA
+"flagellates",NA
+"bottom_deposit",NA
+"insect_stages","Insecta"
+"polycystic",NA
+"pediastrus",NA
+"closteriurn",NA
+"insect","Insecta"
+"bottom_deposits",NA
+"rotatoria",NA
+"x3opepoda",NA
+"nsecta",NA
+"pyrrhophyta",NA
+"chrysophyta",NA
+"cyanophyta_60",NA
+"ch_ironom_id_larvae",NA
+"oligocaete_worms",NA
+"tilapia_spp",NA
+"brycinus_spp",NA
+"cyprinodonts",NA
+"chironorniel_larvae",NA
+"herniptera",NA
+"arachnids_water_mites",NA
+"hymenoptera_ants",NA
+"oligochaete_worms",NA
+"brychius_spp",NA
+"ostracode_shrimps",NA
+"hemiptera_water_bugs",NA
+"and_eggs",NA
+"plant_fragments",NA
+"termitidae",NA
+"elmidae",NA
+"gyrinidae",NA
+"culicidae",NA
+"psychodidae",NA
+"crambidae",NA
+"pleidae",NA
+"coryalidae",NA
+"thiaridae",NA
+"crustaces",NA
+"potamonidae",NA
+"myriapodes",NA
+"arachnides",NA
+"bony_structures",NA

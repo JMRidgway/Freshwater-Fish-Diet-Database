@@ -26,7 +26,7 @@ for(name in seq_along(filenames_combine_csv)){
 
 fish_mutate <- function(dt) {
   dt <- dt  %>% 
-    mutate_each(funs("as.character"))}
+    mutate_all(as.character)}
 
 data_to_add <- bind_rows(unclass(lapply(data_combine_csv.list, FUN = fish_mutate))) 
 
@@ -35,13 +35,13 @@ lat_lon <- data_to_add %>%
   # filter(!is.na(site_name)) %>% 
   distinct(site_name) %>% 
   mutate_geocode(site_name) %>% 
-  mutate_all(funs('as.character'))
+  mutate_all(as.character)
 
 #add lat/lon and taxa info to data
-new_data_latlon <- data_to_add %>% 
+new_data_latlon <- as_tibble(data_to_add) %>% 
   full_join(lat_lon, by = "site_name") %>% 
   left_join(prey_taxa_all) %>% 
-  left_join(fish_taxa_all) %>% 
+  left_join(fish_taxa_all) %>%
   mutate(dateadded = as.character(Sys.Date()),
          measure_numeric = as.numeric(measurement)) %>%
   mutate(measure_numeric = case_when(measurement == "trace" ~ 0.0001,
@@ -51,25 +51,53 @@ new_data_latlon <- data_to_add %>%
                                      # measurement == "check" & author == "Keast" ~ 11,
                                      # measurement == "check" ~ 0,
                                      is.na(measurement) ~ 0,
-                                     TRUE ~ measure_numeric)) 
+                                     TRUE ~ measure_numeric)) %>% 
+  unite(measurement_typeunits, c(measurement_type, measurement_units), sep = " ", remove = F) %>% 
+  mutate(type_temp = case_when(grepl("umber", measurement_typeunits) ~ "abundance",
+                               grepl("bundanc", measurement_typeunits) ~ "abundance",
+                               grepl("umeri", measurement_typeunits) ~ "abundance",
+                               grepl("omposit", measurement_typeunits) ~ "abundance",
+                               grepl('area', measurement_typeunits) ~ "area",
+                               grepl("individ", measurement_typeunits) ~ "abundance",
+                               grepl("total", measurement_typeunits) ~ "abundance",
+                               grepl("rganis", measurement_typeunits) ~ "abundance",
+                               grepl("cm3", measurement_typeunits) ~ "volume",
+                               grepl("olume", measurement_typeunits) ~ "volume",
+                               grepl("eight", measurement_typeunits) ~ "biomass",
+                               grepl("iomass", measurement_typeunits) ~ "biomass",
+                               grepl("Mass", measurement_typeunits) ~ "biomass",
+                               grepl("mg", measurement_typeunits) ~ "biomass"),
+         units_temp = case_when(grepl("ercen", measurement_typeunits) ~ "percent",
+                                grepl("roport", measurement_typeunits) ~ "proportion",
+                                grepl("umber", measurement_typeunits) ~ "individual",
+                                grepl("bundanc", measurement_typeunits) ~ "individual",
+                                grepl("umeri", measurement_typeunits) ~ "individual",
+                                grepl("cm3", measurement_typeunits) ~ "cm3",
+                                grepl("grams", measurement_typeunits) ~ "g",
+                                grepl("mg", measurement_typeunits) ~ "mg",
+                                grepl("mL", measurement_typeunits) ~ "ml"),
+         measurement_typeunits = paste(type_temp, units_temp, sep = "_")) %>% 
+  mutate_all(as.character)
 
 
 # Append new data to existing data ----------------------------------------
 
-#load master data frame and save a backup
-data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
-  mutate_all(funs('as.character')) %>% 
-  mutate(measure_numeric = as.numeric(measure_numeric)) %>% 
+# load master data frame and save a backup
+data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>%
+  mutate_all(funs('as.character')) %>%
+  mutate(measure_numeric = as.numeric(measure_numeric)) %>%
   remove_empty("rows")
 
 write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)
 
 
 #stack new data to old data and create a numeric column of measures (check for new cases)
-data_fish_updated <- bind_rows(data_fish, new_data_latlon) 
+data_fish_update <- bind_rows(data_fish, new_data_latlon) %>% 
+  mutate(fish_id = case_when(fish_id == "NA" ~ as.numeric(as.factor(fish_id_new)),
+                             TRUE ~ as.numeric(as.factor(fish_id_add))))
 
 #save updated data as "data_fish.rds"
-saveRDS(data_fish_updated, file = "database/data_fish.rds")
+saveRDS(data_fish_update, file = "database/data_fish.rds")
 
 
 
