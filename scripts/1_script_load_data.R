@@ -14,10 +14,12 @@ library(RCurl)
 
 
 
-# Load master data set ----------------------------------------------------
+# Load master data set and save a backup ----------------------------------------------------
 data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>%
   mutate_all(as.character) %>%
   remove_empty("rows")
+
+write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)
 
 #make a list of taxa names to append later for prey and fish ----------------------------------------------------------
 #makes two sets, one with original spelling, and the other in sentence case.
@@ -30,7 +32,7 @@ fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fis
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020-03-25"
+folder <- "2020-03-29"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information

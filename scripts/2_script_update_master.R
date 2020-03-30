@@ -82,21 +82,23 @@ new_data_latlon <- as_tibble(data_to_add) %>%
 
 # Append new data to existing data ----------------------------------------
 
-# load master data frame and save a backup
-data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>%
-  mutate_all(as.character) %>%
-  remove_empty("rows")
-
-write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)
-
+# # load master data frame and save a backup
+# data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>%
+#   mutate_all(as.character) %>%
+#   remove_empty("rows")
+# 
+# write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)
+# 
 
 #stack new data to old data and create a numeric column of measures (check for new cases)
 data_fish_update <- bind_rows(data_fish, new_data_latlon) 
   # mutate(fish_id = case_when(fish_id == "NA" ~ as.numeric(as.factor(fish_id_new)),
   #                            TRUE ~ as.numeric(as.factor(fish_id_add))))
 
+data_fish_old <- data_fish
+data_fish <- data_fish_update
 #save updated data as "data_fish.rds"
-saveRDS(data_fish_update, file = "database/data_fish.rds")
+saveRDS(data_fish, file = "database/data_fish.rds")
 
 
 
