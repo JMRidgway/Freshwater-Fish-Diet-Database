@@ -85,7 +85,6 @@ new_data_latlon <- as_tibble(data_to_add) %>%
 # load master data frame and save a backup
 data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>%
   mutate_all(as.character) %>%
-  mutate(measure_numeric = as.numeric(measure_numeric)) %>%
   remove_empty("rows")
 
 write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)

@@ -30,7 +30,7 @@ fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fis
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020_02_24jeff"
+folder <- "2020-03-19"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information
@@ -40,11 +40,12 @@ fish_gather <- function(dt){
     remove_empty("rows") %>% 
     # rename_at(1, ~"site_name") %>%
     mutate(row = row_number(),
-           fish_id = paste0(author,"_", year,"_",table_figure,"_",
-                                row, "_", sample_size, "_",measurement_units, measurement_type,
-                                "_", site_name,"_",
-                                predator_min_length, "_", predator_max_length, "_", sample_id,
-                                "_", start_date, "_", end_date, habitat, microhabitat)) %>%
+           # fish_id = paste0(author,"_", year,"_",table_figure,"_",
+           #                      row, "_", sample_size, "_",measurement_units, measurement_type,
+           #                      "_", site_name,"_",
+           #                      predator_min_length, "_", predator_max_length, "_", sample_id,
+           #                      "_", start_date, "_", end_date, habitat, microhabitat)) %>%
+           fish_id = ulid_generate(n = nrow(.))) %>% 
     select(fish_id, -row, everything()) %>%
     select(-row) %>% 
     gather(prey_taxon, measurement, -"fish_id":-"notes") %>% 
@@ -87,7 +88,7 @@ new_xlsx <- bind_rows(unclass(lapply(data_xlsx.list, FUN = fish_gather)))
 
 #combine csv and excel dataframes
 combine_data <- bind_rows(new_csv, new_xlsx) %>% 
-  mutate_all(funs('as.character'))
+  mutate_all(as.character())
 
 #save a copy as a csv
 write.csv(combine_data, file = paste0("database/data_to_add/",Sys.Date(),".csv"),row.names=FALSE)
