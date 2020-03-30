@@ -30,7 +30,7 @@ fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fis
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020-03-19"
+folder <- "2020-03-25"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information
