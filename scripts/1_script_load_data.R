@@ -11,6 +11,7 @@ library(repmis)
 library(readxl)
 library(rlist)
 library(RCurl)
+library(ulid)
 
 
 
@@ -32,7 +33,7 @@ fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fis
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020-03-29"
+folder <- "2020-4-23"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information

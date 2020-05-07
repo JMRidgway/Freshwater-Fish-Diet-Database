@@ -31,6 +31,8 @@ fish_mutate <- function(dt) {
 data_to_add <- bind_rows(unclass(lapply(data_combine_csv.list, FUN = fish_mutate))) 
 
 #get lat/lon (requires API from google and internet connection - if it doesn't work, skip this step)
+# register_google(key = "AIzaSyB6JVasUrvwmboNrYEK9onnJAAjM4Yokns", write = TRUE)
+
 lat_lon <- data_to_add %>% 
   # filter(is.na(site_name)) %>% View()
   distinct(site_name) %>% 
