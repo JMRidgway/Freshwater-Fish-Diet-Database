@@ -1,0 +1,68 @@
+---
+title: "Freswater Fish Diet Database"
+author: "Jacob Ridgway, Justin Pomeranz, Jeff Wesner"
+date: "5/7/2020"
+output: github_document
+---
+
+University of South Dakota
+Department of Biology
+
+# Purpose
+To create an open source global database of freshwater fish diet samples. 
+
+# Approach 
+We are compiling and digitizing diet data from > 130 years of scientific literature. *Expected completion ~ Spring 2022*
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(tidyverse)
+library(janitor)
+library(ggmap)
+
+#load most recent data frame
+data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
+  mutate_all(as.character) %>% 
+  mutate(measure_numeric = as.numeric(measure_numeric)) %>% 
+  remove_empty("rows")
+
+
+#count up the number of samples per site (e.g., "n = 22" means there are 22 fish samples at those lat/long coords)
+sites <- data_fish %>% 
+  group_by(lat,lon) %>%
+  distinct(fish_id) %>% 
+  tally() %>% 
+  ungroup() %>% 
+  filter(!is.na(lat)) %>% 
+  mutate(lat = as.numeric(lat),
+         lon = as.numeric(lon),
+         n = as.numeric(n))
+
+total_diet_samples <- sum(sites$n)
+
+#get layer for the world map
+world <- map_data("world")
+
+
+#make a map
+( map_fish <- ggplot() + 
+    geom_polygon(data = world, aes(x = long, y = lat, group = group), fill = "grey60") +  #fill is the land color
+    coord_quickmap() +
+    geom_point(data = sites, aes(x = lon, y = lat, size = n),                             #fill is the data colors. n is the size of the points  
+               shape = 21, fill = "yellow") + 
+    theme_void() +
+    labs(size = "Number of\ndiet samples",
+         title = "Diet Samples Extracted",
+         caption = paste("As of ", Sys.Date())) +
+    scale_size_continuous(breaks=c(min(sites$n),
+                                   0.25*max(sites$n),                                     #adjust the range of sizes in the legend
+                                   0.50*max(sites$n), 
+                                   0.75*max(sites$n), 
+                                   max(sites$n))) +
+    theme(panel.background = element_rect(fill = "black")) +                              #adjust the ocean color
+    annotate("text", x = -150, y = -25, 
+             label = paste("Total Diet Samples\n",total_diet_samples), color = "white",   #add the sample size text
+             size = 5)) 
+```
+
