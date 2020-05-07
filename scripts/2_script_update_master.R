@@ -110,5 +110,10 @@ move_files_from <- list.files(path = "./database/data_to_add",pattern = "*.csv")
 move_files_to <- paste0("./database/data_already_added/", move_files_from)
 file.rename(from = paste0("./database/data_to_add/",move_files_from), to = move_files_to)
 
+# Move csv's that have been added to a folder called "data_already_added"
+move_folders_from <- list.files(path = paste0("./database/data_to_add/", folder))
+move_files_to <- paste0("./database/data_already_added/", move_files_from)
+file.rename(from = paste0("./database/data_to_add/",move_files_from), to = move_files_to)
+
 
 # PUSH CHANGES TO GITHUB 
