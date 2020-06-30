@@ -32,8 +32,14 @@ data_to_add <- bind_rows(unclass(lapply(data_combine_csv.list, FUN = fish_mutate
 
 #get lat/lon (requires API from google and internet connection - if it doesn't work, skip this step)
 
+missing_site_names <- data_to_add %>% 
+  filter(is.na(site_name))
+
+write.csv(missing_site_names, file = paste0("database/data_to_add/re_do/missing_site_names",Sys.Date(), ".csv"))
+
+
 lat_lon <- data_to_add %>% 
-  # filter(is.na(site_name)) %>% View()
+  filter(!is.na(site_name)) %>% 
   distinct(site_name) %>% 
   mutate_geocode(site_name) %>% 
   mutate_all(as.character)

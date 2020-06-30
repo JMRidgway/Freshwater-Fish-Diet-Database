@@ -33,7 +33,7 @@ fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fis
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020-4-23"
+folder <- "2020-6-22"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information
@@ -94,7 +94,7 @@ combine_data <- bind_rows(new_csv, new_xlsx) %>%
   mutate_all(as.character())
 
 #save a copy as a csv
-write.csv(combine_data, file = paste0("database/data_to_add/",Sys.Date(),".csv"),row.names=FALSE)
+write.csv(combine_data, file = paste0("database/data_to_add/",folder,Sys.Date(),".csv"),row.names=FALSE)
 
 #----------REPEAT FOR ALL FOLDERS WITH FILES TO ADD----------------
 
