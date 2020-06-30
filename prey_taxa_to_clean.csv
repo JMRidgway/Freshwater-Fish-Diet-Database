@@ -1,552 +1,1736 @@
-prey_taxon,search_term,prey_stage_add,prey_ecosystem_add,prey_family_add,prey_suborder_add,prey_order_add,prey_class_add,prey_species_add,prey_phylum-add,prey_kingdom_add
-acananthes,Acananthes,,,NA,,,,,,
-acan,Acari,,,NA,,,,,,
-acarida,Acari,,,NA,,,,,,
-mites,Acari,,,NA,,,,,,
-bones_of_fsh,Actinopterygii,bones,,NA,,,Actinopterygii,,,
-pisces,Actinopterygii,,,NA,,,,,,
+"prey_taxon","prey_taxon_cleaned"
+"surface_food",NA
+"plankton",NA
+"thysanura_adult",NA
+"sand",NA
+"detritus",NA
+"organic_mat_undet",NA
+"detritus_sand",NA
+"not_identified",NA
+"fragilaria",NA
+"inorganic_material",NA
+"fpom",NA
+"miscellaneous",NA
+"diaplomus_skills",NA
+"debris_detritus",NA
+"soil_debris_detritus",NA
+"soil_mud_sand",NA
+"scales",NA
+"inorganic_matter",NA
+"organic_matter",NA
+"empty_space",NA
+"debris",NA
+"gyrosigma_sp",NA
+"gyrosigma_sp_1",NA
+"fragilaria_sp_1_150_<U+00B5>m",NA
+"fungus",NA
+"fragilaria_sp_6_370_500_<U+00B5>m",NA
+"bacillariophyceae_50_m",NA
+"fragilaria_sp_3_8_320_<U+00B5>m",NA
+"fragilaria_sp_2_8_<U+00B5>m_215_<U+00B5>m",NA
+"fragilaria_sp_4_10_<U+00B5>m_200_250_<U+00B5>m",NA
+"sand_silt",NA
+"fragilaria_sp_5_400_<U+00B5>m",NA
+"table_2_continued",NA
+"bacillariophyceae",NA
+"teleost",NA
+"organic_matter_not_identified",NA
+"silt_biofilm",NA
+"Ooze",NA
+"thermocyclopes_equatorialis",NA
+"sand_grains",NA
+"spp.",NA
+"Leopardfrogs",NA
+"Incidentalmatter",NA
 "Unidentifable
-fshremains",Actinopterygii,,,NA,,,,,,
-alona_rectangula,Alona rectangula,,,NA,,,,,,
-amphora,Amphora,,,NA,,,Bacillariophyceae,,,
-amphora_sp_1,Amphora,,,NA,,,Bacillariophyceae,,,
-amphora_sp_2,Amphora,,,NA,,,Bacillariophyceae,,,
-amphora_sp_3,Amphora,,,NA,,,Bacillariophyceae,,,
-amphibian_frog_bones,Amphibia,bones,,NA,,,Amphibia,,,
-tadpoles,Amphibia,,,NA,,,,,,
-anabaena,Anabaena,,,NA,,,Cyanophyceae,,,
-anabaena_sp,Anabaena,,,NA,,,Cyanophyceae,,,
-root_leaf_stem_angyospermae,Angiosperms,,,NA,,,,amphora,,
-animal_materials_unknwon,Animalia,,,NA,,,,amphora_sp_1,,
-digested_animal_matter,Animalia,,,NA,,,,amphora_sp_2,,
-identifed_animal_materials,Animalia,,,NA,,,,amphora_sp_3,,
-unidentified_animal_parts,Animalia,,,NA,,,,anabaena,,
-zoobenthos,Animalia,,,NA,,,,anabaena_sp,,
-zooplanklon,Animalia,,,NA,,,,,,
-zooplankton,Animalia,,,NA,,,,,,
-anisopteran_larvae,Anisoptera,larvae,,NA,Anisoptera,Odonata,Insecta,,,
-Anispotera,Anisoptera,,,NA,Anisoptera,Odonata,Insecta,,,
-a_convulatus,Ankisterodesmus convulatus,,,NA,,,,,Annelida,
-a_falcatus,Ankisterodesmus falcatus,,,NA,,,,,,
-annelids,Annelida,,,NA,,,,,,
-unsegmented_worms,Annelida,,,NA,,,,,,
-worms,Annelida,,,NA,,,,,Arthropoda,
-aphasmida,Aphasmida,,,NA,,,Nematoda,,,
-aphyocharax_nasutus,Aphyocharax nasutus,,,NA,,,,,,Plantae
-aptocheilichthyes_sp,Aptocheilichthyes,,,NA,,,,,,Plantae
-arachnides,Arachnid,,,NA,,,Arachnid,,,
-arachnids_water_mites,Arachnid,,,NA,,,Arachnid,,,
-arichnida,Arachnid,,,NA,,,Arachnid,,,
-araneida,Araneae,,,NA,,Araneae,Arachnid,,,
-arguloid,Arguloidea,,,NA,,,,,,
-aquatic_arthropoda,Arthropoda,aquatic,aquatic,NA,,,,,Arthropoda,
-arthropod_fragment,Arthropoda,,,NA,,,,,,
-terrestrial_arthropoda,Arthropoda,,,NA,,,,,,
-terrestrial_arthropods,Arthropoda,,,NA,,,,,,
-arthrospira,Arthrospira,,,NA,,,,,,
-asplachna_sp,Asplachna,,,NA,,,,,,
-a_schubarti,Astyanax schubarti,,,NA,,,,,,
-nitschia_spiculum,Bacillariaceae,,,NA,,,,,,Ochrophyta
-nitzchia_sp,Bacillariaceae,,,NA,,,,,,Ochrophyta
-nitzschia,Bacillariaceae,,,NA,,,,,,Ochrophyta
-nitzschia_sigmoida,Bacillariaceae,,,NA,,,,,,
-nitzshia_sp,Bacillariaceae,,,NA,,,,,,
-baccilariophyceae,bacillariophyceae,,,NA,,,Baccilariophyceae,,,
-bacillariophyceae,bacillariophyceae,,,NA,,,Baccilariophyceae,,,
-bacillariophyceae_50_m,bacillariophyceae,,,NA,,,Baccilariophyceae,,,
-baetid_nymph,Baetidae,,,Baetidae,,Ephemeroptera,Insecta,,,
-b_capillata,Bellamya capillata,,,NA,,,,,,
-b_longirostris,Bosmina longirostris,,,NA,,,,,,
-b_diversicornis,Brachionis diversicornis,,,NA,,,,,,
-crab_parts,Brachyura,,,NA,,,,,,
-crabs,Brachyura,,,NA,,,,,,
-crabs_undet,Brachyura,,,NA,,,,,,
-brychius_spp,Brychius,,,Haliplidae,,Coleoptera,Insecta,,,
-brycinus_spp,Brychius,,,Haliplidae,,Coleoptera,Insecta,,,
-bulbochaeta,Bulbothrix bulbochaeta,,,NA,,,,,,
-calichthys_cafichthys,Calichthys,,,NA,,,,,,
-calothrix,Calothrix,,,NA,,Nostocales,Cyanophyceae,,,
-calothrix_sp,Calothrix,,,NA,,Nostocales,Cyanophyceae,,,
-c_nilotica,Caridina nilotica,,,NA,,,,,,
-centrales,Centrales,,,NA,,,,,,
-c_pulchella,Ceriodaphnia pulshella,,,NA,,,,,,
-chaetopoda,Chaetopoda,,,NA,,,Chaetopoda,,Cyanobacteria,
-Chaoborid,Chaoboridae,,,Chaoboridae,,Diptera,Insecta,,Cyanobacteria,
-chaoborids,Chaoboridae,,,Chaoboridae,,Diptera,Insecta,,,
-larvae_chaoborus,Chaoborus,larvae,,NA,,,,,,
-larvae_chaoborus_flavicans,Chaoborus flavicans,larvae,,NA,,,,,Annelida,
-chiro_adults,Chironomidae,adults,,Chironomidae,,Diptera,Insecta,,,
-chiro_larvae,Chironomidae,larvae,,Chironomidae,,Diptera,Insecta,,,
-chiro_pupae,Chironomidae,pupae,,Chironomidae,,Diptera,Insecta,,,
-chiromonid,Chironomidae,,,Chironomidae,,Diptera,Insecta,,,
-chiron017111s_pupae,Chironomidae,pupae,,Chironomidae,,Diptera,Insecta,,,
-chironoinicl_larvae,Chironomidae,larvae,,Chironomidae,,Diptera,Insecta,,,
-chironomoid_larvae,Chironomidae,larvae,,Chironomidae,,Diptera,Insecta,,,
-chironomoid_pupae,Chironomidae,pupae,,Chironomidae,,Diptera,Insecta,,,
-chironomus_larvae,Chironomidae,larvae,,Chironomidae,,Diptera,Insecta,,,
-chironomuslarvae,Chironomidae,larvae,,Chironomidae,,Diptera,Insecta,,,
-chironorniel_larvae,Chironomidae,larvae,,Chironomidae,,Diptera,Insecta,,,
-chrionomid_pupae,Chironomidae,pupae,,Chironomidae,,Diptera,Insecta,,,
-midge_adult,Chironomidae,adults,,NA,,,,,,
-midge_larvae_pupae,Chironomidae,larvae_pupae,,NA,,,,,,
-ch_ironom_id_larvae,Chironomus,larvae,,Chironomidae,,Diptera,Insecta,,,
-chtronomus_pupae,Chironomus,pupae,,Chironomidae,,Diptera,Insecta,Chroococcus sp.,Cyanobacteria,
-chroococcus,Chroococcus,,,,,,Cyanophyceae,,,
-chiysicihys_sp,Chrysichthys,,,Claroteidae,,Siluriformes,Actinopterygii,,,Chromista
-chrysicthys_sp,Chrysichthys,,,Claroteidae,,Siluriformes,Actinopterygii,,,
-chrysophyta,Chrysophyta,,,NA,,,,,,
-cichlid_fry,Cichlidae,,,Cichlidae,,Cichliformes,Actinopterygii,,,
-bernie_cladocerm,Cladocera,,,NA,,Cladocera,Branchiopoda,,,
-cladocem,Cladocera,,,NA,,Cladocera,Branchiopoda,,,
-cladocerans,Cladocera,,,NA,,Cladocera,Branchiopoda,,,
-immature_cladocera,Cladocera,,,NA,,,,,,
-other_cladocera,Cladocera,,,NA,,,,,,
-ciadotanytarsus_sp,Cladotanytarsus,,,Chironomidae,,Diptera,Insecta,,,
-closteriurn,Closterium,,,NA,,,,Cocconeis,,
-clupeids,Clupeidae,,,Clupeidae,,,,,,
-cocconeis_sp,Cocconeis,,,NA,,,,,,
-"
-Coenagriidae",Coenagriidae,,,"
-Coenagriidae",,Odonata,Insecta,,,
-aquatic_coleoptera_adult,Coleoptera,adults,aquatic,NA,,Coleoptera,,,,
-coleopteran_larvae,Coleoptera,larvae,,NA,,Coleoptera,Insecta,,,
-coleoptra,Coleoptera,,,NA,,Coleoptera,Insecta,,,
-terrestria_coleoptera,Coleoptera,,,NA,,,,,,
-collembolla,Collembola,,,NA,,,,,,
-adults_copepodites,Copepoda,adult,,NA,,,Copepoda,,,
-calanoid,Copepoda,,,NA,,Copepoda,,,,
-copepod,Copepoda,,,NA,,,,,,
-copepoda_arguloid,Copepoda,,,NA,,,,,,
-copepoda_copepodids,Copepoda,,,NA,,,,,,
-copepoda_gen_sp,Copepoda,,,NA,,,,,,
-copepoda_harpacticoid,Copepoda,,,NA,,,,,,
-copepoda_larvae,Copepoda,larvae,,NA,,,,,,
-copepoda_undet,Copepoda,,,NA,,,,,,
-cyclopoid,Copepoda,,,NA,,,,,,
-harpacticoid,Copepoda,,,NA,,,,,,
-harpacticoid_copepods,Copepoda,,,NA,,,,,,
-llarpacticoid_copepods,Copepoda,,,NA,,,,,,
-nauplii,Copepoda,,,NA,,,,,,
-undetermined_copepods,Copepoda,,,NA,,,,,,
-x3opepoda,Copepoda,,,NA,,,,,,
-corixdae,Corixidae,,,NA,,,,,,
-corixid,Corixidae,,,NA,,,,,,
-Corizidae,Corixidae,,,NA,,,,,,
-"Hemiptera
-Corixidae",Corixidae,,,NA,,,,,,
-coryalidae,Corydalidae,,,NA,,,,,,
-cosmaria,Cosmaria,,,NA,,,,,,
-costnarium_sp,Costnarium,,,NA,,,,,,
-crustaces,Crustaceans,,,NA,,,,,,
-p_sidneyi,Crustaceans,,,NA,,,,,,
-crysophyta,Crysophyta,,,NA,,,,,,
-culicidae_larvae,Culicidae,,,Culicidae,,Diptera,Insecta,,,
-mosquito_pupae,Culicidae,,,NA,,,,,,
-cyanophyceae,Cyanobacteria,,,NA,,,,,,
-cyanophyceae_oscillatoria_sp,Cyanobacteria,,,NA,,,,,,
-cyanophyta,Cyanobacteria,,,NA,,,,,,
-cyanophyta_60,Cyanobacteria,,,NA,,,,,,
-cyanophytes,Cyanobacteria,,,NA,,,,,,
-lynghya,Cyanobacteria,,,NA,,,,,,
-oscillatoria,Cyanobacteria,,,NA,,,,,,
-oscillatoria_sp,Cyanobacteria,,,NA,,,,,,
-oscillatoria_sp_1_2_5_<U+00B5>m_5_<U+00B5>m,Cyanobacteria,,,NA,,,,,,
-oscillatoria_sp_2_3_2_<U+00B5>m_10_<U+00B5>m,Cyanobacteria,,,NA,,,,,,
-oscillatoria_sp_3,Cyanobacteria,,,NA,,,,,,
-oscillatoria_thin,Cyanobacteria,,,NA,,,,,,
-oscillatoriaceae,Cyanobacteria,,,NA,,,,,,
-c_carinata,Cyathura carinata,,,NA,,,,,,
-cyclotella_sp,Cyclotella,,,NA,,,,,,
-cymatopleura_sp,Cymatopleura,,,NA,,,,,,
-cymbella,Cymbella,,,NA,,,,,,
-cymbella_sp_1,Cymbella,,,NA,,,,,,
-cymbella_sp_2,Cymbella,,,NA,,,,,,
-cymbella_sp_3,Cymbella,,,NA,,,,,,
-cyphocharax_modesta,Cyphocharax modesta,,,NA,,,,,,
-cypricercus_sp,Cypricercus,,,NA,,,,,,
-shiners,Cyprinidae,,,NA,,,,,,
-large_cypriniformes,Cypriniformes,,,NA,,,,,,
-cyprinodonts,Cyprinodontidae,,,NA,,,,,,
-decanoda,Decapoda,,,NA,,,,,,
-decapod,Decapoda,,,NA,,,,,,
-decapods,Decapoda,,,NA,,,,,,
-diaphanosoma_cf_mong,Diaphanosoma,,,NA,,,,,,
-diaphanosoma_cf_mongolianum,Diaphanosoma,,,NA,,,,,,
-diaphanosoma_leuchtenbergianum,Diaphanosoma,,,NA,,,,,,
-diaplomus_skills,Diaplomus,,,NA,,,,,,
-diatoma_sp,Diatoma,,,NA,,,,,,
-bottom_diatoms,Diatoms,,,NA,,,,,,
-diatom,Diatoms,,,NA,,,,,,
-diatoms,Diatoms,,,NA,,,,,,
-planktonic_diatoms,Diatoms,,,NA,,,,,,
-dimophococcus,Dimophococcus,,,NA,,,,,,
-dinoflagelates,Dinoflagellata,,,NA,,,,,,
-dinoflagellate,Dinoflagellata,,,NA,,,,,,
-miriapoda_diplopoda_adult,Diplopoda,adults,,NA,,,,,,
-other_dipera_larvae,Diptera,Larvae,,NA,,,,,,
-dugesia_sp,Dugesia,,,NA,,,,,,
-dyctioptera_ootheca,Dyctioptera ootheca,,,NA,,,,,,
-"
-Dytiscidae",Dytiscidae,,,"
-Dytiscidae",,Coleoptera,Insecta,,,
-elimdae,Elmidae,,,NA,,,,,,
-elmid_larvae,Elmidae,larvae,,NA,,,,,,
-epemeroptera_newt,Ephemeroptera,,,NA,,,,,,
-ephemeropt_n_indet,Ephemeroptera,,,NA,,,,,,
-"Ephemeroptera
-",Ephemeroptera,,,NA,,,,,,
-ephemeropteran_nymphs,Ephemeroptera,larvae,,NA,,,,,,
-mayfly_adult,Ephemeroptera,adults,,NA,,,,,,
-mayfly_nymph,Ephemeroptera,larvae,,NA,,,,,,
-nymphs_ephemeroptera,Ephemeroptera,larvae,,NA,,,,,,
-winged_ephemeroptera,Ephemeroptera,,,NA,,,,,,
-esolus_spp,Esolus,,,NA,,,,,,
-eucapsis,Eucapsis,,,NA,,,,,,
-euglenophyceae,Euglenophyceae,,,NA,,,,,,
-eunotia,Eunotia,,,NA,,,,,,
-eurastrunz_sp,Eurastrunz,,,NA,,,,,,
-scales,fish,scales,,NA,,,,,,
-flagellates,Flagellataria,,,NA,,,,,,
-hymenoptera_ants,Formicidae,,,NA,,,,,,
-fragilaria,Fragillaria,,,NA,,,,,,
-fragilaria_sp_1_150_<U+00B5>m,Fragillaria,,,NA,,,,,,
-fragilaria_sp_2_8_<U+00B5>m_215_<U+00B5>m,Fragillaria,,,NA,,,,,,
-fragilaria_sp_3_8_320_<U+00B5>m,Fragillaria,,,NA,,,,,,
-fragilaria_sp_4_10_<U+00B5>m_200_250_<U+00B5>m,Fragillaria,,,NA,,,,,,
-fragilaria_sp_5_400_<U+00B5>m,Fragillaria,,,NA,,,,,,
-fragilaria_sp_6_370_500_<U+00B5>m,Fragillaria,,,NA,,,,,,
-foraminifera,Froaminifera,,,NA,,,,,,
-fru_its,Fruits,,,NA,,,,,,
-fruits,Fruits,,,NA,,,,,,
-frustulia_sp,Frustulia,,,NA,,,,,,
-gammarid,Gammaridae,,,NA,,,,,,
-gammarids,Gammaridae,,,NA,,,,,,
-sticklebacks,Gasterosteus aculeatus,,,NA,,,,,,
-gastropod_eggs,Gastropoda,eggs,,NA,,,,,,
-mollusea_gastropodes,Gastropoda,,,NA,,,,,,
-pulmonata,Gastropoda,,,NA,,,,,,
-glenodinum,Glenodinuma,,,NA,,,,,,
-gobioninae,Gobiodae,,,NA,,,,,,
-gomphonema_sp,Gomphonema,,,NA,,,,,,
-hemerodromia_stellaris,Hemerodromia stellaris,,,NA,,,,,,
-adult_liemiptera,Hemiptera,adult,,NA,,Hemiptera,Insecta,,,
-hemiptera_water_bugs,Hemiptera,,,NA,,,,,,
-herniptera,Hemiptera,,,NA,,,,,,
-liemiptera,Hemiptera,,,NA,,,,,,
-homoeothrix,Homeothrix,,,NA,,,,,,
-Homoneuria,Homoneuria,,,NA,,,,,,
-hydracarinae,Hydracarinae,,,NA,,,,,,
-hydrachnida,Hydrachnidia,,,NA,,,,,,
-hydroids,Hydroids,,,NA,,,,,,
-"
-Hydrophilidae",Hydrophilidae,,,"
-Hydrophilidae",,Coleoptera,Insecta,,,
-"
-Hydroptilidae",Hydroptilidae,,,"
-Hydroptilidae",,Trichoptera,Insecta,,,
-hydrosera_sp,Hydrosera,,,NA,,,,,,
-hymenopteran_nymph,Hymentoptera,larvae,,NA,,,,,,
-hyphessobrycon_callistus,Hyphessobrycon callistus,,,NA,,,,,,
-ktalurus_punctatus,Ictalurus punctatus,,,NA,,,,,,
-punctatus,Ictalurus punctatus,,,NA,,,,,,
-iliocryptus_sordidus,Iliocryptus sordidus,,,NA,,,,,,
-maggots,Insecta,,,NA,,,,,,
-nsecta,Insecta,,,NA,,,,,,
-nymphs_undet,Insecta,larvae,,NA,,,,,,
-pupae_adults,Insecta,Pupae and Adults,,NA,,,,,,
-secteggs,Insecta,eggs,,NA,,,,,,
-x_sponson_bugs_9,Insecta,,,NA,,,,,,
-x1nsect_parts,Insecta,,,NA,,,,,,
-isomychia,Isonychia,,,NA,,,,,,
-isopod,Isopoda,,,NA,,,,,,
-Leopardfrogs,Leopard frogs,,,NA,,,,,,
-Largebluegill,Lepomis macrochirus,,,NA,,,,,,
-leptocerid_larvae,Leptoceridae,,,NA,,,,,,
-leydigia_leydigi,leydigia leydigi,,,NA,,,,,,
-limnaea_pereger,Limnaea pereger,,,NA,,,,,,
-limnoperna_lacustris,Limnoperna lacustris,,,NA,,,,,,
-megaloptra,Megaloptera,,,NA,,,,,,
-m_tuberctdatus,Melanoides tuberculatus ,,,NA,,,,,,
-melosira,Melosira,,,NA,,,,,,
-melosira_sp,Melosira,,,NA,,,,,,
-merismopedia,Merismopedia,,,NA,,,,,,
-merismopedia_sp,Merismopedia,,,NA,,,,,,
-mesovelidae,Mesovelidae,,,NA,,,,,,
-microcystis,Microcystis,,,NA,,,,,,
-microcystis_sp,Microcystis,,,NA,,,,,,
-micronecta_sp,Micronecta,,,NA,,,,,,
-micronekton,Micronecta,,,NA,,,,,,
-m_sanctae_filomenae,Moenkhausia sanctaefilomenae),,,NA,,,,,,
-moina_hutchinsoni,Moina hutchinsoni,,,NA,,,,,,
-indeterminate_molluscs,Mollusca,,,NA,,,,,,
-mollusk,Mollusca,,,NA,,,,,,
-molusca,Mollusca,,,NA,,,,,,
-moluscs,Mollusca,,,NA,,,,,,
-clams,Molluscs,,,NA,,,Mollusca,,,
-roccus_americanus,Morone americana,,,NA,,,,,,
-mugiliforms,Mugiliformes,,,NA,,,,,,
-myriapodes,Myriapodeses,,,NA,,,,,,
-mysid_shrimp,Mysidae,,,NA,,,,,,
-mytilopsis_leucopheata,Mytilopsis leucopheata,,,NA,,,,,,
-navicula,Naviculales,,,NA,,,,,,
-navicula_sp,Naviculales,,,NA,,,,,,
-navicula_sp_1,Naviculales,,,NA,,,,,,
-navicula_sp_2,Naviculales,,,NA,,,,,,
-navicula_sp_3,Naviculales,,,NA,,,,,,
-pinnularia,Naviculales,,,NA,,,,,,
-pinnularia_sp,Naviculales,,,NA,,,,,,
-pinnularia_sp_1,Naviculales,,,NA,,,,,,
-pinnularia_sp_2,Naviculales,,,NA,,,,,,
-nostoc_sp,Nostoc,,,NA,,,,,,
-nostoc,Nostoc,,,NA,,,,,,
-notholca_squamula,Notholca squamula,,,NA,,,,,,
-notonecitidae,Notonectidae,,,NA,,,,,,
-notonectid,Notonectidae,,,NA,,,,,,
-atherinoides,Notropis atherinoides,,,NA,,,,,,
-nymphs_odonata,Odonata,larvae,,NA,,,,,,
-odonate_nymphs,Odonata,larvae,,NA,,,,,,
-"
-Oligochaeta",Oligochaeta,,,NA,,,Oligochaeta,,,
-haplotaxid_oligochaetes,Oligochaeta,,,NA,,,,,,
-oligocaete_worms,Oligochaeta,,,NA,,,,,,
-oligochaete_worms,Oligochaeta,,,NA,,,,,,
-oligochaetes,Oligochaeta,,,NA,,,,,,
-oligochaetes_segments,Oligochaeta,,,NA,,,,,,
-larvae_worms,Oligochaetae,larvae,,NA,,,,,,
-Nais,Oligochaete,,,NA,,,,,,
-orectochilus_sp,Orectochilus,,,NA,,,,,,
-conchostraca_ostracoda,Ostracoda,,,NA,,,,,,
-large_ostracoda,Ostracoda,,,NA,,,,,,
-ostracode_shrimps,Ostracoda,,,NA,,,,,,
-ostracods,Ostracoda,,,NA,,,,,,
-small_ostracoda,ostracoda,small,,NA,,,,,,
-bait_mash_of_oil_and_garri,other,,,NA,,,,,,
-Bottom Debris,Other,,,NA,,,,,,
-"Bottom
-ooze",Other,,,NA,,,,,,
-bottom_deposit,Other,,,NA,,,,,,
-bottom_deposits,other,,,NA,,,,,,
-other,Other,,,NA,,,,,,
-other_prey,Other,,,NA,,,,,,
-other_remains,Other,,,NA,,,,,,
-others,Other,,,NA,,,,,,
-Others,Other,,,NA,,,,,,
-others_29,Other,,,NA,,,,,,
-others_39,Other,,,NA,,,,,,
-others_44,Other,,,NA,,,,,,
-Remains,Other,,,NA,,,,,,
-Undetermined,Other,,,NA,,,,,,
-Undigestible  debris,Other,,,NA,,,,,,
-undigestible_trash,Other,,,NA,,,,,,
-unidentifable,Other,,,NA,,,,,,
-Unidentifable  parts,Other,,,NA,,,,,,
-unidentifed,Other,,,NA,,,,,,
-Unidentifed,Other,,,NA,,,,,,
-Unidentifed  material,Other,,,NA,,,,,,
-unidentifed_fsh,Other,,,NA,,,,,,
-unidentifed_organic_material,Other,,,NA,,,,,,
-unidentifed_parts,Other,,,NA,,,,,,
-unidentifiable_material,Other,,,NA,,,,,,
-unidentified,Other,,,NA,,,,,,
-unidentified_debris,Other,,,NA,,,,,,
-unidentified_eggs_and_other_remains,Other,,,NA,,,,,,
-unidentified_items,Other,,,NA,,,,,,
-unidentified_material,Other,,,NA,,,,,,
-unidentified_prey,Other,,,NA,,,,,,
-oxyethira_maya,Oxyethira maya,,,NA,,,,,,
-pal_aemonetes_sp,Palaemonetes,,,NA,,,,,,
-palaemonid_shrimp,Palaemonetes,,,NA,,,,,,
-palaemonid_shrimp_undet,Palaemonetes,,,NA,,,,,,
-partially_digested_shrimps,Palaemonetes,,,NA,,,,,,
-penaeid_shrimp,Palaemonetes,,,NA,,,,,,
-prawn,Palaemonetes,,,NA,,,,,,
-prawns,Palaemonetes,,,NA,,,,,,
-shrimp,Palaemonetes,,,NA,,,,,,
-shrimps,Palaemonetes,,,NA,,,,,,
-grass_shrimp,Palaemonidae,,,NA,,,,,,
-pediast_um,Pediastrum,,,NA,,,,,,
-pediastrus,Pediastrum,,,NA,,,,,,
-penales,Penales,,,NA,,,,,,
-pisidiuml_sphaerium,Pisidium pseudosphaerium,,,NA,,,,,,
-aquatic_plants,Plantae,,aquatic,NA,,,,,,
-aquatic_vegetation,Plantae,,aquatic,NA,,,,,,
-green_algal_unicells,Plantae,,,NA,,,,,,
-leaf_litter,Plantae,,,NA,,,,,,
-macrophytes,Plantae,,,NA,,,,,,
-macrophytes_indeterminate,Plantae,,,NA,,,,,,
-macrophytes_shoots_and_roots,Plantae,,,NA,,,,,,
-microscopic_plants,Plantae,,,NA,,,,,,
-particles_of_higher_vascular_plants,Plantae,,,NA,,,,,,
-phytodetritus,Plantae,,,NA,,,,,,
-phytoplankton,Plantae,,,NA,,,,,,
-pteridophyta,Plantae,,,NA,,,,,,
-sporangium_pteridophyta,Plantae,,,NA,,,,,,
-terrestrial_plants,Plantae,,,NA,,,,,,
-unidenfied_plant,Plantae,,,NA,,,,,,
-unidentifiable_vegetal_matter,Plantae,,,NA,,,,,,
-vascular_plant,Plantae,,,NA,,,,,,
-vascular_remains,Plantae,,,NA,,,,,,
-vegetable_mat,Plantae,,,NA,,,,,,
-vegetable_materials_n_id,Plantae,,,NA,,,,,,
-vegetal_matter,Plantae,,,NA,,,,,,
-vegetation,Plantae,,,NA,,,,,,
-vegetation_detritus,Plantae,,,NA,,,,,,
-vegetative_tissue,Plantae,,,NA,,,,,,
-woody_debris,Plantae,,,NA,,,,,,
-stonefly_nymph,Plecoptera,larvae,,NA,,,,,,
-pleurosigma,Pleurosigma,,,NA,,,,,,
-PlumateIla,Plumatella,,,NA,,,,,,
-polyarthra_spp,Polyarthra,,,NA,,,,,,
-polycentropid_larvae,Polycentropidae,larvae,,NA,,,,,,
-polycystic,Polycystis,,,NA,,,,,,
-p_latipes,Pontogeloides latipes,,,NA,,,,,,
-sponge,Porifera,,,NA,,,,,,
-potamonidae,Potamonidae,,,NA,,,,,,
-p_adttsta,Povilla adusta,,,NA,,,,,,
-protista,Protista,,,NA,,,,,,
-protist_rotifoer,Protists and Rotifers,,,NA,,,,,,
-protococcus,Protococcus,,,NA,,,,,,
-protozoa,Protozoa,,,NA,,,,,,
-p_philander,Pseudocrenilabrus philander),,,NA,,,,,,
-psychoinyiidae,Psychomyiidae,,,NA,,,,,,
-pyrrhophyta,Pyrrhophyta,,,NA,,,,,,
-ran_gia_cuneata,Rangia cuneata,,,NA,,,,,,
-rhopoladia,Rhopolodia,,,NA,,,,,,
-roeboides_paranensis,Roeboides paranensis,,,NA,,,,,,
-rotatoria,Rotatoria,,,NA,,,,,,
-other_rotifera,Rotifera,,,NA,,,,,,
-rot_if_era,Rotifera,,,NA,,,,,,
-rotifer,Rotifera,,,NA,,,,,,
-s_mossambicus,Sarotherodon mossambicus,,,NA,,,,,,
-scales_of_fsh,Actinopterygii,scales,,NA,,,,,,
-scenedestnus_sp,Scenedesmus,,,NA,,,,,,
-schizodon_altoparanae,Schizodon altoparanae,,,NA,,,,,,
-selenastrumsp,Selenastrum,,,NA,,,,,,
-simulbdae,Simuliidae,,,NA,,,,,,
-simulidae,Simuliidae,,,NA,,,,,,
-simulidae_larvae,Simuliidae,larvae,,Simuliidae,,Diptera,Insecta,,,
-si_m_uli_um_larvae,Simulium,,,NA,,,,,,
-simidium_larvae,Simulium,larvae,,NA,,,,,,
-simidium_pupae,Simulium,pupae,,NA,,,,,,
-simtdium_larvae,Simulium,larvae,,NA,,,,,,
-simtdium_pupae,Simulium,pupae,,NA,,,,,,
-sphaeriwn,Sphaerium,,,NA,,,,,,
-spirulina,Spirulina,,,NA,,,,,,
-stauroneis_sp_1,Stauroneis,,,NA,,,,,,
-stauroneis_sp_2,Stauroneis,,,NA,,,,,,
-stephanodiscus,Stephanodiscus,,,NA,,,,,,
-stratiomydae,Stratiomyidae,,,NA,,,,,,
-surirella,Surirella,,,NA,,,,,,
-surirella_sp_1,Surirella,,,NA,,,,,,
-surirella_sp_2,Surirella,,,NA,,,,,,
-synociontis_sp,Synociontis,,,NA,,,,,,
-teleost,Teleostii,,,NA,,,,,,
-tendipedidae,Tendipedidae,,,NA,,,,,,
-tendipeds,Tendipedidae,,,NA,,,,,,
-testacea,Testaceae,,,NA,,,,,,
-thallassius_massajae,Thallassius massajae,,,NA,,,,,,
-thermocyclopes_equatorialis,Thermocyclopes equatorialis,,,NA,,,,,,
-thhysamoptera_adults,Thysamoptera ,adults,,NA,,,,,,
-thysanura_adult,Thysanura,adults,,NA,,,,,,
-tilapia_spp,Tilapia,,,NA,,,,,,
-tilapians,Tilapia,,,NA,,,,,,
-tipulid_larvae,Tipulidae,,,NA,,,,,,
-tomoptema,Tomoptema,,,NA,,,,,,
-trichocerca_capucina,Trichocerca capucina,,,NA,,,,,,
-t_similis,Trichocerca similis,,,NA,,,,,,
-trichocercia,Trichocercidae,,,NA,,,,,,
-caddisfly_adult,Trichoptera,adult,,NA,,Trichoptera,Insecta,,,
-caddisfly_larvae,Trichoptera,larvae,,NA,,Trichoptera,Insecta,,,
-trichopt_1_indet,Trichoptera,,,NA,,,,,,
-trichopt_i_indet,Trichoptera,,,NA,,,,,,
-triehopteran_larvae,Trichoptera,larvae,,NA,,,,,,
-ttichoptera_larvae,Trichoptera,larvae,,NA,,,,,,
-trithemus,Trithemus,,,NA,,,,,,
-vaucheria_sp,Vaucheria,,,NA,,,,,,
-veliid,Veliidae,,,NA,,,,,,
-bones,Vertebrata,bones,,NA,,,,,,
-bony_structures,Vertebrata,bones,,NA,,,,,,
-vol_vocales,Volvocales,,,NA,,,,,,
-vo_vox_sp,Vovox,,,NA,,,,,,
-x52,X5es,,,NA,,,,,,
-zignemaphyceae,Zignemaphyceae,,,NA,,,,,,
-damselfly_adult,Zygoptera,,,NA,,,,,,
-damselfly_nymph,Zygoptera,,,NA,,,,,,
-zygopteran_larvae,Zygoptera,larvae,,NA,,,,,,
-adult,,,,NA,,,,,,
-and_eggs,,,,NA,,,,,,
-coarse_sand,sand,,,NA,,,,,,
-debris,debris,,,NA,,,,,,
-Debris  and  detritus,detritus,,,NA,,,,,,
-debris_detritus,detritus,,,NA,,,,,,
-detritus,detritus,,,NA,,,,,,
-detritus_and_other,detritus,,,NA,,,,,,
-detritus_mud,detritus,,,NA,,,,,,
-detritus_sand,detritus,,,NA,,,,,,
-detritus_sediment,detritus,,,NA,,,,,,
-detritus_substratum,detritus,,,NA,,,,,,
-Detrius,detritus,,,NA,,,,,,
-Digested material,Other,,,NA,,,,,,
-digested_matter,Other,,,NA,,,,,,
-eggs,Animalia,eggs,,NA,,,,,,
-eggs_and_cysts,Animalia,eggs,,NA,,,,,,
-eggs_unknown,Animalia,eggs,,NA,,,,,,
-einfeldiu_sp,,,,NA,,,,,,
-empty_space,,,,NA,,,,,,
-feather,Aves,,,NA,,,,,,
-fine_detritus,detritus,,,NA,,,,,,
-fine_sand,sand,,,NA,,,,,,
-fpom,Organic matter,,,NA,,,,,,
-fungus,Fungus,,,NA,,,,,,
-g_giurus,,,,NA,,,,,,
-g_lignorunz,,,,NA,,,,,,
-garri_fibres,,,,NA,,,,,,
-gleocystis,,,,NA,,,,,,
-gyrosigma_sp,,,,NA,,,,,,
-gyrosigma_sp_1,,,,NA,,,,,,
-h_orbiculare,,,,NA,,,,,,
-heminoptera,,,,NA,,,,,,
-homalopterinae,,,,NA,,,,,,
-i_sordidus,,,,NA,,,,,,
-Incidentalmatter,,,,NA,,,,,,
-Inorganic  detritus,,,,NA,,,,,,
-inorganic_material,,,,NA,,,,,,
-inorganic_matter,,,,NA,,,,,,
-juveniles,,,,NA,,,,,,
-miscellaneous,,,,NA,,,,,,
-Miscellaneous,,,,NA,,,,,,
-mn_remains,,,,NA,,,,,,
-mud,,,,NA,,,,,,
-mud_detritus,,,,NA,,,,,,
-NA,,,,NA,,,,,,
-nonprey_items,,,,NA,,,,,,
-not_identified,,,,NA,,,,,,
-oocytes,,,,NA,,,,,,
-Ooze,,,,NA,,,,,,
-Organic  detritus,,,,NA,,,,,,
-organic_mat_undet,,,,NA,,,,,,
-organic_matter,,,,NA,,,,,,
-organic_matter_not_identified,,,,NA,,,,,,
-Organic-inorganic  debris,,,,NA,,,,,,
-ova_eggs,,eggs,,NA,,,,,,
-own_eggs,,eggs,,NA,,,,,,
-plankton,,,,NA,,,,,,
-rocks,,,,NA,,,,,,
-sand,,,,NA,,,,,,
-Sand,,,,NA,,,,,,
-Sand grains,,,,NA,,,,,,
-sand_and_silt,,,,NA,,,,,,
-sand_grains,,,,NA,,,,,,
-sand_silt,,,,NA,,,,,,
-semi_digested_organic_matter,,,,NA,,,,,,
-setac_of_oligochaetes,,,,NA,,,,,,
-shad,,,,NA,,,,,,
-shell_fragments,,,,NA,,,,,,
-silt_biofilm,,,,NA,,,,,,
-soil_debris_detritus,,,,NA,,,,,,
-soil_mud_sand,,,,NA,,,,,,
-spp.,,,,NA,,,,,,
-surface_food,,,,NA,,,,,,
-table_2_continued,,,,NA,,,,,,
-terrestrial,,,,NA,,,,,,
-thread,,,,NA,,,,,,
+fshremains",NA
+"Debris  and  detritus",NA
+"terrestrial",NA
+"mn_remains",NA
+"cosmaria",NA
+"rotatoria",NA
+"fish eggs",NA
+"terrestrial insects",NA
+"aquatic insects",NA
+"acari",NA
+"malacostraca",NA
+"entomostraca",NA
+"bryzoa",NA
+"filamentous algae",NA
+"detrius",NA
+"beetle",NA
+"chironomus larvae",NA
+"chironomus pupae",NA
+"corethra sp",NA
+"cyclops viridis",NA
+"elodea leaves",NA
+"fish scales",NA
+"hydrocarina",NA
+"insect eggs",NA
+"may fly",NA
+"parasitic flatworms",NA
+"plant material",NA
+"potamogeton",NA
+"insect organs",NA
+"vorticella",NA
+"bivalves",NA
+"ichneumon fly",NA
+"mycetobia larvae",NA
+"damselfly nymph",NA
+"plant tissue",NA
+"chironomous larvae",NA
+"chironomous pupae",NA
+"damsel fly_nymph",NA
+"hydrocara",NA
+"snals",NA
+"trichoptera larvae",NA
+"chara",NA
+"chironomus egg",NA
+"chironormus pupae",NA
+"cladocera sp",NA
+"daphnia longispina",NA
+"dragon fly_nymph",NA
+"ephemeridae nymph",NA
+"mycetobia",NA
+"nais",NA
+"edogonium",NA
+"orechestiidae",NA
+"sand grains",NA
+"sisyra",NA
+"snails",NA
+"chironomus eggs",NA
+"chironormis pupae",NA
+"clam flesh",NA
+"damsel fly_nymphs",NA
+"dragon fly",NA
+"ephemeridae",NA
+"corixidwgs",NA
+"filamentousalgae",NA
+"insecteggs",NA
+"x32",NA
+"x33",NA
+"x34",NA
+"x35",NA
+"x36",NA
+"x37",NA
+"x38",NA
+"x39",NA
+"x40",NA
+"x41",NA
+"x42",NA
+"x43",NA
+"x44",NA
+"x45",NA
+"x46",NA
+"x47",NA
+"x48",NA
+"x49",NA
+"x50",NA
+"x51",NA
+"x52",NA
+"x53",NA
+"chaetophora",NA
+"chirononus larvae",NA
+"cyclops virldis",NA
+"fish flesh",NA
+"formica",NA
+"grasshopper legs",NA
+"haliplus longulus",NA
+"hordeum jubatum_seed",NA
+"hydroporus sp",NA
+"insect legs",NA
+"may fy",NA
+"polygonum seeds",NA
+"potamogeton stems_leaves",NA
+"rotifers",NA
+"whirligig beetle",NA
+"vallisneria",NA
+"hyacinth roots",NA
+"plant debris",NA
+"cladocera unidentified",NA
+"callinectes",NA
+"rhithropanopeus",NA
+"neuroptera nymph",NA
+"ephemerida nymph",NA
+"zygoptera nymph",NA
+"corixidae adult",NA
+"haliplidae adult",NA
+"dystiscidae larvae",NA
+"coleoptera terrestrial_adult",NA
+"coleoptera larvae",NA
+"chironomid larvae",NA
+"chironomid pupae",NA
+"chironomid adult",NA
+"chironomid pupal_skins",NA
+"chironomid tube_remains",NA
+"large white_diptera_larvae",NA
+"small green_diptera_larvae",NA
+"insect remains",NA
+"animal remains",NA
+"bottom debris",NA
+"crustacea unidentifed",NA
+"diptera large_white_larvae",NA
+"diptera small_green_larvae",NA
+"anisoptera nymph",NA
+"chironomidae larvae",NA
+"chironomidae pupae",NA
+"chironomidae adult",NA
+"diptera larvae",NA
+"diptera pupae",NA
+"fish remains",NA
+"ants",NA
+"aquatic invertebrates_u",NA
+"arachnidae",NA
+"arthropoda",NA
+"bird remains",NA
+"fish u",NA
+"hepsetus odoe",NA
+"petrocephalus catostoma",NA
+"tilapia sparrmanii",NA
+"brycinus lateralis",NA
+"barbus paludinosus",NA
+"b thamalakanensis",NA
+"marcusenius macrolepidotus",NA
+"schilbe intermedius",NA
+"barbus haasianus",NA
+"aplocheilichthis johnstonii",NA
+"clarias sp",NA
+"barbus sp",NA
+"synodontis sp",NA
+"cichlidae",NA
+"anabantidae",NA
+"frogs",NA
+"grass",NA
+"mice",NA
+"millipedes",NA
+"tree bark_leaves_roots",NA
+"vegetation u",NA
+"zooplankton",NA
+"coleoptera 26",NA
+"unidentified insect_35",NA
+"other crustaceaa",NA
+"lepomis spp",NA
+"unidentified fish",NA
+"coleoptera 43",NA
+"other insectb",NA
+"unidentified insect_46",NA
+"vegetation",NA
+"miscellaneousc",NA
+"redbreast sunfish",NA
+"smallmouth bass",NA
+"centrarchidae",NA
+"comely shiner",NA
+"satinfin shiner",NA
+"unidentified cyprinidae",NA
+"margined madtom",NA
+"unidentified ictaluridae",NA
+"fantail darter",NA
+"etheostoma spp",NA
+"other fishb",NA
+"coleoptera 54",NA
+"unidentified insect_56",NA
+"other insecta",NA
+"unidentified insect",NA
+"other crustaceab",NA
+"other aquatic_invertebratec",NA
+"parasites",NA
+"coelosphaerium",NA
+"parasite",NA
+"nauplius larvae",NA
+"merismopedia",NA
+"gomphosphaeria",NA
+"oscillatoria",NA
+"gleotrichia",NA
+"volvox",NA
+"sphaerocystis",NA
+"cylindrocapsa",NA
+"bulbochaete",NA
+"hirudineae",NA
+"lnsecta",NA
+"copepoda larvae",NA
+"aphanizomonon",NA
+"gladocera",NA
+"trematoda",NA
+"shiner",NA
+"yellow perch",NA
+"johnnie darter",NA
+"log perch",NA
+"walleye pike",NA
+"micro crustacea",NA
+"plant",NA
+"other",NA
+"microcrustacea",NA
+"freshwater drum",NA
+"harpacticoid copepods",NA
+"unidentified insects",NA
+"chrionomid pupae",NA
+"odonata nymphs",NA
+"ephemeroptera larvae",NA
+"insect",NA
+"parts of_fishes",NA
+"vegetable mat",NA
+"digested food",NA
+"diaoms",NA
+"diptera adults",NA
+"aufwuchs",NA
+"dosmina sp",NA
+"alona spp",NA
+"chydorus spp",NA
+"ceriodaphnia sp",NA
+"oligochaetes",NA
+"gammarids",NA
+"baetiscids",NA
+"chironomids",NA
+"operculab",NA
+"sphaeriids",NA
+"other malacostracans",NA
+"brachycentrids",NA
+"atlantic tomcod",NA
+"polychaetes",NA
+"physids",NA
+"other gastropods",NA
+"zebra mussels",NA
+"other diptera",NA
+"other insects",NA
+"mollusks",NA
+"crustaceans",NA
+"caprella",NA
+"tanaidacea",NA
+"gammaridea",NA
+"cumacea",NA
+"ciclopoida",NA
+"calanoida",NA
+"anomura",NA
+"brachyura",NA
+"brachyuralarvae",NA
+"polychaeta",NA
+"polichaetatubs",NA
+"teleostei",NA
+"teleosteiscales",NA
+"spawn",NA
+"phyllopoda",NA
+"eurycercus",NA
+"asellus",NA
+"limnaea",NA
+"planorbis",NA
+"pisidae",NA
+"plecoptera larvae",NA
+"megaloptera larvae",NA
+"coleoptera larvae_41",NA
+"simuliidae larvae",NA
+"tipulidae larvae",NA
+"coleoptera larvae_45",NA
+"trichoptera pupae",NA
+"tipulidae",NA
+"terr insecta",NA
+"lepidurus",NA
+"oligocha eta",NA
+"ephemeroptera larvae_38",NA
+"ephemeroptera larvae_47",NA
+"simuliidae",NA
+"corbicula",NA
+"hirudinae",NA
+"hydrachnida",NA
+"branchiopoda",NA
+"unidentifed parts",NA
+"unidentified pupae",NA
+"unidentified adults",NA
+"scenedesmus sp",NA
+"spirogyra sp",NA
+"ankistrodesmus sp",NA
+"protococcus sp",NA
+"kirchneriella sp",NA
+"characium sp",NA
+"mougeotia sp",NA
+"goniochloris sp",NA
+"chlamydomyxa sp",NA
+"tribonema sp",NA
+"centritractus sp",NA
+"ophiocytium sp",NA
+"phormidium sp",NA
+"rivularia sp",NA
+"spiru ina_sp",NA
+"oscillatoria sp",NA
+"nostoc sp",NA
+"merismopedia sp",NA
+"cosmarium sp",NA
+"closterium sp",NA
+"micrasterias sp",NA
+"desmidium sp",NA
+"euastrum sp",NA
+"acicular sp",NA
+"navicula sp",NA
+"amphicampa sp",NA
+"tabellaria sp",NA
+"diatoma sp",NA
+"melosira sp",NA
+"synedra sp",NA
+"stephanodiscus sp",NA
+"cylotella sp",NA
+"astasia sp",NA
+"polytoma sp",NA
+"keratella sp",NA
+"brachionus sp",NA
+"daphnia sp",NA
+"diaptomus sp",NA
+"eubranchipus sp",NA
+"spirulina sp",NA
+"cosrnariurn sp",NA
+"closteriurn sp",NA
+"melosira sd",NA
+"formicidae ants",NA
+"odonatan nymph",NA
+"microcustaceans",NA
+"other invertebrates",NA
+"sediment",NA
+"plant matter",NA
+"rhyacophilidae",NA
+"heptageniidae",NA
+"leptophlebiidae",NA
+"psephenidae",NA
+"perlodidae",NA
+"crayfsh",NA
+"oligoneuriidae",NA
+"perlidae",NA
+"c cornutus",NA
+"fish flesh_fragments",NA
+"fish unidentified",NA
+"plagioscion squamosissimus_fish_fry",NA
+"siluriformes",NA
+"campsurinae fragments_nymphs",NA
+"egg mass",NA
+"phyllocycla sp_nymphs",NA
+"libellulidae nymphs",NA
+"odonata nymphs_fragments",NA
+"coelotanypus sp_larvae",NA
+"ablabesmyia sp_larvae",NA
+"cryptochironomus sp_larvae",NA
+"chaoborus sp_larvae",NA
+"chaoborus sp_pupae",NA
+"ceratopogonidae larvae",NA
+"asheum sp_larvae",NA
+"brundiniella sp_larvae",NA
+"goeldichironomus sp_larvae",NA
+"harnischia sp_larvae",NA
+"notodiaptomus sp_copepoda_calanoida",NA
+"calanoida fragments",NA
+"macrobrachium sp_crustacea",NA
+"insect fragments",NA
+"calanoid copepods",NA
+"invertebrate eggs",NA
+"shrimp postlarvae",NA
+"calanold copepods",NA
+"ephemerella sp",NA
+"baetis spp_nymphs",NA
+"baetis spp_imagines",NA
+"iron sp",NA
+"rhithrogena sp",NA
+"arcynopteryx sp",NA
+"chloroperla sp",NA
+"acroneuria sp",NA
+"paragnetina sp",NA
+"dicosmoecus sp",NA
+"arctopsyche sp",NA
+"rhyacophila sp",NA
+"blepharoceridae",NA
+"chironomidae larvae_and_pupae",NA
+"chironomidae adults",NA
+"empididae",NA
+"misc adults",NA
+"misc terrestrial_insects",NA
+"misc aqautic_insects",NA
+"exuviae",NA
+"limnephilidae",NA
+"chiromomidae larvae_and_pupae",NA
+"chiromomidae adults",NA
+"other aquatic_insects",NA
+"archlchauliodes diversus",NA
+"stenoperla prasina",NA
+"aucklandobius trivacuatus",NA
+"zelandoperla decorate",NA
+"plecoptera adults",NA
+"coloburiscus humeralls",NA
+"nesameletus ornatus",NA
+"deleattdium spp",NA
+"ontscigaster wakefeldi",NA
+"zephlebta scita",NA
+"ephemeroptera adults",NA
+"hydropsyche colonica",NA
+"polycentropodidae larvae",NA
+"rhyacophilidae larvae",NA
+"olinga feredayi",NA
+"helicopsyche sp",NA
+"pycnocentrodes aureola",NA
+"pycnocentria evecta",NA
+"hudsonema amabilis",NA
+"beraeoptera rorta",NA
+"triplectides obsolete",NA
+"trichoptera adults",NA
+"tipulidae pupae",NA
+"tipulidae adults",NA
+"dixidae larvae",NA
+"helodidae larvae",NA
+"elmidae larvae",NA
+"elmidae adults",NA
+"gordius sp",NA
+"terrestrial arthropods",NA
+"turbellaria",NA
+"chonchostraca",NA
+"limnephilidae 25",NA
+"terrestrial invertebrates",NA
+"protonemura meyeri",NA
+"baetis spp",NA
+"isoperla grammatica",NA
+"spp",NA
+"emerging aquatic_insects",NA
+"polycentropus spp_34",NA
+"leuctra spp",NA
+"perlodes microcephala",NA
+"limnephilidae 38",NA
+"polycentropus spp_39",NA
+"ancylastrum fluviatile",NA
+"ecdyonuridae",NA
+"chloroperla torrentium",NA
+"helmidae",NA
+"ephemerella ignita",NA
+"silo pallipes",NA
+"hydropsyche instabilis",NA
+"amphinemura sulcicollis",NA
+"hydrachnellae",NA
+"oxyethira sagittifera",NA
+"hydroptila sp",NA
+"sialis lutaria",NA
+"neuroptera",NA
+"epheinenda",NA
+"odonate",NA
+"hoinoptera",NA
+"amphibians",NA
+"mammals",NA
+"c1adocera",NA
+"aquatic hemiptera",NA
+"terrestrial hemiptera",NA
+"corrodentia",NA
+"aquatic coleoptera",NA
+"terrestrial coleoptera",NA
+"aquatic lepidoptera",NA
+"aquatic diptera",NA
+"terrestrial diptera",NA
+"flydracarina",NA
+"terrestrial araneae",NA
+"terrestrial fauna",NA
+"other aquatic_fauna",NA
+"microvelia",NA
+"acarina",NA
+"tenagomysis",NA
+"sigara",NA
+"gambusia",NA
+"anisops",NA
+"caridina",NA
+"lates",NA
+"rastrineobola",NA
+"small pennate_diatom",NA
+"large pennate_diatom",NA
+"sigmoid diatom",NA
+"surirella sp",NA
+"ophiocytiunz sp",NA
+"tabellaria sp_31",NA
+"euastrunz sp",NA
+"rhizoclonium sp",NA
+"fragilaria sp",NA
+"microspora sp",NA
+"nostochopsis sp",NA
+"tabellaria sp_41",NA
+"chlorangium sp",NA
+"lecane sp",NA
+"cyclopoid copepod",NA
+"actinotaenium sp",NA
+"elakatotrix sp",NA
+"hyalotheca sp",NA
+"staurastrum sp",NA
+"echinolaena inflexa_seeds_leaf_stalk",NA
+"fragments",NA
+"psidium guajava_seeds",NA
+"onagraceae petioles_and_leaf_fragments",NA
+"difflugia sp",NA
+"notholca sp",NA
+"nematoda ordem_dorylaimida",NA
+"nematomorpha",NA
+"tubificidae",NA
+"lumbriculidae",NA
+"hydrachnellidae",NA
+"unsonicolidae",NA
+"mesocyclops sp",NA
+"termocyclops sp",NA
+"argyrodiaptomus sp",NA
+"cariodaphnia sp",NA
+"bosmina sp",NA
+"chaoboridae larvae",NA
+"odonata larvae",NA
+"neuroptera larvae",NA
+"tricoptera larvae",NA
+"culicidae larvae",NA
+"gryllidae",NA
+"scarabaeidae",NA
+"elateridae",NA
+"tenebrionidae",NA
+"chaoboridae adult",NA
+"phoridae",NA
+"aranae",NA
+"fish characiformes",NA
+"scale cycloid",NA
+"scale ctenoid",NA
+"unidentifed araneae",NA
+"unidentifed insecta",NA
+"unidentifed hemiptera",NA
+"unidentifed hymenoptera",NA
+"ichneumonidae",NA
+"siphlonuridae",NA
+"unidentifed odonata",NA
+"unidentifed trichoptera",NA
+"brachycentridae",NA
+"unidentifed coleoptera",NA
+"coccinellidae",NA
+"dryopidae",NA
+"unidentifed diptera",NA
+"unidentifed orthoptera",NA
+"unidentifed gastropoda",NA
+"veneroida",NA
+"unidentifed cypriniformes",NA
+"bluehead sucker",NA
+"creek chub",NA
+"simuliidae pupae",NA
+"diptera unidentified",NA
+"dixidae",NA
+"muscidae",NA
+"leptohyphidae",NA
+"leptophebiidae",NA
+"ephemeroptera nymph",NA
+"baetidae nymph",NA
+"philopotamidae",NA
+"leptoceridae",NA
+"hydroptilidae",NA
+"helicopsychidae",NA
+"gripopterygidae",NA
+"elmidae adult",NA
+"anisoptera",NA
+"zygoptera",NA
+"odonata unidentified",NA
+"corydalidae",NA
+"hymenoptera formicidae",NA
+"fragment of_adult_insects",NA
+"blattodae",NA
+"palaemonidae macrobrachium_spp",NA
+"trichodactylidae trichodactylus_sp",NA
+"fragment crustacean",NA
+"molluscs fish_oligochaeta",NA
+"insects larvae_fragments",NA
+"odonata unidentified_32",NA
+"odonata unidentified_53",NA
+"potamopyrgus antipodarum",NA
+"deleatidium spp",NA
+"other ephemeroptera",NA
+"hydrobiosidae",NA
+"conoesucidae",NA
+"austrosimulium spp",NA
+"hydrobiidae",NA
+"achaeta",NA
+"gammaridae",NA
+"ephemeroptera imagines",NA
+"ephemerellidae",NA
+"nemouridae leuctridae",NA
+"aeschnidae",NA
+"cordulegastridae",NA
+"calopterygidae",NA
+"elmidae larvae_and_imagines",NA
+"trichoptera imagines",NA
+"philoptamidae",NA
+"goeridae",NA
+"sericostomatidae",NA
+"myriapoda",NA
+"lepidoptera larvae",NA
+"hymenoptera imagines",NA
+"diptera imagines",NA
+"coleoptera imagines",NA
+"coleoptera imagines_40",NA
+"lepidostomatidae",NA
+"amphibia",NA
+"coleoptera imagines_61",NA
+"plecoptera imagines",NA
+"coleoptera imagines_36",NA
+"athericidae",NA
+"gasteropoda",NA
+"coleoptera imagines_58",NA
+"sialidae",NA
+"elmidae larvae_imagines",NA
+"glossosomatidae",NA
+"brachycera",NA
+"ga steropoda",NA
+"paraleptophlebia",NA
+"heptagenio",NA
+"unidentifed insects",NA
+"unidentifable insects",NA
+"leeches",NA
+"spiders",NA
+"mites",NA
+"ephemerida",NA
+"dintera",NA
+"crayfshes",NA
+"salmonid eggs",NA
+"centipedes",NA
+"crayfishes",NA
+"coleopterd",NA
+"aeshna",NA
+"afronurus",NA
+"agapetus",NA
+"anax",NA
+"aprionyx peterseni",NA
+"atherix",NA
+"athripsodes",NA
+"barbarochthon brunneum",NA
+"castanophlebia",NA
+"cheumatopsyche",NA
+"chimarra",NA
+"chironominae",NA
+"choroterpes",NA
+"cloeodes",NA
+"dixa",NA
+"dolophilodes",NA
+"elporia",NA
+"forcipomyia",NA
+"hydraenidae",NA
+"hydroptila",NA
+"hydroptilidae spp",NA
+"labiobaetis",NA
+"leptocerus",NA
+"lestagella penicillata",NA
+"lithogloea harrisoni",NA
+"naucoris",NA
+"notogomphus",NA
+"orthocladiinae",NA
+"orthotrichia",NA
+"parecnomia resima",NA
+"petroplax",NA
+"petrothrincus",NA
+"pseudagrion",NA
+"ptilodactylidae",NA
+"scirtidae",NA
+"simulium",NA
+"tanypodinae",NA
+"fish and_frogs",NA
+"green algae",NA
+"clay",NA
+"silt",NA
+"filament algae",NA
+"microcrustaceans",NA
+"vegetal matter",NA
+"detrius sediment",NA
+"mormyridae",NA
+"small characidae",NA
+"hemigrammocharax",NA
+"barbus spp",NA
+"clarias spp",NA
+"schilbe mystus",NA
+"chiloglanis",NA
+"synodontis spp",NA
+"aplocheilichthys spp",NA
+"tilapines",NA
+"haplochromines",NA
+"unidentifed cichlidae",NA
+"unidentifed fshes",NA
+"detritus substrate",NA
+"fish scale",NA
+"plant materials",NA
+"plant leaves",NA
+"brachionus plicatilis",NA
+"testudinella clypeata",NA
+"nereis diversicolor",NA
+"unid acari",NA
+"unid ostracoda",NA
+"mesochra lilljeborgi",NA
+"mesochra rapines",NA
+"tisbe longicornis",NA
+"canuella perplexa",NA
+"copepoda nauplii",NA
+"gammarus aequicauda",NA
+"protracheoniscus occidentalis",NA
+"unid crustacea",NA
+"stratiomyidae larvae",NA
+"stratiomyidae exuviae",NA
+"rhagionidae larvae",NA
+"ephydridae larvae",NA
+"ephydridae exuviae",NA
+"unid hymenoptera_adult",NA
+"terrestrial snails",NA
+"cyanobacteria",NA
+"platyhelminthes",NA
+"chlorophyceae",NA
+"dynophyceae",NA
+"tardigrada",NA
+"euglenophyta",NA
+"fish vertebrae",NA
+"fish egg",NA
+"midge larvae",NA
+"may fly_larvae",NA
+"beetle larvae",NA
+"round worms",NA
+"ceratopopogonidae",NA
+"a aquaticus",NA
+"g pulex",NA
+"simulium sp",NA
+"unidentifed invertebrates",NA
+"mysis",NA
+"camberus",NA
+"lamellibranchs",NA
+"valvata tricarinata",NA
+"valva sincera",NA
+"amnicola",NA
+"physa",NA
+"lymnea",NA
+"hexagenia",NA
+"chrionomidae",NA
+"tecameba",NA
+"bryozoa",NA
+"organic detritus",NA
+"cyanophyta",NA
+"pennales",NA
+"rhodophyta",NA
+"bryophyta",NA
+"potamogetonaceae",NA
+"plant detritus",NA
+"protozoans testacea",NA
+"chaetophora sp",NA
+"cladophora sp",NA
+"coelastrum sp",NA
+"oedogonium sp",NA
+"pediastrum sp",NA
+"ulothrix sp",NA
+"volvox sp",NA
+"docidium sp",NA
+"eastrum sp",NA
+"gonatozygon sp",NA
+"pleurotaenium sp",NA
+"amphora sp",NA
+"cymbella sp",NA
+"frustulia sp",NA
+"gomphonema sp",NA
+"pinnularia sp",NA
+"stauroneis sp",NA
+"porcellus sp",NA
+"erglypha sp",NA
+"alonella sp",NA
+"rotaria sp",NA
+"branchionus sp",NA
+"restos de_insectos",NA
+"ceratopogonide",NA
+"material vegetal",NA
+"detritusl",NA
+"vegetation dwelling_prey",NA
+"gatropods",NA
+"synadra sp",NA
+"gymnodium sp",NA
+"nitzchia sp",NA
+"lyngbya sp",NA
+"polycystis sp",NA
+"aphanocapsa sp",NA
+"coelosphaerium sp",NA
+"microcystis sp",NA
+"spirotaenia sp",NA
+"sphaeoplea sp",NA
+"unidentified algae",NA
+"polyarthra sp",NA
+"kerattela sp",NA
+"epiphanes sp",NA
+"synchaeta sp",NA
+"asplanchna sp",NA
+"philodina sp",NA
+"eurycerus sp",NA
+"syncaris sp",NA
+"cyclops sp",NA
+"frontonia sp",NA
+"paramecium sp",NA
+"insect parts",NA
+"unidentified food",NA
+"plant tissues",NA
+"plant parts",NA
+"insect appendages",NA
+"aspatharia sp",NA
+"povilla adusta_adult",NA
+"dragon fly_adult",NA
+"p adusta_larvae",NA
+"daphnia",NA
+"water mite",NA
+"plecoptera nymph",NA
+"gastropoda hydrobiidae",NA
+"other gastropoda",NA
+"organic matter",NA
+"plant fragments",NA
+"sediments",NA
+"m tuberculata",NA
+"l natalensis",NA
+"b globosus",NA
+"cleopatra spp",NA
+"b pfeifferi",NA
+"c africana",NA
+"c mossambicensis",NA
+"b capillata",NA
+"insects remains",NA
+"adult coleoptera",NA
+"acarina hydracarina",NA
+"thick sediment",NA
+"fine sediment",NA
+"hyphae",NA
+"tecamoebas",NA
+"blue algae",NA
+"leptodora",NA
+"hyalella",NA
+"hymenoptera adults",NA
+"ceratopogonid larvae",NA
+"sialie larvae",NA
+"bony herring",NA
+"redfin perch",NA
+"tamar river_goby",NA
+"lagoon goby",NA
+"flathead gudgeon",NA
+"australian smelt",NA
+"smallmouth hardyhead",NA
+"common carp",NA
+"atyid shrimp",NA
+"ephemeroptera newt",NA
+"zygoptera newt",NA
+"anisoptera newt",NA
+"isopod",NA
+"zyaoptera newt",NA
+"amphiooda",NA
+"midge larvae_pupae",NA
+"black fly_larvae",NA
+"caddisfly larvae",NA
+"mayfly naiads",NA
+"snipe fly_larvae",NA
+"stonefly naiads",NA
+"gizzard shad",NA
+"white bass",NA
+"heptageniidaed",NA
+"ephemerella",NA
+"thcorythodes",NA
+"leuctra",NA
+"neoperla",NA
+"hydropsyche",NA
+"aquatic immature_insects",NA
+"ceratopogonidae and_chironomidae_larvae",NA
+"simulidae larvae",NA
+"libelullidade nymphs",NA
+"belostomatidae",NA
+"veliidae",NA
+"arachnida araneae",NA
+"bosminopsis deitersi",NA
+"bosminopsis negrensis",NA
+"bosminopsis sp",NA
+"bosmina hagmani",NA
+"ceriodaphnia cornuta",NA
+"moina rostrata",NA
+"moina minuta",NA
+"ilyocriptus sp",NA
+"chydoridae",NA
+"unidentified cladocera",NA
+"ephippial eggs",NA
+"cyclopoida",NA
+"diptera winged_forms",NA
+"coleoptera adults",NA
+"dvtiscidae",NA
+"acarinae",NA
+"decapoda crabs",NA
+"others invert",NA
+"coleoptera terrestrial",NA
+"diptera aquatic",NA
+"ephemeroptera aquatic",NA
+"hymenoptera terrestrial",NA
+"lepidoptera terrestrial",NA
+"odonata aquatic",NA
+"trichoptera aquatic",NA
+"others insects_aquatic",NA
+"others insects_terrestrial",NA
+"insect remain",NA
+"astyanax sp",NA
+"gymnotiformes",NA
+"fish remain",NA
+"aquatic plants",NA
+"terrestrial plants",NA
+"detritus sediment",NA
+"apocrita",NA
+"aschiza",NA
+"chaoboridae",NA
+"chrysomelidae",NA
+"cicadellidae",NA
+"egg cases",NA
+"encyctidae",NA
+"encyritidae",NA
+"formicidae winged",NA
+"formicide",NA
+"jawed insects",NA
+"labidognatha",NA
+"mymaridae",NA
+"nematoceria larvae",NA
+"nematoceria pupae",NA
+"noteridae",NA
+"oribatei",NA
+"protozoa lorica",NA
+"sphecidae",NA
+"staphylinidae",NA
+"syrphidae",NA
+"tenthcedinidae",NA
+"thysanoptera",NA
+"algae fit",NA
+"carabidae",NA
+"chaleidinidae",NA
+"cupesidae",NA
+"dermistidae",NA
+"gelatinous egg_cases",NA
+"hebridae",NA
+"heleidae",NA
+"heteroceridae",NA
+"leptodiridae",NA
+"rocks",NA
+"scarabaeinae",NA
+"scydmenidae",NA
+"symphyla",NA
+"baetidae nymphs",NA
+"caenidae nymphs",NA
+"ephemerellidae nymphs",NA
+"ephemeroptera imagos",NA
+"diptera nymphs",NA
+"dytiscidae larvae",NA
+"hydropsychidae larvae",NA
+"other prey",NA
+"immature bivalve",NA
+"arthropoda remains",NA
+"vegetal remains",NA
+"sediment debris",NA
+"chironomidae larvae_26",NA
+"chironomidae larvae_27",NA
+"psycodidae",NA
+"simuliidae larvae_31",NA
+"simuliidae larvae_32",NA
+"baetidae larvae_35",NA
+"baetidae larvae_36",NA
+"hidroptilidae",NA
+"grypopterigidae",NA
+"nocteridae larvae",NA
+"psephinidae",NA
+"libellulidae",NA
+"zigoptera",NA
+"fish parts",NA
+"molusc",NA
+"oligocheata",NA
+"dipteran larvae",NA
+"pyralididae",NA
+"planariidae",NA
+"chaoborus sp",NA
+"adult chironomid",NA
+"ceratapogonidae",NA
+"daphnia spp",NA
+"oscillatoria spp",NA
+"planktonic algae",NA
+"paratya spp",NA
+"oribatidae",NA
+"physa sp",NA
+"unknown",NA
+"small crustaceans",NA
+"l fortunei",NA
+"corbicula spp",NA
+"heliobia spp",NA
+"mineral",NA
+"annus",NA
+"gammarua",NA
+"nemura nymphs",NA
+"leptocerue larvae",NA
+"char eggs",NA
+"surface food",NA
+"ephemeroptera nymphs",NA
+"plecoptera nymphs",NA
+"sialis lutaria_larva",NA
+"asellus meridianus",NA
+"gammarus pulex",NA
+"ephemeroptera sub_imagines",NA
+"aerial insects",NA
+"gwyniad eggs",NA
+"cottus gobio",NA
+"eurycercus lamellatus",NA
+"lymnaea peregra",NA
+"pisidium spp",NA
+"chironomidae puapae_and_adult",NA
+"gasterosteus aculeatus",NA
+"hirudinea",NA
+"trichoptera puapae_and_adult",NA
+"haliplus fulvus_larvae",NA
+"salmonidae",NA
+"chironomidae pupae_and_adult",NA
+"emycercus lamellatus",NA
+"agabus bipustulatus_adult",NA
+"trichoptera pupae_and_adult",NA
+"haliplus fulvus_adult",NA
+"agabus bipustulatus_larvae",NA
+"unidentified copepods",NA
+"aloma rectangula",NA
+"alona sp",NA
+"scapholeberis",NA
+"hyalella sp",NA
+"unidentified hydracarina",NA
+"chironomidac larvae_and_pupae",NA
+"unidentified dipterous_adults",NA
+"ephemerida nymphs",NA
+"psocidae",NA
+"unidentified terrestrial_insects",NA
+"ciadocera",NA
+"unidentified items",NA
+"ephemeroptera winged",NA
+"trichoptera larva",NA
+"sintulium larvae",NA
+"sintulium pupae",NA
+"sintulium imagines",NA
+"crustacea gammarus",NA
+"mol iusca",NA
+"nemathelminthes",NA
+"pisces ova",NA
+"dragonfly nymph",NA
+"mayfly nymph",NA
+"caddisfly",NA
+"heleidae pupae",NA
+"water mites",NA
+"terrestrial ants",NA
+"other terrestrial_diptera",NA
+"terrestrial neuroptera",NA
+"terrestrial hornoptera",NA
+"terrestrial damselflies",NA
+"frog",NA
+"dragonfly newt",NA
+"damselfly newt",NA
+"mayfly newt",NA
+"stonefly newt",NA
+"heleidae larvae",NA
+"snail",NA
+"clam",NA
+"terrestrial anta",NA
+"other terrestrial_hymenoptera",NA
+"terrestrial homoptera",NA
+"terrestrial lepidoptera",NA
+"terrestrial dragonflies",NA
+"salmon",NA
+"ephemeroptera adult",NA
+"odonata nymph",NA
+"odonata adult",NA
+"trichoptera adult",NA
+"hemiptera adult",NA
+"coleoptera adult",NA
+"diptera larvae_and_pupae",NA
+"diptera adult",NA
+"cladocem",NA
+"salmo trutta",NA
+"unkown diptera_larvae",NA
+"diptera terrestrial",NA
+"zygoptera adult",NA
+"diptera flies",NA
+"chrionomid larvae_and_pupae",NA
+"simuliidae larvae_and_pupae",NA
+"trichoptera larvae_and_pupae",NA
+"chrionomid",NA
+"salvelinus namaycush",NA
+"coregonus clupeaformis",NA
+"coregonus artedi",NA
+"prosopium cylindraceum",NA
+"exos lucius",NA
+"lota lota",NA
+"cottus cognatus",NA
+"pungitius pungitius",NA
+"otoliths",NA
+"invertebrate",NA
+"mysidae",NA
+"bivalve",NA
+"caelifara",NA
+"tetrix ornata",NA
+"lepidoptera 46",NA
+"lepidoptera 47",NA
+"noctuidae",NA
+"aranea 49",NA
+"aranea 50",NA
+"xysticus triangulosus",NA
+"diamesinae",NA
+"dryomyzidae",NA
+"tabanidae",NA
+"oxycerini",NA
+"aecothea sp",NA
+"crinurina sp",NA
+"orbellia sp",NA
+"sericomyia sp",NA
+"syrphus sp",NA
+"acalyptratae",NA
+"amphipogon hyperboreus",NA
+"curtonotum helvum",NA
+"hemiptera 70",NA
+"hemiptera 71",NA
+"lygaeidae",NA
+"miridae",NA
+"nabidae",NA
+"pentatomidae",NA
+"scutelleridae",NA
+"deraeocoris sp",NA
+"lygidea sp",NA
+"nabicula sp",NA
+"perillus sp",NA
+"hymenoptera adult",NA
+"apoidea",NA
+"aulacidae",NA
+"banchinae",NA
+"campopleginae",NA
+"ctenopelmatinae",NA
+"cyllocerinae",NA
+"diplazontinae",NA
+"opiinae",NA
+"pimplinidae",NA
+"phygadeuontidae",NA
+"tryphoninae",NA
+"vespoidea",NA
+"xenosphecinae",NA
+"xoridinae",NA
+"phaeogenini",NA
+"platyabini",NA
+"amblytelina",NA
+"cratichneumonina",NA
+"ichneumonina",NA
+"protichneumonina",NA
+"adrena sp",NA
+"cylloceria sp",NA
+"enicospilus sp",NA
+"ichneumonidae sp",NA
+"oxytorus sp",NA
+"pimpla sp",NA
+"chelostomoides",NA
+"caddisfly adult",NA
+"caddisfly pupae",NA
+"apatania sp",NA
+"phanocelia sp",NA
+"agrypnia sp",NA
+"coleoptera 119",NA
+"coleoptera 120",NA
+"buprestidae",NA
+"cerambycidae",NA
+"carabini",NA
+"harpalini",NA
+"aphodius sp",NA
+"arhopalus sp",NA
+"diacheila sp",NA
+"dromaelus sp",NA
+"ellychnia sp",NA
+"macrovatellus sp",NA
+"stenotrachelus sp",NA
+"aclypea opaca",NA
+"adalia bipunctata",NA
+"cosmosalia chrysocoma",NA
+"hydrobius fuscipes",NA
+"orsodacne atra",NA
+"pachyta lamed_liturata",NA
+"plecoptera adult",NA
+"diura sp",NA
+"skwala sp",NA
+"unidentified invertebrates",NA
+"unidentified 25",NA
+"americorophium sp",NA
+"americorophium spinicorne",NA
+"amphithoidae",NA
+"corophiidae",NA
+"corophium sp",NA
+"eogammarus sp",NA
+"hyperiidae",NA
+"monocorophium sp",NA
+"unidentified 34",NA
+"copepoda calanoida",NA
+"copepoda harpacticoida",NA
+"euphausiidae",NA
+"paguroidea megalopa",NA
+"peracarida",NA
+"tanaidacea leptochelia_sp",NA
+"tanaidacea sinelobus_sp",NA
+"decapoda megalopa",NA
+"decapoda zoea",NA
+"gnorimosphaeroma oregonensis",NA
+"unidentified 47",NA
+"mysida larva",NA
+"neomysis mercedis",NA
+"cirripedia larva",NA
+"unidentified 52",NA
+"unidentified 53",NA
+"unidentified adult_55",NA
+"asilidae",NA
+"dolichopodidae",NA
+"ephydridae",NA
+"nematocera",NA
+"unidentified adult_62",NA
+"aphididae",NA
+"cercopidae",NA
+"psyllidae",NA
+"saldidae",NA
+"unidentified larva",NA
+"unidentified pupa",NA
+"ceratopogonidae larva",NA
+"ceratopogonidae pupa",NA
+"chironomidae larva",NA
+"chironomidae pupa",NA
+"coleoptera larva",NA
+"diptera larva",NA
+"dolichopodidae larva",NA
+"ephemeroptera larva",NA
+"ephydridae pupa",NA
+"hemiptera larva",NA
+"nematocera larva",NA
+"nematocera pupa",NA
+"odonata larva",NA
+"psychodidae larva",NA
+"psychodidae pupa",NA
+"psyllidae pupa",NA
+"fish larva",NA
+"triehoptera larvae",NA
+"miscellaneous 35",NA
+"miscellaneous 40",NA
+"miscellaneous 31",NA
+"miscellaneous 36",NA
+"baetis newt",NA
+"ephemerella newt",NA
+"heptageniidae adult",NA
+"baetidae adult",NA
+"lepidostomatidae larvae",NA
+"brachycentridae larvae",NA
+"hydropsychiidae larvae",NA
+"miscellaneous pupae",NA
+"simuliidae larvae_pupae",NA
+"miscellaneous adult",NA
+"miscellaneous nonaquatic_adult",NA
+"formicidae adult",NA
+"unidentified hymenoptera_adult",NA
+"lumbricidae",NA
+"osteichthyes eggs",NA
+"osteichthyes fry",NA
+"pallasea",NA
+"benthos",NA
+"fish roe",NA
+"mayfies",NA
+"caddisfles",NA
+"stoneflies",NA
+"mayflies",NA
+"caddisflies",NA
+"stonefies",NA
+"coieoptera",NA
+"herniptera",NA
+"mouse",NA
+"mollusc",NA
+"lemiptera",NA
+"gammarus sp",NA
+"ephemeralla invaria_newt",NA
+"blasturus nebulosus_newt",NA
+"baetis vagans",NA
+"leutra tenuis_newt",NA
+"allocapnia torntoensis_newt",NA
+"isogenus frontalis_newt",NA
+"bidessus sp_adult",NA
+"hydroptilidae larvae",NA
+"mystrophora americana_larvae",NA
+"mystrophora americana_pupae",NA
+"chimarrha aterrima_larvae",NA
+"hydropsyche sparna_larvae",NA
+"limnephilidae larvae",NA
+"neophylas autumnus_adult",NA
+"brachycentrus americanus_larvae",NA
+"tipula sp_larvae",NA
+"rhaphidolabis sp_larvae",NA
+"chironomus modestus_larvae",NA
+"chironamus modestus_pupae",NA
+"simulium venustum_larvae",NA
+"chrysops sp_larvae",NA
+"fish muscle",NA
+"fish fins",NA
+"whole fish",NA
+"decapods",NA
+"aquatic vegetation",NA
+"corbiculidae",NA
+"unionidae",NA
+"cyprinidae",NA
+"cambaridae",NA
+"caenidae",NA
+"polymitarcyidae",NA
+"potamanthidae",NA
+"elimia",NA
+"pleurocera",NA
+"unknown hemiptera",NA
+"unknown hirudinae",NA
+"unknown isopoda",NA
+"sisyridae",NA
+"aeshnidae",NA
+"misc zygoptera",NA
+"uknown oligochaeta",NA
+"unown nematoda",NA
+"polycentropodidae",NA
+"cyclopoid copepods",NA
+"chydorus",NA
+"sphaericus",NA
+"bosmirta",NA
+"longirostris",NA
+"pleuroxus sp",NA
+"acroperus harpae",NA
+"yetullus",NA
+"hyalella azteca",NA
+"trichoptcra larvae",NA
+"fish young",NA
+"bosmina",NA
+"sida crystallina",NA
+"simocephahts",NA
+"vetullus",NA
+"ettrycercus sp",NA
+"ion girostris",NA
+"daphnia retrocurva",NA
+"eurycercus sp",NA
+"diaphanosoma sp",NA
+"bosmina longirostris",NA
+"shia crystallina",NA
+"ceriodaphnia",NA
+"lacustris",NA
+"asellus sp",NA
+"molluska",NA
+"helophoridae",NA
+"alewife 25",NA
+"alewife 26",NA
+"bloater",NA
+"other fish",NA
+"lumbriculus",NA
+"eiseniella",NA
+"canthocamptus",NA
+"brachyptera",NA
+"protonemura",NA
+"amphinemura",NA
+"nemoura",NA
+"capnia",NA
+"isoperla",NA
+"ecdyonurus",NA
+"rhithrogena",NA
+"habrophlebia",NA
+"leptophlebia",NA
+"centroptilum",NA
+"anabolia",NA
+"polycentropus",NA
+"rhyacophila",NA
+"sinudium",NA
+"pentaneura",NA
+"procladius",NA
+"stictochironomus",NA
+"endochironomous",NA
+"tanytarsus",NA
+"prodiamesa",NA
+"orthocladius",NA
+"corynoneura",NA
+"eukieferiella",NA
+"cardiocladius",NA
+"trichocladius",NA
+"tipula",NA
+"limnophora",NA
+"dicranota",NA
+"bezzia",NA
+"hydroporus",NA
+"helmis",NA
+"esolus",NA
+"limnius",NA
+"hygrobates",NA
+"ancylus",NA
+"pisidium",NA
+"other aquatic",NA
+"s oligochaeta",NA
+"s isopoda",NA
+"s plecoptera",NA
+"s hemiptera",NA
+"s hymenoptera",NA
+"s trichoptera",NA
+"s lepidoptera",NA
+"s diptera",NA
+"s coleoptera",NA
+"s araneida",NA
+"s diplopoda",NA
+"s mollusca",NA
+"other surface",NA
+"capnia newt",NA
+"limnephilus larvae",NA
+"apatania pupae",NA
+"apatania adult",NA
+"pseudodiamesa pupae",NA
+"orthocladius larvae",NA
+"orthocladius pupae",NA
+"orthocladius adult",NA
+"gasterosteus",NA
+"diverse",NA
+"diaptomus",NA
+"aptania larvae",NA
+"aptania pupae",NA
+"pseudodiamesa larvae",NA
+"eukiefferiel pupae",NA
+"salarvaevelinus",NA
+"apatania larvae",NA
+"heterotr cladius_larvae",NA
+"salvelinus",NA
+"orthocladius pupae_33",NA
+"orthocladius pupae_34",NA
+"salyelinus",NA
+"unident insects",NA
+"small fsh",NA
+"fins",NA
+"cyclotella",NA
+"synedra",NA
+"coelospharium",NA
+"colonial algae",NA
+"higher plant_parts",NA
+"notholca",NA
+"crustacean appendages",NA
+"crayfish prawn",NA
+"cladocera daphnia",NA
+"nematode",NA
+"tilapia sp_fry",NA
+"h bebe_occidentalis_fry",NA
+"oreochromis niloticus_fry",NA
+"catfish fry",NA
+"fish larvae",NA
+"sand particle",NA
+"unidentified material",NA
+"brevoortia tyrannus",NA
+"alosa spp",NA
+"dorosoma spp",NA
+"unknown clupeid",NA
+"morone saxatilis",NA
+"morone americana",NA
+"leiostomus xanthurus",NA
+"bairdiella chrysoura",NA
+"cynoscion regalis",NA
+"micropogonias undulatus",NA
+"unknown scieanid",NA
+"anchoa spp",NA
+"paralichthys dentatus",NA
+"membras martinica",NA
+"menidia menidia",NA
+"anguilla rostrata",NA
+"symphurus plagiusa",NA
+"peprilus triacanthus",NA
+"urophycis regia",NA
+"notropis spp",NA
+"trinectes maculatus",NA
+"pomatomus saltatrix",NA
+"eucinostomus argenteus",NA
+"gobiosoma bosc",NA
+"synodus foetens",NA
+"strongylura marina",NA
+"scophthalmus aquosus",NA
+"mugil curema",NA
+"sphoeroides maculatus",NA
+"hypsoblennius hentzi",NA
+"fundulus heteroclitus",NA
+"unidentified fish_remains",NA
+"callinectes sapidus",NA
+"neomysis americana",NA
+"squilla empusa",NA
+"ovalipes ocellatus",NA
+"lironeca ovalis",NA
+"callinectes spp",NA
+"penaeus setiferus",NA
+"crangon septemspinosa",NA
+"paleamonetes pugio",NA
+"cancer irroratus",NA
+"upogebia affinis",NA
+"class bivalvia",NA
+"mytilus edulis",NA
+"all gastropods",NA
+"all polychaetes",NA
+"all hydroids",NA
+"all sponges",NA
+"chum ground_menhaden",NA
+"bait menhaden_spot_etc",NA
+"fish and_fish_remains",NA
+"periphyton",NA
+"phytobenthos",NA
+"grasses",NA
+"naias",NA
+"other macrophyte",NA
+"roots",NA
+"x1 mm_organic_debris",NA
+"x1 mm_organic_debris_2",NA
+"silt and_sand",NA
+"benthic crustacea",NA
+"i mm_organic_debris",NA
+"planktonic crustacea",NA
+"anisoptera nymphs",NA
+"higher plants",NA
+"organic debris",NA
+"protozoa and_rotifera",NA
+"nymphs",NA
+"zygoptera nymphs",NA
+"culicid larvae",NA
+"aquatic higher_plants",NA
+"macrobrachium",NA
+"entire fsh",NA
+"fish pieces",NA
+"terrestrial vertebrates",NA
+"naacrophytes",NA
+"protozoans",NA
+"desmids",NA
+"blue green_algae",NA
+"flamentous algae",NA
+"dinoflagellates",NA
+"algal spores",NA
+"corbicula manilensis",NA
+"macoma balthica",NA
+"macoma",NA
+"archaeomysis grebnitzkii",NA
+"corophium salmonis",NA
+"corophium spinicorne",NA
+"corophium spp",NA
+"eogammarus spp",NA
+"eohaustorius estuaris",NA
+"eobrolgus milleri",NA
+"saduria entomon",NA
+"crangon franciscorum",NA
+"crangon spp",NA
+"cancer magister_44",NA
+"cancer magister_45",NA
+"unidentified decapoda",NA
+"engraulis mordax",NA
+"clupea harengus_pallasi",NA
+"spirinchus thaleichthys",NA
+"thaleichthys pacificus",NA
+"neanthes limnicola",NA
+"lithoglyphys virens",NA
+"oligochaetea",NA
+"u pygmaea",NA
+"duckweed",NA
+"heteroptera",NA
+"hydrachnidae",NA
+"pygmaea",NA
+"hydropsyche sp",NA
+"glossosoma sp",NA
+"rhyacophilia sp",NA
+"emergent 37",NA
+"ephemerella grandis",NA
+"ephemerella hecuba",NA
+"ephemerella inermus",NA
+"baetis sp",NA
+"emergent 44",NA
+"unidentified 45",NA
+"alloperla sp",NA
+"ch oroperla_sp",NA
+"claassenia sabulosa",NA
+"isoperla sp",NA
+"pteronarcidae",NA
+"unidentified 51",NA
+"fish fry",NA
+"diptera immature",NA
+"diptera adult_26",NA
+"plecoptera immature",NA
+"ephemeroptera immature",NA
+"trichoptera immature",NA
+"other 32",NA
+"lepidoptera all_stages",NA
+"diptera adult_37",NA
+"other 38",NA
+"custacean",NA
+"terrestrial prey",NA
+"dipterans",NA
+"ephemeropterans",NA
+"hemipterans",NA
+"odonatans",NA
+"trichopterans",NA
+"misc",NA
+"chironomus",NA
+"water beetles_coleoptera",NA
+"crayfsh cambarus",NA
+"campostoma anomalurn_pullum",NA
+"hyborhynchus notatus",NA
+"notropis cornutus_frontalis",NA
+"rhinichthys atratulus_meleagris",NA
+"semotilus a_atromaculatus",NA
+"cyprinidae remains",NA
+"poecilichthys f_fabellaris",NA
+"unidentifed crustaceans",NA
+"nematoda unidentifed",NA
+"unidentified plant_animal",NA
+"polyphemus",NA
+"zooplanktona",NA
+"corixa",NA
+"sialis",NA
+"salamander",NA
+"trichoptera 27",NA
+"diptere",NA
+"chironomidae 32",NA
+"holopedium",NA
+"hirundinea",NA
+"trichoptera 42",NA
+"chironomidae 45",NA
+"frog tadpole",NA
+"bombus",NA
+"terrestrial insectsb",NA
+"ho opedium",NA
+"chironomidae 43",NA
+"physaidae",NA
+"cottus asper",NA
+"decapoda paratya",NA
+"halicarcinus",NA
+"anguillidae",NA
+"galaxiidae",NA
+"teleostei misc",NA
+"other crustacea",NA
+"insect pupae",NA
+"other insect_larvae",NA
+"other insect_adult",NA
+"earthworms",NA
+"other annelids",NA
+"animal material",NA
+"perca favescens",NA
+"cottus",NA
+"unidentifed remains",NA
+"cambarus prop_inquus",NA
+"acroperus",NA
+"sida",NA
+"alona",NA
+"corixidae larvae",NA
+"cicadellidae adult",NA
+"unidentified remains",NA
+"plant material_algae_etc",NA
+"perca flavescens",NA
+"cambarus pro_pinquus",NA
+"cambarus propinquus",NA
+"cambarus bartonii",NA
+"cambarus remains",NA
+"fish eggs_and_plant_material",NA
+"boleosoma nigrum",NA
+"esox lucius",NA
+"cambarus propinguus",NA
+"canzbarus viril_is",NA
+"cambarus barb_nil",NA
+"miscellaneous insect",NA
+"miscellaneous fish_eggs_and_plant_remains",NA
+"tadpole",NA
+"catostomus cominersonii",NA
+"oligocephalus exilis",NA
+"unidentified pisces_remains",NA
+"cambartis virilis",NA
+"cambaras bartonii",NA
+"leptodora kindtii",NA
+"gryliidae",NA
+"coenagrionidae adult",NA
+"miscellaneous insecta",NA
+"miscellaneous plant_material",NA
+"ablabesmyia sp",NA
+"cricotopus sp",NA
+"dicrotendipes sp_1",NA
+"dicrotendipes sp_2",NA
+"orthocladius sp",NA
+"simulium metomphalus_vorax",NA
+"simulium metomphalus_sp",NA
+"simuliidae sp",NA
+"diptera sp",NA
+"coenagrionidae sp",NA
+"platycnemididae sp",NA
+"odonata remains",NA
+"plant materia",NA
+"unidentified materia",NA
+"insect larvae",NA
+"other organisms",NA

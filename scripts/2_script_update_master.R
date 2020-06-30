@@ -102,8 +102,24 @@ data_fish_update <- bind_rows(data_fish, new_data_latlon)
   # mutate(fish_id = case_when(fish_id == "NA" ~ as.numeric(as.factor(fish_id_new)),
   #                            TRUE ~ as.numeric(as.factor(fish_id_add))))
 
+percent_not_100 <- data_fish_update %>% 
+  distinct() %>% 
+  unite(author_year_tbl, c("author", "year", "table_figure"),sep = "_", remove = F) %>% 
+  distinct() %>% 
+  filter(grepl("percent", measurement_typeunits)) %>% 
+  group_by(fish_id,  citation, author_year_tbl, sample_size, start_date) %>% 
+  summarize(total = sum(as.numeric(measure_numeric))) %>% 
+  filter(total <= 98 | total >= 102) %>% 
+  ungroup() %>% 
+  distinct(fish_id,  total, citation, author_year_tbl, sample_size, start_date) %>% 
+  arrange(-total) 
+
+write.csv(percent_not_100, file = paste0("database/data_to_add/re_do/percent_not_100",Sys.Date(),".csv"))
+
+data_fish_update2 <- anti_join(data_fish_update, percent_not_100, by = "fish_id")
+
 data_fish_old <- data_fish
-data_fish <- data_fish_update
+data_fish <- data_fish_update2
 #save updated data as "data_fish.rds"
 saveRDS(data_fish, file = "database/data_fish.rds")
 

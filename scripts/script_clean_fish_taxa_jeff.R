@@ -1,5 +1,14 @@
 library(tidyverse)
-
+library(ggridges)
+library(lubridate)
+library(ggmap)
+library(httr)
+library(cowplot)
+library(janitor)
+library(repmis)
+library(readxl)
+library(rlist)
+library(RCurl)
 
 # Fixed error with missing fish by re-binding  --------
 # separated data_fish into data with and without
@@ -22,14 +31,16 @@ data_fish_test <- data_fish %>% full_join(missing_fish_citations)
 data_fish_have <- data_fish_test %>% mutate_all(funs('as.character')) %>% 
   filter(is.na(citation_to_remove))
 
-#load summer_data_analyze_ad
-summer_data_analyze_ad <- read_csv("summer_2019_edited_csv/summer_data_analyze_ad.csv") %>% 
-  mutate_all(funs('as.character'))
+
+#make dataframe that has number of records per fish family - including NA when family is missing
+fams <- data_fish_have %>% 
+  distinct(fish_id, fish_family) %>% 
+  group_by(fish_family) %>% 
+  tally() %>% 
+  arrange(-n)
 
 
-
-data_fish <- bind_rows("jan_2020_method" = data_fish_have, 
-                  "summer_data_analyze.csv" = summer_data_analyze_ad, .id = "data_source") %>% 
-  select(-X1)
-
-saveRDS(data_fish, file = "database/data_fish.rds")
+fams %>% 
+  ggplot(aes(x = reorder(fish_family, n), y = n)) +
+  geom_bar(stat = "identity") + 
+  coord_flip()
