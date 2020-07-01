@@ -31,16 +31,43 @@ data_fish_test <- data_fish %>% full_join(missing_fish_citations)
 data_fish_have <- data_fish_test %>% mutate_all(funs('as.character')) %>% 
   filter(is.na(citation_to_remove))
 
+family_diversity <- read_csv("families.csv")
 
 #make dataframe that has number of records per fish family - including NA when family is missing
 fams <- data_fish_have %>% 
   distinct(fish_id, fish_family) %>% 
   group_by(fish_family) %>% 
   tally() %>% 
-  arrange(-n)
+  arrange(-n) %>% 
+  left_join(family_diversity)
 
 
 fams %>% 
   ggplot(aes(x = reorder(fish_family, n), y = n)) +
   geom_bar(stat = "identity") + 
   coord_flip()
+
+
+fams %>% filter(!is.na(fish_family)) %>% 
+  ggplot(aes(x = species_no, y = n)) +
+  geom_point() +
+  scale_y_log10() +
+  scale_x_log10() +
+  geom_abline()
+
+
+type_div <- data_fish_have %>% 
+  distinct(fish_family, type_of_fish) %>% 
+  group_by(fish_family) %>% 
+  tally() %>% 
+  arrange(-n) %>% 
+  left_join(family_diversity)
+
+type_div %>%
+  filter(!is.na(fish_family)) %>% 
+  ggplot(aes(x = species_no, y = n)) +
+  geom_point()
+
+
+# families <- fams %>% select(fish_family) %>% distinct()
+# write.csv(families, file = "families.csv", row.names = F)

@@ -1,37 +1,35 @@
-fish_family,species_no,source
+fish_family,species_no,source_species_no
 NA,,
 Cyprinidae,2914,Hastings et al. 2015
-Centrarchidae,38,
-Sciaenidae,291,
-Salmonidae,217,
-Clupeidae,194,
-Sparidae,138,
-Acipenseridae,26,
+Centrarchidae,38,Hastings et al. 2015
+Sciaenidae,291,Hastings et al. 2015
+Salmonidae,217,Hastings et al. 2015
+Clupeidae,194,Hastings et al. 2015
+Sparidae,138,Hastings et al. 2015
+Acipenseridae,26,Hastings et al. 2015
 Bagridae,232,fishbase.org
-Engraulidae,147,
+Engraulidae,147,Hastings et al. 2015
 Cichlidae,1713,fishbase.org
 Clariidae,116,fishbase.org
 Galaxiidae,53,fishbase.org
-Percidae,234,
-Ictaluridae,51,
-Lepisosteidae,7,
-Anostomidae,158,
-Atherinopsidae,109,
-Ariidae,149,
-Catostomidae,18,
+Percidae,234,Hastings et al. 2015
+Ictaluridae,51,Hastings et al. 2015
+Lepisosteidae,7,Hastings et al. 2015
+Anostomidae,158,Hastings et al. 2015
+Atherinopsidae,109,Hastings et al. 2015
+Ariidae,149,Hastings et al. 2015
+Catostomidae,18,Hastings et al. 2015
 Gobiidae,200,https://animaldiversity.org/accounts/Gobiidae/
-Moronidae,6,
-Portunidae,,
-Acestrorhynchidae,26,
-Balitoridae,202,
+Moronidae,6,Hastings et al. 2015
+Acestrorhynchidae,26,Hastings et al. 2015
+Balitoridae,202,Hastings et al. 2015
 Bryconidae,49,fishbase.org
-Cichliformes,,
 Cynodontidae,8,fishbase.org
-Cyprinodontidae,123,
-Erythrinidae,18,
-Esocidae,6,
-Eleotridae,171,
-Fundulidae,41,
-Mugilidae,72,
-Terapontidae,59,
-Triportheidae,23,
+Cyprinodontidae,123,Hastings et al. 2015
+Erythrinidae,18,Hastings et al. 2015
+Esocidae,6,Hastings et al. 2015
+Eleotridae,171,Hastings et al. 2015
+Fundulidae,41,Hastings et al. 2015
+Mugilidae,72,Hastings et al. 2015
+Terapontidae,59,Hastings et al. 2015
+Triportheidae,23,Hastings et al. 2015
