@@ -60,11 +60,32 @@ fish_taxized <- fish_classify %>% rbind() %>%
 
 # Add taxized fish to full list -------------------------------------------
 
-fish_taxa_toadd %>% left_join(fish_taxized) %>% 
+fish_taxized2 <- fish_taxa_toadd %>% left_join(fish_taxized) %>% 
   mutate(fish_order = case_when(is.na(fish_order) ~ taxized_order, TRUE ~ fish_order),
          fish_class = case_when(is.na(fish_class) ~ taxized_class, TRUE ~ fish_class),
          fish_species = case_when(is.na(fish_species) ~ taxized_species, TRUE ~ fish_species),
          fish_family = case_when(is.na(fish_family) ~ taxized_species, TRUE ~ fish_family)) %>% 
   select(contains("fish"))
+
+
+#still needed 
+add_by_hand <- fish_taxized2 %>% filter(is.na(fish_species))
+write.csv(add_by_hand, file = "add_by_hand.csv", row.names = F)
+added_by_hand <- read_csv(file = "add_by_hand.csv")
+
+fish_done <- fish_taxized2 %>% 
+  filter(!is.na(fish_species)) %>% 
+  bind_rows(added_by_hand)
+
+
+#add to full data base
+
+# data_fish <- data_fish %>% select(-fish_family, -fish_species, -fish_genus_species, -fish_order) %>% 
+#   left_join(fish_done, by = "type_of_fish")
+# 
+# 
+# test %>% select(type_of_fish, fish_order, fish_family, fish_species) %>% 
+#   distinct(type_of_fish, .keep_all = TRUE) %>%
+#   mutate(type_fishmatch = str_replace(type_of_fish, "_", " ")) %>% View()
 
 

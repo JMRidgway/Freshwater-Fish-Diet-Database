@@ -1,74 +1,73 @@
-"type_fishmatch","type_of_fish","fish_order","fish_family","fish_species","fish_class","fish_superclass"
+type_fishmatch,type_of_fish,fish_superclass,fish_class,fish_order,fish_family,fish_species
 NA,NA,NA,NA,NA,NA,NA
-"bullhead catfish","bullhead catfish",NA,NA,NA,NA,NA
-"Clarius garlepinus","Clarius garlepinus",NA,NA,NA,NA,NA
-"Clarius ngamensis","Clarius ngamensis",NA,NA,NA,NA,NA
-"Byrclnus lateralis","Byrclnus lateralis",NA,NA,NA,NA,NA
-"Marcuscnius macrolepidotus","Marcuscnius macrolepidotus",NA,NA,NA,NA,NA
-"Tilapa rendalli","Tilapa rendalli",NA,NA,NA,NA,NA
-"Large mouth bass","Large mouth bass",NA,NA,NA,NA,NA
-"Rock bass","Rock bass",NA,NA,NA,NA,NA
-"White Crappie","White Crappie",NA,NA,NA,NA,NA
-"Common sucker","Common sucker",NA,NA,NA,NA,NA
-"Common red horse","Common red horse",NA,NA,NA,NA,NA
-"Luxilus cornulus","Luxilus cornulus",NA,NA,NA,NA,NA
-"Common Bullhead","Common Bullhead",NA,NA,NA,NA,NA
-"Common bullhead","Common bullhead",NA,NA,NA,NA,NA
-"Gila alrordensis","Gila alrordensis",NA,NA,NA,NA,NA
-"Chromidotilapia guntberi","Chromidotilapia guntberi",NA,NA,NA,NA,NA
-"Myleus cf. torquatus","Myleus cf. torquatus",NA,NA,NA,NA,NA
-"Moenkhausia","Moenkhausia","Characiformes",NA,NA,"Actinopteri",NA
-"Phenacogaster","Phenacogaster","Characiformes",NA,NA,"Actinopteri",NA
-"Brycon","Brycon","Characiformes",NA,NA,"Actinopteri",NA
-"Bryconops","Bryconops","Characiformes",NA,NA,"Actinopteri",NA
-"Tetragonopterus","Tetragonopterus","Characiformes",NA,NA,"Actinopteri",NA
-"Knodus","Knodus","Characiformes",NA,NA,"Actinopteri",NA
-"Moenkhausia gr. dichroura","Moenkhausia gr. dichroura",NA,NA,NA,NA,NA
-"Serrapinus","Serrapinus",NA,NA,NA,NA,NA
-"Aphyocharax","Aphyocharax","Characiformes",NA,NA,"Actinopteri",NA
-"Hemigrammus","Hemigrammus","Characiformes",NA,NA,"Actinopteri",NA
-"Hyphessobrycon","Hyphessobrycon","Characiformes",NA,NA,"Actinopteri",NA
-"Jupiaba","Jupiaba","Characiformes",NA,NA,"Actinopteri",NA
-"Microschemobrycon sp.","Microschemobrycon sp.",NA,NA,NA,NA,NA
-"Vandellia","Vandellia","Siluriformes",NA,NA,"Actinopteri",NA
-"Anchoviella cf. carrikeri","Anchoviella cf. carrikeri",NA,NA,NA,NA,NA
-"Thymallus Montanus Milner","Thymallus Montanus Milner",NA,NA,NA,NA,NA
-"Round tail chub","Round tail chub",NA,NA,NA,NA,NA
-"Cottus bairdi punctulatus","Cottus bairdi punctulatus",NA,NA,NA,NA,NA
-"Brown Trout","Brown Trout",NA,NA,NA,NA,NA
-"Sculpin","Sculpin",NA,NA,NA,NA,NA
-"Poecilial latipinna","Poecilial latipinna",NA,NA,NA,NA,NA
-"Acanthobrama marmid,","Acanthobrama marmid,",NA,NA,NA,NA,NA
-"Anodontostoma chacund","Anodontostoma chacund",NA,NA,NA,NA,NA
-"Cottus gobio L.","Cottus gobio L.",NA,NA,NA,NA,NA
-"Lota Lota Maculosa","Lota Lota Maculosa",NA,NA,NA,NA,NA
-"Hypostomus regami","Hypostomus regami",NA,NA,NA,NA,NA
-"Pomoxis annularis Rafinesque","Pomoxis annularis Rafinesque",NA,NA,NA,NA,NA
-"Pumpkinseed fish","Pumpkinseed fish",NA,NA,NA,NA,NA
-"Pyrrhulina aff. brevis","Pyrrhulina aff. brevis",NA,NA,NA,NA,NA
-"redfin perch","redfin perch",NA,NA,NA,NA,NA
-"Gambia p. yucatana","Gambia p. yucatana",NA,NA,NA,NA,NA
-"Midgley’s gudgeons","Midgley’s gudgeons",NA,NA,NA,NA,NA
-"brown trout","brown trout",NA,NA,NA,NA,NA
-"Synodontis membraneceus","Synodontis membraneceus",NA,NA,NA,NA,NA
-"Brown trout","Brown trout",NA,NA,NA,NA,NA
-"Thymallus Montanus","Thymallus Montanus",NA,NA,NA,NA,NA
-"Chinhook salmon","Chinhook salmon",NA,NA,NA,NA,NA
-"Arctic charr","Arctic charr",NA,NA,NA,NA,NA
-"Amblophiites rupestris","Amblophiites rupestris",NA,NA,NA,NA,NA
-"Pimephales","Pimephales","Cypriniformes",NA,NA,"Actinopteri",NA
-"Notemignus crysoleucas","Notemignus crysoleucas",NA,NA,NA,NA,NA
-"Lepomis gibbosus macrochirus","Lepomis gibbosus macrochirus",NA,NA,NA,NA,NA
-"Phoximus phoximus","Phoximus phoximus",NA,NA,NA,NA,NA
-"Nemacheilus barbatula","Nemacheilus barbatula",NA,NA,NA,NA,NA
-"Pygocentrus notutus","Pygocentrus notutus",NA,NA,NA,NA,NA
-"chinhook salmon","chinhook salmon",NA,NA,NA,NA,NA
-"Thoracochromis loati","Thoracochromis loati",NA,NA,NA,NA,NA
-"Nothobranchius","Nothobranchius","Cyprinodontiformes",NA,NA,"Actinopteri",NA
-"Hemichromis letourmeauxi","Hemichromis letourmeauxi",NA,NA,NA,NA,NA
-"large mouth bass","large mouth bass",NA,NA,NA,NA,NA
-"small mouth bass","small mouth bass",NA,NA,NA,NA,NA
-"Puntis filamentosus","Puntis filamentosus",NA,NA,NA,NA,NA
-"Oncorhynchus","Oncorhynchus","Salmoniformes",NA,NA,"Actinopteri",NA
-"Northern Small Mouth Bass","Northern Small Mouth Bass",NA,NA,NA,NA,NA
-"Threespine stickleback","Threespine stickleback",NA,NA,NA,NA,NA
+"Acanthobrama marmid,","Acanthobrama marmid,",NA,Actinopteri,Cypriniformes,Cyprinidae,Acanthobrama marmid
+Amblophiites rupestris,Amblophiites rupestris,NA,Actinopteri,Perciformes,Centrarchidae,Ambloplites rupestris
+Anodontostoma chacund,Anodontostoma chacund,NA,Actinopteri,Clupeiformes,Clupeidae,Anodontostoma chacunda
+Aphyocharax,Aphyocharax,NA,Actinopteri,Characiformes,Characidae,Aphyocharax sp.
+Arctic charr,Arctic charr,NA,Actinopteri,Salmoniformes,Salmonidae,Salvelinus alpinus
+Brown Trout,Brown Trout,NA,Actinopteri,Salmoniformes,Salmonidae,Salmo trutta
+brown trout,brown trout,NA,Actinopteri,Salmoniformes,Salmonidae,Salmo trutta
+Brown trout,Brown trout,NA,Actinopteri,Salmoniformes,Salmonidae,Salmo trutta
+Brycon,Brycon,NA,Actinopteri,Characiformes,Characidae,Brycon sp.
+Bryconops,Bryconops,NA,Actinopteri,Characiformes,Characidae,Bryconops sp.
+bullhead catfish,bullhead catfish,NA,Actinopteri,Siluriformes,Icatluridae,Ameiurus sp.
+Byrclnus lateralis,Byrclnus lateralis,NA,Actinopteri,Characiformes,Alestidae,Brycinus lateralis
+Chinhook salmon,Chinhook salmon,NA,Actinopteri,Salmoniformes,Salmonidae,Onchorhynchus tshawytscha
+chinhook salmon,chinhook salmon,NA,Actinopteri,Salmoniformes,Salmonidae,Onchorhynchus tshawytscha
+Chromidotilapia guntberi,Chromidotilapia guntberi,NA,Actinopteri,Cichliformes,Cichlidae,Chromidotilapia guntberi
+Clarius garlepinus,Clarius garlepinus,NA,Actinopteri,Siluriformes,Clariidae,Clarias gariepinus
+Clarius ngamensis,Clarius ngamensis,NA,Actinopteri,Siluriformes,Clariidae,Clarias ngamensis
+Common Bullhead,Common Bullhead,NA,Actinopteri,Siluriformes,Icatluridae,Ameiurus nebulosus
+Common bullhead,Common bullhead,NA,Actinopteri,Siluriformes,Icatluridae,Ameiurus nebulosus
+Common red horse,Common red horse,NA,Actinopteri,Cypriniformes,Catostomidae,Moxostoma pisolabrum
+Common sucker,Common sucker,NA,Actinopteri,Cypriniformes,Catostomidae,Catostomus commersonii
+Cottus bairdi punctulatus,Cottus bairdi punctulatus,NA,Actinopteri,Scorpaeniformes,Cottidae,Cottus bairdii
+Cottus gobio L.,Cottus gobio L.,NA,Actinopteri,Scorpaeniformes,Cottidae,Cottus gobio
+Gambia p. yucatana,Gambia p. yucatana,NA,Actinopteri,Cyprinodontiformes,Poecillidae,Gambusia yucatana
+Gila alrordensis,Gila alrordensis,NA,Actinopteri,Cypriniformes,Cyprinidae,Siphateles alvordensis
+Hemichromis letourmeauxi,Hemichromis letourmeauxi,NA,Actinopteri,Cichliformes,Cichlidae,Hemichromis letourneuxi
+Hemigrammus,Hemigrammus,NA,Actinopteri,Characiformes,Characidae,Hemigrammus sp.
+Hyphessobrycon,Hyphessobrycon,NA,Actinopteri,Characiformes,Characidae,Hyphessobrycon sp.
+Hypostomus regami,Hypostomus regami,NA,Actinopteri,Siluriformes,Loricariidae,Hypostomus regani
+Jupiaba,Jupiaba,NA,Actinopteri,Characiformes,Characidae,Jupiaba sp.
+Knodus,Knodus,NA,Actinopteri,Characiformes,Characidae,Knodus sp.
+Large mouth bass,Large mouth bass,NA,Actinopteri,Perciformes,Centrarchidae,Micropterus salmoides
+large mouth bass,large mouth bass,NA,Actinopteri,Perciformes,Centrarchidae,Micropterus salmoides
+Lepomis gibbosus macrochirus,Lepomis gibbosus macrochirus,NA,Actinopteri,Perciformes,Centrarchidae,Lepomis sp.
+Lota Lota Maculosa,Lota Lota Maculosa,NA,Actinopteri,Gadiformes,Lotidae,Lota lota
+Luxilus cornulus,Luxilus cornulus,NA,Actinopteri,Cypriniformes,Cyprinidae,Luxilus cornutus
+Marcuscnius macrolepidotus,Marcuscnius macrolepidotus,NA,Actinopteri,Osteoglossiformes,Mormyridae,Marcusenius macrolepidotus
+Microschemobrycon sp.,Microschemobrycon sp.,NA,Actinopteri,Characiformes,Characidae,Microschemobrycon sp.
+Midgley’s gudgeons,Midgley’s gudgeons,NA,Actinopteri,Gobiiformes,Eleotridae,Hypseleotris
+Moenkhausia,Moenkhausia,NA,Actinopteri,Characiformes,Characidae,Moenkhausia sp.
+Moenkhausia gr. dichroura,Moenkhausia gr. dichroura,NA,Actinopteri,Characiformes,Characidae,Moenkhausia dichroura
+Myleus cf. torquatus,Myleus cf. torquatus,NA,Actinopteri,Characiformes,Serrasalmidae,Myleus torquatus
+Nemacheilus barbatula,Nemacheilus barbatula,NA,Actinopteri,Cypriniformes,Nemacheilidae,Barbatula barbatula
+Northern Small Mouth Bass,Northern Small Mouth Bass,NA,Actinopteri,Perciformes,Centrarchidae,Micropterus dolomieu
+Notemignus crysoleucas,Notemignus crysoleucas,NA,Actinopteri,Cypriniformes,Cyprinidae,Notemigonus chrysoleuas
+Nothobranchius,Nothobranchius,NA,Actinopteri,Cyprinodontiformes,Nothobranchiidae,Nothobranchisu sp.
+Oncorhynchus,Oncorhynchus,NA,Actinopteri,Salmoniformes,Salmonidae,Onchorhynchus sp.
+Phenacogaster,Phenacogaster,NA,Actinopteri,Characiformes,Characidae,Phenacogaster
+Phoximus phoximus,Phoximus phoximus,NA,Actinopteri,Cypriniformes,Cyprinidae,Phoxinus phoxinus
+Pimephales,Pimephales,NA,Actinopteri,Cypriniformes,Cyprinidae,Pimephales sp.
+Poecilial latipinna,Poecilial latipinna,NA,Actinopteri,Cyprinodontiformes,Poecillidae,Poecilia latipinna
+Pomoxis annularis Rafinesque,Pomoxis annularis Rafinesque,NA,Actinopteri,Perciformes,Centrarchidae,Pomoxis annularis
+Pumpkinseed fish,Pumpkinseed fish,NA,Actinopteri,Perciformes,Centrarchidae,Lepomis gibbosus
+Puntis filamentosus,Puntis filamentosus,NA,Actinopteri,Cypriniformes,Cyprinidae,Dawkinsia filamentosa
+Pygocentrus notutus,Pygocentrus notutus,NA,Actinopteri,Characiformes,Characidae,Pygocentrus cariba
+Pyrrhulina aff. brevis,Pyrrhulina aff. brevis,NA,Actinopteri,Characiformes,Lebiasinidae,Pyrrhulina brevis
+redfin perch,redfin perch,NA,Actinopteri,Perciformes,Percidae,Perca fluviatilis
+Rock bass,Rock bass,NA,Actinopteri,Perciformes,Centrarchidae,Ambloplites rupestris
+Round tail chub,Round tail chub,NA,Actinopteri,Cypriniformes,Cyprinidae,Gila robusta
+Sculpin,Sculpin,NA,Actinopteri,Scorpaeniformes,Cottidae,Cottus sp.
+Serrapinus,Serrapinus,NA,Actinopteri,Characiformes,Characidae,Serrapinnus sp.
+small mouth bass,small mouth bass,NA,Actinopteri,Perciformes,Centrarchidae,Micropterus dolomieu
+Synodontis membraneceus,Synodontis membraneceus,NA,Actinopteri,Siluriformes,Mochokidae,Synodontis membranaceus
+Tetragonopterus,Tetragonopterus,NA,Actinopteri,Characiformes,Characidae,Tetragonopterus sp.
+Thoracochromis loati,Thoracochromis loati,NA,Actinopteri,Cichliformes,Cichlidae,Thoracochromis loati
+Threespine stickleback,Threespine stickleback,NA,Actinopteri,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus
+Thymallus Montanus,Thymallus Montanus,NA,Actinopteri,Salmoniformes,Salmonidae,Thymallus arcticus
+Thymallus Montanus Milner,Thymallus Montanus Milner,NA,Actinopteri,Salmoniformes,Salmonidae,Thymallus arcticus
+Tilapa rendalli,Tilapa rendalli,NA,Actinopteri,Cichliformes,Cichlidae,Coptodon rendalli
+Vandellia,Vandellia,NA,Actinopteri,Siluriformes,Trichomycteridae,Vandellia sp.
+White Crappie,White Crappie,NA,Actinopteri,Perciformes,Centrarchidae,Pomoxis annularis
