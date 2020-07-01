@@ -1,5 +1,4 @@
 #Use this script to tidy newly exctracted data, add lat/lon info, extract stage and taxanomic info
-
 library(tidyverse)
 library(ggridges)
 library(lubridate)
@@ -12,6 +11,7 @@ library(readxl)
 library(rlist)
 library(RCurl)
 library(ulid)
+library(rfishbase)
 
 
 

@@ -1,0 +1,384 @@
+type_fishmatch,type_of_fish,fish_order,fish_family,fish_species,fish_class,fish_superclass
+Acestrorhynchus lacustris,Acestrorhynchus lacustris,Characiformes,Acestrorhynchidae,Acestrorhynchus lacustris,Actinopterygii,Osteichthyes
+Lake sturgeon,Lake sturgeon,Acipenseriformes,Acipenseridae,Acipenser fulvescens,Actinopterygii,NA
+Atlantic sturgeon,Atlantic sturgeon,Acipenseriformes,Acipenseridae,Acipenser oxyrinchus,Actinopterygii,NA
+White sturgeon,White sturgeon,Acipenseriformes,Acipenseridae,Acipenser transmontanus,Actinopterygii,NA
+Scaphirhynchus albus,Scaphirhynchus_albus,Acipenseriformes,Acipenseridae,Scaphirhynchus albus,Actinopterygii,Osteichthyes
+Scaphirhynchus platorynchus,Scaphirhynchus_platorynchus,Acipenseriformes,Acipenseridae,Scaphirhynchus platorynchus,Actinopterygii,Osteichthyes
+Hydrocynus forskahlii,Hydrocynus forskahlii,Characiformes,Alestidae,Hydrocynus forskahlii,Actinopterygii,Osteichthyes
+Alestes macrolepidotus,Alestes macrolepidotus,Characiformes,Alestidae,Brycinus macrolepidotus,Actinopterygii,Osteichthyes
+Micralestes acutidens,Micralestes acutidens,Characiformes,Alestidae,Micralestes acutidens,Actinopterygii,Osteichthyes
+Hydrocynus forskalii,Hydrocynus forskalii,Characiformes,Alestidae,Hydrocynus forskahlii,Actinopterygii,Osteichthyes
+Byrclnus lateralis,Byrclnus lateralis,Characiformes,Alestidae,Brycinus lateralis,Actinopterygii,NA
+Ctenopoma kingsleyae,Ctenopoma kingsleyae,Perciformes,Anabantidae,Ctenopoma kingsleyae,Actinopterygii,Osteichthyes
+Sandelia capensis,Sandelia capensis,Perciformes,Anabantidae,Sandelia capensis,Actinopterygii,Osteichthyes
+Ctenopoma petherici,Ctenopoma petherici,Perciformes,Anabantidae,Ctenopoma petherici,Actinopterygii,Osteichthyes
+Anguilla reinhardtii,Anguilla reinhardtii,Anguilliformes,Anguillidae,Anguilla reinhardtii,Actinopterygii,Osteichthyes
+Anguilla australis,Anguilla australis,Anguilliformes,Anguillidae,Anguilla australis,Actinopterygii,Osteichthyes
+Anguilla mossambica,Anguilla mossambica,Anguilliformes,Anguillidae,Anguilla mossambica,Actinopterygii,Osteichthyes
+Leporinus friderici,Leporinus friderici,Characiformes,Anostomidae,Leporinus friderici,Actinopterygii,Osteichthyes
+Schizodon nasutus,Schizodon nasutus,Characiformes,Anostomidae,Schizodon nasutus,Actinopterygii,Osteichthyes
+Freshwater Drum,Freshwater Drum,Perciformes,Sciaenidae,Aplodinotus grunniens,Actinopterygii,Osteichthyes
+Freshwater drum,Freshwater drum,Perciformes,Sciaenidae,Aplodinotus grunniens,Actinopterygii,Osteichthyes
+Heterotis niloticus,Heterotis niloticus,Osteoglossiformes,Arapaimidae,Heterotis niloticus,Actinopterygii,Osteichthyes
+Galeichthys felis,Galeichthys felis,Siluriformes,Ariidae,Ariopsis felis,Actinopterygii,Osteichthyes
+Menidia beryllina,Menidia beryllina,Atheriniformes,Atherinopsidae,Menidia beryllina,Actinopterygii,Osteichthyes
+Labidesthes sicculus,Labidesthes sicculus,Atheriniformes,Atherinopsidae,Labidesthes sicculus,Actinopterygii,Osteichthyes
+Bagrus docmac,Bagrus docmac,Siluriformes,Bagridae,Bagrus docmak,Actinopterygii,Osteichthyes
+Bagrus bayad,Bagrus bayad,Siluriformes,Bagridae,Bagrus bajad,Actinopterygii,Osteichthyes
+Puntius Schwanenfeldii,Puntius Schwanenfeldii,Cypriniformes,Cyprinidae,Barbonymus schwanefeldii,Actinopterygii,NA
+Salminus maxillosus,Salminus maxillosus,Characiformes,Bryconidae,Salminus brasiliensis,Actinopterygii,Osteichthyes
+Roeboides affinis,Roeboides affinis,Characiformes,Characidae,Bryconops affinis,Actinopterygii,NA
+River Carpsucker,River Carpsucker,Cypriniformes,Cyprinidae,Carpiodes carpio,Actinopterygii,NA
+Catostomus insignis,Catostomus insignis,Cypriniformes,Catostomidae,Catostomus insignis,Actinopterygii,Osteichthyes
+Hypentelium etowanum,Hypentelium etowanum,Cypriniformes,Catostomidae,Hypentelium etowanum,Actinopterygii,Osteichthyes
+Common red horse,Common red horse,Cypriniformes,Catostomidae,Moxostoma pisolabrum,Actinopterygii,NA
+Common sucker,Common sucker,Cypriniformes,Catostomidae,Catostomus commersonii,Actinopterygii,NA
+black crappie,black crappie,Perciformes,Centrarchidae,Pomoxis nigromaculatus,Actinopterygii,NA
+Micropterus dolomieu,Micropterus dolomieu,Perciformes,Centrarchidae,Micropterus dolomieu,Actinopterygii,Osteichthyes
+Micropterus dolomieu,Micropterus dolomieu,Perciformes,Centrarchidae,Micropterus dolomieu,Actinopterygii,Osteichthyes
+Micropterus salmoides,Micropterus_salmoides,Perciformes,Centrarchidae,Micropterus salmoides,Actinopterygii,Osteichthyes
+Micropterus salmoides,Micropterus_salmoides,Perciformes,Centrarchidae,Micropterus salmoides,Actinopterygii,Osteichthyes
+Micropterus punctulatus,Micropterus_punctulatus,Perciformes,Centrarchidae,Micropterus punctulatus,Actinopterygii,Osteichthyes
+Micropterus dolomieu,Micropterus_dolomieu,Centrarchiformes,Centrarchidae,Micropterus dolomieu,Actinopterygii,Osteichthyes
+Micropterus dolomieu,Micropterus_dolomieu,Centrarchiformes,Centrarchidae,Micropterus dolomieu,Actinopterygii,Osteichthyes
+Ambloplites rupestris,Ambloplites_rupestris,Perciformes,Centrarchidae,Ambloplites rupestris,Actinopterygii,Osteichthyes
+Lepomis macrochirus,Lepomis_macrochirus,Perciformes,Centrarchidae,Lepomis macrochirus,Actinopterygii,Osteichthyes
+Lepomis megalotis,Lepomis_megalotis,Perciformes,Centrarchidae,Lepomis megalotis,Actinopterygii,Osteichthyes
+Micropterus salmoides,Micropterus salmoides,Perciformes,Centrarchidae,Micropterus salmoides,Actinopterygii,Osteichthyes
+Micropterus salmoides,Micropterus salmoides,Perciformes,Centrarchidae,Micropterus salmoides,Actinopterygii,Osteichthyes
+Amblophiites rupestris,Amblophiites rupestris,Perciformes,Centrarchidae,Ambloplites rupestris,Actinopterygii,NA
+Large mouth bass,Large mouth bass,Perciformes,Centrarchidae,Micropterus salmoides,Actinopterygii,NA
+large mouth bass,large mouth bass,Perciformes,Centrarchidae,Micropterus salmoides,Actinopterygii,NA
+Lepomis gibbosus macrochirus,Lepomis gibbosus macrochirus,Perciformes,Centrarchidae,Lepomis sp.,Actinopterygii,NA
+Northern Small Mouth Bass,Northern Small Mouth Bass,Perciformes,Centrarchidae,Micropterus dolomieu,Actinopterygii,NA
+Pomoxis annularis Rafinesque,Pomoxis annularis Rafinesque,Perciformes,Centrarchidae,Pomoxis annularis,Actinopterygii,NA
+Pumpkinseed fish,Pumpkinseed fish,Perciformes,Centrarchidae,Lepomis gibbosus,Actinopterygii,NA
+Rock bass,Rock bass,Perciformes,Centrarchidae,Ambloplites rupestris,Actinopterygii,NA
+small mouth bass,small mouth bass,Perciformes,Centrarchidae,Micropterus dolomieu,Actinopterygii,NA
+White Crappie,White Crappie,Perciformes,Centrarchidae,Pomoxis annularis,Actinopterygii,NA
+Channa obscura,Channa obscura,Perciformes,Channidae,Parachanna obscura,Actinopterygii,Osteichthyes
+Jupiaba polylepis,Jupiaba polylepis,Characiformes,Characidae,Jupiaba polylepis,Actinopterygii,Osteichthyes
+Moenkhausia loweae,Moenkhausia loweae,Characiformes,Characidae,Moenkhausia loweae,Actinopterygii,Osteichthyes
+Moenkhausia sanctaefilomenae,Moenkhausia sanctaefilomenae,Characiformes,Characidae,Moenkhausia sanctaefilomenae,Actinopterygii,Osteichthyes
+Tetragonopterus argenteus,Tetragonopterus argenteus,Characiformes,Characidae,Tetragonopterus argenteus,Actinopterygii,Osteichthyes
+Exodon paradoxus,Exodon paradoxus,Characiformes,Characidae,Exodon paradoxus,Actinopterygii,Osteichthyes
+Ctenobrycon hauxwellianus,Ctenobrycon hauxwellianus,Characiformes,Characidae,Ctenobrycon hauxwellianus,Actinopterygii,Osteichthyes
+Creagrutus britskii,Creagrutus britskii,Characiformes,Characidae,Creagrutus britskii,Actinopterygii,Osteichthyes
+Poptella compressa,Poptella compressa,Characiformes,Characidae,Poptella compressa,Actinopterygii,Osteichthyes
+Moenkhausia intermedia,Moenkhausia intermedia,Characiformes,Characidae,Moenkhausia intermedia,Actinopterygii,Osteichthyes
+Aphyocharax,Aphyocharax,Characiformes,Characidae,Aphyocharax sp.,Actinopterygii,NA
+Brycon,Brycon,Characiformes,Characidae,Brycon sp.,Actinopterygii,NA
+Bryconops,Bryconops,Characiformes,Characidae,Bryconops sp.,Actinopterygii,NA
+Hemigrammus,Hemigrammus,Characiformes,Characidae,Hemigrammus sp.,Actinopterygii,NA
+Hyphessobrycon,Hyphessobrycon,Characiformes,Characidae,Hyphessobrycon sp.,Actinopterygii,NA
+Jupiaba,Jupiaba,Characiformes,Characidae,Jupiaba sp.,Actinopterygii,NA
+Knodus,Knodus,Characiformes,Characidae,Knodus sp.,Actinopterygii,NA
+Microschemobrycon sp.,Microschemobrycon sp.,Characiformes,Characidae,Microschemobrycon sp.,Actinopterygii,NA
+Moenkhausia,Moenkhausia,Characiformes,Characidae,Moenkhausia sp.,Actinopterygii,NA
+Moenkhausia gr. dichroura,Moenkhausia gr. dichroura,Characiformes,Characidae,Moenkhausia dichroura,Actinopterygii,NA
+Phenacogaster,Phenacogaster,Characiformes,Characidae,Phenacogaster,Actinopterygii,NA
+Pygocentrus notutus,Pygocentrus notutus,Characiformes,Characidae,Pygocentrus cariba,Actinopterygii,NA
+Serrapinus,Serrapinus,Characiformes,Characidae,Serrapinnus sp.,Actinopterygii,NA
+Tetragonopterus,Tetragonopterus,Characiformes,Characidae,Tetragonopterus sp.,Actinopterygii,NA
+Cheimarrichthys fosteri,Cheimarrichthys fosteri,Perciformes,Cheimarrichthyidae,Cheimarrichthys fosteri,Actinopterygii,Osteichthyes
+Caenotropus labyrinthicus,Caenotropus labyrinthicus,Characiformes,Chilodontidae,Caenotropus labyrinthicus,Actinopterygii,Osteichthyes
+"Chrysichthys
+nigrodigitatus","Chrysichthys
+nigrodigitatus",Siluriformes,Claroteidae,Chrysichthys nigrodigitatus,Actinopterygii,NA
+Oreochromis mossambicus,Oreochromis mossambicus,Perciformes,Cichlidae,Oreochromis mossambicus,Actinopterygii,Osteichthyes
+Pseudotropheus tropheops,Pseudotropheus tropheops,Cichliformes,Cichlidae,Tropheops tropheops,Actinopterygii,Osteichthyes
+Labeotropheus fuelleborni,Labeotropheus fuelleborni,Cichliformes,Cichlidae,Labeotropheus fuelleborni,Actinopterygii,Osteichthyes
+Melanochromis auratus,Melanochromis auratus,Cichliformes,Cichlidae,Melanochromis auratus,Actinopterygii,Osteichthyes
+Pseudotropheus gracilior,Pseudotropheus gracilior,Cichliformes,Cichlidae,Tropheops gracilior,Actinopterygii,Osteichthyes
+Pseudotropheus elongatus,Pseudotropheus elongatus,Cichliformes,Cichlidae,Pseudotropheus elongatus,Actinopterygii,Osteichthyes
+Petrotilapia nigra,Petrotilapia nigra,Cichliformes,Cichlidae,Petrotilapia nigra,Actinopterygii,Osteichthyes
+Pseudotropheus zebra,Pseudotropheus zebra,Cichliformes,Cichlidae,Maylandia zebra,Actinopterygii,Osteichthyes
+Oreochromis andersonii,Oreochromis andersonii,Perciformes,Cichlidae,Oreochromis andersonii,Actinopterygii,Osteichthyes
+Tilapia mariae,Tilapia mariae,Perciformes,Cichlidae,Pelmatolapia mariae,Actinopterygii,Osteichthyes
+Satanoperca jurupari,Satanoperca jurupari,Perciformes,Cichlidae,Satanoperca jurupari,Actinopterygii,Osteichthyes
+Geophagus altifrons,Geophagus altifrons,Perciformes,Cichlidae,Geophagus altifrons,Actinopterygii,Osteichthyes
+Retroculus lapidifer,Retroculus lapidifer,Perciformes,Cichlidae,Retroculus lapidifer,Actinopterygii,Osteichthyes
+Geophagus proximus,Geophagus proximus,Perciformes,Cichlidae,Geophagus proximus,Actinopterygii,Osteichthyes
+Satanoperca pappaterra,Satanoperca pappaterra,Perciformes,Cichlidae,Satanoperca pappaterra,Actinopterygii,Osteichthyes
+Tilapia rendalli,Tilapia rendalli,Perciformes,Cichlidae,Coptodon rendalli,Actinopterygii,Osteichthyes
+Oreochromis niloticus,Oreochromis niloticus,Perciformes,Cichlidae,Oreochromis niloticus,Actinopterygii,Osteichthyes
+Cichla kelberi,Cichla kelberi,Perciformes,Cichlidae,Cichla kelberi,Actinopterygii,Osteichthyes
+Sarotherodon galilaeus,Sarotherodon galilaeus,Perciformes,Cichlidae,Sarotherodon galilaeus,Actinopterygii,Osteichthyes
+Tilapia zillii,Tilapia zillii,Perciformes,Cichlidae,Coptodon zillii,Actinopterygii,Osteichthyes
+Hemichromis fasciatus,Hemichromis fasciatus,Perciformes,Cichlidae,Hemichromis fasciatus,Actinopterygii,Osteichthyes
+Chromidotilapia guntberi,Chromidotilapia guntberi,Cichliformes,Cichlidae,Chromidotilapia guntberi,Actinopterygii,NA
+Hemichromis letourmeauxi,Hemichromis letourmeauxi,Cichliformes,Cichlidae,Hemichromis letourneuxi,Actinopterygii,NA
+Thoracochromis loati,Thoracochromis loati,Cichliformes,Cichlidae,Thoracochromis loati,Actinopterygii,NA
+Tilapa rendalli,Tilapa rendalli,Cichliformes,Cichlidae,Coptodon rendalli,Actinopterygii,NA
+Citharinus citharus,Citharinus citharus,Characiformes,Citharinidae,Citharinus citharus,Actinopterygii,Osteichthyes
+Citharinus latus,Citharinus latus,Characiformes,Citharinidae,Citharinus latus,Actinopterygii,Osteichthyes
+Clarias gariepinus,Clarias gariepinus,Siluriformes,Clariidae,Clarias gariepinus,Actinopterygii,Osteichthyes
+Clarius garlepinus,Clarius garlepinus,Siluriformes,Clariidae,Clarias gariepinus,Actinopterygii,NA
+Clarius ngamensis,Clarius ngamensis,Siluriformes,Clariidae,Clarias ngamensis,Actinopterygii,NA
+Auchenoglanis biscutatus,Auchenoglanis biscutatus,Siluriformes,Claroteidae,Auchenoglanis biscutatus,Actinopterygii,Osteichthyes
+Clarotes laticeps,Clarotes laticeps,Siluriformes,Claroteidae,Clarotes laticeps,Actinopterygii,Osteichthyes
+Alosa sapidissima,Alosa sapidissima,Clupeiformes,Clupeidae,Alosa sapidissima,Actinopterygii,Osteichthyes
+Alosa macedonica,Alosa macedonica,Clupeiformes,Clupeidae,Alosa macedonica,Actinopterygii,Osteichthyes
+Dorosoma petenense,Dorosoma petenense,Clupeiformes,Clupeidae,Dorosoma petenense,Actinopterygii,Osteichthyes
+Tenualosa ilisha,Tenualosa ilisha,Clupeiformes,Clupeidae,Tenualosa ilisha,Actinopterygii,Osteichthyes
+Anodontostoma chacund,Anodontostoma chacund,Clupeiformes,Clupeidae,Anodontostoma chacunda,Actinopterygii,NA
+Cottus carolinae,Cottus carolinae,Scorpaeniformes,Cottidae,Cottus carolinae,Actinopterygii,Osteichthyes
+Cottus ictalops,Cottus ictalops,Scorpaeniformes,Cottidae,Cottus bairdii,Actinopterygii,Osteichthyes
+Cottus bairdi punctulatus,Cottus bairdi punctulatus,Scorpaeniformes,Cottidae,Cottus bairdii,Actinopterygii,NA
+Cottus gobio L.,Cottus gobio L.,Scorpaeniformes,Cottidae,Cottus gobio,Actinopterygii,NA
+Sculpin,Sculpin,Scorpaeniformes,Cottidae,Cottus sp.,Actinopterygii,NA
+Characidium vidali,Characidium vidali,Characiformes,Crenuchidae,Characidium vidali,Actinopterygii,Osteichthyes
+Curimatella immaculata,Curimatella immaculata,Characiformes,Curimatidae,Curimatella immaculata,Actinopterygii,Osteichthyes
+Cyphocharax plumbeus,Cyphocharax plumbeus,Characiformes,Curimatidae,Cyphocharax plumbeus,Actinopterygii,Osteichthyes
+Cyphocharax spilurus,Cyphocharax spilurus,Characiformes,Curimatidae,Cyphocharax spilurus,Actinopterygii,Osteichthyes
+Steindachnerina gracilis,Steindachnerina gracilis,Characiformes,Curimatidae,Steindachnerina gracilis,Actinopterygii,Osteichthyes
+Steindachnerina insculpta,Steindachnerina insculpta,Characiformes,Curimatidae,Steindachnerina insculpta,Actinopterygii,Osteichthyes
+Notropis procne,Notropis procne,Cypriniformes,Cyprinidae,Notropis procne,Actinopterygii,Osteichthyes
+Exoglossum maxillingua,Exoglossum maxillingua,Cypriniformes,Cyprinidae,Exoglossum maxillingua,Actinopterygii,Osteichthyes
+Notropis chrosomus,Notropis chrosomus,Cypriniformes,Cyprinidae,Notropis chrosomus,Actinopterygii,Osteichthyes
+Gila bicolor,Gila bicolor,Cypriniformes,Cyprinidae,Siphateles bicolor,Actinopterygii,Osteichthyes
+Squalius alburnoides,Squalius alburnoides,Cypriniformes,Cyprinidae,Squalius alburnoides,Actinopterygii,Osteichthyes
+Notropis longirostris,Notropis longirostris,Cypriniformes,Cyprinidae,Notropis longirostris,Actinopterygii,Osteichthyes
+Rutilus rutilus,Rutilus rutilus,Cypriniformes,Cyprinidae,Rutilus rutilus,Actinopterygii,Osteichthyes
+Semotilus corporalis,Semotilus corporalis,Cypriniformes,Cyprinidae,Semotilus corporalis,Actinopterygii,Osteichthyes
+Squalius cii,Squalius cii,Cypriniformes,Cyprinidae,Squalius cii,Actinopterygii,Osteichthyes
+Cyprinella trichroistia,Cyprinella trichroistia,Cypriniformes,Cyprinidae,Cyprinella trichroistia,Actinopterygii,Osteichthyes
+Macrhybopsis tetranema,Macrhybopsis tetranema,Cypriniformes,Cyprinidae,Macrhybopsis tetranema,Actinopterygii,Osteichthyes
+Notropis girardi,Notropis girardi,Cypriniformes,Cyprinidae,Notropis girardi,Actinopterygii,Osteichthyes
+Notropis sabinae,Notropis sabinae,Cypriniformes,Cyprinidae,Notropis sabinae,Actinopterygii,Osteichthyes
+Gila boraxobius,Gila boraxobius,Cypriniformes,Cyprinidae,Siphateles boraxobius,Actinopterygii,Osteichthyes
+Plagopterus argentissimus,Plagopterus_argentissimus,Cypriniformes,Cyprinidae,Plagopterus argentissimus,Actinopterygii,Osteichthyes
+Cyprinella lutrensis,Cyprinella_lutrensis,Cypriniformes,Cyprinidae,Cyprinella lutrensis,Actinopterygii,Osteichthyes
+Pimephales vigilax,Pimephales_vigilax,Cypriniformes,Cyprinidae,Pimephales vigilax,Actinopterygii,Osteichthyes
+Pimephales promelas,Pimephales_promelas,Cypriniformes,Cyprinidae,Pimephales promelas,Actinopterygii,Osteichthyes
+Pimephales notatus,Pimephales_notatus,Cypriniformes,Cyprinidae,Pimephales notatus,Actinopterygii,Osteichthyes
+Semotilus atromaculatus,Semotilus_atromaculatus,Cypriniformes,Cyprinidae,Semotilus atromaculatus,Actinopterygii,Osteichthyes
+Luxilus chrysocephalus,Luxilus_chrysocephalus,Cypriniformes,Cyprinidae,Luxilus chrysocephalus,Actinopterygii,Osteichthyes
+Cyprinella spiloptera,Cyprinella_spiloptera,Cypriniformes,Cyprinidae,Cyprinella spiloptera,Actinopterygii,Osteichthyes
+Nocomis biguttatus,Nocomis_biguttatus,Cypriniformes,Cyprinidae,Nocomis biguttatus,Actinopterygii,Osteichthyes
+Abramis brama,Abramis brama,Cypriniformes,Cyprinidae,Abramis brama,Actinopterygii,Osteichthyes
+Gobio gobio,Gobio gobio,Cypriniformes,Cyprinidae,Gobio gobio,Actinopterygii,Osteichthyes
+Alburnus alburnus,Alburnus alburnus,Cypriniformes,Cyprinidae,Alburnus alburnus,Actinopterygii,Osteichthyes
+Pseudobarbus burchelli,Pseudobarbus burchelli,Cypriniformes,Cyprinidae,Pseudobarbus burchelli,Actinopterygii,Osteichthyes
+Carassius auratus,Carassius auratus,Cypriniformes,Cyprinidae,Carassius auratus,Actinopterygii,Osteichthyes
+Devario regina,Devario regina,Cypriniformes,Cyprinidae,Devario regina,Actinopterygii,Osteichthyes
+Pseudorasbora parva,Pseudorasbora parva,Cypriniformes,Cyprinidae,Pseudorasbora parva,Actinopterygii,Osteichthyes
+Barbus bocagei,Barbus bocagei,Cypriniformes,Cyprinidae,Luciobarbus bocagei,Actinopterygii,Osteichthyes
+Chondrostoma polylepis,Chondrostoma polylepis,Cypriniformes,Cyprinidae,Pseudochondrostoma polylepis,Actinopterygii,Osteichthyes
+Cyprinus carpio,Cyprinus carpio,Cypriniformes,Cyprinidae,Cyprinus carpio,Actinopterygii,Osteichthyes
+Leuciscus pyrenaicus,Leuciscus pyrenaicus,Cypriniformes,Cyprinidae,Squalius pyrenaicus,Actinopterygii,Osteichthyes
+Rutilus alburnoides,Rutilus alburnoides,Cypriniformes,Cyprinidae,Squalius alburnoides,Actinopterygii,Osteichthyes
+Notropis heterodon,Notropis heterodon,Cypriniformes,Cyprinidae,Notropis heterodon,Actinopterygii,Osteichthyes
+Labeo niloticus,Labeo niloticus,Cypriniformes,Cyprinidae,Labeo niloticus,Actinopterygii,Osteichthyes
+Chelaethiops bibie,Chelaethiops bibie,Cypriniformes,Cyprinidae,Chelaethiops bibie,Actinopterygii,Osteichthyes
+"Acanthobrama marmid,","Acanthobrama marmid,",Cypriniformes,Cyprinidae,Acanthobrama marmid,Actinopterygii,NA
+Gila alrordensis,Gila alrordensis,Cypriniformes,Cyprinidae,Siphateles alvordensis,Actinopterygii,NA
+Luxilus cornulus,Luxilus cornulus,Cypriniformes,Cyprinidae,Luxilus cornutus,Actinopterygii,NA
+Notemignus crysoleucas,Notemignus crysoleucas,Cypriniformes,Cyprinidae,Notemigonus chrysoleuas,Actinopterygii,NA
+Phoximus phoximus,Phoximus phoximus,Cypriniformes,Cyprinidae,Phoxinus phoxinus,Actinopterygii,NA
+Pimephales,Pimephales,Cypriniformes,Cyprinidae,Pimephales sp.,Actinopterygii,NA
+Puntis filamentosus,Puntis filamentosus,Cypriniformes,Cyprinidae,Dawkinsia filamentosa,Actinopterygii,NA
+Round tail chub,Round tail chub,Cypriniformes,Cyprinidae,Gila robusta,Actinopterygii,NA
+Amargosa Pupfish,Amargosa Pupfish,Cyprinodontiformes,Cyprinodontidae,Cyprinodon nevadensis,Actinopterygii,NA
+Aphanius iberus,Aphanius iberus,Cyprinodontiformes,Cyprinodontidae,Aphanius iberus,Actinopterygii,Osteichthyes
+Common Carp,Common Carp,Cypriniformes,Cyprinus carpio,Cyprinus carpio,Actinopterygii,NA
+Distichodus rostratus,Distichodus rostratus,Characiformes,Distichodontidae,Distichodus rostratus,Actinopterygii,Osteichthyes
+Nannaethiops unitaeniatus,Nannaethiops unitaeniatus,Characiformes,Distichodontidae,Nannaethiops unitaeniatus,Actinopterygii,Osteichthyes
+Hypseleotris compressa,Hypseleotris compressa,Perciformes,Eleotridae,Hypseleotris compressa,Actinopterygii,Osteichthyes
+Gobiomorphus hubbsi,Gobiomorphus hubbsi,Perciformes,Eleotridae,Gobiomorphus hubbsi,Actinopterygii,Osteichthyes
+Gobiomorphus cotidianus,Gobiomorphus cotidianus,Perciformes,Eleotridae,Gobiomorphus cotidianus,Actinopterygii,Osteichthyes
+Midgley<U+0092>s gudgeons,Midgley<U+0092>s gudgeons,Gobiiformes,Eleotridae,Hypseleotris,Actinopterygii,NA
+Anchoa mitchilli,Anchoa mitchilli,Clupeiformes,Engraulidae,Anchoa mitchilli,Actinopterygii,Osteichthyes
+Hoplias malabaricus,Hoplias malabaricus,Characiformes,Erythrinidae,Hoplias malabaricus,Actinopterygii,Osteichthyes
+Esox niger,Esox niger,Esociformes,Esocidae,Esox niger,Actinopterygii,Osteichthyes
+grass pickerel,grass pickerel,Esociformes,Esocidae,Esox americanus,Actinopterygii,NA
+Northern pike,Northern pike,Esociformes,Esocidae,Esox lucius,Actinopterygii,NA
+Orangebelly darter,Orangebelly darter,Perciformes,Percidae,Etheostoma radiosum,Actinopterygii,NA
+Fundulus notatus,Fundulus_notatus,Cyprinodontiformes,Fundulidae,Fundulus notatus,Actinopterygii,Osteichthyes
+Fundulus diaphanus,Fundulus diaphanus,Cyprinodontiformes,Fundulidae,Fundulus diaphanus,Actinopterygii,Osteichthyes
+Galaxias vulgaris,Galaxias vulgaris,Osmeriformes,Galaxiidae,Galaxias vulgaris,Actinopterygii,Osteichthyes
+Galaxias zebratus,Galaxias zebratus,Osmeriformes,Galaxiidae,Galaxias zebratus,Actinopterygii,Osteichthyes
+Threespine stickleback,Threespine stickleback,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,Actinopterygii,NA
+Economidichthys pygmaeus,Economidichthys pygmaeus,Perciformes,Gobiidae,Economidichthys pygmaeus,Actinopterygii,Osteichthyes
+Awaous guamensis,Awaous guamensis,Perciformes,Gobiidae,Awaous guamensis,Actinopterygii,Osteichthyes
+Sicyopterus stimpsoni,Sicyopterus stimpsoni,Perciformes,Gobiidae,Sicyopterus stimpsoni,Actinopterygii,Osteichthyes
+Hemichromis Fasciatus,Hemichromis Fasciatus,Cichliformes,Cichlidae,Hemichromis fasciatus,Actinopterygii,NA
+Bivibranchia velox,Bivibranchia velox,Characiformes,Hemiodontidae,Bivibranchia velox,Actinopterygii,Osteichthyes
+Hemiodus unimaculatus,Hemiodus unimaculatus,Characiformes,Hemiodontidae,Hemiodus unimaculatus,Actinopterygii,Osteichthyes
+Bivibranchia fowleri,Bivibranchia fowleri,Characiformes,Hemiodontidae,Bivibranchia fowleri,Actinopterygii,Osteichthyes
+Hepsetus odoe,Hepsetus odoe,Characiformes,Hepsetidae,Hepsetus odoe,Actinopterygii,Osteichthyes
+Pimelodella cristata,Pimelodella cristata,Siluriformes,Heptapteridae,Pimelodella cristata,Actinopterygii,Osteichthyes
+Pimelodella lateristriga,Pimelodella lateristriga,Siluriformes,Heptapteridae,Pimelodella lateristriga,Actinopterygii,Osteichthyes
+Pimelodella lateristriga,Pimelodella lateristriga,Siluriformes,Heptapteridae,Pimelodella lateristriga,Actinopterygii,Osteichthyes
+Rhamdia quelen,Rhamdia quelen,Siluriformes,Heptapteridae,Rhamdia quelen,Actinopterygii,Osteichthyes
+HYPOPHTHALMUS FIMBRIATUS,HYPOPHTHALMUS FIMBRIATUS,Siluriformes,Pimelodidae,Hypophthalmus fimbriatus,Actinopterygii,NA
+Hypostomus  albopunctatus,Hypostomus  albopunctatus,Siluriformes,Loricariidae,Hypostomus albopunctatus,Actinopterygii,NA
+Hypostomus  regani,Hypostomus  regani,Siluriformes,Loricariidae,Hypostomus regani,Actinopterygii,NA
+Hypostomus  strigaticeps,Hypostomus  strigaticeps,Siluriformes,Loricariidae,Hypostomus strigaticeps,Actinopterygii,NA
+bullhead catfish,bullhead catfish,Siluriformes,Ictaluridae,Ameiurus sp.,Actinopterygii,NA
+Common Bullhead,Common Bullhead,Siluriformes,Ictaluridae,Ameiurus nebulosus,Actinopterygii,NA
+Common bullhead,Common bullhead,Siluriformes,Ictaluridae,Ameiurus nebulosus,Actinopterygii,NA
+Ameiurus nebulosus,Ameiurus_nebulosus,Siluriformes,Ictaluridae,Ameiurus nebulosus,Actinopterygii,Osteichthyes
+Noturus gyrinus,Noturus gyrinus,Siluriformes,Ictaluridae,Noturus gyrinus,Actinopterygii,Osteichthyes
+Noturus exilis,Noturus exilis,Siluriformes,Ictaluridae,Noturus exilis,Actinopterygii,Osteichthyes
+Ictalurus nebulosus,Ictalurus nebulosus,Siluriformes,Ictaluridae,Ameiurus nebulosus,Actinopterygii,Osteichthyes
+Ictalurus punctatus,Ictalurus punctatus,Siluriformes,Ictaluridae,Ictalurus punctatus,Actinopterygii,Osteichthyes
+Channel Catfish,Channel Catfish,Siluriformes,Ictaluridae,Ictalurus punctatus,Actinopterygii,NA
+Smallmouth Buffalo,Smallmouth Buffalo,Cypriniformes,Cyprinidae,Ictiobus bubalus,Actinopterygii,NA
+Lates niloticus,Lates niloticus,Perciformes,Latidae,Lates niloticus,Actinopterygii,Osteichthyes
+Copella nigrofasciata,Copella nigrofasciata,Characiformes,Lebiasinidae,Copella nigrofasciata,Actinopterygii,Osteichthyes
+Pyrrhulina aff. brevis,Pyrrhulina aff. brevis,Characiformes,Lebiasinidae,Pyrrhulina brevis,Actinopterygii,NA
+Lepisosteus osseus,Lepisosteus_osseus,Lepisosteiformes,Lepisosteidae,Lepisosteus osseus,Actinopterygii,Osteichthyes
+Lepisosteus oculatus,Lepisosteus_oculatus,Lepisosteiformes,Lepisosteidae,Lepisosteus oculatus,Actinopterygii,Osteichthyes
+Atractosteus spatula,Atractosteus_spatula,Lepisosteiformes,Lepisosteidae,Atractosteus spatula,Actinopterygii,Osteichthyes
+Lepisosteus platostomus,Lepisosteus_platostomus,Lepisosteiformes,Lepisosteidae,Lepisosteus platostomus,Actinopterygii,Osteichthyes
+redbreast sunfish,redbreast sunfish,Centrarchiformes,Centrarchidae,Lepomis auritus,Actinopterygii,NA
+Green Sunfish,Green Sunfish,Centrarchiformes,Centrarchidae,Lepomis cyanellus,Actinopterygii,NA
+Bluegill,Bluegill,Centrarchiformes,Centrarchidae,Lepomis macrochirus,Actinopterygii,NA
+Longear Sunfish,Longear Sunfish,Centrarchiformes,Centrarchidae,Lepomis megalotis,Actinopterygii,NA
+Rhinelepis aspera,Rhinelepis aspera,Siluriformes,Loricariidae,Rhinelepis aspera,Actinopterygii,Osteichthyes
+Hypostomus ternetzi,Hypostomus ternetzi,Siluriformes,Loricariidae,Hypostomus ternetzi,Actinopterygii,Osteichthyes
+Hypostomus margaritifer,Hypostomus margaritifer,Siluriformes,Loricariidae,Hypostomus margaritifer,Actinopterygii,Osteichthyes
+Hypostomus microstomus,Hypostomus microstomus,Siluriformes,Loricariidae,Hypostomus microstomus,Actinopterygii,Osteichthyes
+Megalancistrus aculeatus,Megalancistrus aculeatus,Siluriformes,Loricariidae,Megalancistrus parananus,Actinopterygii,Osteichthyes
+Loricariichthys castaneus,Loricariichthys castaneus,Siluriformes,Loricariidae,Loricariichthys castaneus,Actinopterygii,Osteichthyes
+Farlowella vittata,Farlowella vittata,Siluriformes,Loricariidae,Farlowella vittata,Actinopterygii,Osteichthyes
+Loricaria lentiginosa,Loricaria lentiginosa,Siluriformes,Loricariidae,Loricaria lentiginosa,Actinopterygii,Osteichthyes
+Hypostomus regami,Hypostomus regami,Siluriformes,Loricariidae,Hypostomus regani,Actinopterygii,NA
+Lota Lota Maculosa,Lota Lota Maculosa,Gadiformes,Lotidae,Lota lota,Actinopterygii,NA
+golden perch,golden perch,Centrarchiformes,Perichthyidae,Macquaria ambigua,Actinopterygii,NA
+Smallmouth Bass,Smallmouth Bass,Centrarchiformes,Centrarchidae,Micropterus dolomieu,Actinopterygii,NA
+black bass,black bass,Centrarchiformes,Centrarchidae,Micropterus floridanus,Actinopterygii,NA
+Spotted Bass,Spotted Bass,Centrarchiformes,Centrarchidae,Micropterus punctulatus,Actinopterygii,NA
+Largemouth Bass,Largemouth Bass,Centrarchiformes,Centrarchidae,Micropterus salmoides,Actinopterygii,NA
+Synodontis nigrita,Synodontis nigrita,Siluriformes,Mochokidae,Synodontis nigrita,Actinopterygii,Osteichthyes
+Synodontis membranaceus,Synodontis membranaceus,Siluriformes,Mochokidae,Synodontis membranaceus,Actinopterygii,Osteichthyes
+Synodontis zambezensis,Synodontis zambezensis,Siluriformes,Mochokidae,Synodontis zambezensis,Actinopterygii,Osteichthyes
+Synodontis frontosus,Synodontis frontosus,Siluriformes,Mochokidae,Synodontis frontosus,Actinopterygii,Osteichthyes
+Brachysynodontis batensoda,Brachysynodontis batensoda,Siluriformes,Mochokidae,Synodontis batensoda,Actinopterygii,Osteichthyes
+Synodontis schall,Synodontis schall,Siluriformes,Mochokidae,Synodontis schall,Actinopterygii,Osteichthyes
+Synodontis membraneceus,Synodontis membraneceus,Siluriformes,Mochokidae,Synodontis membranaceus,Actinopterygii,NA
+Marcuscnius macrolepidotus,Marcuscnius macrolepidotus,Osteoglossiformes,Mormyridae,Marcusenius macrolepidotus,Actinopterygii,NA
+White perch,White perch,Perciformes,Moronidae,Morone americana,Actinopterygii,NA
+White Perch,White Perch,Perciformes,Moronidae,Morone americana,Actinopterygii,NA
+striped bass,striped bass,Perciformes,Moronidae,Morone saxatilis,Actinopterygii,NA
+Morone mississippiensis,Morone_mississippiensis,Perciformes,Moronidae,Morone mississippiensis,Actinopterygii,Osteichthyes
+Morone saxatilis,Morone saxatilis,Perciformes,Moronidae,Morone saxatilis,Actinopterygii,Osteichthyes
+Mugil cephalus,Mugil cephalus,Mugiliformes,Mugilidae,Mugil cephalus,Actinopterygii,Osteichthyes
+Planiliza abu,Planiliza abu,Mugiliformes,Mugilidae,Planiliza abu,Actinopterygii,Osteichthyes
+Noemacheilus barbatulus,Noemacheilus barbatulus,Cypriniformes,Nemacheilidae,Barbatula barbatula,Actinopterygii,Osteichthyes
+Nemacheilus barbatula,Nemacheilus barbatula,Cypriniformes,Nemacheilidae,Barbatula barbatula,Actinopterygii,NA
+Epiplatys marnoi,Epiplatys marnoi,Cyprinodontiformes,Nothobranchiidae,Epiplatys spilargyreius,Actinopterygii,Osteichthyes
+Nothobranchius,Nothobranchius,Cyprinodontiformes,Nothobranchiidae,Nothobranchisu sp.,Actinopterygii,NA
+Papyrocranus afer,Papyrocranus afer,Osteoglossiformes,Notopteridae,Papyrocranus afer,Actinopterygii,Osteichthyes
+Xenomystus nigri,Xenomystus nigri,Osteoglossiformes,Notopteridae,Xenomystus nigri,Actinopterygii,Osteichthyes
+Cutthroat trout,Cutthroat trout,Salmoniformes,Salmonidae,Oncorhynchus clarkii,Actinopterygii,NA
+cutthroat trout,cutthroat trout,Salmoniformes,Salmonidae,Oncorhynchus clarkii,Actinopterygii,NA
+rainbow trout,rainbow trout,Salmoniformes,Salmonidae,Oncorhynchus mykiss,Actinopterygii,NA
+Apareiodon argenteus,Apareiodon argenteus,Characiformes,Parodontidae,Apareiodon argenteus,Actinopterygii,Osteichthyes
+Apareiodon affinis,Apareiodon affinis,Characiformes,Parodontidae,Apareiodon affinis,Actinopterygii,Osteichthyes
+Yellow perch,Yellow perch,Perciformes,Percidae,Perca flavescens,Actinopterygii,NA
+yellow perch,yellow perch,Perciformes,Percidae,Perca flavescens,Actinopterygii,NA
+Nannatherina balstoni,Nannatherina balstoni,Perciformes,Percichthyidae,Nannatherina balstoni,Actinopterygii,Osteichthyes
+Stizostedion canadense,Stizostedion canadense,Perciformes,Percidae,Sander canadensis,Actinopterygii,Osteichthyes
+Etheostoma spectabile,Etheostoma spectabile,Perciformes,Percidae,Etheostoma spectabile,Actinopterygii,Osteichthyes
+Percina caprodes,Percina caprodes,Perciformes,Percidae,Percina caprodes,Actinopterygii,Osteichthyes
+Etheostoma microperca,Etheostoma microperca,Perciformes,Percidae,Etheostoma microperca,Actinopterygii,Osteichthyes
+Etheostoma zonale,Etheostoma zonale,Perciformes,Percidae,Etheostoma zonale,Actinopterygii,Osteichthyes
+Etheostoma trisella,Etheostoma trisella,Perciformes,Percidae,Etheostoma trisella,Actinopterygii,Osteichthyes
+redfin perch,redfin perch,Perciformes,Percidae,Perca fluviatilis,Actinopterygii,NA
+blackbanded darter,blackbanded darter,Perciformes,Percidae,Percina nigrofasciata,Actinopterygii,NA
+Percopsis omiscomaycus,Percopsis omiscomaycus,Percopsiformes,Percopsidae,Percopsis omiscomaycus,Actinopterygii,Osteichthyes
+Pimelodus blochii,Pimelodus blochii,Siluriformes,Pimelodidae,Pimelodus blochii,Actinopterygii,Osteichthyes
+Iheringichthys labrosus,Iheringichthys labrosus,Siluriformes,Pimelodidae,Iheringichthys labrosus,Actinopterygii,Osteichthyes
+Pimelodus maculatus,Pimelodus maculatus,Siluriformes,Pimelodidae,Pimelodus maculatus,Actinopterygii,Osteichthyes
+Pimelodus pintado,Pimelodus pintado,Siluriformes,Pimelodidae,Pimelodus pintado,Actinopterygii,Osteichthyes
+Pimelodus sp,Pimelodus sp,Siluriformes,Pimelodidae,Pimelodus sp.,Actinopterygii,NA
+Gambusia affinis,Gambusia affinis,Cyprinodontiformes,Poeciliidae,Gambusia affinis,Actinopterygii,Osteichthyes
+Gambusia sexradiata,Gambusia sexradiata,Cyprinodontiformes,Poeciliidae,Gambusia sexradiata,Actinopterygii,Osteichthyes
+Gambusia holbrooki,Gambusia holbrooki,Cyprinodontiformes,Poeciliidae,Gambusia holbrooki,Actinopterygii,Osteichthyes
+Gambia p. yucatana,Gambia p. yucatana,Cyprinodontiformes,Poecillidae,Gambusia yucatana,Actinopterygii,NA
+Poecilial latipinna,Poecilial latipinna,Cyprinodontiformes,Poecillidae,Poecilia latipinna,Actinopterygii,NA
+Polypterus senegalus,Polypterus senegalus,Polypteriformes,Polypteridae,Polypterus senegalus,Actinopterygii,Osteichthyes
+Black crappie,Black crappie,Centrarchiformes,Centrarchidae,Pomoxis nigromaculatus,Actinopterygii,NA
+Black Crappie,Black Crappie,Centrarchiformes,Centrarchidae,Pomoxis nigromaculatus,Actinopterygii,NA
+Prochilodus nigricans,Prochilodus nigricans,Characiformes,Prochilodontidae,Prochilodus nigricans,Actinopterygii,Osteichthyes
+PROSOPIUM-WILLIAMSONI,PROSOPIUM-WILLIAMSONI,Salmoniformes,Salmonidae,Prosopium williamsoni,Actinopterygii,NA
+Rivulus luelingi,Rivulus luelingi,Cyprinodontiformes,Rivulidae,Atlantirivulus luelingi,Actinopterygii,Osteichthyes
+salmo salar,salmo salar,Salmoniformes,Salmonidae,Salmo salar,Actinopterygii,NA
+salmo trutta,salmo trutta,Salmoniformes,Salmonidae,Salmo trutta,Actinopterygii,NA
+SALMO TRUTTA,SALMO TRUTTA,Salmoniformes,Salmonidae,Salmo trutta,Actinopterygii,NA
+Salvelinus alpinus,Salvelinus alpinus,Salmoniformes,Salmonidae,Salvelinus alpinus,Actinopterygii,Osteichthyes
+Salmo gairdneri,Salmo gairdneri,Salmoniformes,Salmonidae,Oncorhynchus mykiss,Actinopterygii,Osteichthyes
+Salmo trutta,Salmo trutta,Salmoniformes,Salmonidae,Salmo trutta,Actinopterygii,Osteichthyes
+Prosopium williamsoni,Prosopium williamsoni,Salmoniformes,Salmonidae,Prosopium williamsoni,Actinopterygii,Osteichthyes
+Salmo salar,Salmo salar,Salmoniformes,Salmonidae,Salmo salar,Actinopterygii,Osteichthyes
+Arctic charr,Arctic charr,Salmoniformes,Salmonidae,Salvelinus alpinus,Actinopterygii,NA
+Brown Trout,Brown Trout,Salmoniformes,Salmonidae,Salmo trutta,Actinopterygii,NA
+brown trout,brown trout,Salmoniformes,Salmonidae,Salmo trutta,Actinopterygii,NA
+Brown trout,Brown trout,Salmoniformes,Salmonidae,Salmo trutta,Actinopterygii,NA
+Chinhook salmon,Chinhook salmon,Salmoniformes,Salmonidae,Onchorhynchus tshawytscha,Actinopterygii,NA
+chinhook salmon,chinhook salmon,Salmoniformes,Salmonidae,Onchorhynchus tshawytscha,Actinopterygii,NA
+Oncorhynchus,Oncorhynchus,Salmoniformes,Salmonidae,Onchorhynchus sp.,Actinopterygii,NA
+Thymallus Montanus,Thymallus Montanus,Salmoniformes,Salmonidae,Thymallus arcticus,Actinopterygii,NA
+Thymallus Montanus Milner,Thymallus Montanus Milner,Salmoniformes,Salmonidae,Thymallus arcticus,Actinopterygii,NA
+Brook Trout,Brook Trout,Salmoniformes,Salmonidae,Salvelinus fontinalis,Actinopterygii,NA
+Brook trout,Brook trout,Salmoniformes,Salmonidae,Salvelinus fontinalis,Actinopterygii,NA
+brook trout,brook trout,Salmoniformes,Salmonidae,Salvelinus fontinalis,Actinopterygii,NA
+Lake Trout,Lake Trout,Salmoniformes,Salmonidae,Salvelinus namaycush,Actinopterygii,NA
+Lake trout,Lake trout,Salmoniformes,Salmonidae,Salvelinus namaycush,Actinopterygii,NA
+Walleye,Walleye,Perciformes,Percidae,Sander vitreus,Actinopterygii,NA
+Schilbe intermedius,Schilbe intermedius,Siluriformes,Schilbeidae,Schilbe intermedius,Actinopterygii,Osteichthyes
+Schilbe mystus,Schilbe mystus,Siluriformes,Schilbeidae,Schilbe mystus,Actinopterygii,Osteichthyes
+Eutropius niloticus,Eutropius niloticus,Siluriformes,Schilbeidae,Schilbe mystus,Actinopterygii,Osteichthyes
+Micropogon undulatus,Micropogon undulatus,Perciformes,Sciaenidae,Micropogonias undulatus,Actinopterygii,Osteichthyes
+Pogonias cromis,Pogonias cromis,Perciformes,Sciaenidae,Pogonias cromis,Actinopterygii,Osteichthyes
+Cynoscion arenarius,Cynoscion arenarius,Perciformes,Sciaenidae,Cynoscion arenarius,Actinopterygii,Osteichthyes
+Cynoscion nebulosus,Cynoscion nebulosus,Perciformes,Sciaenidae,Cynoscion nebulosus,Actinopterygii,Osteichthyes
+Leiostomus xanthurus,Leiostomus xanthurus,Perciformes,Sciaenidae,Leiostomus xanthurus,Actinopterygii,Osteichthyes
+Bairdiella chrysura,Bairdiella chrysura,Perciformes,Sciaenidae,Bairdiella chrysoura,Actinopterygii,Osteichthyes
+Plagioscion squamosissimus,Plagioscion squamosissimus,Perciformes,Sciaenidae,Plagioscion squamosissimus,Actinopterygii,Osteichthyes
+Micropogonias furnieri,Micropogonias furnieri,Perciformes,Sciaenidae,Micropogonias furnieri,Actinopterygii,Osteichthyes
+Ctenosciaena gracilicirrhus,Ctenosciaena gracilicirrhus,Perciformes,Sciaenidae,Ctenosciaena gracilicirrhus,Actinopterygii,Osteichthyes
+Aplodinotus grunniens,Aplodinotus grunniens,Perciformes,Sciaenidae,Aplodinotus grunniens,Actinopterygii,Osteichthyes
+Creek chub,Creek chub,Cypriniformes,Cyprinidae,Semotilus atromaculatus,Actinopterygii,NA
+Acnodon normani,Acnodon normani,Characiformes,Serrasalmidae,Acnodon normani,Actinopterygii,Osteichthyes
+Serrasalmus maculatus,Serrasalmus maculatus,Characiformes,Serrasalmidae,Serrasalmus maculatus,Actinopterygii,Osteichthyes
+Metynnis maculatus,Metynnis maculatus,Characiformes,Serrasalmidae,Metynnis maculatus,Actinopterygii,Osteichthyes
+Myleus cf. torquatus,Myleus cf. torquatus,Characiformes,Serrasalmidae,Myleus torquatus,Actinopterygii,NA
+SERRASALMUS MARGINATUS,SERRASALMUS MARGINATUS,Characiformes,Serrasalmidae,Serrasalmus marginatus,Actinopterygii,NA
+Lagodon rhomboides,Lagodon rhomboides,Perciformes,Sparidae,Lagodon rhomboides,Actinopterygii,Osteichthyes
+Sternopygus macrurus,Sternopygus macrurus,Gymnotiformes,Sternopygidae,Sternopygus macrurus,Actinopterygii,Osteichthyes
+Colomesus asellus,Colomesus asellus,Tetraodontiformes,Tetraodontidae,Colomesus asellus,Actinopterygii,Osteichthyes
+Vandellia,Vandellia,Siluriformes,Trichomycteridae,Vandellia sp.,Actinopterygii,NA
+Triportheus signatus,Triportheus signatus,Characiformes,Triportheidae,Triportheus signatus,Actinopterygii,Osteichthyes
+Triportheus trifurcatus,Triportheus trifurcatus,Characiformes,Triportheidae,Triportheus trifurcatus,Actinopterygii,Osteichthyes
+Triportheus nematurus,Triportheus nematurus,Characiformes,Triportheidae,Triportheus nematurus,Actinopterygii,Osteichthyes
+Umbra pygmaea,Umbra pygmaea,Esociformes,Umbridae,Umbra pygmaea,Actinopterygii,Osteichthyes
+Valencia letourneuxi,Valencia letourneuxi,Cyprinodontiformes,Valenciidae,Valencia letourneuxi,Actinopterygii,Osteichthyes
+ICHTHYOMYZON GAGEI,ICHTHYOMYZON GAGEI,Petromyzontiformes,Petromyzontidae,Ichthyomyzon gagei,Hyperoartia,NA
+Acestrohyncus  lacustris,Acestrohyncus  lacustris,Characiformes,Acestrorhynchidae,Acestrorhynchus lacustris,Actinopterygii,NA
+Galeichthys f  elis,Galeichthys f  elis,Siluriformes,Ariidae,Galeichthys f  elis,Actinopterygii,NA
+Bagrus bayadi,Bagrus bayadi,Siluriformes,Bagridae,Bagrus bajad,Actinopterygii,NA
+Pseudogastromzyon myersi,Pseudogastromzyon myersi,Cypriniformes,Balitoridae,Pseudogastromyzon myersi,Actinopterygii,NA
+Liniparhomaloptera dispar,Liniparhomaloptera dispar,Cypriniformes,Balitoridae,Liniparhomaloptera disparis,Actinopterygii,NA
+Pantosterus clarki,Pantosterus clarki,Cypriniformes,Catostomidae,Catostomus clarkii,Actinopterygii,NA
+Lepomis m. macrochirus,Lepomis m. macrochirus,Centrarchiformes,Centrarchidae,Lepomis m. macrochirus,Actinopterygii,NA
+bluegill sunfish,bluegill sunfish,Perciformes,Centrarchidae,Lepomis macrochirus,Actinopterygii,NA
+Clarius buettifkoferi,Clarius buettifkoferi,Siluriformes,Clariidae,Clarias buettikoferi,Actinopterygii,NA
+Raphiodon  vulpinus,Raphiodon  vulpinus,Characiformes,Cynodontidae,Rhaphiodon vulpinus,Actinopterygii,NA
+Semotilus bullaris,Semotilus bullaris,Cypriniformes,Cyprinidae,Semotilus bullaris,Actinopterygii,NA
+Leusiscus vandoisulus,Leusiscus vandoisulus,Cypriniformes,Cyprinidae,Leuciscus vandoisulus,Actinopterygii,NA
+Rhynichthys atronasus,Rhynichthys atronasus,Cypriniformes,Cyprinidae,Rhynichthys atronasus,Actinopterygii,NA
+Gila bicolor Pectinifer,Gila bicolor Pectinifer,Cypriniformes,Cyprinidae,Siphateles bicolor,Actinopterygii,NA
+Gila bicolor obesa,Gila bicolor obesa,Cypriniformes,Cyprinidae,Siphateles bicolor,Actinopterygii,NA
+Notropis micropogon,Notropis micropogon,Cypriniformes,Cyprinidae,Notropis micropogon,Actinopterygii,NA
+Notropis biguttatus,Notropis biguttatus,Cypriniformes,Cyprinidae,Notropis biguttatus,Actinopterygii,NA
+Barbys oligolepis,Barbys oligolepis,Cypriniformes,Cyprinidae,Oliotius oligolepis,Actinopterygii,NA
+Hoplias  malabaricus,Hoplias  malabaricus,Characiformes,Erythrinidae,Hoplias malabaricus,Actinopterygii,NA
+GALAXIAS MACULATUS,GALAXIAS MACULATUS,Osmeriformes,Galaxiidae,Galaxias maculatus,Actinopterygii,NA
+Morone interrupto,Morone interrupto,Perciformes,Moronidae,Morone mississippiensis,Actinopterygii,NA
+Morone interrupta,Morone interrupta,Perciformes,Moronidae,Morone mississippiensis,Actinopterygii,NA
+NA,NA,NA,NA,NA,,NA
+Leiopotherapon,Leiopotherapon,Perciformes,Terapontidae,Leiopotherapon,Actinopterygii,NA
