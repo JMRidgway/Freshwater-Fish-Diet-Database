@@ -9,6 +9,7 @@ library(repmis)
 library(readxl)
 library(rlist)
 library(RCurl)
+library(ggrepel)
 
 # Fixed error with missing fish by re-binding  --------
 # separated data_fish into data with and without
@@ -34,8 +35,8 @@ data_fish_have <- data_fish_test %>% mutate_all(funs('as.character')) %>%
 family_diversity <- read_csv("families.csv")
 
 #make dataframe that has number of records per fish family - including NA when family is missing
-fams <- data_fish_have %>% 
-  distinct(fish_id, fish_family) %>% 
+fams <- data_fish %>% 
+  distinct(fish_species, fish_family) %>% 
   group_by(fish_family) %>% 
   tally() %>% 
   arrange(-n) %>% 
@@ -49,11 +50,16 @@ fams %>%
 
 
 fams %>% filter(!is.na(fish_family)) %>% 
+  mutate(x1 = species_no/max(species_no, na.rm = T),
+         y1 = n/max(n)) %>% 
   ggplot(aes(x = species_no, y = n)) +
   geom_point() +
-  scale_y_log10() +
-  scale_x_log10() +
-  geom_abline()
+  # scale_y_log10() +
+  # scale_x_log10() +
+  geom_smooth(method = "lm") +
+  geom_text_repel(aes(label = fish_family)) +
+  # geom_abline() +
+  NULL
 
 
 type_div <- data_fish_have %>% 
@@ -66,7 +72,7 @@ type_div <- data_fish_have %>%
 type_div %>%
   filter(!is.na(fish_family)) %>% 
   ggplot(aes(x = species_no, y = n)) +
-  geom_point()
+  geom_point(intercept =)
 
 
 # families <- fams %>% select(fish_family) %>% distinct()
