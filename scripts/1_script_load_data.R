@@ -27,13 +27,13 @@ write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),
 prey_taxa_all <- data_fish %>% select(prey_taxon, prey_kingdom, prey_class, prey_order, prey_family, prey_species) %>% 
   distinct(prey_taxon, .keep_all = TRUE) 
 
-fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fish_genus_species) %>% 
+fish_taxa_all <- data_fish %>% select(type_of_fish, fish_class, fish_superclass, fish_order, fish_family) %>% 
   distinct(type_of_fish, .keep_all = TRUE) 
 
 
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
-folder <- "2020-6-22"
+folder <- "2020-06-29"
 
 # Functions ---------------------------------------------------------------
 #fish_gather cleans and gathers the imported data and extracts life stage information
