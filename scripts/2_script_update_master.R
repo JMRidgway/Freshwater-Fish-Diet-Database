@@ -136,11 +136,11 @@ move_folders_from <- list.files(path = paste0("./database/data_to_add/", folder)
 move_files_to <- paste0("./database/data_already_added/", folder)
 file.rename(from = paste0("./database/data_to_add/",move_files_from), to = move_files_to)
 
-dir.create(paste0("./database/data_already_added/", folder))
-
-folder_old_path = "C:/Users/abc/Downloads/managerA"
-path_new = "C:/User/abc/Desktop/managerA"
-file.copy(from = move_folders_from, to = move_files_to, recursive = FALSE, copy.mode = TRUE)
+# dir.create(paste0("./database/data_already_added/", folder))
+# 
+# folder_old_path = "C:/Users/abc/Downloads/managerA"
+# path_new = "C:/User/abc/Desktop/managerA"
+# file.copy(from = move_folders_from, to = move_files_to, recursive = FALSE, copy.mode = TRUE)
 
 
 # PUSH CHANGES TO GITHUB 
