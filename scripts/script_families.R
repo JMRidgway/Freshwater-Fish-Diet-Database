@@ -59,7 +59,7 @@ all <- fishbase_fresh  %>% select(Family, no_fish_species_fb, prop_species_fb) %
 
 
 #make the plot
-family_diversity_plot <- all %>% 
+(family_diversity_plot <- all %>% 
   # filter(prop_species >=0.001) %>% 
   ggplot(aes(x = reorder(Family,sort), y = prop_species, group = database, 
              color = database,
@@ -74,7 +74,7 @@ family_diversity_plot <- all %>%
   # facet_wrap(~split) +
   theme(axis.text.y = element_text(size = 2.5)) +
   labs(x = "Fish Family",
-       y = "Proportion of species in the family (freshwater families only)")
+       y = "Proportion of species in the family (freshwater families only)"))
 
 #save the plot
 ggsave(family_diversity_plot, file = "plots/family_diversity_plots.pdf", dpi = 500, height = 20, width = 10)
