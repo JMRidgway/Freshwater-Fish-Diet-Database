@@ -10,7 +10,8 @@ unique(sort(data_fish$measurement_units)) #good
 # unique(sort(data_fish$measurement_units_total_percent_other)) #removed column
 # unique(sort(data_fish$measurement_units_total_percent_other)) #removed column
 unique(sort(data_fish$year)) #good
-unique(sort(data_fish$habitat)) #good, but need to clean up
+unique(sort(data_fish$habitat)) #good, but check bays and lagoons. Are these freshwater?
+unique(sort(data_fish$habitat_general)) #good
 unique(sort(data_fish$table_figure)) #good, but need to clean up
 unique(sort(data_fish$measurement)) #check
 unique(sort(data_fish$author)) #good, but need to clean up
