@@ -24,7 +24,11 @@ unique(sort(data_fish$lon)) #good
 unique(sort(test$measurement)) #check
 test2 <- data_fish %>% filter(is.na(measure_numeric))
 
-test2 %>% distinct(measurement, author, citation) %>% mutate(measurement = tolower(measurement)) %>% arrange(measurement) %>%
+fix_measurement <- test2 %>% distinct(measurement, author, citation) %>% mutate(measurement = tolower(measurement)) %>% arrange(measurement) %>%
   filter(measurement != "trace") %>% 
   filter(!grepl("<", measurement)) %>% 
-  filter(!grepl(">", measurement)) %>% View()
+  filter(!grepl(">", measurement)) %>%
+  mutate(how_to_fix = "") %>%
+  select(measurement, how_to_fix, everything())
+
+write.csv(fix_measurement, file = "database/data_to_add/re_do/fix_measurement.csv", row.names = F)
