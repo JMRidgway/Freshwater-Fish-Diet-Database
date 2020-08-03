@@ -21,7 +21,10 @@ unique(sort(data_fish$lat)) #good
 unique(sort(data_fish$lon)) #good
 
 
-data_fish <- data_fish %>% mutate(table_figure = str_replace_all(table_figure, "tbl1...8", "tbl1"))
+unique(sort(test$measurement)) #check
+test2 <- data_fish %>% filter(is.na(measure_numeric))
 
-data_fish %>% filter(str_detect(table_figure, "tbl1...8")) %>% View()
-data_fish %>% filter(grepl("Dutton", author)) %>% distinct(table_figure, .keep_all = T) %>% View()                                                                                   
+test2 %>% distinct(measurement, author, citation) %>% mutate(measurement = tolower(measurement)) %>% arrange(measurement) %>%
+  filter(measurement != "trace") %>% 
+  filter(!grepl("<", measurement)) %>% 
+  filter(!grepl(">", measurement)) %>% View()
