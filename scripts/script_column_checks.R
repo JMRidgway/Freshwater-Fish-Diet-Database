@@ -22,7 +22,9 @@ unique(sort(data_fish$lat)) #good
 unique(sort(data_fish$lon)) #good
 unique(sort(data_fish$journal)) #good
 unique(sort(data_fish$site_name)) #good (some state abbreviations are not capitalized, though)
+unique(sort(data_fish$predator_stage)) #good
+unique(sort(data_fish$length_measure)) #good
+unique(sort(data_fish$length_units)) #good, but units are in cm, mm, in, etc
+unique(sort(data_fish$predator_min_length))
 
-data_fish$site_name_new <- NULL
-
-
+data_fish %>% filter(predator_min_length == "0") %>% View()
