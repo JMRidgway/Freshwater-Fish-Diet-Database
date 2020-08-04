@@ -25,6 +25,10 @@ unique(sort(data_fish$site_name)) #good (some state abbreviations are not capita
 unique(sort(data_fish$predator_stage)) #good
 unique(sort(data_fish$length_measure)) #good
 unique(sort(data_fish$length_units)) #good, but units are in cm, mm, in, etc
-unique(sort(data_fish$predator_min_length))
+unique(sort(data_fish$predator_min_length)) #good. Some are zero, but that's just means that length is <= X
+unique(sort(data_fish$predator_max_length)) #good
+unique(sort(data_fish$type_of_fish)) #good
+unique(sort(data_fish$microhabitat)) #good
+unique(sort(data_fish$author_year_tbl)) #good
 
-data_fish %>% filter(predator_min_length == "0") %>% View()
+data_fish$author_year_tbl = str_replace(data_fish$author_year_tbl, "D?", "di")
