@@ -23,6 +23,6 @@ unique(sort(data_fish$lon)) #good
 unique(sort(data_fish$journal)) #good
 unique(sort(data_fish$site_name)) #good (some state abbreviations are not capitalized, though)
 
-
+data_fish$site_name_new <- NULL
 
 
