@@ -30,5 +30,23 @@ unique(sort(data_fish$predator_max_length)) #good
 unique(sort(data_fish$type_of_fish)) #good
 unique(sort(data_fish$microhabitat)) #good
 unique(sort(data_fish$author_year_tbl)) #good
+unique(sort(data_fish$prey_taxon)) #OK - as entered
+unique(sort(data_fish$predator_average_length)) #good
+unique(sort(data_fish$fish_id)) #good
+unique(sort(data_fish$data_sorted_by)) #good
+unique(sort(data_fish$dateadded)) #good
+unique(sort(data_fish$prey_kingdom))
 
-                            
+
+data_fish %>% filter(prey_kingdom == "incertae sedis") %>% View()
+
+
+
+data_fish$length_type <- NULL                            
+
+# saveRDS(data_fish, file = "database/data_fish.rds")
+data_fish %>% filter(is.na(start_date))
+data_fish %>% filter(is.na(end_date)) %>% select(end_date, end_year, end_month, end_day) %>% View()
+
+
+data_fish <- data_fish %>% select(-figure)
