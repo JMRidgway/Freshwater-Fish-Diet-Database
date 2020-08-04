@@ -32,17 +32,28 @@ unique(sort(data_fish$microhabitat)) #good
 unique(sort(data_fish$author_year_tbl)) #good
 unique(sort(data_fish$prey_taxon)) #OK - as entered
 unique(sort(data_fish$predator_average_length)) #good
-unique(sort(data_fish$fish_id)) #good
+unique(sort(data_fish$fish_id)) #good, NO NA's
 unique(sort(data_fish$data_sorted_by)) #good
 unique(sort(data_fish$dateadded)) #good
-unique(sort(data_fish$prey_kingdom))
+unique(sort(data_fish$prey_kingdom)) #good, but 23,504 NAs
+unique(sort(data_fish$prey_class)) #good, but 26035 NAs 
+unique(sort(data_fish$prey_family)) #good, but 37158 NAs 
+unique(sort(data_fish$prey_order)) #good, but 33842 NAs
+unique(sort(data_fish$prey_species)) #good, but 43152 NAs
+unique(sort(data_fish$unique_character)) #good, but not sure what it is. Might be a duplicate of fish_id_add 
+unique(sort(data_fish$fish_id_new)) #deleted
+unique(sort(data_fish$fish_genus)) #good, but why is it here?
+unique(sort(data_fish$fish_species)) # 9076 NAs
+unique(sort(data_fish$fish_family)) # 7154 NAs
+unique(sort(data_fish$fish_class)) #7154 NAs
+unique(sort(data_fish$fish_order)) #7154 NAs
+unique(sort(data_fish$fish_superclass)) #22019 NAs
+unique(sort(data_fish$correction_mult)) #check with Jacob. what is this?
 
 
-data_fish %>% filter(prey_kingdom == "incertae sedis") %>% View()
+data_fish %>% filter(is.na(fish_superclass))
 
-
-
-data_fish$length_type <- NULL                            
+data_fish$fish_id_new <- NULL                            
 
 # saveRDS(data_fish, file = "database/data_fish.rds")
 data_fish %>% filter(is.na(start_date))
