@@ -20,6 +20,9 @@ unique(sort(data_fish$prey_stage)) #good
 unique(sort(data_fish$sampling_interval)) #good
 unique(sort(data_fish$lat)) #good
 unique(sort(data_fish$lon)) #good
-unique(sort(data_fish$journal))
+unique(sort(data_fish$journal)) #good
+unique(sort(data_fish$site_name)) #good (some state abbreviations are not capitalized, though)
 
-data_fish <- test
+
+
+
