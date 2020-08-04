@@ -31,4 +31,4 @@ unique(sort(data_fish$type_of_fish)) #good
 unique(sort(data_fish$microhabitat)) #good
 unique(sort(data_fish$author_year_tbl)) #good
 
-data_fish$author_year_tbl = str_replace(data_fish$author_year_tbl, "D?", "di")
+                            
