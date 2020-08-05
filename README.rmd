@@ -24,7 +24,7 @@ library(ggmap)
 #load most recent data frame
 data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>% 
   mutate_all(as.character) %>% 
-  mutate(measure_numeric = as.numeric(measure_numeric)) %>% 
+  # mutate(measure_numeric = as.numeric(measure_numeric)) %>% 
   remove_empty("rows")
 
 
