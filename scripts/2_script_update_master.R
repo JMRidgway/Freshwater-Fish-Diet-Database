@@ -114,7 +114,7 @@ percent_not_100 <- data_fish_update %>%
   distinct(fish_id,  total, citation, author_year_tbl, sample_size, start_date) %>% 
   arrange(-total) 
 
-write.csv(percent_not_100, file = paste0("database/data_to_add/re_do/percent_not_100",Sys.Date(),".csv"))
+write.csv(percent_not_100, file = paste0("database/data_to_add/re_do/percent_not_100",Sys.Date(),".csv"), row.names = F)
 
 data_fish_update2 <- anti_join(data_fish_update, percent_not_100, by = "fish_id")
 

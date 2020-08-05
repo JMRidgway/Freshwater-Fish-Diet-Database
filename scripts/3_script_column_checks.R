@@ -29,7 +29,7 @@ unique(sort(data_fish$predator_min_length)) #good. Some are zero, but that's jus
 unique(sort(data_fish$predator_max_length)) #good
 unique(sort(data_fish$type_of_fish)) #good
 unique(sort(data_fish$microhabitat)) #good
-unique(sort(data_fish$author_year_tbl)) #good
+unique(sort(data_fish$author_year_tbl)) #good - CHECK NA's
 unique(sort(data_fish$prey_taxon)) #OK - as entered
 unique(sort(data_fish$predator_average_length)) #good
 unique(sort(data_fish$fish_id)) #good, NO NA's
@@ -72,13 +72,4 @@ unique(sort(data_fish$measurement_units_old)) #deleted - (8/5/2020) - redundant
 
 
 # saveRDS(data_fish, file = "database/data_fish.rds")
-
-
-
-
-
-
-
-
-
 
