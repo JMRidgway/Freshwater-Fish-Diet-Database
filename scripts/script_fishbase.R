@@ -2,13 +2,12 @@ library(rfishbase)
 library(tidyverse)
 library(taxize)
 
-#fish taxon names in database
-fish_taxa_all <- data_fish %>% select(type_of_fish, fish_order, fish_family, fish_species) %>% 
-  distinct(type_of_fish, .keep_all = TRUE) %>%
+#fish taxon info needed
+fish_taxa_all <- data_fish %>% filter(is.na(fish_family)) %>% distinct(type_of_fish) %>% 
   mutate(type_fishmatch = str_replace(type_of_fish, "_", " ")) 
 
 #use fishbase to find synonyms
-fish_syn <- synonyms(fish_taxa_all$type_fishmatch)
+fish_syn <- rfishbase::synonyms(fish_taxa_all$type_fishmatch, server = "fishbase")
 #load fishbase taxon info for all fish
 fb_taxa <- load_taxa("FishBase")
 
@@ -18,11 +17,11 @@ fish_taxa_toadd <- fish_syn %>%
   select(synonym, Species) %>% 
   rename(type_fishmatch = synonym) %>% 
   right_join(fish_taxa_all) %>% 
-  mutate(fish_species = case_when(is.na(fish_species) ~ Species, TRUE ~ fish_species)) %>%
+  mutate(fish_species = Species) %>%
   tibble() %>% 
   left_join(fb_taxa) %>%
-  mutate(fish_family = case_when(is.na(fish_family) ~ Family, TRUE ~ fish_family),
-         fish_order = case_when(is.na(fish_order) ~ Order, TRUE ~ fish_order)) %>% 
+  rename(fish_family =  Family,
+         fish_order = Order) %>% 
     rename(fish_class = Class,
          fish_superclass = SuperClass) %>% 
   select(contains("fish")) %>% 
@@ -75,18 +74,35 @@ write.csv(add_by_hand, file = "add_by_hand.csv", row.names = F)
 
 fish_done <- fish_taxized2 %>% 
   filter(!is.na(fish_species)) %>% 
-  bind_rows(added_by_hand)
+  bind_rows(added_by_hand) %>% 
+  rename(fish_family_add = fish_family,
+         fish_superclass_add = fish_superclass,
+         fish_class_add = fish_class,
+         fish_order_add = fish_order,
+         fish_species_add = fish_species)
 
 
 #add to full data base
-fixed_again_byhand <- read_csv(file = "fish_done.csv")
-
-# data_fish <- data_fish %>% select(-fish_family, -fish_species, -fish_order, -fish_class, -fish_superclass) %>%
-#   left_join(fixed_again_byhand, by = "type_of_fish")
-# 
-# 
-test %>% select(type_of_fish, fish_order, fish_family, fish_species) %>%
-  distinct(type_of_fish, .keep_all = TRUE) %>%
-  mutate(type_fishmatch = str_replace(type_of_fish, "_", " ")) %>% View()
 
 
+#REWRITE CODE TO ADD TO DATA_FISH
+data_fish %>% filter(is.na(fish_family))
+
+test <- data_fish %>% left_join(fish_done) %>% 
+  mutate(fish_class = case_when(is.na(fish_class) ~ fish_class_add, TRUE ~ fish_class),
+         fish_family = case_when(is.na(fish_family) ~ fish_family_add, TRUE ~ fish_family),
+         fish_order = case_when(is.na(fish_order) ~ fish_order_add, TRUE ~ fish_order),
+         fish_superclass = case_when(is.na(fish_superclass) ~ fish_superclass_add, TRUE ~ fish_superclass),
+         fish_species = case_when(is.na(fish_species) ~ fish_species_add, TRUE ~ fish_species)) 
+
+
+test2 <- test %>% 
+  mutate(fish_class = case_when(grepl("Midgley", type_of_fish) ~ "Actinopterygii", TRUE ~ fish_class),
+         fish_family = case_when(grepl("Midgley", type_of_fish) ~ "Eleotridae", TRUE ~ fish_family),
+         fish_order = case_when(grepl("Midgley", type_of_fish) ~ "Perciformes", TRUE ~ fish_order),
+         fish_superclass = case_when(grepl("Midgley", type_of_fish) ~ "Osteichthyes", TRUE ~ fish_superclass),
+         fish_species = case_when(is.na(fish_species) ~ "Hypseleotris sp. 5", TRUE ~ fish_species)) %>% 
+  select(-fish_class_add, -fish_species_add, -fish_family_add, -fish_superclass_add, -fish_order_add, -type_fishmatch)
+
+
+data_fish <- test2
