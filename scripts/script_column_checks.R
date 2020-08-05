@@ -5,7 +5,7 @@ unique(data_fish$sample_size) #good, but need to clean up (sent email to Jacob o
 unique(data_fish$start_date) #good - need common format
 unique(data_fish$end_date) #good- need common format
 unique(sort(data_fish$measurement_type)) #good
-unique(sort(data_fish$measurement_typeunits)) #good
+unique(sort(data_fish$measurement_typeunits)) #good - this is made in script 2
 unique(sort(data_fish$measurement_units)) #good
 # unique(sort(data_fish$measurement_units_total_percent_other)) #removed column
 # unique(sort(data_fish$measurement_units_total_percent_other)) #removed column
@@ -49,15 +49,33 @@ unique(sort(data_fish$fish_class)) #7154 NAs
 unique(sort(data_fish$fish_order)) #7154 NAs
 unique(sort(data_fish$fish_superclass)) #22019 NAs
 unique(sort(data_fish$correction_mult)) #check with Jacob. what is this?
+unique(sort(data_fish$new_min)) #deleted
+unique(sort(data_fish$new_max)) #deleted
+unique(sort(data_fish$new_average)) #deleted
+unique(sort(data_fish$sample_id)) #what is this for?
+unique(sort(data_fish$citation_to_remove)) #deleted - (8/5/2020)
+unique(sort(data_fish$delete_row)) #deleted - (8/5/2020)
+unique(sort(data_fish$search_term)) #good, but what is this?
+unique(sort(data_fish$type_temp)) #good - this is made in script 2
+unique(sort(data_fish$units_temp)) #good - this is made in script 2
+unique(sort(data_fish$measure_numeric)) #good - this is made in script 2
+unique(sort(data_fish$lat.x)) #deleted - (8/5/2020)
+unique(sort(data_fish$long)) #deleted - (8/5/2020)
+unique(sort(data_fish$lat.y)) #deleted - (8/5/2020)
+unique(sort(data_fish$delete)) #deleted - (8/5/2020)
+unique(sort(data_fish$fish_id_temp)) #good - this is an old version of fish id. keep for recovery
+unique(sort(data_fish$fish_id_old)) #good - this is an old version of fish id. keep for recovery
+unique(sort(data_fish$end_date_ymd)) #deleted - (8/5/2020) - fix dates after all data are in
+unique(sort(data_fish$author_table)) #deleted - (8/5/2020) - redundant
+unique(sort(data_fish$measurement_type_old)) #deleted - (8/5/2020) - redundant
+unique(sort(data_fish$measurement_units_old)) #deleted - (8/5/2020) - redundant
 
 
-data_fish %>% filter(is.na(fish_superclass))
+data_fish %>% select(measurement_units, measurement_units_old) %>% filter(is.na(measurement_units_old)) %>% View()
 
-data_fish$fish_id_new <- NULL                            
+data_fish$measurement_units_old <- NULL
 
 # saveRDS(data_fish, file = "database/data_fish.rds")
-data_fish %>% filter(is.na(start_date))
-data_fish %>% filter(is.na(end_date)) %>% select(end_date, end_year, end_month, end_day) %>% View()
 
 
-data_fish <- data_fish %>% select(-figure)
+
