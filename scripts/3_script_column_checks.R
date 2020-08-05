@@ -75,26 +75,6 @@ unique(sort(data_fish$measurement_units_old)) #deleted - (8/5/2020) - redundant
 
 
 
-fix_measurement <- read_csv("database/data_to_add/fix_measurement.csv")
-
-
-
-test2 <- data_fish %>% mutate(delete = as.numeric(measurement)) %>% 
-  filter(is.na(delete)) %>% filter(!is.na(measurement)) %>% select(measurement, fish_id, author, delete, citation) %>% 
-  filter(measurement != "trace") %>% 
-  distinct(measurement,.keep_all = T)
-
-test <- left_join(data_fish, fix_measurement, by = c("measurement", "author"))
-
-test %>% mutate(delete = as.numeric(measurement)) %>% 
-  mutate(measurement = case_when(is.na(delete) ~ how_to_fix, TRUE ~ measurement)) %>% 
-  mutate(delete = as.numeric(measurement)) %>% 
-  filter(is.na(delete)) %>% filter(!is.na(measurement)) %>% select(measurement, fish_id, author, delete, citation.x) %>% 
-  filter(measurement != "trace") %>% 
-  distinct(measurement,.keep_all = T) %>% View()
-
-
-
 
 
 
