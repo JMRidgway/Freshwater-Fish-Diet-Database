@@ -48,7 +48,7 @@ unique(sort(data_fish$fish_family)) # 7154 NAs
 unique(sort(data_fish$fish_class)) #7154 NAs
 unique(sort(data_fish$fish_order)) #7154 NAs
 unique(sort(data_fish$fish_superclass)) #22019 NAs
-unique(sort(data_fish$correction_mult)) #check with Jacob. what is this?
+unique(sort(data_fish$correction_mult)) #deleted - (8/5/2020)
 unique(sort(data_fish$new_min)) #deleted
 unique(sort(data_fish$new_max)) #deleted
 unique(sort(data_fish$new_average)) #deleted
