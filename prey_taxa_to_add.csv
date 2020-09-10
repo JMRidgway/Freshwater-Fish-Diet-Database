@@ -1,5 +1,2 @@
-prey_kingdom_add,prey_class_add,prey_order_add,prey_family_add,prey_taxon
-Animalia,Insecta,Hemiptera,,hoinoptera
-Animalia,Insecta,Hemiptera,,homoptera
-Animalia,Insecta,Diptera,,brachycera
-,,,,chaleidinidae
+"prey_kingdom_add","prey_class_add","prey_order_add","prey_family_add","prey_taxon"
+"Animalia","Insecta","Hemiptera",NA,"homoptera unidentified_adults"
