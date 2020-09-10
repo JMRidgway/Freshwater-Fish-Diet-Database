@@ -1,145 +1,4 @@
-prey_kingdom_add,prey_phylum,prey_subphylum,prey_superclass,prey_class_add,prey_subclass,prey_order_add,prey_family_add,prey_species,
-Animalia,,,Osteichthyes,,,,,,fish eggs
-Animalia,,,Osteichthyes,,,,,,other fish
-Animalia,,,Osteichthyes,,,,,,unidentified fish
-Animalia,,,Osteichthyes,,,,,,fish egg
-Animalia,,,Osteichthyes,,,,,,fish young
-Animalia,,,Osteichthyes,,,,,,fish fesh
-Animalia,,,Osteichthyes,,,,,,sm whole_fish
-Animalia,,,Osteichthyes,,,,,,fish flesh
-Animalia,,,Osteichthyes,,,,,,fish remains
-Animalia,,,Osteichthyes,,,,,,fish fins
-Animalia,,,Osteichthyes,,,,,,fish fns
-Animalia,,,Osteichthyes,,,,,,fish roe
-Animalia,,,Osteichthyes,,,,,,fish remain
-Animalia,,,Osteichthyes,,,,,,fish fry
-Animalia,,,Osteichthyes,,,,,Galaxius maculatus,fish galaxias_maculatus_juvenile
-Animalia,,,Osteichthyes,,,,,,small fish
-Animalia,,,Osteichthyes,,,,,,fish scale
-Animalia,,,Osteichthyes,,,,,,fish and_frogs
-Animalia,,,Osteichthyes,,,,,,fish pieces
-Animalia,,,Osteichthyes,,,,,,fish parts
-Animalia,,,Osteichthyes,,,,,,fish u
-Animalia,,,Osteichthyes,,,,,,fish scales
-Animalia,,,Osteichthyes,,,,,,parts of_fishes
-Animalia,,,,,,,,,molluscs fish_oligochaeta
-Animalia,,,Osteichthyes,Actinopterygii,,Siluriformes,,,catfish fry
-Animalia,,,,Malacostraca,,Decapoda,,,crayfish prawn
-Animalia,,,Osteichthyes,,,,,,fish larvae
-Animalia,,,Osteichthyes,,,,,,fish remains_sc_ales_bones_eggs_etc
-Animalia,,,Osteichthyes,Actinopterygii,,Cyprinodontiformes,,,killifish
-Animalia,,,Osteichthyes,,,,,,miscellaneous fish_larvae
-Animalia,,,Osteichthyes,,,,,,unidentifed fish
-Animalia,,,Osteichthyes,,,,,,fish bait
-Animalia,,,Osteichthyes,,,,,,fish bone
-Animalia,,,Osteichthyes,,,,,,fish flesh_fragments
-Animalia,,,Osteichthyes,,,,,,fish unidentified
-Animalia,,,Osteichthyes,,,,,,other fishb
-Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Scianidae,Plagioscion squamosissimus,plagioscion squamosissimus_fish_fry
-Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Centrarchidae,Lepomis auritus,redbreast sunfish
-Animalia,,,,Malacostraca,,Decapoda,,,crayfishes
-Animalia,,,Osteichthyes,Characiformes,,,,,fish characiformes
-,,,,,,,,,fish eggs_and_plant_material
-Animalia,,,Osteichthyes,,,,,,fish muscle
-Animalia,,,Osteichthyes,,,,,,fish vertebrae
-,,,,,,,,,miscellaneous fish_eggs_and_plant_remains
-Animalia,,,Osteichthyes,,,,,,whole fish
-Animalia,,,Osteichthyes,,,,,,fish and_fish_remains
-Animalia,,,Osteichthyes,,,,,,fish larva
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomids
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus eggs
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupae_and_larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chirononus larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Stictochironomus sp.,stictochironomus
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus egg
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironormus pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid adult
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupal_skins
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid tube_remains
-Animalia,,,,Insecta,,Diptera,Chironomidae,Endochironomus sp.,endochironomous
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironormis pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,adult chironomid
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomidac larvae_and_pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomidade larvae_and_pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus sp
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomini n_det
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomous larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomous pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Cryptochironomus sp.,cryptochironomus
-Animalia,,,,Insecta,,Diptera,Chironomidae,Cryptochironomus sp.,cryptochironomus sp_larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Endochironomus sp.,endochironomus
-Animalia,,,,Insecta,,Diptera,Chironomidae,Goeldochironomus sp.,goeldichironomus sp_larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Psectrochironomus sp.,psectrochironomus
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironamus modestus_pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid larva
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus modestus,chironomus modestus_larvae
-Animalia,,,,Insecta,,,,,aquatic insects
-Animalia,,,,Insecta,,,,,terrestrial insects
-Animalia,,,,Insecta,,,,,insect larvae
-Animalia,,,,Insecta,,,,,other insects
-Animalia,,,,Insecta,,,,,insect eggs
-Animalia,,,,Insecta,,,,,fragments of_insects
-Animalia,,,,Insecta,,,,,terr insecta
-Animalia,,,,Insecta,,,,,other aquatic_insects
-Animalia,,,,Insecta,,,,,fragment of_adult_insects
-Animalia,,,,Insecta,,,,,insects larvae_fragments
-Animalia,,,,Insecta,,,,,unidentified insects
-Animalia,,,,Insecta,,,,,insect
-Animalia,,,,Insecta,,,,,insect parts
-Animalia,,,,Insecta,,,,,misc aq_insecta
-Animalia,,,,Insecta,,,,,terrestrial insecta
-Animalia,,,,Insecta,,,,,emerging aquatic_insects
-Animalia,,,,Insecta,,,,,insect remain
-Animalia,,,,Insecta,,,,,others insects_aquatic
-Animalia,,,,Insecta,,,,,others insects_terrestrial
-Animalia,,,,Insecta,,,,,insect remains
-Animalia,,,,Insecta,,,,,insect legs
-Animalia,,,,Insecta,,,,,insect organs
-Animalia,,,,Insecta,,,,,small insect
-Animalia,,,,Insecta,,,,,jawed insects
-Animalia,,,,Insecta,,,,,aerial insects
-Animalia,,,,Insecta,,,,,amphibious insects_postlarval_stages
-Animalia,,,,Insecta,,,,,terrestrial insects_and_spiders
-Animalia,,,,Insecta,,,,,insect appendages
-Animalia,,,,Insecta,,,,,miscellaneous insecta
-Animalia,,,,Insecta,,,,,unidentifable insects
-Animalia,,,,Insecta,,,,,unident insects
-Animalia,,,,Insecta,,,,,terrestrial insectsb
-Animalia,,,,Insecta,,,,,unidentified insect_35
-Animalia,,,,Insecta,,,,,insect fragments
-Animalia,,,,Insecta,,,,,insect parts_and_remains
-Animalia,,,,Insecta,,,,,insecta larvae
-Animalia,,,,Insecta,,,,,unidentifed insecta
-Animalia,,,,Insecta,,,,,unidentified terrestrial_insects
-Animalia,,,,Insecta,,,,,other insecta
-Animalia,,,,Insecta,,,,,other insectb
-Animalia,,,,Insecta,,,,,restos de_insectos
-Animalia,,,,Insecta,,,,,unidentified insect
-Animalia,,,,Insecta,,,,,unidentified insect_46
-Animalia,,,,Insecta,,,,,unidentified insect_56
-Animalia,,,,Insecta,,,,,fragments of_aquatic_insects
-Animalia,,,,Insecta,,,,,insect pupae
-Animalia,,,,Insecta,,,,,insecta adult
-Animalia,,,,Insecta,,,,,insecta adults
-Animalia,,,,Insecta,,,,,insects eggs
-Animalia,,,,Insecta,,,,,insects pupae
-Animalia,,,,Insecta,,,,,insects remains
-Animalia,,,,Insecta,,,,,misc aqautic_insects
-Animalia,,,,Insecta,,,,,misc terrestrial_insects
-Animalia,,,,Insecta,,,,,miscellaneous insect
-Animalia,,,,Insecta,,,,,other insect_adult
-Animalia,,,,Insecta,,,,,other insect_larvae
-Animalia,,,,Insecta,,,,,remnants of_insects
-Animalia,,,,Insecta,,,,,unidentifed insects
-Animalia,,,,Insecta,,,,,unidentified insect_adult
-Animalia,,,,Insecta,,,,,unidentified insecta_adults
-Animalia,,,,Insecta,,,,,aquatic immature_insects
-Animalia,,,,Insecta,,,,,insecteggs
+prey_kingdom_add,prey_phylum,prey_subphylum,prey_superclass,prey_class_add,prey_subclass,prey_order_add,prey_family_add,prey_species,prey_taxon
 ,,,,,,,,,a aquaticus
 Animalia,,,,Insecta,,Diptera,Chironomidae,Ablabesmyia sp.,ablabesmyia
 Animalia,,,,Insecta,,Diptera,Chironomidae,Ablabesmyia sp.,ablabesmyia sp
@@ -158,8 +17,10 @@ Plantae,,,,Zygnemophyceae,,Desmidiales,Desmidiaceae,Actinotaenium sp.,actinotaen
 Animalia,,,,Insecta,,Coleoptera,Coccinellidae,Adalia bipunctata,adalia bipunctata
 Animalia,,,,Insecta,,Hymenoptera,Andrenidae,Andrena,adrena sp
 ,,,,,,,,,adult
+Animalia,,,,Insecta,,Diptera,Chironomidae,,adult chironomid
 Animalia,,,,Insecta,,Coleoptera,,,adult coleoptera
 Animalia,,,,Insecta,,Diptera,Scathophagidae,Aecothea sp.,aecothea sp
+Animalia,,,,Insecta,,,,,aerial insects
 Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,afronurus
 ,,,,,,,,,agabus bipustulatus_adult
@@ -187,6 +48,7 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,amnicola
 ,,,,,,,,,amphibians
 ,,,,,,,,,amphibians frogs_or_toads
+Animalia,,,,Insecta,,,,,amphibious insects_postlarval_stages
 ,,,,,,,,,amphicampa sp
 ,,,,,,,,,amphinemura
 ,,,,,,,,,amphinemura sulcicollis
@@ -221,14 +83,16 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,aprionyx peterseni
 ,,,,,,,,,aptania larvae
 ,,,,,,,,,aptania pupae
-,,,,,,,,,aquatic coleoptera
-,,,,,,,,,aquatic diptera
-,,,,,,,,,aquatic hemiptera
-,,,,,,,,,aquatic higher_plants
-,,,,,,,,,aquatic invertebrates_u
-,,,,,,,,,aquatic lepidoptera
-,,,,,,,,,aquatic nymphs
-,,,,,,,,,aquatic plants
+Animalia,Arthropoda,,,Insecta,,Coleoptera,,,aquatic coleoptera
+Animalia,Arthropoda,,,Insecta,,Diptera,,,aquatic diptera
+Animalia,Arthropoda,,,Insecta,,Hemiptera,,,aquatic hemiptera
+Plantae,,,,,,,,,aquatic higher_plants
+Animalia,,,,Insecta,,,,,aquatic immature_insects
+Animalia,,,,Insecta,,,,,aquatic insects
+Animalia,Arthropoda,,,,,,,,aquatic invertebrates_u
+Animalia,Arthropoda,,,Insecta,,Lepidoptera,,,aquatic lepidoptera
+Animalia,Arthropoda,,,Insecta,,,,,aquatic nymphs
+Plantae,,,,,,,,,aquatic plants
 ,,,,,,,,,aquatic vegetation
 ,,,,,,,,,arachnida araneae
 ,,,,,,,,,aranea 49
@@ -278,26 +142,26 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,barbus sp
 ,,,,,,,,,barbus spp
 ,,,,,,,,,barcheek goby_ctenogobius_giurinus_rutter_gobiidae
-,,,,,,,,,bass
-,,,,,,,,,beetle
-,,,,,,,,,beetle larvae
-,,,,,,,,,benthic crustacea
+Animalia,,,Osteichthyes,,,Perciformes,,,bass
+Animalia,Arthropoda,,,Insecta,,Coleoptera,,,beetle
+Animalia,Arthropoda,,,Insecta,,Coleoptera,,,beetle larvae
+Animalia,Arthropoda,Crustacea,,,,,,,benthic crustacea
 ,,,,,,,,,benthos
 ,,,,,,,,,bezzia
 ,,,,,,,,,bidessus sp_adult
-,,,,,,,,,bighead aristichthys_nobilis_richardson_cyprinidae
+Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Aristichthys nobilis,bighead aristichthys_nobilis_richardson_cyprinidae
 ,,,,,,,,,bird remains
 ,,,,,,,,,bitterling rhodeus_sinensis_gunther_cyprinidae
 ,,,,,,,,,bivalva
 ,,,,,,,,,bivalve
 ,,,,,,,,,bivalves
-,,,,,,,,,black carp_mylopharyngodon_piceus_richardson_cyprinidae
+Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Mylopharyngodon piceus,black carp_mylopharyngodon_piceus_richardson_cyprinidae
 ,,,,,,,,,blasturus nebulosus_newt
 ,,,,,,,,,bloater
 ,,,,,,,,,blue algae
 ,,,,,,,,,bluegill
 ,,,,,,,,,bluehead sucker
-,,,,,,,,,bluntnose bream_megalobrama_amblycephala_yih_cyprinidae
+Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Megalobrama amblycephala,bluntnose bream_megalobrama_amblycephala_yih_cyprinidae
 ,,,,,,,,,boleosoma nigrum
 ,,,,,,,,,bombus
 ,,,,,,,,,bony herring
@@ -324,13 +188,13 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,c africana
 ,,,,,,,,,c cornutus
 ,,,,,,,,,c mossambicensis
-,,,,,,,,,caddis larvae
-,,,,,,,,,caddisfles
-,,,,,,,,,caddisflies
-,,,,,,,,,caddisfly
-,,,,,,,,,caddisfly adult
-,,,,,,,,,caddisfly larvae
-,,,,,,,,,caddisfly pupae
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddis larvae
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfles
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisflies
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly adult
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly larvae
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly pupae
 ,,,,,,,,,caelifara
 ,,,,,,,,,calanoida
 ,,,,,,,,,calanoida fragments
@@ -360,6 +224,7 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,caridinia
 ,,,,,,,,,cariodaphnia sp
 ,,,,,,,,,castanophlebia
+Animalia,,,Osteichthyes,Actinopterygii,,Siluriformes,,,catfish fry
 ,,,,,,,,,catostomus cominersonii
 ,,,,,,,,,centipedes
 ,,,,,,,,,centritractus sp
@@ -389,6 +254,30 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,chiloglanis
 ,,,,,,,,,chimarra
 ,,,,,,,,,chimarrha aterrima_larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironamus modestus_pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid adult
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid larva
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupae_and_larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupal_skins
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid tube_remains
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomidac larvae_and_pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomidade larvae_and_pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomids
+Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomini n_det
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomous larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomous pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus egg
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus eggs
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus modestus,chironomus modestus_larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus sp
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chirononus larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironormis pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironormus pupae
 ,,,,,,,,,chlamydomyxa sp
 ,,,,,,,,,chlorangium sp
 ,,,,,,,,,chloroperla sp
@@ -432,17 +321,17 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,coleopterd
 ,,,,,,,,,coloburiscus humeralls
 ,,,,,,,,,colonial algae
-,,,,,,,,,comely shiner
-,,,,,,,,,common carp
-,,,,,,,,,copepod nauplii
-,,,,,,,,,copepoda adult
-,,,,,,,,,copepoda calanoida
-,,,,,,,,,copepoda cyclops_sp
-,,,,,,,,,copepoda harpacticoida
-,,,,,,,,,copepoda larvae
-,,,,,,,,,copepoda nauplii
-,,,,,,,,,copepods 46
-,,,,,,,,,copepods 48
+Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Notropis amoenus,comely shiner
+Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Cyprinus carpio,common carp
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepod nauplii
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepoda adult
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,Calanoida,,,copepoda calanoida
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,Cyclopoida,Cyclopidae,Cyclops sp.,copepoda cyclops_sp
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,Harpacticoida,,,copepoda harpacticoida
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepoda larvae
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepoda nauplii
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepods 46
+Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepods 48
 ,,,,,,,,,corbicula
 ,,,,,,,,,corbicula manilensis
 ,,,,,,,,,corbicula spp
@@ -472,6 +361,8 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,crangon franciscorum
 ,,,,,,,,,crangon spp
 ,,,,,,,,,cratichneumonina
+Animalia,,,,Malacostraca,,Decapoda,,,crayfish prawn
+Animalia,,,,Malacostraca,,Decapoda,,,crayfishes
 ,,,,,,,,,crayfsh
 ,,,,,,,,,crayfsh cambarus
 ,,,,,,,,,crayfshes
@@ -480,13 +371,15 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,cricotopus sp
 ,,,,,,,,,crinurina sp
 ,,,,,,,,,crucian carp_carassius_auratus_linnaeus_cyprinidae
-,,,,,,,,,crustacea gammarus
-,,,,,,,,,crustacea unidentifed
-,,,,,,,,,crustacean appendages
-,,,,,,,,,crustacean eggs
-,,,,,,,,,crustacean larvae
-,,,,,,,,,crustacean remains
-,,,,,,,,,crustaceans
+Animalia,Arthropoda,Crustacea,,,,,,,crustacea gammarus
+Animalia,Arthropoda,Crustacea,,,,,,,crustacea unidentifed
+Animalia,Arthropoda,Crustacea,,,,,,,crustacean appendages
+Animalia,Arthropoda,Crustacea,,,,,,,crustacean eggs
+Animalia,Arthropoda,Crustacea,,,,,,,crustacean larvae
+Animalia,Arthropoda,Crustacea,,,,,,,crustacean remains
+Animalia,Arthropoda,Crustacea,,,,,,,crustaceans
+Animalia,,,,Insecta,,Diptera,Chironomidae,Cryptochironomus sp.,cryptochironomus
+Animalia,,,,Insecta,,Diptera,Chironomidae,Cryptochironomus sp.,cryptochironomus sp_larvae
 ,,,,,,,,,culicid larvae
 ,,,,,,,,,culicides sp
 ,,,,,,,,,cumacea
@@ -507,12 +400,12 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,cymbella sp
 ,,,,,,,,,cypridopsis
 ,,,,,,,,,cyprinus carpio
-,,,,,,,,,damsel fly_nymph
-,,,,,,,,,damsel fly_nymphs
-,,,,,,,,,damselfly imagoes
-,,,,,,,,,damselfly newt
-,,,,,,,,,damselfly nymph
-,,,,,,,,,damselfly nymphs
+Animalia,Arthropoda,,,Insecta,,Odonata,,,damsel fly_nymph
+Animalia,Arthropoda,,,Insecta,,Odonata,,,damsel fly_nymphs
+Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly imagoes
+Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly newt
+Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly nymph
+Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly nymphs
 ,,,,,,,,,daphnia
 ,,,,,,,,,daphnia longispina
 ,,,,,,,,,daphnia retrocurva
@@ -558,11 +451,11 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,dicrotendipes sp_2
 ,,,,,,,,,difflugia sp
 ,,,,,,,,,digested food
-,,,,,,,,,dipteran larvae
-,,,,,,,,,dipterans
-,,,,,,,,,dipterans larvae
-,,,,,,,,,diptere
-,,,,,,,,,dipterian nymphs
+Animalia,Arthropoda,,,Insecta,,Diptera,,,dipteran larvae
+Animalia,Arthropoda,,,Insecta,,Diptera,,,dipterans
+Animalia,Arthropoda,,,Insecta,,Diptera,,,dipterans larvae
+Animalia,Arthropoda,,,Insecta,,Diptera,,,diptere
+Animalia,Arthropoda,,,Insecta,,Diptera,,,dipterian nymphs
 ,,,,,,,,,disparalona rostrata
 ,,,,,,,,,diura sp
 ,,,,,,,,,diverse
@@ -572,20 +465,20 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,dolophilodes
 ,,,,,,,,,dorosoma cepedianum
 ,,,,,,,,,dosmina sp
-,,,,,,,,,dragon fly
-,,,,,,,,,dragon fly_adult
-,,,,,,,,,dragon fly_nymph
-,,,,,,,,,dragonfly imagoes
-,,,,,,,,,dragonfly newt
-,,,,,,,,,dragonfly nymph
-,,,,,,,,,dragonfly nymphs
+Animalia,Arthropoda,,,Insecta,,Odonata,,,dragon fly
+Animalia,Arthropoda,,,Insecta,,Odonata,,,dragon fly_adult
+Animalia,Arthropoda,,,Insecta,,Odonata,,,dragon fly_nymph
+Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly imagoes
+Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly newt
+Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly nymph
+Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly nymphs
 ,,,,,,,,,dreissena polymorpha
 ,,,,,,,,,dreissena spp
 ,,,,,,,,,dromaelus sp
 ,,,,,,,,,drosophila
 ,,,,,,,,,duckweed
-,,,,,,,,,earth worm
-,,,,,,,,,earthworms
+Animalia,Annelida,,,Clitellata,Oligochata,Opisthopora,,,earth worm
+Animalia,Annelida,,,Clitellata,Oligochata,Opisthopora,,,earthworms
 ,,,,,,,,,eastrum sp
 ,,,,,,,,,ecdyonurus
 ,,,,,,,,,echinolaena inflexa_seeds_leaf_stalk
@@ -602,8 +495,11 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,elporia
 ,,,,,,,,,emergent 37
 ,,,,,,,,,emergent 44
+Animalia,,,,Insecta,,,,,emerging aquatic_insects
 ,,,,,,,,,empty_space
 ,,,,,,,,,emycercus lamellatus
+Animalia,,,,Insecta,,Diptera,Chironomidae,Endochironomus sp.,endochironomous
+Animalia,,,,Insecta,,Diptera,Chironomidae,Endochironomus sp.,endochironomus
 ,,,,,,,,,engraulis mordax
 ,,,,,,,,,enicospilus sp
 ,,,,,,,,,entire fsh
@@ -631,7 +527,7 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,epiphanes sp
 ,,,,,,,,,erglypha sp
 ,,,,,,,,,esolus
-,,,,,,,,,esox lucius
+Animalia,Chordata,,,Actinopterygii,,Esociformes,Esocidae,Esox lucius,esox lucius
 ,,,,,,,,,etheostoma spp
 ,,,,,,,,,ettrycercus sp
 ,,,,,,,,,euastrum sp
@@ -648,67 +544,101 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,eurycercus lamellatus
 ,,,,,,,,,eurycercus sp
 ,,,,,,,,,eurycerus sp
-,,,,,,,,,exos lucius
+Animalia,Chordata,,,Actinopterygii,,Esociformes,Esocidae,Esox lucius,exos lucius
 ,,,,,,,,,exuviae
 ,,,,,,,,,fantail darter
-,,,,,,,,,feathers
-,,,,,,,,,filament algae
-,,,,,,,,,filamentous algae
+Animalia,Chordata,,,Aves,,,,,feathers
+Plantae,,,,,,,,,filament algae
+Plantae,,,,,,,,,filamentous algae
 ,,,,,,,,,fine sediment
-,,,,,,,,,fins
+Animalia,Chordata,,Osteichthyes,,,,,,fins
+Animalia,,,Osteichthyes,,,,,,fish and_fish_remains
+Animalia,,,Osteichthyes,,,,,,fish and_frogs
+Animalia,,,Osteichthyes,,,,,,fish bait
+Animalia,,,Osteichthyes,,,,,,fish bone
+Animalia,,,Osteichthyes,Characiformes,,,,,fish characiformes
+Animalia,,,Osteichthyes,,,,,,fish egg
+Animalia,,,Osteichthyes,,,,,,fish eggs
+,,,,,,,,,fish eggs_and_plant_material
+Animalia,,,Osteichthyes,,,,,,fish fesh
+Animalia,,,Osteichthyes,,,,,,fish fins
+Animalia,,,Osteichthyes,,,,,,fish flesh
+Animalia,,,Osteichthyes,,,,,,fish flesh_fragments
+Animalia,,,Osteichthyes,,,,,,fish fns
+Animalia,,,Osteichthyes,,,,,,fish fry
+Animalia,,,Osteichthyes,,,,,Galaxius maculatus,fish galaxias_maculatus_juvenile
+Animalia,,,Osteichthyes,,,,,,fish larva
+Animalia,,,Osteichthyes,,,,,,fish larvae
+Animalia,,,Osteichthyes,,,,,,fish muscle
+Animalia,,,Osteichthyes,,,,,,fish parts
+Animalia,,,Osteichthyes,,,,,,fish pieces
+Animalia,,,Osteichthyes,,,,,,fish remain
+Animalia,,,Osteichthyes,,,,,,fish remains
+Animalia,,,Osteichthyes,,,,,,fish remains_sc_ales_bones_eggs_etc
+Animalia,,,Osteichthyes,,,,,,fish roe
+Animalia,,,Osteichthyes,,,,,,fish scale
+Animalia,,,Osteichthyes,,,,,,fish scales
+Animalia,,,Osteichthyes,,,,,,fish u
+Animalia,,,Osteichthyes,,,,,,fish unidentified
+Animalia,,,Osteichthyes,,,,,,fish vertebrae
+Animalia,,,Osteichthyes,,,,,,fish young
 ,,,,,,,,,flathead gudgeon
 ,,,,,,,,,flydracarina
 ,,,,,,,,,forcipomyia
 ,,,,,,,,,formica
 ,,,,,,,,,formicide
-,,,,,,,,,forminadea coleoptera
+Animalia,,,,Insecta,,Coleoptera,,,forminadea coleoptera
 ,,,,,,,,,fpom
-,,,,,,,,,fragilaria
-,,,,,,,,,fragilaria sp
-,,,,,,,,,fragilaria_sp_1_150_<U+00B5>m
-,,,,,,,,,fragilaria_sp_2_8_<U+00B5>m_215_<U+00B5>m
-,,,,,,,,,fragilaria_sp_3_8_320_<U+00B5>m
-,,,,,,,,,fragilaria_sp_4_10_<U+00B5>m_200_250_<U+00B5>m
-,,,,,,,,,fragilaria_sp_5_400_<U+00B5>m
-,,,,,,,,,fragilaria_sp_6_370_500_<U+00B5>m
-,,,,,,,,,fragment crustacean
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria sp
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_1_150_<U+00B5>m
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_2_8_<U+00B5>m_215_<U+00B5>m
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_3_8_320_<U+00B5>m
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_4_10_<U+00B5>m_200_250_<U+00B5>m
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_5_400_<U+00B5>m
+,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_6_370_500_<U+00B5>m
+Animalia,Arthropoda,Crustacea,,,,,,,fragment crustacean
+Animalia,,,,Insecta,,,,,fragment of_adult_insects
 ,,,,,,,,,fragments
-,,,,,,,,,freshwater drum
-,,,,,,,,,frog
-,,,,,,,,,frog tadpole
-,,,,,,,,,frogs
+Animalia,,,,Insecta,,,,,fragments of_aquatic_insects
+Animalia,,,,Insecta,,,,,fragments of_insects
+Animalia,Chordata,,Osteichthyes,,,Perciformes,Sciaenidae,Aplodinotus grunniens,freshwater drum
+Animalia,Chordata,,,Amphibia,,Anura,,,frog
+Animalia,Chordata,,,Amphibia,,Anura,,,frog tadpole
+Animalia,Chordata,,,Amphibia,,Anura,,,frogs
 ,,,,,,,,,frontonia sp
-,,,,,,,,,fruits and_seeds
+Plantae,,,,,,,,,fruits and_seeds
 ,,,,,,,,,frustulia sp
 ,,,,,,,,,fundulus kansae
-,,,,,,,,,fungus
-,,,,,,,,,g pulex
+Fungi,,,,,,,,,fungus
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus pulex,g pulex
 ,,,,,,,,,gambusia
 ,,,,,,,,,gambusia sp
-,,,,,,,,,gamerus
-,,,,,,,,,gammaridean amphipods
-,,,,,,,,,gammarids
-,,,,,,,,,gammarua
-,,,,,,,,,gammarus aequicauda
-,,,,,,,,,gammarus lacustris
-,,,,,,,,,gammarus pulex
-,,,,,,,,,gammarus sp
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gamerus
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammaridean amphipods
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammarids
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammarua
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus aequicauda,gammarus aequicauda
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus lacustris,gammarus lacustris
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus pulex,gammarus pulex
+Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammarus sp
 ,,,,,,,,,gamphonema sp
 ,,,,,,,,,gamules and_spiricles
 ,,,,,,,,,gasteropoda
 ,,,,,,,,,gasterosteus
 ,,,,,,,,,gasterosteus aculeatus
-,,,,,,,,,gastropod
-,,,,,,,,,gastropoda hydrobiidae
-,,,,,,,,,gatropods
+Animalia,Mollusca,,,Gastropoda,,,,,gastropod
+Animalia,Mollusca,,,Gastropoda,,Littorinimorpha,Hydrobiidae,,gastropoda hydrobiidae
+Animalia,Mollusca,,,Gastropoda,,,,,gatropods
 ,,,,,,,,,gecko
-,,,,,,,,,gelatinous egg_cases
-,,,,,,,,,gizzard shad
+Animalia,,,,,,,,,gelatinous egg_cases
+Animalia,Chordata,,Osteichthyes,,,Clupeiformes,Clupeidae,Dorosoma cepedianum,gizzard shad
 ,,,,,,,,,gleotrichia
 ,,,,,,,,,glossosoma sp
 ,,,,,,,,,glyptotendipes
 ,,,,,,,,,gnorimosphaeroma oregonensis
 ,,,,,,,,,gobiid larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Goeldochironomus sp.,goeldichironomus sp_larvae
 ,,,,,,,,,gomphonema sp
 ,,,,,,,,,gomphosphaeria
 ,,,,,,,,,gonatozygon sp
@@ -717,7 +647,7 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,graecoanatolica sp
 ,,,,,,,,,grains wheat
 ,,,,,,,,,grass
-,,,,,,,,,grass carp_ctenopharyngodon_idellus_cuvier_and_valenciennes_cyprinidae
+Animalia,Chordata,,Osteichthyes,,,Cypriniformes,Cyprinidae,Ctenopharyngodon idellus,grass carp_ctenopharyngodon_idellus_cuvier_and_valenciennes_cyprinidae
 ,,,,,,,,,grasses
 ,,,,,,,,,grasshopper legs
 ,,,,,,,,,green algae
@@ -753,8 +683,8 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,heterotr cladius_larvae
 ,,,,,,,,,hexagenia
 ,,,,,,,,,hexagenia nymphs
-,,,,,,,,,higher plant_parts
-,,,,,,,,,higher plants
+Plantae,,,,,,,,,higher plant_parts
+Plantae,,,,,,,,,higher plants
 ,,,,,,,,,hirudinea
 ,,,,,,,,,hirundinea
 ,,,,,,,,,ho opedium
@@ -793,6 +723,26 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,inland silverside
 ,,,,,,,,,inorganic_material
 ,,,,,,,,,inorganic_matter
+Animalia,,,,Insecta,,,,,insect
+Animalia,,,,Insecta,,,,,insect appendages
+Animalia,,,,Insecta,,,,,insect eggs
+Animalia,,,,Insecta,,,,,insect fragments
+Animalia,,,,Insecta,,,,,insect larvae
+Animalia,,,,Insecta,,,,,insect legs
+Animalia,,,,Insecta,,,,,insect organs
+Animalia,,,,Insecta,,,,,insect parts
+Animalia,,,,Insecta,,,,,insect parts_and_remains
+Animalia,,,,Insecta,,,,,insect pupae
+Animalia,,,,Insecta,,,,,insect remain
+Animalia,,,,Insecta,,,,,insect remains
+Animalia,,,,Insecta,,,,,insecta adult
+Animalia,,,,Insecta,,,,,insecta adults
+Animalia,,,,Insecta,,,,,insecta larvae
+Animalia,,,,Insecta,,,,,insecteggs
+Animalia,,,,Insecta,,,,,insects eggs
+Animalia,,,,Insecta,,,,,insects larvae_fragments
+Animalia,,,,Insecta,,,,,insects pupae
+Animalia,,,,Insecta,,,,,insects remains
 ,,,,,,,,,invertebrate
 ,,,,,,,,,invertebrate eggs
 ,,,,,,,,,ion girostris
@@ -802,37 +752,39 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,isoperla
 ,,,,,,,,,isoperla grammatica
 ,,,,,,,,,isoperla sp
-,,,,,,,,,isopod
-,,,,,,,,,isopods
+Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,isopod
+Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,isopods
+Animalia,,,,Insecta,,,,,jawed insects
 ,,,,,,,,,johnnie darter
 ,,,,,,,,,keratella sp
 ,,,,,,,,,kerattela sp
 ,,,,,,,,,keretella
+Animalia,,,Osteichthyes,Actinopterygii,,Cyprinodontiformes,,,killifish
 ,,,,,,,,,kirchneriella sp
 ,,,,,,,,,l fortunei
 ,,,,,,,,,l natalensis
 ,,,,,,,,,labidognatha
 ,,,,,,,,,labiobaetis
 ,,,,,,,,,lacustris
-,,,,,,,,,lagoon goby
-,,,,,,,,,lake trout
+Animalia,Chordata,,Osteichthyes,,,Perciformes,Gobiidae,Tasmanogobius lasti,lagoon goby
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus namaycush,lake trout
 ,,,,,,,,,lamellibranchs
-,,,,,,,,,large pennate_diatom
-,,,,,,,,,large white_diptera_larvae
-,,,,,,,,,larval coleoptera
+,Ocrophyta,,,Bacillariophyceae,,,,,large pennate_diatom
+Animalia,Arthropoda,,,Insecta,,Diptera,,,large white_diptera_larvae
+Animalia,Arthropoda,,,Insecta,,Coleoptera,,,larval coleoptera
 ,,,,,,,,,lates
 ,,,,,,,,,lecane
 ,,,,,,,,,lecane sp
-,,,,,,,,,leech
-,,,,,,,,,leeches
+Animalea,Annelida,,,Clitellata,,Hirudinea,,,leech
+Animalea,Annelida,,,Clitellata,,Hirudinea,,,leeches
 ,,,,,,,,,Leopardfrogs
 ,,,,,,,,,lepidurus
 ,,,,,,,,,lepomis humilis
 ,,,,,,,,,lepomis macrochirus
 ,,,,,,,,,lepomis spp
-,,,,,,,,,leptocerue larvae
-,,,,,,,,,leptocerus
-,,,,,,,,,leptocerus sp
+Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Leptocerus sp.,leptocerue larvae
+Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Leptocerus sp.,leptocerus
+Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Leptocerus sp.,leptocerus sp
 ,,,,,,,,,leptodora
 ,,,,,,,,,leptodora kindtii
 ,,,,,,,,,leptophlebia
@@ -850,8 +802,8 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,limnophora
 ,,,,,,,,,lithogloea harrisoni
 ,,,,,,,,,lithoglyphys virens
-,,,,,,,,,lnsecta
-,,,,,,,,,log perch
+Animalia,Arthropoda,,,Insecta,,,,,lnsecta
+Animalia,Chordata,,Osteichthyes,,,Perciformes,Percidae,Percina sp.,log perch
 ,,,,,,,,,longirostris
 ,,,,,,,,,lota lota
 ,,,,,,,,,lsonychia nymphs
@@ -867,22 +819,22 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,macrobrachium
 ,,,,,,,,,macrobrachium sp_crustacea
 ,,,,,,,,,macrocrustacea
-,,,,,,,,,macronhyte fruits
-,,,,,,,,,macrophyte fruits
+Plantae,,,,,,,,,macronhyte fruits
+Plantae,,,,,,,,,macrophyte fruits
 ,,,,,,,,,macrothrix
 ,,,,,,,,,macrovatellus sp
 ,,,,,,,,,malacostraca
-,,,,,,,,,mammals
+Animalia,Chordata,,,Mammalia,,,,,mammals
 ,,,,,,,,,marcusenius macrolepidotus
-,,,,,,,,,margined madtom
-,,,,,,,,,material vegetal
-,,,,,,,,,may fly
-,,,,,,,,,may fly_larvae
-,,,,,,,,,may fy
-,,,,,,,,,mayfies
-,,,,,,,,,mayflies
-,,,,,,,,,mayfly newt
-,,,,,,,,,mayfly nymph
+Animalia,Chordata,,Osteichthyes,,,Siluriformes,Ictaluridae,Noturs insignis,margined madtom
+Plantae,,,,,,,,,material vegetal
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,may fly
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,may fly_larvae
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,may fy
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayfies
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayflies
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayfly newt
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayfly nymph
 ,,,,,,,,,melanoides
 ,,,,,,,,,melosira sd
 ,,,,,,,,,melosira sp
@@ -892,46 +844,54 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,mesochra rapines
 ,,,,,,,,,mesocyclops
 ,,,,,,,,,mesocyclops sp
-,,,,,,,,,mice
+Animalia,Chordata,,,Mammalia,,Rodentia,,,mice
 ,,,,,,,,,micrasterias sp
-,,,,,,,,,micro crustacea
-,,,,,,,,,microcrustacea
-,,,,,,,,,microcrustaceans
-,,,,,,,,,microcustaceans
+Animalia,Arthropoda,Crustacea,,,,,,,micro crustacea
+Animalia,Arthropoda,Crustacea,,,,,,,microcrustacea
+Animalia,Arthropoda,Crustacea,,,,,,,microcrustaceans
+Animalia,Arthropoda,Crustacea,,,,,,,microcustaceans
 ,,,,,,,,,microcystis sp
 ,,,,,,,,,micropsectra
 ,,,,,,,,,micropterus dolomieu_eggs
 ,,,,,,,,,microspora sp
 ,,,,,,,,,microtendipes
 ,,,,,,,,,microvelia
-,,,,,,,,,midge larvae
-,,,,,,,,,midge pupa
+Animalia,Arthropoda,,,Insecta,,Odonata,Chironomidae,,midge larvae
+Animalia,Arthropoda,,,Insecta,,Odonata,Chironomidae,,midge pupa
 ,,,,,,,,,millipedes
 ,,,,,,,,,mineral
-,,,,,,,,,minnow pseudorasbora_parva_temminck_and_schlegel_cyprinidae
-,,,,,,,,,minnows
+Animalia,Chordata,,Osteichthyes,,,Cypriniformes,Cyprinidae,Pseudorasbora parva,minnow pseudorasbora_parva_temminck_and_schlegel_cyprinidae
+Animalia,Chordata,,Osteichthyes,,,,,,minnows
 ,,,,,,,,,misc
 ,,,,,,,,,misc adults
-,,,,,,,,,misc zygoptera
+Animalia,,,,Insecta,,,,,misc aq_insecta
+Animalia,,,,Insecta,,,,,misc aqautic_insects
+Animalia,,,,Insecta,,,,,misc terrestrial_insects
+Animalia,Arthropoda,,,Insecta,,Odonata,,,misc zygoptera
 ,,,,,,,,,miscellaneous
 ,,,,,,,,,miscellaneous 31
 ,,,,,,,,,miscellaneous 35
 ,,,,,,,,,miscellaneous 36
 ,,,,,,,,,miscellaneous 40
 ,,,,,,,,,miscellaneous adult
+,,,,,,,,,miscellaneous fish_eggs_and_plant_remains
+Animalia,,,Osteichthyes,,,,,,miscellaneous fish_larvae
+Animalia,,,,Insecta,,,,,miscellaneous insect
+Animalia,,,,Insecta,,,,,miscellaneous insecta
 ,,,,,,,,,miscellaneous nonaquatic_adult
 ,,,,,,,,,miscellaneous plant_material
-,,,,,,,,,miscellaneous pupae
+Animalia,Arthropoda,,,Insecta,,,,,miscellaneous pupae
 ,,,,,,,,,miscellaneousc
 ,,,,,,,,,mites
 ,,,,,,,,,mn_remains
 ,,,,,,,,,moina
-,,,,,,,,,mol iusca
-,,,,,,,,,mollusc
-,,,,,,,,,mollusc remains_shells
-,,,,,,,,,molluska
-,,,,,,,,,mollusks
-,,,,,,,,,molusc
+Animalia,Mollusca,,,,,,,,mol iusca
+Animalia,Mollusca,,,,,,,,mollusc
+Animalia,Mollusca,,,,,,,,mollusc remains_shells
+Animalia,,,,,,,,,molluscs fish_oligochaeta
+Animalia,Mollusca,,,,,,,,molluska
+Animalia,Mollusca,,,,,,,,mollusks
+Animalia,Mollusca,,,,,,,,molusc
 ,,,,,,,,,monocorophium sp
 ,,,,,,,,,monopterus albus
 ,,,,,,,,,monospilus dispar
@@ -973,8 +933,8 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,nereis diversicolor
 ,,,,,,,,,nesameletus ornatus
 ,,,,,,,,,neuplius
-,,,,,,,,,nitzchia sp
-,,,,,,,,,nitzschia sp
+,Ochrophyta,,,Bacillariophyceae,,Bacillariales,Bacillariaceae,Nitzschia sp.,nitzchia sp
+,Ochrophyta,,,Bacillariophyceae,,Bacillariales,Bacillariaceae,Nitzschia sp.,nitzschia sp
 ,,,,,,,,,non dreissenid_bivalves
 ,,,,,,,,,northern snakehead_channa_argus_cantor_channidae
 ,,,,,,,,,nostoc sp
@@ -988,28 +948,28 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,notropis lutrensis
 ,,,,,,,,,notropis spp
 ,,,,,,,,,nymphs
-,,,,,,,,,odonata adult
-,,,,,,,,,odonata aquatic
-,,,,,,,,,odonata larva
-,,,,,,,,,odonata larvae
-,,,,,,,,,odonata nymph
-,,,,,,,,,odonata nymphs
-,,,,,,,,,odonata nymphs_fragments
-,,,,,,,,,odonata onychogomphus_forcipatus
-,,,,,,,,,odonata remains
-,,,,,,,,,odonata unidentified
-,,,,,,,,,odonata unidentified_32
-,,,,,,,,,odonata unidentified_53
-,,,,,,,,,odonatan nymph
-,,,,,,,,,odonatans
-,,,,,,,,,odonate
+Animalia,,,,Insecta,,Odonata,,,odonata adult
+Animalia,,,,Insecta,,Odonata,,,odonata aquatic
+Animalia,,,,Insecta,,Odonata,,,odonata larva
+Animalia,,,,Insecta,,Odonata,,,odonata larvae
+Animalia,,,,Insecta,,Odonata,,,odonata nymph
+Animalia,,,,Insecta,,Odonata,,,odonata nymphs
+Animalia,,,,Insecta,,Odonata,,,odonata nymphs_fragments
+Animalia,,,,Insecta,,Odonata,Gomphidae,Onychogomphus forcipatus,odonata onychogomphus_forcipatus
+Animalia,,,,Insecta,,Odonata,,,odonata remains
+Animalia,,,,Insecta,,Odonata,,,odonata unidentified
+Animalia,,,,Insecta,,Odonata,,,odonata unidentified_32
+Animalia,,,,Insecta,,Odonata,,,odonata unidentified_53
+Animalia,,,,Insecta,,Odonata,,,odonatan nymph
+Animalia,,,,Insecta,,Odonata,,,odonatans
+Animalia,,,,Insecta,,Odonata,,,odonate
 ,,,,,,,,,oedogonium sp
 ,,,,,,,,,oligocephalus exilis
-,,,,,,,,,oligocha eta
-,,,,,,,,,oligochaete
-,,,,,,,,,oligochaetea
-,,,,,,,,,oligochaetes
-,,,,,,,,,oligocheata
+Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligocha eta
+Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligochaete
+Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligochaetea
+Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligochaetes
+Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligocheata
 ,,,,,,,,,olinga feredayi
 ,,,,,,,,,ontscigaster wakefeldi
 ,,,,,,,,,oocystis
@@ -1027,53 +987,63 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,organic_matter_not_identified
 ,,,,,,,,,oribatei
 ,,,,,,,,,orsodacne atra
-,,,,,,,,,orthocladius
-,,,,,,,,,orthocladius adult
-,,,,,,,,,orthocladius larvae
-,,,,,,,,,orthocladius pupae
-,,,,,,,,,orthocladius pupae_33
-,,,,,,,,,orthocladius pupae_34
-,,,,,,,,,orthocladius sp
+Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius
+Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius adult
+Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius larvae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius pupae
+Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius pupae_33
+Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius pupae_34
+Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius sp
 ,,,,,,,,,orthotrichia
 ,,,,,,,,,oscillatoria
 ,,,,,,,,,oscillatoria sp
 ,,,,,,,,,oscillatoria spp
-,,,,,,,,,osteichthyes
-,,,,,,,,,osteichthyes eggs
-,,,,,,,,,osteichthyes fry
+Animalia,Chordata,Actinopterygii,,Osteichthyes,,,,,osteichthyes
+Animalia,Chordata,Actinopterygii,,Osteichthyes,,,,,osteichthyes eggs
+Animalia,Chordata,Actinopterygii,,Osteichthyes,,,,,osteichthyes fry
 ,,,,,,,,,ostracod
 ,,,,,,,,,other
 ,,,,,,,,,Other
 ,,,,,,,,,other 32
 ,,,,,,,,,other 38
-,,,,,,,,,other algae
-,,,,,,,,,other annelids
+Plantae,,,,,,,,,other algae
+Animalia,Annelida,,,,,,,,other annelids
 ,,,,,,,,,other aquatic
 ,,,,,,,,,other aquatic_fauna
-,,,,,,,,,other aquatic_invertebratec
-,,,,,,,,,other aquatic_invertebrates
-,,,,,,,,,other cladocera
-,,,,,,,,,other coleoptera
-,,,,,,,,,other crustacea
-,,,,,,,,,other crustaceaa
-,,,,,,,,,other crustaceab
-,,,,,,,,,other diatoms
-,,,,,,,,,other diptera
-,,,,,,,,,other diptera_aq_stages
-,,,,,,,,,other diptera_larvae
-,,,,,,,,,other ephemeroptera
-,,,,,,,,,other gastropoda
-,,,,,,,,,other gastropods
-,,,,,,,,,other invertebrates
-,,,,,,,,,other inverts
-,,,,,,,,,other macrophyte
-,,,,,,,,,other malacostracans
+Animalia,,,,Insecta,,,,,other aquatic_insects
+Animalia,Arthropoda,,,,,,,,other aquatic_invertebratec
+Animalia,Arthropoda,,,,,,,,other aquatic_invertebrates
+Animalia,Arthropoda,,,Branchipoda,,Cladocera,,,other cladocera
+Animalia,Arthropoda,,,Insecta,,Coleoptera,,,other coleoptera
+Animalia,Arthropoda,Crustaceae,,,,,,,other crustacea
+Animalia,Arthropoda,Crustaceae,,,,,,,other crustaceaa
+Animalia,Arthropoda,Crustaceae,,,,,,,other crustaceab
+,Ochrophyta,,,Bacillariophyceae,,,,,other diatoms
+Animalia,Arthropoda,,,Insecta,,Diptera,,,other diptera
+Animalia,Arthropoda,,,Insecta,,Diptera,,,other diptera_aq_stages
+Animalia,Arthropoda,,,Insecta,,Diptera,,,other diptera_larvae
+Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,other ephemeroptera
+Animalia,,,Osteichthyes,,,,,,other fish
+Animalia,,,Osteichthyes,,,,,,other fishb
+Animalia,Arthropoda,,,Gastropoda,,,,,other gastropoda
+Animalia,Arthropoda,,,Gastropoda,,,,,other gastropods
+Animalia,,,,Insecta,,,,,other insect_adult
+Animalia,,,,Insecta,,,,,other insect_larvae
+Animalia,,,,Insecta,,,,,other insecta
+Animalia,,,,Insecta,,,,,other insectb
+Animalia,,,,Insecta,,,,,other insects
+Animalia,Arthropoda,,,,,,,,other invertebrates
+Animalia,Arthropoda,,,,,,,,other inverts
+Plantae,,,,,,,,,other macrophyte
+Animalia,,,,Malacostraca,,,,,other malacostracans
 ,,,,,,,,,other prey
 ,,,,,,,,,other surface
-,,,,,,,,,other terrestrial_diptera
-,,,,,,,,,other terrestrial_hymenoptera
-,,,,,,,,,others invert
-,,,,,,,,,otoliths
+Animalia,Arthropoda,,,Insecta,,Diptera,,,other terrestrial_diptera
+Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,other terrestrial_hymenoptera
+Animalia,,,,Insecta,,,,,others insects_aquatic
+Animalia,,,,Insecta,,,,,others insects_terrestrial
+Animalia,Arthropoda,,,,,,,,others invert
+Animalia,Chordata,Actinopterygii,,,,,,,otoliths
 ,,,,,,,,,oxycerini
 ,,,,,,,,,oxyethira sagittifera
 ,,,,,,,,,oxytorus sp
@@ -1095,6 +1065,7 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,parts of
 ,,,,,,,,,parts of_44
 ,,,,,,,,,parts of_47
+Animalia,,,Osteichthyes,,,,,,parts of_fishes
 ,,,,,,,,,pediastrum sp
 ,,,,,,,,,pennales
 ,,,,,,,,,pentaneura
@@ -1128,29 +1099,30 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,pisidium
 ,,,,,,,,,pisidium amnicum
 ,,,,,,,,,pisidium spp
-,,,,,,,,,plankton
-,,,,,,,,,plankton 25
-,,,,,,,,,plankton 26
-,,,,,,,,,planktonic algae
-,,,,,,,,,planktonic crustacea
+Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Scianidae,Plagioscion squamosissimus,plagioscion squamosissimus_fish_fry
+Plantae,,,,,,,,,plankton
+Plantae,,,,,,,,,plankton 25
+Plantae,,,,,,,,,plankton 26
+Plantae,,,,,,,,,planktonic algae
+Animalia,Arthropoda,Crustacea,,,,,,,planktonic crustacea
 ,,,,,,,,,planorbis
-,,,,,,,,,plant
-,,,,,,,,,plant debris
-,,,,,,,,,plant detritus
-,,,,,,,,,plant fragments
-,,,,,,,,,plant leaves
-,,,,,,,,,plant materia
-,,,,,,,,,plant material
-,,,,,,,,,plant material_algae_etc
-,,,,,,,,,plant material_gall
-,,,,,,,,,plant materials
-,,,,,,,,,plant matter
-,,,,,,,,,plant matter_unidentified
-,,,,,,,,,plant parts
-,,,,,,,,,plant remains
-,,,,,,,,,plant seeds
-,,,,,,,,,plant tissue
-,,,,,,,,,plant tissues
+Plantae,,,,,,,,,plant
+Plantae,,,,,,,,,plant debris
+Plantae,,,,,,,,,plant detritus
+Plantae,,,,,,,,,plant fragments
+Plantae,,,,,,,,,plant leaves
+Plantae,,,,,,,,,plant materia
+Plantae,,,,,,,,,plant material
+Plantae,,,,,,,,,plant material_algae_etc
+Plantae,,,,,,,,,plant material_gall
+Plantae,,,,,,,,,plant materials
+Plantae,,,,,,,,,plant matter
+Plantae,,,,,,,,,plant matter_unidentified
+Plantae,,,,,,,,,plant parts
+Plantae,,,,,,,,,plant remains
+Plantae,,,,,,,,,plant seeds
+Plantae,,,,,,,,,plant tissue
+Plantae,,,,,,,,,plant tissues
 ,,,,,,,,,platyabini
 ,,,,,,,,,platyhelminthes
 ,,,,,,,,,pleurotaenium
@@ -1190,11 +1162,12 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,protococcus sp
 ,,,,,,,,,protonemura
 ,,,,,,,,,protonemura meyeri
-,,,,,,,,,protozoa and_rotifera
+Animalia,Rotifera,,,,,,,,protozoa and_rotifera
 ,,,,,,,,,protozoa lorica
 ,,,,,,,,,protozoans
 ,,,,,,,,,protozoans testacea
 ,,,,,,,,,protracheoniscus occidentalis
+Animalia,,,,Insecta,,Diptera,Chironomidae,Psectrochironomus sp.,psectrochironomus
 ,,,,,,,,,pseudagrion
 ,,,,,,,,,pseudochydorus globosus
 ,,,,,,,,,pseudodiamesa larvae
@@ -1207,10 +1180,13 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,pygmaea
 ,,,,,,,,,rainbow smelt
 ,,,,,,,,,rastrineobola
+Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Centrarchidae,Lepomis auritus,redbreast sunfish
 ,,,,,,,,,redfin culter_culter_alburnus_basilewsky_cyprinidae
 ,,,,,,,,,redfin perch
 ,,,,,,,,,remain
 ,,,,,,,,,remains
+Animalia,,,,Insecta,,,,,remnants of_insects
+Animalia,,,,Insecta,,,,,restos de_insectos
 ,,,,,,,,,rhaphidolabis sp_larvae
 ,,,,,,,,,rhinichthys atratulus_meleagris
 ,,,,,,,,,rhithrogena
@@ -1223,40 +1199,40 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,rhyacophila sp
 ,,,,,,,,,rhyacophilia sp
 ,,,,,,,,,rice shrimp_neocaridina_denticulata_kemp_atyidae
-,,,,,,,,,riffle beetle_l_coleoptera
-,,,,,,,,,rivularia sp
-,,,,,,,,,rock bass
+Animalia,Arthropoda,,,Insecta,,Coleoptera,Elmidae,,riffle beetle_l_coleoptera
+,Cyanobacteria,,,Cyanophyceae,,Nostocales,Rivulariaceae,Rivularia sp.,rivularia sp
+Animalia,Chordata,,Osteichthyes,,,Perciformes,Centrachidae,Ambloplites rupestris,rock bass
 ,,,,,,,,,rocks
-,,,,,,,,,rodents
+Animalea,Chordata,,,Mammalia,,Rodentia,,,rodents
 ,,,,,,,,,roots
-,,,,,,,,,rotaria sp
-,,,,,,,,,rotatoria
-,,,,,,,,,rotifere
-,,,,,,,,,rotifers
-,,,,,,,,,round goby
+Animalia,Rotifera,,,Bdelloidea,,,Philodinidae,Rotaria sp.,rotaria sp
+Animalia,Rotifera,,,,,,,,rotatoria
+Animalia,Rotifera,,,,,,,,rotifere
+Animalia,Rotifera,,,,,,,,rotifers
+Animalia,Chordata,,Osteichthyes,,,Gobiiformes,Gobiidae,Neogobius melanostomus,round goby
 ,,,,,,,,,round worms
 ,,,,,,,,,ryacophila
-,,,,,,,,,s araneida
-,,,,,,,,,s coleoptera
-,,,,,,,,,s diplopoda
-,,,,,,,,,s diptera
-,,,,,,,,,s hemiptera
-,,,,,,,,,s hymenoptera
-,,,,,,,,,s isopoda
-,,,,,,,,,s lepidoptera
-,,,,,,,,,s mollusca
-,,,,,,,,,s oligochaeta
-,,,,,,,,,s plecoptera
-,,,,,,,,,s trichoptera
+Animalia,Arthropoda,,,Arachnida,,Araneae,,,s araneida
+Animalia,Arthropoda,,,Insecta,,Coleoptera,,,s coleoptera
+Animalia,Arthropoda,,,Diplopoda,,,,,s diplopoda
+Animalia,Arthropoda,,,Insecta,,Diptera,,,s diptera
+Animalia,Arthropoda,,,Insecta,,Hemiptera,,,s hemiptera
+Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,s hymenoptera
+Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,s isopoda
+Animalia,Arthropoda,,,Insecta,,Lepidoptera,,,s lepidoptera
+Animalia,Mollusca,,,,,,,,s mollusca
+Animalia,Annelida,,,Clitellata,Oligochaeta,,,,s oligochaeta
+Animalia,Arthropoda,,,Insecta,,Plecoptera,,,s plecoptera
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,s trichoptera
 ,,,,,,,,,saduria entomon
 ,,,,,,,,,salamander
-,,,,,,,,,salarvaevelinus
-,,,,,,,,,salmo trutta
-,,,,,,,,,salmon
-,,,,,,,,,salmonid eggs
-,,,,,,,,,salvelinus
-,,,,,,,,,salvelinus namaycush
-,,,,,,,,,salyelinus
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus sp.,salarvaevelinus
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salmo trutta,salmo trutta
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,,salmon
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,,salmonid eggs
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus sp.,salvelinus
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus namaycush,salvelinus namaycush
+Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus sp.,salyelinus
 ,,,,,,,,,sand
 ,,,,,,,,,sand bottom_deposits_and_organic_debris
 ,,,,,,,,,sand grain
@@ -1294,30 +1270,33 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,silt
 ,,,,,,,,,silt and_sand
 ,,,,,,,,,silt_biofilm
-,,,,,,,,,siluriformes
-,,,,,,,,,siluriforms
-,,,,,,,,,silver carp_hypophthalmichthys_molitrix_cuvier_and_valenciennes_cyprinidae
+Animalia,Chordata,,Osteichthyes,,,Siluriformes,,,siluriformes
+Animalia,Chordata,,Osteichthyes,,,Siluriformes,,,siluriforms
+Animalia,Chordata,,Osteichthyes,,,Cypriniformes,Cyprinidae,Hypophthalmichthys molitrix,silver carp_hypophthalmichthys_molitrix_cuvier_and_valenciennes_cyprinidae
 ,,,,,,,,,simocephahts
-,,,,,,,,,simulium
-,,,,,,,,,simulium metomphalus_sp
-,,,,,,,,,simulium metomphalus_vorax
-,,,,,,,,,simulium sp
-,,,,,,,,,simulium venustum_larvae
-,,,,,,,,,sintulium imagines
-,,,,,,,,,sintulium larvae
-,,,,,,,,,sintulium pupae
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium metomphalus_sp
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium metomphalus_vorax
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium sp
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium venustum_larvae
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,sintulium imagines
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,sintulium larvae
+Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,sintulium pupae
 ,,,,,,,,,sinudium
 ,,,,,,,,,sisyra
 ,,,,,,,,,skwala sp
-,,,,,,,,,sm whole_fsh
-,,,,,,,,,small characidae
-,,,,,,,,,small crab
-,,,,,,,,,small crustaceans
-,,,,,,,,,small fsh
-,,,,,,,,,small green_diptera_larvae
+Animalia,,,Osteichthyes,,,,,,sm whole_fish
+Animalia,Chordata,,Osteichthyes,,,,,,sm whole_fsh
+Animalia,Chordata,,Osteichthyes,,,Characiformes,Characidae,,small characidae
+Animalia,Arthropoda,Crustacea,,,,Decapoda,,,small crab
+Animalia,Arthropoda,Crustacea,,,,,,,small crustaceans
+Animalia,,,Osteichthyes,,,,,,small fish
+Animalia,Chordata,,Osteichthyes,,,,,,small fsh
+Animalia,Arthropoda,,,Insecta,,Diptera,,,small green_diptera_larvae
+Animalia,,,,Insecta,,,,,small insect
 ,,,,,,,,,small pennate_diatom
-,,,,,,,,,smallmouth bass
-,,,,,,,,,smallmouth hardyhead
+Animalia,Chordata,,Osteichthyes,,,Perciformes,Centrarchidae,Micropterus dolomieu,smallmouth bass
+Animalia,Chordata,,Osteichthyes,,,Atheriniformes,Atherinidae,Atherinosoma microstoma,smallmouth hardyhead
 ,,,,,,,,,smelt
 ,,,,,,,,,snail
 ,,,,,,,,,snails
@@ -1349,9 +1328,10 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,stenotrachelus sp
 ,,,,,,,,,stephanodiscus sp
 ,,,,,,,,,stickleback
-,,,,,,,,,stonefies
-,,,,,,,,,stoneflies
-,,,,,,,,,stonefly newt
+Animalia,,,,Insecta,,Diptera,Chironomidae,Stictochironomus sp.,stictochironomus
+Animalia,Arthropoda,,,Insecta,,Plecoptera,,,stonefies
+Animalia,Arthropoda,,,Insecta,,Plecoptera,,,stoneflies
+Animalia,Arthropoda,,,Insecta,,Plecoptera,,,stonefly newt
 ,,,,,,,,,stones
 ,,,,,,,,,sunfsh
 ,,,,,,,,,superior vegetables
@@ -1371,8 +1351,8 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,tabellaria sp_31
 ,,,,,,,,,tabellaria sp_41
 ,,,,,,,,,table_2_continued
-,,,,,,,,,tadpole
-,,,,,,,,,tamar river_goby
+Animalia,Chordata,,,Amphibia,,,,,tadpole
+Animalia,Chordata,,Osteichthyes,,,Perciformes,Gobiidae,Afurcagobius tamarensis,tamar river_goby
 ,,,,,,,,,tanaidacea leptochelia_sp
 ,,,,,,,,,tanaidacea sinelobus_sp
 ,,,,,,,,,tanytarsini n_det
@@ -1387,6 +1367,7 @@ Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
 ,,,,,,,,,teleostomi
 ,,,,,,,,,tenagomysis
 ,,,,,,,,,termocyclops sp
+Animalia,,,,Insecta,,,,,terr insecta
 ,,,,,,,,,terrestrial
 Animalia,Arthropoda,,,Insecta,,Hymenoptera,Formicidae,,terrestrial anta
 Animalia,Arthropoda,,,Insecta,,Hymenoptera,Formicidae,,terrestrial ants
@@ -1400,13 +1381,17 @@ Animalia,Arthropoda,,,Insecta,,,,,terrestrial dragonflies
 Animalia,Arthropoda,,,Insecta,,,,,terrestrial hemiptera
 Animalia,Arthropoda,,,Insecta,,,,,terrestrial homoptera
 Animalia,Arthropoda,,,Insecta,,,,,terrestrial hornoptera
+Animalia,,,,Insecta,,,,,terrestrial insecta
+Animalia,,,,Insecta,,,,,terrestrial insects
+Animalia,,,,Insecta,,,,,terrestrial insects_and_spiders
+Animalia,,,,Insecta,,,,,terrestrial insectsb
 Animalia,Arthropoda,,,,,,,,terrestrial invertebrates
 Animalia,Arthropoda,,,Insecta,,,,,terrestrial lepidoptera
 Animalia,Arthropoda,,,Insecta,,,,,terrestrial neuroptera
 Plantae,,,,,,,,,terrestrial plants
 ,,,,,,,,,terrestrial prey
 Animalia,Arthropoda,,,Gastropoda,,,,,terrestrial snails
-Animalea,Chordata,Vertebrata,,,,,,,terrestrial vertebrates
+Animalia,Chordata,Vertebrata,,,,,,,terrestrial vertebrates
 ,,,,,,,,,testudinella
 ,,,,,,,,,testudinella clypeata
 ,,,,,,,,,tetrix ornata
@@ -1425,45 +1410,50 @@ Animalea,Chordata,Vertebrata,,,,,,,terrestrial vertebrates
 ,,,,,,,,,tipula
 ,,,,,,,,,tipula sp_larvae
 ,,,,,,,,,tisbe longicornis
-,,,,,,,,,tree bark_leaves_roots
+Plantae,,,,,,,,,tree bark_leaves_roots
 ,,,,,,,,,trematoda
 ,,,,,,,,,tribonema sp
 ,,,,,,,,,trichocerca
 ,,,,,,,,,trichocladius
-,,,,,,,,,trichoptcra larvae
-,,,,,,,,,trichopterans
-,,,,,,,,,trichopterus
-,,,,,,,,,triplectides obsolete
-,,,,,,,,,tubifex
-,,,,,,,,,turbellaria
-,,,,,,,,,turtle
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,trichoptcra larvae
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,trichopterans
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,trichopterus
+Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Triplctides obsolete,triplectides obsolete
+Animalia,Annelida,,,Clitellata,,Oligochaeta,Naididae,Tubifex sp.,tubifex
+Animalea,Platyhelminthes,,,Turbellaria,,,,,turbellaria
+Animalia,Chordata,,,Reptilia,,Testudines,,,turtle
 ,,,,,,,,,u pygmaea
-,,,,,,,,,uknown oligochaeta
-,,,,,,,,,ulothrix sp
-,,,,,,,,,unicellular algae
-,,,,,,,,,unid acari
-,,,,,,,,,unid crustacea
-,,,,,,,,,unid hymenoptera_adult
-,,,,,,,,,unid ostracoda
-,,,,,,,,,unidentifable fsh_tissue
-,,,,,,,,,"Unidentifable
+Animalia,Annelida,,,Clitellata,Oligochaeta,,,,uknown oligochaeta
+Plantae,Chlorophyta,,,Ulvophyceae,,Ulotrichales,Ulotrichaceae,Ulothrix sp.,ulothrix sp
+Plantae,,,,,,,,,unicellular algae
+Animalia,Arthropoda,,,Arachnida,Acari,,,,unid acari
+Animalia,Arthropoda,Crustacea,,,,,,,unid crustacea
+Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,unid hymenoptera_adult
+Animalia,Arthropoda,Crustacea,,Ostracoda,,,,,unid ostracoda
+Animalia,,,,Insecta,,,,,unident insects
+Animalia,,,Osteichthyes,,,,,,unidentifable fsh_tissue
+Animalia,,,,Insecta,,,,,unidentifable insects
+Animalia,,,Osteichthyes,,,,,,"Unidentifable
 fshremains"
 Animalia,,,,Arachnida,,Araneae,,,unidentifed araneae
 Animalia,,,,Actinopterygii,,Cichliformes,Cichlidae,,unidentifed cichlidae
 Animalia,,,,Insecta,,Coleoptera,,,unidentifed coleoptera
-Animalia,,,,,,,,,unidentifed crustaceans
+Animalia,Arthropoda,Crustacea,,,,,,,unidentifed crustaceans
 Animalia,,,,Actinopterygii,,Cypriniformes,,,unidentifed cypriniformes
-,,,,,,Diptera,,,unidentifed diptera
+Animalia,Arthropoda,,,Insecta,,Diptera,,,unidentifed diptera
+Animalia,,,Osteichthyes,,,,,,unidentifed fish
 Animalia,,,Osteichthyes,,,,,,unidentifed fshes
-,,,,Gastropoda,,,,,unidentifed gastropoda
-,,,,Hemiptera,,,,,unidentifed hemiptera
-,,,,Hymenoptera,,,,,unidentifed hymenoptera
+Animalia,Arthropoda,,,Gastropoda,,,,,unidentifed gastropoda
+Animalia,Arthropoda,,,Insecta,,Hemiptera,,,unidentifed hemiptera
+Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,unidentifed hymenoptera
+Animalia,Arthropoda,,,Insecta,,,,,unidentifed insecta
+Animalia,Arthropoda,,,Insecta,,,,,unidentifed insects
 Animalia,,,,,,,,,unidentifed invertebrates
-,,,,Odonata,,,,,unidentifed odonata
-,,,,Ortoptera,,,,,unidentifed orthoptera
+Animalia,Arthropoda,,,Insecta,,Odonata,,,unidentifed odonata
+Animalia,Arthropoda,,,Insecta,,Ortoptera,,,unidentifed orthoptera
 ,,,,,,,,,unidentifed parts
 ,,,,,,,,,unidentifed remains
-,,,,Trichoptera,,,,,unidentifed trichoptera
+Animalia,Arthropoda,,,Insecta,,Trichoptera,,,unidentifed trichoptera
 ,,,,,,,,,unidentifiable
 ,,,,,,,,,unidentified 25
 ,,,,,,,,,unidentified 34
@@ -1476,17 +1466,25 @@ Animalia,,,,,,,,,unidentifed invertebrates
 ,,,,,,,,,unidentified adult_62
 ,,,,,,,,,unidentified adults
 Plantae,,,,,,,,,unidentified algae
-,,,,,,,Centrarchidae,,unidentified centrachidae
-,,,,,,Coleoptera,,,unidentified coleoptera_adult
+Animalia,Chordata,,Osteichthyes,Actinopterygii,,Perciformes,Centrarchidae,,unidentified centrachidae
+Animalia,Arthropoda,,,Insecta,,Coleoptera,,,unidentified coleoptera_adult
 Animalia,,,,Hexanauplia,Copepoda,,,,unidentified copepods
-,,,,,,,Cyprinidae,,unidentified cyprinidae
+Animalia,Chordata,,Osteichthyes,Actinopterygii,,Cypriniformes,Cyprinidae,,unidentified cyprinidae
 ,,,,,,Decapoda,,,unidentified decapoda
-,,,,,,Diptera,,,unidentified dipterous_adults
+Animalia,Arthropoda,,,Insecta,,Diptera,,,unidentified dipterous_adults
+Animalia,,,Osteichthyes,,,,,,unidentified fish
 ,,,,,,,,,unidentified food
-,,,,,,Hemiptera,,,unidentified hemiptera_adult
+Animalia,Arthropoda,,,Insecta,,Hemiptera,,,unidentified hemiptera_adult
 ,,,,,,Trombidiformes,,,unidentified hydracarina
-,,,,,,Hymenoptera,,,unidentified hymenoptera_adult
-,,,,,,,Icalurida,,unidentified ictaluridae
+Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,unidentified hymenoptera_adult
+Animalia,Chordata,,Osteichthyes,Actinopterygii,,Siluriformes,Ictaluridae,,unidentified ictaluridae
+Animalia,,,,Insecta,,,,,unidentified insect
+Animalia,,,,Insecta,,,,,unidentified insect_35
+Animalia,,,,Insecta,,,,,unidentified insect_46
+Animalia,,,,Insecta,,,,,unidentified insect_56
+Animalia,,,,Insecta,,,,,unidentified insect_adult
+Animalia,,,,Insecta,,,,,unidentified insecta_adults
+Animalia,,,,Insecta,,,,,unidentified insects
 Animalia,Arthropoda,,,,,,,,unidentified invertebrates
 ,,,,,,,,,unidentified items
 ,,,,,,,,,unidentified larva
@@ -1495,14 +1493,15 @@ Animalia,Arthropoda,,,,,,,,unidentified invertebrates
 ,,,,,,,,,unidentified materials
 ,,,,,,,,,unidentified particles
 Plantae,,,,,,,,,unidentified phytoplankton
-,,,Osteichthyes,,,,,,unidentified pisces_remains
+Animalia,Chordata,,Osteichthyes,,,,,,unidentified pisces_remains
 ,,,,,,,,,unidentified plant_animal
-,,,,Insecta,,,,,unidentified pupa
-,,,,,,,,,unidentified pupae
+Animalia,Arthropoda,,,Insecta,,,,,unidentified pupa
+Animalia,Arthropoda,,,Insecta,,,,,unidentified pupae
 ,,,,,,,,,unidentified remains
+Animalia,,,,Insecta,,,,,unidentified terrestrial_insects
 ,,,,,,,,,unknown
-,,,,,,Hemiptera,,,unknown hemiptera
-,,,,,Hirudinea,,,,unknown hirudinae
+Animalia,Arthropoda,,,Insecta,,Hemiptera,,,unknown hemiptera
+Animalia,Annelida,,,Clitellata,Hirudinea,,,,unknown hirudinae
 Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,unknown isopoda
 Animalia,Arthropoda,,,Insecta,,Diptera,,,unkown diptera_larvae
 Animalia,Nematoda,,,,,,,,unown nematoda
@@ -1535,6 +1534,7 @@ Animalia,Arthropoda,,,Insecta,,Coleoptra,,,water beetles_coleoptera
 ,,,,,,,,,water mites
 Animalia,Arthropoda,,,Insecta,,Coleoptra,Gyrinidae,,whirligig beetle
 Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Moronidae,Morone chrysops,white bass
+Animalia,,,Osteichthyes,,,,,,whole fish
 ,,,,,,,,,worms remain
 ,,,,,,,,,x1 mm_organic_debris
 ,,,,,,,,,x1 mm_organic_debris_2
