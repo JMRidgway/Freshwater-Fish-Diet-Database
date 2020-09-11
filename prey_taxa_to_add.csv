@@ -1,518 +1,471 @@
-prey_kingdom_add,prey_phylum_add,prey_subphylum_add,prey_superclass_add,prey_class_add,prey_subclass_add,prey_order_add,prey_family_add,prey_species_add,prey_taxon
-Animalea,Annelida,,,Clitellata,,Hirudinea,,,leech
-Animalea,Annelida,,,Clitellata,,Hirudinea,,,leeches
-Animalea,Chordata,,,Mammalia,,Rodentia,,,rodents
-Animalea,Platyhelminthes,,,Turbellaria,,,,,turbellaria
-Animalia,Annelida,,,Clitellata,Oligochata,Opisthopora,,,earth worm
-Animalia,Annelida,,,Clitellata,Oligochata,Opisthopora,,,earthworms
-Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligocha eta
-Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligochaete
-Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligochaetea
-Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligochaetes
-Animalia,Annelida,,,Clitellata,Oligochaeta,,,,oligocheata
-Animalia,Annelida,,,Clitellata,Oligochaeta,,,,s oligochaeta
-Animalia,Annelida,,,Clitellata,,Oligochaeta,Naididae,Tubifex sp.,tubifex
-Animalia,Annelida,,,Clitellata,Oligochaeta,,,,uknown oligochaeta
-Animalia,Annelida,,,Clitellata,Hirudinea,,,,unknown hirudinae
-Animalia,Annelida,,,,,,,,other annelids
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus pulex,g pulex
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gamerus
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammaridean amphipods
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammarids
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammarua
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus aequicauda,gammarus aequicauda
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus lacustris,gammarus lacustris
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus pulex,gammarus pulex
-Animalia,Arthropoda,Crustacea,,Malacostraca,,Amphipoda,Gammaridae,Gammarus sp.,gammarus sp
-Animalia,Arthropoda,Crustacea,,Ostracoda,,,,,unid ostracoda
-Animalia,Arthropoda,Crustacea,,,,,,,benthic crustacea
-Animalia,Arthropoda,Crustacea,,,,,,,crustacea gammarus
-Animalia,Arthropoda,Crustacea,,,,,,,crustacea unidentifed
-Animalia,Arthropoda,Crustacea,,,,,,,crustacean appendages
-Animalia,Arthropoda,Crustacea,,,,,,,crustacean eggs
-Animalia,Arthropoda,Crustacea,,,,,,,crustacean larvae
-Animalia,Arthropoda,Crustacea,,,,,,,crustacean remains
-Animalia,Arthropoda,Crustacea,,,,,,,crustaceans
-Animalia,Arthropoda,Crustacea,,,,,,,fragment crustacean
-Animalia,Arthropoda,Crustacea,,,,,,,micro crustacea
-Animalia,Arthropoda,Crustacea,,,,,,,microcrustacea
-Animalia,Arthropoda,Crustacea,,,,,,,microcrustaceans
-Animalia,Arthropoda,Crustacea,,,,,,,microcustaceans
-Animalia,Arthropoda,Crustacea,,,,,,,planktonic crustacea
-Animalia,Arthropoda,Crustacea,,,,Decapoda,,,small crab
-Animalia,Arthropoda,Crustacea,,,,,,,small crustaceans
-Animalia,Arthropoda,Crustacea,,,,,,,unid crustacea
-Animalia,Arthropoda,Crustacea,,,,,,,unidentifed crustaceans
-Animalia,Arthropoda,Crustaceae,,,,,,,other crustacea
-Animalia,Arthropoda,Crustaceae,,,,,,,other crustaceaa
-Animalia,Arthropoda,Crustaceae,,,,,,,other crustaceab
-Animalia,Arthropoda,,,Arachnida,,Araneae,,,s araneida
-Animalia,Arthropoda,,,Arachnida,,Araneae,,,terrestrial araneae
-Animalia,Arthropoda,,,Arachnida,Acari,,,,unid acari
-Animalia,Arthropoda,,,Branchipoda,,Cladocera,,,other cladocera
-Animalia,Arthropoda,,,Diplopoda,,,,,s diplopoda
-Animalia,Arthropoda,,,Gastropoda,,,,,other gastropoda
-Animalia,Arthropoda,,,Gastropoda,,,,,other gastropods
-Animalia,Arthropoda,,,Gastropoda,,,,,terrestrial snails
-Animalia,Arthropoda,,,Gastropoda,,,,,unidentifed gastropoda
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepod nauplii
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepoda adult
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,Calanoida,,,copepoda calanoida
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,Cyclopoida,Cyclopidae,Cyclops sp.,copepoda cyclops_sp
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,Harpacticoida,,,copepoda harpacticoida
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepoda larvae
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepoda nauplii
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepods 46
-Animalia,Arthropoda,,,Hexanauplia,Copepoda,,,,copepods 48
-Animalia,Arthropoda,,,Insecta,,Coleoptera,,,aquatic coleoptera
-Animalia,Arthropoda,,,Insecta,,Diptera,,,aquatic diptera
-Animalia,Arthropoda,,,Insecta,,Hemiptera,,,aquatic hemiptera
-Animalia,Arthropoda,,,Insecta,,Lepidoptera,,,aquatic lepidoptera
-Animalia,Arthropoda,,,Insecta,,,,,aquatic nymphs
-Animalia,Arthropoda,,,Insecta,,Coleoptera,,,beetle
-Animalia,Arthropoda,,,Insecta,,Coleoptera,,,beetle larvae
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddis larvae
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfles
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisflies
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly adult
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly larvae
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,caddisfly pupae
-Animalia,Arthropoda,,,Insecta,,Odonata,,,damsel fly_nymph
-Animalia,Arthropoda,,,Insecta,,Odonata,,,damsel fly_nymphs
-Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly imagoes
-Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly newt
-Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly nymph
-Animalia,Arthropoda,,,Insecta,,Odonata,,,damselfly nymphs
-Animalia,Arthropoda,,,Insecta,,Diptera,,,dipteran larvae
-Animalia,Arthropoda,,,Insecta,,Diptera,,,dipterans
-Animalia,Arthropoda,,,Insecta,,Diptera,,,dipterans larvae
-Animalia,Arthropoda,,,Insecta,,Diptera,,,diptere
-Animalia,Arthropoda,,,Insecta,,Diptera,,,dipterian nymphs
-Animalia,Arthropoda,,,Insecta,,Odonata,,,dragon fly
-Animalia,Arthropoda,,,Insecta,,Odonata,,,dragon fly_adult
-Animalia,Arthropoda,,,Insecta,,Odonata,,,dragon fly_nymph
-Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly imagoes
-Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly newt
-Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly nymph
-Animalia,Arthropoda,,,Insecta,,Odonata,,,dragonfly nymphs
-Animalia,Arthropoda,,,Insecta,,Diptera,,,large white_diptera_larvae
-Animalia,Arthropoda,,,Insecta,,Coleoptera,,,larval coleoptera
-Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Leptocerus sp.,leptocerue larvae
-Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Leptocerus sp.,leptocerus
-Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Leptocerus sp.,leptocerus sp
-Animalia,Arthropoda,,,Insecta,,,,,lnsecta
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,may fly
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,may fly_larvae
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,may fy
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayfies
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayflies
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayfly newt
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,mayfly nymph
-Animalia,Arthropoda,,,Insecta,,Odonata,Chironomidae,,midge larvae
-Animalia,Arthropoda,,,Insecta,,Odonata,Chironomidae,,midge pupa
-Animalia,Arthropoda,,,Insecta,,Odonata,,,misc zygoptera
-Animalia,Arthropoda,,,Insecta,,,,,miscellaneous pupae
-Animalia,Arthropoda,,,Insecta,,Coleoptera,,,other coleoptera
-Animalia,Arthropoda,,,Insecta,,Diptera,,,other diptera
-Animalia,Arthropoda,,,Insecta,,Diptera,,,other diptera_aq_stages
-Animalia,Arthropoda,,,Insecta,,Diptera,,,other diptera_larvae
-Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,,other ephemeroptera
-Animalia,Arthropoda,,,Insecta,,Diptera,,,other terrestrial_diptera
-Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,other terrestrial_hymenoptera
-Animalia,Arthropoda,,,Insecta,,Coleoptera,Elmidae,,riffle beetle_l_coleoptera
-Animalia,Arthropoda,,,Insecta,,Coleoptera,,,s coleoptera
-Animalia,Arthropoda,,,Insecta,,Diptera,,,s diptera
-Animalia,Arthropoda,,,Insecta,,Hemiptera,,,s hemiptera
-Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,s hymenoptera
-Animalia,Arthropoda,,,Insecta,,Lepidoptera,,,s lepidoptera
-Animalia,Arthropoda,,,Insecta,,Plecoptera,,,s plecoptera
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,s trichoptera
-Animalia,Arthropoda,,,Insecta,,Diptera,,,small green_diptera_larvae
-Animalia,Arthropoda,,,Insecta,,Plecoptera,,,stonefies
-Animalia,Arthropoda,,,Insecta,,Plecoptera,,,stoneflies
-Animalia,Arthropoda,,,Insecta,,Plecoptera,,,stonefly newt
-Animalia,Arthropoda,,,Insecta,,Hymenoptera,Formicidae,,terrestrial anta
-Animalia,Arthropoda,,,Insecta,,Hymenoptera,Formicidae,,terrestrial ants
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial coleoptera
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial damselflies
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial diptera
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial dragonflies
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial hemiptera
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial homoptera
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial hornoptera
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial lepidoptera
-Animalia,Arthropoda,,,Insecta,,,,,terrestrial neuroptera
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,trichoptcra larvae
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,trichopterans
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,trichopterus
-Animalia,Arthropoda,,,Insecta,,Trichoptera,Leptoceridae,Triplctides obsolete,triplectides obsolete
-Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,unid hymenoptera_adult
-Animalia,Arthropoda,,,Insecta,,Diptera,,,unidentifed diptera
-Animalia,Arthropoda,,,Insecta,,Hemiptera,,,unidentifed hemiptera
-Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,unidentifed hymenoptera
-Animalia,Arthropoda,,,Insecta,,,,,unidentifed insecta
-Animalia,Arthropoda,,,Insecta,,,,,unidentifed insects
-Animalia,Arthropoda,,,Insecta,,Odonata,,,unidentifed odonata
-Animalia,Arthropoda,,,Insecta,,Ortoptera,,,unidentifed orthoptera
-Animalia,Arthropoda,,,Insecta,,Trichoptera,,,unidentifed trichoptera
-Animalia,Arthropoda,,,Insecta,,Coleoptera,,,unidentified coleoptera_adult
-Animalia,Arthropoda,,,Insecta,,Diptera,,,unidentified dipterous_adults
-Animalia,Arthropoda,,,Insecta,,Hemiptera,,,unidentified hemiptera_adult
-Animalia,Arthropoda,,,Insecta,,Hymenoptera,,,unidentified hymenoptera_adult
-Animalia,Arthropoda,,,Insecta,,,,,unidentified pupa
-Animalia,Arthropoda,,,Insecta,,,,,unidentified pupae
-Animalia,Arthropoda,,,Insecta,,Hemiptera,,,unknown hemiptera
-Animalia,Arthropoda,,,Insecta,,Diptera,,,unkown diptera_larvae
-Animalia,Arthropoda,,,Insecta,,Coleoptra,,,water beetles_coleoptera
-Animalia,Arthropoda,,,Insecta,,Coleoptra,Gyrinidae,,whirligig beetle
-Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,isopod
-Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,isopods
-Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,s isopoda
-Animalia,Arthropoda,,,Malacostraca,,Isopoda,,,unknown isopoda
-Animalia,Arthropoda,,,,,,,,aquatic invertebrates_u
-Animalia,Arthropoda,,,,,,,,other aquatic_invertebratec
-Animalia,Arthropoda,,,,,,,,other aquatic_invertebrates
-Animalia,Arthropoda,,,,,,,,other invertebrates
-Animalia,Arthropoda,,,,,,,,other inverts
-Animalia,Arthropoda,,,,,,,,others invert
-Animalia,Arthropoda,,,,,,,,terrestrial arthropods
-Animalia,Arthropoda,,,,,,,,terrestrial invertebrates
-Animalia,Arthropoda,,,,,,,,unidentified invertebrates
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium metomphalus_sp
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium metomphalus_vorax
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium sp
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,simulium venustum_larvae
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,sintulium imagines
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,sintulium larvae
-Animalia,Arthropopda,,,Insecta,,Diptera,Simuliidae,Simulium sp.,sintulium pupae
-Animalia,Chordata,Actinopterygii,,Osteichthyes,,,,,osteichthyes
-Animalia,Chordata,Actinopterygii,,Osteichthyes,,,,,osteichthyes eggs
-Animalia,Chordata,Actinopterygii,,Osteichthyes,,,,,osteichthyes fry
-Animalia,Chordata,Actinopterygii,,,,,,,otoliths
-Animalia,Chordata,Vertebrata,,,,,,,terrestrial vertebrates
-Animalia,Chordata,,Osteichthyes,Actinopterygii,,Perciformes,Centrarchidae,,unidentified centrachidae
-Animalia,Chordata,,Osteichthyes,Actinopterygii,,Cypriniformes,Cyprinidae,,unidentified cyprinidae
-Animalia,Chordata,,Osteichthyes,Actinopterygii,,Siluriformes,Ictaluridae,,unidentified ictaluridae
-Animalia,Chordata,,Osteichthyes,,,,,,fins
-Animalia,Chordata,,Osteichthyes,,,Perciformes,Sciaenidae,Aplodinotus grunniens,freshwater drum
-Animalia,Chordata,,Osteichthyes,,,Clupeiformes,Clupeidae,Dorosoma cepedianum,gizzard shad
-Animalia,Chordata,,Osteichthyes,,,Cypriniformes,Cyprinidae,Ctenopharyngodon idellus,grass carp_ctenopharyngodon_idellus_cuvier_and_valenciennes_cyprinidae
-Animalia,Chordata,,Osteichthyes,,,Perciformes,Gobiidae,Tasmanogobius lasti,lagoon goby
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus namaycush,lake trout
-Animalia,Chordata,,Osteichthyes,,,Perciformes,Percidae,Percina sp.,log perch
-Animalia,Chordata,,Osteichthyes,,,Siluriformes,Ictaluridae,Noturs insignis,margined madtom
-Animalia,Chordata,,Osteichthyes,,,Cypriniformes,Cyprinidae,Pseudorasbora parva,minnow pseudorasbora_parva_temminck_and_schlegel_cyprinidae
-Animalia,Chordata,,Osteichthyes,,,,,,minnows
-Animalia,Chordata,,Osteichthyes,,,Perciformes,Centrachidae,Ambloplites rupestris,rock bass
-Animalia,Chordata,,Osteichthyes,,,Gobiiformes,Gobiidae,Neogobius melanostomus,round goby
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus sp.,salarvaevelinus
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salmo trutta,salmo trutta
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,,salmon
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,,salmonid eggs
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus sp.,salvelinus
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus namaycush,salvelinus namaycush
-Animalia,Chordata,,Osteichthyes,,,Salmoniformes,Salmonidae,Salvelinus sp.,salyelinus
-Animalia,Chordata,,Osteichthyes,,,Siluriformes,,,siluriformes
-Animalia,Chordata,,Osteichthyes,,,Siluriformes,,,siluriforms
-Animalia,Chordata,,Osteichthyes,,,Cypriniformes,Cyprinidae,Hypophthalmichthys molitrix,silver carp_hypophthalmichthys_molitrix_cuvier_and_valenciennes_cyprinidae
-Animalia,Chordata,,Osteichthyes,,,,,,sm whole_fsh
-Animalia,Chordata,,Osteichthyes,,,Characiformes,Characidae,,small characidae
-Animalia,Chordata,,Osteichthyes,,,,,,small fsh
-Animalia,Chordata,,Osteichthyes,,,Perciformes,Centrarchidae,Micropterus dolomieu,smallmouth bass
-Animalia,Chordata,,Osteichthyes,,,Atheriniformes,Atherinidae,Atherinosoma microstoma,smallmouth hardyhead
-Animalia,Chordata,,Osteichthyes,,,Perciformes,Gobiidae,Afurcagobius tamarensis,tamar river_goby
-Animalia,Chordata,,Osteichthyes,,,,,,unidentified pisces_remains
-Animalia,Chordata,,,Actinopterygii,,Esociformes,Esocidae,Esox lucius,esox lucius
-Animalia,Chordata,,,Actinopterygii,,Esociformes,Esocidae,Esox lucius,exos lucius
-Animalia,Chordata,,,Amphibia,,Anura,,,frog
-Animalia,Chordata,,,Amphibia,,Anura,,,frog tadpole
-Animalia,Chordata,,,Amphibia,,Anura,,,frogs
-Animalia,Chordata,,,Amphibia,,,,,tadpole
-Animalia,Chordata,,,Aves,,,,,feathers
-Animalia,Chordata,,,Mammalia,,,,,mammals
-Animalia,Chordata,,,Mammalia,,Rodentia,,,mice
-Animalia,Chordata,,,Reptilia,,Testudines,,,turtle
-Animalia,Mollusca,,,Bivalvia,,Myida,Dreissenidae,Dreissena polymorpha,zebra mussels
-Animalia,Mollusca,,,Gastropoda,,,,,gastropod
-Animalia,Mollusca,,,Gastropoda,,Littorinimorpha,Hydrobiidae,,gastropoda hydrobiidae
-Animalia,Mollusca,,,Gastropoda,,,,,gatropods
-Animalia,Mollusca,,,Gastropoda,,,,,veliger
-Animalia,Mollusca,,,Gastropoda,,,,,veliger larvae
-Animalia,Mollusca,,,Gastropoda,,,,,veligers
-Animalia,Mollusca,,,,,,,,mol iusca
-Animalia,Mollusca,,,,,,,,mollusc
-Animalia,Mollusca,,,,,,,,mollusc remains_shells
-Animalia,Mollusca,,,,,,,,molluska
-Animalia,Mollusca,,,,,,,,mollusks
-Animalia,Mollusca,,,,,,,,molusc
-Animalia,Mollusca,,,,,,,,s mollusca
-Animalia,Nematoda,,,,,,,,unown nematoda
-Animalia,Rotifera,,,Bdelloidea,,,Philodinidae,Rotaria sp.,rotaria sp
-Animalia,Rotifera,,,,,,,,protozoa and_rotifera
-Animalia,Rotifera,,,,,,,,rotatoria
-Animalia,Rotifera,,,,,,,,rotifere
-Animalia,Rotifera,,,,,,,,rotifers
-Animalia,,,Osteichthyes,Actinopterygii,,Siluriformes,,,catfish fry
-Animalia,,,Osteichthyes,Actinopterygii,,Cyprinodontiformes,,,killifish
-Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Scianidae,Plagioscion squamosissimus,plagioscion squamosissimus_fish_fry
-Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Centrarchidae,Lepomis auritus,redbreast sunfish
-Animalia,,,Osteichthyes,Actinopterygii,,,,,walleye pike
-Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Moronidae,Morone chrysops,white bass
-Animalia,,,Osteichthyes,Actinopterygii,,Perciformes,Percidae,Perca flavescens,yellow perch
-Animalia,,,Osteichthyes,Characiformes,,,,,fish characiformes
-Animalia,,,Osteichthyes,,,Perciformes,,,bass
-Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Aristichthys nobilis,bighead aristichthys_nobilis_richardson_cyprinidae
-Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Mylopharyngodon piceus,black carp_mylopharyngodon_piceus_richardson_cyprinidae
-Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Megalobrama amblycephala,bluntnose bream_megalobrama_amblycephala_yih_cyprinidae
-Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Notropis amoenus,comely shiner
-Animalia,,,Osteichthyes,,,Cypriniformes,Cyprinidae,Cyprinus carpio,common carp
-Animalia,,,Osteichthyes,,,,,,fish and_fish_remains
-Animalia,,,Osteichthyes,,,,,,fish and_frogs
-Animalia,,,Osteichthyes,,,,,,fish bait
-Animalia,,,Osteichthyes,,,,,,fish bone
-Animalia,,,Osteichthyes,,,,,,fish egg
-Animalia,,,Osteichthyes,,,,,,fish eggs
-Animalia,,,Osteichthyes,,,,,,fish fesh
-Animalia,,,Osteichthyes,,,,,,fish fins
-Animalia,,,Osteichthyes,,,,,,fish flesh
-Animalia,,,Osteichthyes,,,,,,fish flesh_fragments
-Animalia,,,Osteichthyes,,,,,,fish fns
-Animalia,,,Osteichthyes,,,,,,fish fry
-Animalia,,,Osteichthyes,,,,,Galaxius maculatus,fish galaxias_maculatus_juvenile
-Animalia,,,Osteichthyes,,,,,,fish larva
-Animalia,,,Osteichthyes,,,,,,fish larvae
-Animalia,,,Osteichthyes,,,,,,fish muscle
-Animalia,,,Osteichthyes,,,,,,fish parts
-Animalia,,,Osteichthyes,,,,,,fish pieces
-Animalia,,,Osteichthyes,,,,,,fish remain
-Animalia,,,Osteichthyes,,,,,,fish remains
-Animalia,,,Osteichthyes,,,,,,fish remains_sc_ales_bones_eggs_etc
-Animalia,,,Osteichthyes,,,,,,fish roe
-Animalia,,,Osteichthyes,,,,,,fish scale
-Animalia,,,Osteichthyes,,,,,,fish scales
-Animalia,,,Osteichthyes,,,,,,fish u
-Animalia,,,Osteichthyes,,,,,,fish unidentified
-Animalia,,,Osteichthyes,,,,,,fish vertebrae
-Animalia,,,Osteichthyes,,,,,,fish young
-Animalia,,,Osteichthyes,,,,,,miscellaneous fish_larvae
-Animalia,,,Osteichthyes,,,,,,other fish
-Animalia,,,Osteichthyes,,,,,,other fishb
-Animalia,,,Osteichthyes,,,,,,parts of_fishes
-Animalia,,,Osteichthyes,,,,,,sm whole_fish
-Animalia,,,Osteichthyes,,,,,,small fish
-Animalia,,,Osteichthyes,,,,,,unidentifable fsh_tissue
-Animalia,,,Osteichthyes,,,,,,"Unidentifable
-fshremains"
-Animalia,,,Osteichthyes,,,,,,unidentifed fish
-Animalia,,,Osteichthyes,,,,,,unidentifed fshes
-Animalia,,,Osteichthyes,,,,,,unidentified fish
-Animalia,,,Osteichthyes,,,,,,whole fish
-Animalia,,,,Actinopterygii,,Cichliformes,Cichlidae,,unidentifed cichlidae
-Animalia,,,,Actinopterygii,,Cypriniformes,,,unidentifed cypriniformes
-Animalia,,,,Arachnida,,,,,acari
-Animalia,,,,Arachnida,,Trombidiformes,,,acarina hydracarina
-Animalia,,,,Arachnida,,Araneae,,,unidentifed araneae
-Animalia,,,,Branchiopoda,,Anomopoda,Chydoridae,Acroperus sp.,acroperus
-Animalia,,,,Branchiopoda,,Anomopoda,Chydoridae,Acroperus harpae,acroperus harpae
-Animalia,,,,Hexanauplia,Copepoda,,,,unidentified copepods
-Animalia,,,,Insecta,,Diptera,Chironomidae,Ablabesmyia sp.,ablabesmyia
-Animalia,,,,Insecta,,Diptera,Chironomidae,Ablabesmyia sp.,ablabesmyia sp
-Animalia,,,,Insecta,,Diptera,Chironomidae,Ablabesmyia sp.,ablabesmyia sp_larvae
-Animalia,,,,Insecta,,,Perlidae,Acroneuria and Perla sp.,acroneuria and_perla_nymphs
-Animalia,,,,Insecta,,,Perlidae,Acroneuria sp.,acroneuria sp
-Animalia,,,,Insecta,,Coleoptera,Coccinellidae,Adalia bipunctata,adalia bipunctata
-Animalia,,,,Insecta,,Hymenoptera,Andrenidae,Andrena,adrena sp
-Animalia,,,,Insecta,,Diptera,Chironomidae,,adult chironomid
-Animalia,,,,Insecta,,Coleoptera,,,adult coleoptera
-Animalia,,,,Insecta,,Diptera,Scathophagidae,Aecothea sp.,aecothea sp
-Animalia,,,,Insecta,,,,,aerial insects
-Animalia,,,,Insecta,,Odonata,Aeshnidae,Aeshna sp.,aeshna
-Animalia,,,,Insecta,,,,,amphibious insects_postlarval_stages
-Animalia,,,,Insecta,,,,,aquatic immature_insects
-Animalia,,,,Insecta,,,,,aquatic insects
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironamus modestus_pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid adult
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid larva
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupae_and_larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid pupal_skins
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomid tube_remains
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomidac larvae_and_pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomidade larvae_and_pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomids
-Animalia,,,,Insecta,,Diptera,Chironomidae,,chironomini n_det
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomous larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomous pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus egg
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus eggs
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus modestus,chironomus modestus_larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironomus sp
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chirononus larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironormis pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Chironomus sp.,chironormus pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Cryptochironomus sp.,cryptochironomus
-Animalia,,,,Insecta,,Diptera,Chironomidae,Cryptochironomus sp.,cryptochironomus sp_larvae
-Animalia,,,,Insecta,,,,,emerging aquatic_insects
-Animalia,,,,Insecta,,Diptera,Chironomidae,Endochironomus sp.,endochironomous
-Animalia,,,,Insecta,,Diptera,Chironomidae,Endochironomus sp.,endochironomus
-Animalia,,,,Insecta,,Coleoptera,,,forminadea coleoptera
-Animalia,,,,Insecta,,,,,fragment of_adult_insects
-Animalia,,,,Insecta,,,,,fragments of_aquatic_insects
-Animalia,,,,Insecta,,,,,fragments of_insects
-Animalia,,,,Insecta,,Diptera,Chironomidae,Goeldochironomus sp.,goeldichironomus sp_larvae
-Animalia,,,,Insecta,,,,,insect
-Animalia,,,,Insecta,,,,,insect appendages
-Animalia,,,,Insecta,,,,,insect eggs
-Animalia,,,,Insecta,,,,,insect fragments
-Animalia,,,,Insecta,,,,,insect larvae
-Animalia,,,,Insecta,,,,,insect legs
-Animalia,,,,Insecta,,,,,insect organs
-Animalia,,,,Insecta,,,,,insect parts
-Animalia,,,,Insecta,,,,,insect parts_and_remains
-Animalia,,,,Insecta,,,,,insect pupae
-Animalia,,,,Insecta,,,,,insect remain
-Animalia,,,,Insecta,,,,,insect remains
-Animalia,,,,Insecta,,,,,insecta adult
-Animalia,,,,Insecta,,,,,insecta adults
-Animalia,,,,Insecta,,,,,insecta larvae
-Animalia,,,,Insecta,,,,,insecteggs
-Animalia,,,,Insecta,,,,,insects eggs
-Animalia,,,,Insecta,,,,,insects larvae_fragments
-Animalia,,,,Insecta,,,,,insects pupae
-Animalia,,,,Insecta,,,,,insects remains
-Animalia,,,,Insecta,,,,,jawed insects
-Animalia,,,,Insecta,,,,,misc aq_insecta
-Animalia,,,,Insecta,,,,,misc aqautic_insects
-Animalia,,,,Insecta,,,,,misc terrestrial_insects
-Animalia,,,,Insecta,,,,,miscellaneous insect
-Animalia,,,,Insecta,,,,,miscellaneous insecta
-Animalia,,,,Insecta,,Odonata,,,odonata adult
-Animalia,,,,Insecta,,Odonata,,,odonata aquatic
-Animalia,,,,Insecta,,Odonata,,,odonata larva
-Animalia,,,,Insecta,,Odonata,,,odonata larvae
-Animalia,,,,Insecta,,Odonata,,,odonata nymph
-Animalia,,,,Insecta,,Odonata,,,odonata nymphs
-Animalia,,,,Insecta,,Odonata,,,odonata nymphs_fragments
-Animalia,,,,Insecta,,Odonata,Gomphidae,Onychogomphus forcipatus,odonata onychogomphus_forcipatus
-Animalia,,,,Insecta,,Odonata,,,odonata remains
-Animalia,,,,Insecta,,Odonata,,,odonata unidentified
-Animalia,,,,Insecta,,Odonata,,,odonata unidentified_32
-Animalia,,,,Insecta,,Odonata,,,odonata unidentified_53
-Animalia,,,,Insecta,,Odonata,,,odonatan nymph
-Animalia,,,,Insecta,,Odonata,,,odonatans
-Animalia,,,,Insecta,,Odonata,,,odonate
-Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius
-Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius adult
-Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius larvae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius pupae
-Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius pupae_33
-Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius pupae_34
-Animalia,,,,Insecta,,Diptera,Chironomidae,Orthocladius sp.,orthocladius sp
-Animalia,,,,Insecta,,,,,other aquatic_insects
-Animalia,,,,Insecta,,,,,other insect_adult
-Animalia,,,,Insecta,,,,,other insect_larvae
-Animalia,,,,Insecta,,,,,other insecta
-Animalia,,,,Insecta,,,,,other insectb
-Animalia,,,,Insecta,,,,,other insects
-Animalia,,,,Insecta,,,,,others insects_aquatic
-Animalia,,,,Insecta,,,,,others insects_terrestrial
-Animalia,,,,Insecta,,Diptera,Chironomidae,Psectrochironomus sp.,psectrochironomus
-Animalia,,,,Insecta,,,,,remnants of_insects
-Animalia,,,,Insecta,,,,,restos de_insectos
-Animalia,,,,Insecta,,,,,small insect
-Animalia,,,,Insecta,,Diptera,Chironomidae,Stictochironomus sp.,stictochironomus
-Animalia,,,,Insecta,,,,,terr insecta
-Animalia,,,,Insecta,,,,,terrestrial insecta
-Animalia,,,,Insecta,,,,,terrestrial insects
-Animalia,,,,Insecta,,,,,terrestrial insects_and_spiders
-Animalia,,,,Insecta,,,,,terrestrial insectsb
-Animalia,,,,Insecta,,,,,unident insects
-Animalia,,,,Insecta,,,,,unidentifable insects
-Animalia,,,,Insecta,,Coleoptera,,,unidentifed coleoptera
-Animalia,,,,Insecta,,,,,unidentified insect
-Animalia,,,,Insecta,,,,,unidentified insect_35
-Animalia,,,,Insecta,,,,,unidentified insect_46
-Animalia,,,,Insecta,,,,,unidentified insect_56
-Animalia,,,,Insecta,,,,,unidentified insect_adult
-Animalia,,,,Insecta,,,,,unidentified insecta_adults
-Animalia,,,,Insecta,,,,,unidentified insects
-Animalia,,,,Insecta,,,,,unidentified terrestrial_insects
-Animalia,,,,Malacostraca,,Mysida,Mysidae,Acanthomysis sp.,acanthomysis
-Animalia,,,,Malacostraca,,Decapoda,,,crayfish prawn
-Animalia,,,,Malacostraca,,Decapoda,,,crayfishes
-Animalia,,,,Malacostraca,,,,,other malacostracans
-Animalia,,,,,,,,,gelatinous egg_cases
-Animalia,,,,,,,,,molluscs fish_oligochaeta
-Animalia,,,,,,,,,unidentifed invertebrates
-Animalia,,,,,,,,,vegetation dwelling_prey
-Chromista,,,,,,,,,zooplankton
-Chromista,,,,,,,,,zooplanktona
-Fungi,,,,,,,,,fungus
-Plantae,Chlorophyta,,,Ulvophyceae,,Ulotrichales,Ulotrichaceae,Ulothrix sp.,ulothrix sp
-Plantae,,,,Zygnemophyceae,,Desmidiales,Desmidiaceae,Actinotaenium sp.,actinotaenium sp
-Plantae,,,,,,,,,aquatic higher_plants
-Plantae,,,,,,,,,aquatic plants
-Plantae,,,,,,,,,filament algae
-Plantae,,,,,,,,,filamentous algae
-Plantae,,,,,,,,,fruits and_seeds
-Plantae,,,,,,,,,higher plant_parts
-Plantae,,,,,,,,,higher plants
-Plantae,,,,,,,,,macronhyte fruits
-Plantae,,,,,,,,,macrophyte fruits
-Plantae,,,,,,,,,material vegetal
-Plantae,,,,,,,,,other algae
-Plantae,,,,,,,,,other macrophyte
-Plantae,,,,,,,,,plankton
-Plantae,,,,,,,,,plankton 25
-Plantae,,,,,,,,,plankton 26
-Plantae,,,,,,,,,planktonic algae
-Plantae,,,,,,,,,plant
-Plantae,,,,,,,,,plant debris
-Plantae,,,,,,,,,plant detritus
-Plantae,,,,,,,,,plant fragments
-Plantae,,,,,,,,,plant leaves
-Plantae,,,,,,,,,plant materia
-Plantae,,,,,,,,,plant material
-Plantae,,,,,,,,,plant material_algae_etc
-Plantae,,,,,,,,,plant material_gall
-Plantae,,,,,,,,,plant materials
-Plantae,,,,,,,,,plant matter
-Plantae,,,,,,,,,plant matter_unidentified
-Plantae,,,,,,,,,plant parts
-Plantae,,,,,,,,,plant remains
-Plantae,,,,,,,,,plant seeds
-Plantae,,,,,,,,,plant tissue
-Plantae,,,,,,,,,plant tissues
-Plantae,,,,,,,,,terrestrial plants
-Plantae,,,,,,,,,tree bark_leaves_roots
-Plantae,,,,,,,,,unicellular algae
-Plantae,,,,,,,,,unidentified algae
-Plantae,,,,,,,,,unidentified phytoplankton
-Plantae,,,,,,,,,uroglena
-Plantae,,,,,,,,,vascular plants
-Plantae,,,,,,,,,vegetable mat
-Plantae,,,,,,,,,vegetables
-Plantae,,,,,,,,,vegetal matter
-Plantae,,,,,,,,,vegetal remains
-Plantae,,,,,,,,,vegetals
-Plantae,,,,,,,,,vegetation
-Plantae,,,,,,,,,vegetation u
-,Cyanobacteria,,,Cyanophyceae,,Nostocales,Rivulariaceae,Rivularia sp.,rivularia sp
-,Ochrophyta,,,Bacillariophyceae,,Bacillariales,Bacillariaceae,Nitzschia sp.,nitzchia sp
-,Ochrophyta,,,Bacillariophyceae,,Bacillariales,Bacillariaceae,Nitzschia sp.,nitzschia sp
-,Ochrophyta,,,Bacillariophyceae,,,,,other diatoms
-,Ocrophyta,,,Bacillariophyceae,,,,,large pennate_diatom
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria sp
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_1_150_<U+00B5>m
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_2_8_<U+00B5>m_215_<U+00B5>m
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_3_8_320_<U+00B5>m
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_4_10_<U+00B5>m_200_250_<U+00B5>m
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_5_400_<U+00B5>m
-,,,,Fragilariophyceae,,,Fragilariaceae,Fragiliaria,fragilaria_sp_6_370_500_<U+00B5>m
+citation,prey_taxon,prey_type_add,prey_kingdom_add,prey_phylum_add,prey_subphylum_add,prey_superclass_add,prey_class_add,prey_subclass_add,prey_order_add,prey_family_add,prey_species_add
+"Welton, J S., JS, W., & C , M. (1983). Food and habitat partitioning in two small benthic fishes, Noemacheilus barbatulus (lek.) and Cottus gobio L.",a aquaticus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Isopoda,Asellidae,Asellus aquaticus
+"Pothoven, S  ., Madenjian, C. P., & Höök, T. O. (2017). Feeding ecology of the walleye (Percidae, Sander vitreus), a resurgent piscivore in lekake Huron (Laurentian Great Lakes) after shifts in the prey community. Ecology of Freshwater Fish, 26(4), 676-685.",alewife,,Animalia,Chordata,,,Actinopterygii,,Clupeiformes,Clupeidae,Alosa pseudoharengus
+"Speirs, G D. (1974). Food habits of landlocked salmon and brook trout in a Maine lake after introduction of landlocked alewives. Transactions of the  merican Fisheries Society, 103(2), 396-399.",alewife,,Animalia,Chordata,,,Actinopterygii,,Clupeiformes,Clupeidae,Alosa pseudoharengus
+"Madenjian, C P., Desorcie, T. J., & Stedman, R. M. (1998). Ontogenic and spatial patterns in diet and growth of lake trout in lekake Michigan. Transactions of the  merican Fisheries Society, 127(2), 236-252.",alewife 25,,Animalia,Chordata,,,Actinopterygii,,Clupeiformes,Clupeidae,Alosa pseudoharengus
+"Madenjian, C P., Desorcie, T. J., & Stedman, R. M. (1998). Ontogenic and spatial patterns in diet and growth of lake trout in lekake Michigan. Transactions of the  merican Fisheries Society, 127(2), 236-252.",alewife 26,,Animalia,Chordata,,,Actinopterygii,,Clupeiformes,Clupeidae,Alosa pseudoharengus
+"Joadder, M R. (2006). Food and feeding habits of Gagata youssoufi (Rahman) from the river Padma in Rajshahi. University Journal of Zoology, Rajshahi University, 25, 69-71.",algal filament,,Plantae,,,,,,,,
+no results in search,alona,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Chydoridae,Alona sp.
+"tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",alona,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Chydoridae,Alona sp.
+"McHugh, J lek. (194 ). Food of the Rocky Mountain whitefish Prosopium williamsoni (Girard). Journal of the Fisheries Board of Canada, 5(2), 131-137.",alona sp,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Chydoridae,Alona sp.
+"García- lzate, C A., Román-Valencia, C., & Barrero, A. M. (2012). Biología alimentaria y reproductiva de Farlowella vittata (Siluriformes: lekoricariidae) en la cuenca del río Güejar, Orinoquía, Colombia. Revista de Biología Tropical, 60(4), 1873-1888.",alonella sp,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Chydoridae,Alonella sp.
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",amblytelina,,Animalia,Arthropoda,,,Insecta,,Coleoptera,Carabidae,Amblytelina (subtribe)
+"lekvans, H E. (1952). The food of a population of brown trout, Salmo trutta Linn., from Central New York.  merican Midland Naturalist, 413-420.",amphibians,,Animalia,Chordata,,,Amphibia,,,,
+"Milardi, M, Thomas, S. M., & lekahilainen, K. K. (2 16). Reliance of brown trout on terrestrial prey varies with season but not fish density. Freshwater Biology, 61(7), 1143-1156.",amphibians,,Animalia,Chordata,,,Amphibia,,,,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",amphibians frogs_or_toads,,Animalia,Chordata,,,Amphibia,,,,
+"Snyder, R J. (1984). Seasonal variation in the diet of the three-spine stickleback, Gasterosteus aculeatus, in Contra Costa County, California. California Fish and Game, 7 (3), 167-172.",animal material,,Animalia,,,,,,,,
+"Huish, M T. (1957). Food habits of three centrarchidae in lekake George, Florida. In Proc.  nn. Conf. SE Game Fish Comm (Vol. 11, pp. 293-302)",animal remains,,Animalia,,,,,,,,
+"Romand, R, & Morgalet, P. (1983). lekcology and feeding habits of vari-ous Cyprinodontidae from Guinea. Revue De Zoologie  fricaine, 97, 288-299.",animal remains,,Animalia,,,,,,,,
+"llen, lek R. (1938). Some observations on the biology of the trout (Salmo trutta) in Windermere. The Journal of Animal Ecology, 333-349.",annus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Isopoda,Asellidae,Asellus sp.
+"Mosepele, lek, Mosepele, B., Wolski, P., & Kolding, J. (2 12). DYNAMICS OF THE FEEDING ECOLOGY OF SELECTED FISH SPECIES FROM THE OKAVANGO RIVER DELTA, BOTSWANA. Acta Ichthyologica et Piscatoria, 42(4).",ants,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,,
+"Yamazaki, lek, Kanou, K., &  rayama, K. (2019). Nocturnal activity and feeding of juvenile channel catfish, Ictalurus punctatus, around offshore breakwaters in Lake Kasumigaura, Japan. Ichthyological Research, 66(1), 166-171.",ants,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,,
+"Greenfield, D W., Greenfield, T.  ., & Brinton, S. lek. (1983). Spatial and trophic interactions between Gambusia sexradiata and Gambusia puncticulata yucatana (Pisces: Poeciliidae) in Belize, Central America. Copeia, 598-607.",apocrita,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,,
+"Malmquist, H J., Snorrason, S. S., Skulason, S., Jonsson, B., Sandlund, O. T., & Jonasson, P. M. (1992). Diet differentiation in polymorphic  rctic charr in Thingvallavatn, Iceland. Journal of Animal lekcology, 21-35.",aptania larvae,,Animalia,Arthropoda,,,Insecta,,Trichoptera,Apataniidae,Apatania sp.
+"Malmquist, H J., Snorrason, S. S., Skulason, S., Jonsson, B., Sandlund, O. T., & Jonasson, P. M. (1992). Diet differentiation in polymorphic  rctic charr in Thingvallavatn, Iceland. Journal of Animal lekcology, 21-35.",aptania pupae,,Animalia,Arthropoda,,,Insecta,,Trichoptera,Apataniidae,Apatania sp.
+"De  lmeida, V lek. L., Hahn, N. S., & Agostinho, C. S. (1998). Stomach content of juvenile and adult piranhas (Serrasalmus marginatus) in the Paraná Floodplains, Brazil. Studies on Neotropical Fauna and Environment, 33(2), 100-105.",aquatic vegetation,,Plantae,,,,,,,,
+"kin, S, Sahin, C., Verep, B., Turan, D., Gözler, A. M., Bozkurt, A., ... & Sargin, I. (2011). Feeding habits of introduced lekuropean perch (Perca fluviatilis) in an impounded large river system in Turkey. African Journal of Agricultural Research, 6(18), 4293-4307.",aquatic vegetation,,Plantae,,,,,,,,
+"Greenfield, D W., Greenfield, T.  ., & Brinton, S. lek. (1983). Spatial and trophic interactions between Gambusia sexradiata and Gambusia puncticulata yucatana (Pisces: Poeciliidae) in Belize, Central America. Copeia, 598-607.",aschiza,,Animalia,Arthropoda,,,Insecta,,Diptera,,
+"Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",atlantic tomcod,,Animalia,Chordata,,,Actinopterygii,,Gadiformes,Gadidae,Microgadus tomcod
+"Wedderburn, S D., Bice, C. M., & Barnes, T. C. (2 15). Prey selection and diet overlap of native golden perch and alien redfin perch under contrasting hydrological conditions. Australian Journal of Zoology, 62(5), 374-381.",atyid shrimp,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Atyidae,Caridina canotonensis
+"Garner, P (1996). Microhabitat use and diet of  + cyprinid fishes in a lentic, regulated reach of the River Great Ouse, lekngland. Journal of Fish Biology, 48(3), 367-382.",aufwuchs,Periphyton,,,,,,,,,
+"Wedderburn, S D., Bice, C. M., & Barnes, T. C. (2 15). Prey selection and diet overlap of native golden perch and alien redfin perch under contrasting hydrological conditions. Australian Journal of Zoology, 62(5), 374-381.",australian smelt,,Animalia,Chordata,,,Actinopterygii,,Osmeriformes,Retropinnidae,Retropinna semoni
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",b capillata,,Animalia,Mollusca,,,Gastropoda,,Architaenioglossa,Viviparidae,Bellamya caillata 
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",b globosus,,Animalia,Mollusca,,,Gastropoda,,,Planorbidae,Bulinus globosus
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",b pfeifferi,,Animalia,Mollusca,,,Gastropoda,,,Planorbidae,Biomphalaria pfeifferi
+"Mosepele, lek, Mosepele, B., Wolski, P., & Kolding, J. (2 12). DYNAMICS OF THE FEEDING ECOLOGY OF SELECTED FISH SPECIES FROM THE OKAVANGO RIVER DELTA, BOTSWANA. Acta Ichthyologica et Piscatoria, 42(4).",b thamalakanensis,,Animalia,Chordata,,,Actinopterygii,,Cypriniformes,Cyprinidae,Enteromius thamalakanensis
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",baelis imagoes,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Baetidae,Baetis sp.
+"Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",baetiscids,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Baetiscidae,
+"Sri, S. (2017). The Freshwater Catfish Feeding Intensity, Maturation and Food. International Journal for Research in Applied Sciences and Biotechnology (IJRASB), 4(4), 1-5.",barbels,unidentified,,,,,,,,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",barcheek goby_ctenogobius_giurinus_rutter_gobiidae,,Animalia,Chordata,,,Actinopterygii,,Gobiiformes,Gobiidae,Ctenogobius giurinus
+"Hammar, J O. H.  . N. (1998). Interactive asymmetry and seasonal niche shifts in sympatric Arctic char (Salvelinus alpinus) and brown trout (Salmo trutta): evidence from winter diet and accumulation of radiocesium. Nordic Journal of Freshwater Research, 33-64.",benthos,unidentified,,,,,,,,,
+"lekseyev, S S., Gordeeva, N. V., Matveev, A. N., Samusenok, V. P., Vokin, A. I., & Yur’ev, A. lek. (2014). Three sympatric forms of Arctic charr Salvelinus alpinus complex (Salmoniformes, Salmonidae) from Lake Kamkanda, northern Transbaikalia. Journal of Ichthyology, 54(6), 384-408.",benthos,unidentified,,,,,,,,,
+"Mosepele, lek, Mosepele, B., Wolski, P., & Kolding, J. (2 12). DYNAMICS OF THE FEEDING ECOLOGY OF SELECTED FISH SPECIES FROM THE OKAVANGO RIVER DELTA, BOTSWANA. Acta Ichthyologica et Piscatoria, 42(4).",bird remains,,Animalia,Chordata,,,Aves,,,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",bitterling rhodeus_sinensis_gunther_cyprinidae,,Animalia,Chordata,,,Actinopterygii,,Cypriniformes,Cyprinidae,Rhodeus sinensis
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",bivalve,,Animalia,Mollusca,,,Bivalvia,,,,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",bivalves,,Animalia,Mollusca,,,Bivalvia,,,,
+"Madenjian, C P., Desorcie, T. J., & Stedman, R. M. (1998). Ontogenic and spatial patterns in diet and growth of lake trout in lekake Michigan. Transactions of the  merican Fisheries Society, 127(2), 236-252.",bloater,,Animalia,Chordata,,,Actinopterygii,,Clupeiformes,Clupeidae,
+"Villares-Junior, G  ., Cardone, I. B., & Goitein, R. (2016). Comparative feeding ecology of four syntopic Hypostomus species in a Brazilian southeastern river. Brazilian Journal of Biology, 76(3), 692-699.",blue algae,,,Cyanobacteria,,,Cyanophyceae,,,,
+"Muoneke, M I., Henry, C. C., & Maughan, O. lek. (1992). Population structure and food habits of white crappie Pomoxis annularis Rafinesque in a turbid Oklahoma reservoir. Journal of Fish Biology, 41(4), 647-654.",bluegill,,Animalia,Chordata,,,Actinopterygii,,Perciformes,Centrarchidae,Lepomis macrochirus
+"Quist, M C., Bower, M. R., & Hubert, W.  . (2006). Summer food habits and trophic overlap of roundtail chub and creek chub in Muddy Creek, Wyoming. The Southwestern Naturalist, 51(1), 22-27.",bluehead sucker,,Animalia,Chordata,,,Actinopterygii,,Cypriniformes,Cyprinidae,Catostomus discobolus
+"Nilsson, N  ., & Northcote, T. G. (1981). Rainbow trout (Salmo gairdneri) and cutthroat trout (S. clarki) interactions in coastal British Columbia lakes. Canadian Journal of Fisheries and Aquatic Sciences, 38(10), 1228-1246.",bombus,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,Apidae,Bombus sp.
+"Wedderburn, S D., Bice, C. M., & Barnes, T. C. (2 15). Prey selection and diet overlap of native golden perch and alien redfin perch under contrasting hydrological conditions. Australian Journal of Zoology, 62(5), 374-381.",bony herring,,Animalia,Chordata,,,Actinopterygii,,Clupeiformes,Clupeidae,
+no results in search,bosmina,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina sp.
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",bosmina,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina sp.
+NA,bosmina,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina sp.
+"Marszal, L., Grzybkowska, M., Przybylski, M., & Valladolid, M. (2004). Feeding activity of spined loach Cobitis sp. in Lake Lucien, Poland. FOLIA BIOLOGICA-KRAKOW-, 51, 159-165.",bosmina longirostris,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina longirostris
+NA,bosmina longirostris,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina longirostris
+"Balik, I., Karasahin, B., Özkök, R., Çubuk, H., & Uysal, R. (2003). Diet of silver crucian carp Carasssius gibelio in Lake Egirdir. Turkish Journal of Fisheries and Aquatic Sciences, 3(2), 87-91.",bosmina sp,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina sp.
+"Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",bosmina sp,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina sp.
+NA,bosmirta,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Bosminidae,Bosmina sp.
+"Huish, M T. (1957). Food habits of three centrarchidae in lekake George, Florida. In Proc.  nn. Conf. SE Game Fish Comm (Vol. 11, pp. 293-302)",bottom debris,detritus,,,,,,,,,
+"Turner, C lek. (1922). Notes on the food habits of young of Cottus ictalops (millers thumb).",bottom debris,detritus,,,,,,,,,
+"tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",brachionus,,Animalia,Rotifera,,,Monogononta,,Plioma,Brachionidae,Brachionus sp.
+"lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",brachionus plicatilis,,Animalia,Rotifera,,,Monogononta,,Plioma,Brachionidae,Brachionus plicatilis
+"Olurin, lek B., &  wolesi, O. O. (1991). Food of some fishes of Owa Stream, south-western Nigeria. Archiv fuer Hydrobiologie, 122(1), 95-103.",brachionus sp,,Animalia,Rotifera,,,Monogononta,,Plioma,Brachionidae,Brachionus sp.
+"Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",brachycentrids,,Animalia,Arthropoda,,,Insecta,,Trichoptera,Brachycentridae,Brachycentrus
+"lekeonard, J W. (1942). Some observations on the winter feeding habits of brook trout fingerlings in relation to natural food organisms present. Transactions of the  merican Fisheries Society, 71(1), 219-227.",brachycentrus americanus_larvae,,Animalia,Arthropoda,,,Insecta,,Trichoptera,Brachycentridae,Brachycentrus americanus
+"kin, S, Sahin, C., Verep, B., Turan, D., Gözler, A. M., Bozkurt, A., ... & Sargin, I. (2011). Feeding habits of introduced lekuropean perch (Perca fluviatilis) in an impounded large river system in Turkey. African Journal of Agricultural Research, 6(18), 4293-4307.",brachyura sp_crabs,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Pleocyemata,Brachyura sp.
+"García- lzate, C A., Román-Valencia, C., & Barrero, A. M. (2012). Biología alimentaria y reproductiva de Farlowella vittata (Siluriformes: lekoricariidae) en la cuenca del río Güejar, Orinoquía, Colombia. Revista de Biología Tropical, 60(4), 1873-1888.",branchionus sp,,Animalia,Rotifera,,,Monogononta,,Plioma,Brachionidae,Brachionus sp.
+"Jo, H Y.  . N. B. I. N., Yoon, J. D., lekim, J. H., Jeong, K. S., Do, Y. U. N. O., & Joo, G. J. (2016). Diet shifts and delayed piscivory specialisation during the ontogenesis of the largemouth bass Micropterus salmoides (Lacepede, 1802) in the Nakdong River and Upo Wetlands, South Korea. Indian J. Fish, 63(4), 48-54.",branchiopoda,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,,,
+"O'lekelley, C T., & Powers, S. L. (2007). Life-history Aspects of Hypentelium etowanum (Alabama Hog Sucker)(Actinopterygii: Catostomidae) in Northern Georgia. Southeastern Naturalist, 6(3), 479-490.",branchiopoda,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,,,
+"Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",brundiniella sp_larvae,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,Brundiniella sp.
+"Mosepele, lek, Mosepele, B., Wolski, P., & Kolding, J. (2 12). DYNAMICS OF THE FEEDING ECOLOGY OF SELECTED FISH SPECIES FROM THE OKAVANGO RIVER DELTA, BOTSWANA. Acta Ichthyologica et Piscatoria, 42(4).",brycinus lateralis,,Animalia,Chordata,,,Actinopterygii,,Characiformes,Alestidae,Brycinus lateralis
+"Delariva, R lek., &  gostinho, A. A. (2001). Relationship between morphology and diets of six neotropical loricariids. Journal of Fish Biology, 58(3), 832-847.",bryophyta,,Plantae,,,,,,,,
+"Costa, I D. D., & Soares, M. O. (2 15). The seasonal diet of Aequidens tetramerus (Cichlidae) in a small forest stream in the Machado River basin, Rondônia, Brazil. Acta Amazonica, 45(4), 365-372.",bryozoa,,Animalia,Bryozoa,,,,,,,
+"Delariva, R lek., &  gostinho, A. A. (2001). Relationship between morphology and diets of six neotropical loricariids. Journal of Fish Biology, 58(3), 832-847.",bryozoa,,Animalia,Bryozoa,,,,,,,
+"Wade, William Frank. Ecology of Hexagenia sp. as influenced by Centrarchid predation. Diss. Oklahoma State University, 1968.",bryozoa,,Animalia,Bryozoa,,,,,,,
+"pplegate, R lek. (1966). Food and growth of six centrarchids from shoreline areas of Bull Shoals Reservoir. In Southeast. Assoc. Game and Fish Commrs. 20th Ann. Conf. (pp. 469-481).",bryzoa,,Animalia,Bryozoa,,,,,,,
+"Nurnberger, P lek. (193 ). The plant and animal food of the fishes of Big Sandy Lake. Transactions of the American Fisheries Society, 60(1), 253-259.",bulbochaete,,Plantae,Chlorophyta,,,Chlorophyceae,,Oedogoniales,Oedogoniaceae,Bulbochaete
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",bulbochaete,,Plantae,Chlorophyta,,,Chlorophyceae,,Oedogoniales,Oedogoniaceae,Bulbochaete
+"tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",bulinus,,Animalia,Mollusca,,,Gastropoda,,,Bulindae,Bulinus sp.
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",c africana,,Animalia,Mollusca,,,Bivalvia,,Venerida,Cyrenidae,Corbicula africana
+"Phillips, lek, & Kilambi, R. V. (1996). Food habits of four benthic fish species (Etheostoma spectabile, Percina caprodes, Noturus exilis, Cottus carolinae) from northwest  rkansas streams. The Southwestern Naturalist, 41(1), 69-73.",c cornutus,,Animalia,Arthropoda,,,Insecta,,Megaloptera,Corydalidae,Corydalus cornutus
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",c mossambicensis,,Animalia,Mollusca,,,Gastropoda,,Littorinimorpha,Barleeiidae,Caelatura mossambicensis
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",caelifara,,Animalia,Arthropoda,,,Insecta,,Orthoptera,,
+"Muir, W D., lekmmett, R. L., & McConnell, R. J. (1988). Diet of juvenile and subadult white sturgeon in the lower Columbia River and its estuary. California Fish and Game, 74(1), 49-54.",calanoida,,Animalia,Arthropoda,Crustacea,,Calanoida,,,,
+"Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",calanoida fragments,,Animalia,Arthropoda,Crustacea,,Calanoida,,,,
+"Huish, M T. (1957). Food habits of three centrarchidae in lekake George, Florida. In Proc.  nn. Conf. SE Game Fish Comm (Vol. 11, pp. 293-302)",callinectes,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Portunidae,Callinectes sp.
+no results in search,cambaras bartonii,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus bartonii
+no results in search,cambartis virilis,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus virilus
+no results in search,cambarus barb_nil,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus bartonii
+no results in search,cambarus bartonii,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus bartonii
+no results in search,cambarus pro_pinquus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus propinquus
+no results in search,cambarus prop_inquus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus propinquus
+no results in search,cambarus propinguus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus propinquus
+no results in search,cambarus propinquus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus propinquus
+no results in search,cambarus remains,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus sp.
+"Clemens, H P. (1951). The food of the burbot lekota lota maculosa (LeSueur) in Lake Erie. Transactions of the  merican Fisheries Society, 80(1), 56-66.",camberus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus sp.
+"lekachner, E  . (1950). Food, growth and habits of fingerling northern smallmouth bass, Micropterus dolomieu dolomieu Lacepede, in trout waters of western New York. The Journal of Wildlife Management, 50-56.",campostoma anomalurn_pullum,,Animalia,Chordata,,,Actinopterygii,,Cypriniformes,Cyprinidae,Campostoma anomalum
+"Marszal, L., Grzybkowska, M., Przybylski, M., & Valladolid, M. (2004). Feeding activity of spined loach Cobitis sp. in Lake Lucien, Poland. FOLIA BIOLOGICA-KRAKOW-, 51, 159-165.",camptocercus rectirostris,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Chydoridae,Camptocercus rectirostris
+"Muir, W D., lekmmett, R. L., & McConnell, R. J. (1988). Diet of juvenile and subadult white sturgeon in the lower Columbia River and its estuary. California Fish and Game, 74(1), 49-54.",cancer magister_44,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cancridae,Metacarcinus magister
+"Muir, W D., lekmmett, R. L., & McConnell, R. J. (1988). Diet of juvenile and subadult white sturgeon in the lower Columbia River and its estuary. California Fish and Game, 74(1), 49-54.",cancer magister_45,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cancridae,Metacarcinus magister
+"Maitland, P S. (1965). The feeding relationships of salmon, trout, minnows, stone loach and three-spined stickle-backs in the River lekndrick, Scotland. The Journal of  nimal Ecology, 109-133.",canthocamptus,,Animalia,Arthropoda,Crustacea,,,Copepoda,Harpacticoida,Canthocamptidae,Canthocamptus sp.
+"lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",canuella perplexa,,Animalia,Arthropoda,Crustacea,,Hexanauplia,Copepoda,Canuelloida,Canuellidae,Canuella perplexa
+no results in search,canzbarus viril_is,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus virilis
+"Maitland, P S. (1965). The feeding relationships of salmon, trout, minnows, stone loach and three-spined stickle-backs in the River lekndrick, Scotland. The Journal of  nimal Ecology, 109-133.",capnia,,Animalia,Arthropoda,,,Insecta,,Plecoptera,Capniidae,Capnia sp.
+"Malmquist, H J., Snorrason, S. S., Skulason, S., Jonsson, B., Sandlund, O. T., & Jonasson, P. M. (1992). Diet differentiation in polymorphic  rctic charr in Thingvallavatn, Iceland. Journal of Animal lekcology, 21-35.",capnia newt,,Animalia,Arthropoda,,,Insecta,,Plecoptera,Capniidae,Capnia sp.
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",carabini,,Animalia,Arthropoda,,,Insecta,,Coleoptera,Carabidae,Carabini sp.
+"Maitland, P S. (1965). The feeding relationships of salmon, trout, minnows, stone loach and three-spined stickle-backs in the River lekndrick, Scotland. The Journal of  nimal Ecology, 109-133.",cardiocladius,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,Cardiocladius sp.
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",caridina,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Atyidae,Caridina sp.
+"Mkumbo, O C., & lekigtvoet, W. (1992). Changes in the diet of Nile perch, Lates niloticus (L), in the Mwanza Gulf, Lake Victoria. Hydrobiologia, 232(1), 79-83.",caridina,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Atyidae,Caridina sp.
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",caridina,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Atyidae,Caridina sp.
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",caridinia,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Atyidae,Caridina sp.
+"Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",cariodaphnia sp,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Daphniidae,Ceriodaphnia sp.
+"Shelton, J M., Bird, M. S., & Marr, S. M. (2 18). lekvidence for diet partitioning among three coexisting native freshwater fishes in South Africa's Cape Fold Ecoregion. African journal of aquatic science, 43(2), 89-100.",castanophlebia,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Leptophlebiidae,Castanophlebia sp.
+no results in search,catostomus cominersonii,,Animalia,Chordata,,,Actinopterygii,,Cypriniformes,Catostomidae,Catostomus commersonii
+"Dineen, C F. (1951).   comparative study of the food habits of Cottus bairdii and associated species of Salmonidae. The American Midland Naturalist, 46(3), 640-645.",centipedes,,Animalia,Arthropoda,,,Chilopoda,,,,
+"Olurin, lek B., &  wolesi, O. O. (1991). Food of some fishes of Owa Stream, south-western Nigeria. Archiv fuer Hydrobiologie, 122(1), 95-103.",centritractus sp,,Chromista,Ochrophyta,,,Xanthophyceae,,Mischococcales,Centritractaceae,Centritractus sp.
+"Maitland, P S. (1965). The feeding relationships of salmon, trout, minnows, stone loach and three-spined stickle-backs in the River lekndrick, Scotland. The Journal of  nimal Ecology, 109-133.",centroptilum,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Baetidae,Centroptilum sp.
+"Webster, D  . (1943). Food progression in young white perch Morone americana (Gmelin) from Bantam lekake, Connecticut. Transactions of the American Fisheries Society, 72(1), 136-144.",ceratopogonid larvae,,Animalia,Arthropoda,,,Insecta,,Diptera,Ceratoponidae,
+"Greenfield, D W., Greenfield, T.  ., & Brinton, S. lek. (1983). Spatial and trophic interactions between Gambusia sexradiata and Gambusia puncticulata yucatana (Pisces: Poeciliidae) in Belize, Central America. Copeia, 598-607.",chaleidinidae,unidentified,,,,,,,,,
+"Okey, I., Offem, B. O., & Keremah, R. I. (2017). Length-weight relationship, condition factor and gut content of Chrysichthys furcatus Gunther, 1864 (Bagridae) from Cross River at Ahaha. Fish Aqua J, 8(228), 2.",chaoborid,,Animalia,Arthropoda,,,Insecta,,Diptera,Chaoboridae,
+"Björnsson, B (2001). The trophic ecology of arctic char (Salvelinus alpinus) and brown trout (Salmo trutta) in lekllidavatn, a small lake in Southwest Iceland. Limnologica, 31(3), 199-207.",char eggs,,Animalia,Chordata,,,Actinopterygii,,Salmoniformes,Salmonidae,
+"llen, lek R. (1938). Some observations on the biology of the trout (Salmo trutta) in Windermere. The Journal of Animal Ecology, 333-349.",char eggs,,Animalia,Chordata,,,Actinopterygii,,Salmoniformes,Salmonidae,
+"Carpenter, lek E. (194 , September). The feeding of salmon parr in the Cheshire Dee. In Proceedings of the Zoological Society of London (Vol. 110, No. 1-2, pp. 81-96). Oxford, UK: Blackwell Publishing Ltd.",chrionomid,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,
+"Carpenter, lek E. (194 , September). The feeding of salmon parr in the Cheshire Dee. In Proceedings of the Zoological Society of London (Vol. 110, No. 1-2, pp. 81-96). Oxford, UK: Blackwell Publishing Ltd.",chrionomid larvae_and_pupae,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,
+"Williams, Jack lek and Williams, Cynthia D. (198 ) ""Feeding ecology ofGila boraxobius(Osteichthyes: Cyprinidae) endemic to a thermal lake in southeastern Oregon,""Great Basin Naturalist: Vol. 40 : No. 2 , Article 1.",chrionomid pupae,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",cirripedia larva,,Animalia,Arthropoda,Crustacea,,Hexanauplia,,,,
+"Brown, C J. D. (1938). The feeding habits of the Montana grayling (Thymallus montanus). The Journal of Wildlife Management, 2(3), 135-145.",cladocem,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,,
+"Swift, M C. (197 ). A qualitative and quantitative study of trout food in Castle lekake, California. California Fish and Game, 56(2), 100-120.",clam,,Animalia,Mollusca,,,Bivalvia,,,,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",clam flesh,,Animalia,Mollusca,,,Bivalvia,,,,
+"Jo, H Y.  . N. B. I. N., Yoon, J. D., lekim, J. H., Jeong, K. S., Do, Y. U. N. O., & Joo, G. J. (2016). Diet shifts and delayed piscivory specialisation during the ontogenesis of the largemouth bass Micropterus salmoides (Lacepede, 1802) in the Nakdong River and Upo Wetlands, South Korea. Indian J. Fish, 63(4), 48-54.",class hirudinea,,Animalia,Annelida,,,Clitellata,Hirudinea,,,
+"Jo, H Y.  . N. B. I. N., Yoon, J. D., lekim, J. H., Jeong, K. S., Do, Y. U. N. O., & Joo, G. J. (2016). Diet shifts and delayed piscivory specialisation during the ontogenesis of the largemouth bass Micropterus salmoides (Lacepede, 1802) in the Nakdong River and Upo Wetlands, South Korea. Indian J. Fish, 63(4), 48-54.",class oligochaeta,,Animalia,Annelida,,,Clitellata,Oligochaeta,,,
+"Taher, M M.,  l-Dubakel, A. Y., & Al-lekamy, J. H. (2016). Trophic breadth and dietary overlap for ten fish species caught from Shatt Al-Arab River, Fao, southern Iraq. Al-Kufa University Journal for Biology, (Special Second International Scientific Conference for the Life Sciences), 100-107.",clay,clay,,,,,,,,,
+"yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",colonial algae,,Plantae,,,,,,,,
+"Pothoven, S  ., Madenjian, C. P., & Höök, T. O. (2017). Feeding ecology of the walleye (Percidae, Sander vitreus), a resurgent piscivore in lekake Huron (Laurentian Great Lakes) after shifts in the prey community. Ecology of Freshwater Fish, 26(4), 676-685.",coregonid,,Animalia,Chordata,,,Actinopterygii,,Salmoniformes,Salmonidae,Coregonus sp.
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",corixidwgs,,Animalia,Arthropoda,,,Insecta,,Hemiptera,Corixidae,
+"lekeonard, J W. (1939). Feeding Habits of the Montana Grayling (Thymallus Montanus Milner) in Ford Lake, Michigan. Transactions of the  merican Fisheries Society, 68(1), 188-195.",corrodentia,,Animalia,Arthropoda,,,Psocoptera,,,,
+"Nilsson, N  ., & Northcote, T. G. (1981). Rainbow trout (Salmo gairdneri) and cutthroat trout (S. clarki) interactions in coastal British Columbia lakes. Canadian Journal of Fisheries and Aquatic Sciences, 38(10), 1228-1246.",corrodentia,,Animalia,Arthropoda,,,Psocoptera,,,,
+"yinla, 1988, Nigerian Institute for Oceanography and Marine Research lekagos",cosmaria,,Plantae,,,,Zygnematophyceae,,Desmidiales,Desmidiaceae,Cosmarium
+"Olurin, lek B., &  wolesi, O. O. (1991). Food of some fishes of Owa Stream, south-western Nigeria. Archiv fuer Hydrobiologie, 122(1), 95-103.",cosrnariurn sp,,Plantae,,,,Zygnematophyceae,,Desmidiales,Desmidiaceae,Cosmarium
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",cranefies,,Animalia,Arthropoda,,,Insecta,,Diptera,Tipulidae,
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",cratichneumonina,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,Ichneumonidae,
+"Phillips, lek, & Kilambi, R. V. (1996). Food habits of four benthic fish species (Etheostoma spectabile, Percina caprodes, Noturus exilis, Cottus carolinae) from northwest  rkansas streams. The Southwestern Naturalist, 41(1), 69-73.",crayfsh,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",crayfsh,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,,
+"lekachner, E  . (1950). Food, growth and habits of fingerling northern smallmouth bass, Micropterus dolomieu dolomieu Lacepede, in trout waters of western New York. The Journal of Wildlife Management, 50-56.",crayfsh cambarus,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Cambaridae,Cambarus sp.
+"Dineen, C F. (1951).   comparative study of the food habits of Cottus bairdii and associated species of Salmonidae. The American Midland Naturalist, 46(3), 640-645.",crayfshes,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,,
+"Quist, M C., Bower, M. R., & Hubert, W.  . (2006). Summer food habits and trophic overlap of roundtail chub and creek chub in Muddy Creek, Wyoming. The Southwestern Naturalist, 51(1), 22-27.",creek chub,,Animalia,Chordata,,,Actinopterygii,,Cypriniformes,Cyprinidae,Semotilus atromaculatus
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",crucian carp_carassius_auratus_linnaeus_cyprinidae,,Animalia,Chordata,,,Actinopterygii,,Cypriniformes,Cyprinidae,Carassius auratus
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",culicid larvae,,Animalia,Arthropoda,,,Insecta,,Diptera,Culicidae,
+"Fochetti, R,  rgano, R., & Tierno de Figueroa, J. M. (2008). Feeding ecology of various age-classes of brown trout in River Nera, Central Italy.",custacean,,Animalia,Arthropoda,Crustacea,,,,,,
+"Moshin,   M., & Gallaway, B. J. (1977). Seasonal abundance, distribution, food habitats and condition of the southern brook lamprey, Ichthyomyzon gagei Hubbs & Trautman, in an east Texas watershed. The Southwestern Naturalist, 107-114.",cyclopoid copepod,,Animalia,Arthropoda,Crustacea,,Hexanauplia,Copepoda,Cyclopoida,,
+NA,cyclopoid copepods,,Animalia,Arthropoda,Crustacea,,Hexanauplia,Copepoda,Cyclopoida,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",dark sleeper_odontobutis_obscura_temminck_and_schlegel_eleotridae,,Animalia,Chordata,,,Actinopterygii,,Gobiiformes,Odontobutidae,Odontobutis obscura
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",darters,,Animalia,Chordata,,,Actinopterygii,,Perciformes,Percidae,
+"Huish, M T. (1957). Food habits of three centrarchidae in lekake George, Florida. In Proc.  nn. Conf. SE Game Fish Comm (Vol. 11, pp. 293-302)",debris,detritus,,,,,,,,,
+"Junior, N F., Machado, F.  ., Zuanon, J. S., & Ferreira, lek. J. (2016). The fish fauna of sessile hydrophytes stands (Mourera spp.: Podostemaceae) in the Dardanelos Waterfalls, Rio Aripuanã, Brazil. Aqua Int. J. Ichthyol., 22, 133-144.",debris,detritus,,,,,,,,,
+"li, M S., Rahman, M. M., Hossain, lek., & Mollah, M. F. A. (2003). Studies on the food habits of three species of Mastacembelidae. Bangladesh Journal of Fisheries Research, 7(1), 43-52.",debris,detritus,,,,,,,,,
+"Nilsson, N  ., & Northcote, T. G. (1981). Rainbow trout (Salmo gairdneri) and cutthroat trout (S. clarki) interactions in coastal British Columbia lakes. Canadian Journal of Fisheries and Aquatic Sciences, 38(10), 1228-1246.",debris,detritus,,,,,,,,,
+"Reed, R J. (1971). Biology of the fallfish, Semotilus corporalis (Pisces, Cyprinidae). Transactions of the  merican Fisheries Society, 100(4), 717-725.",debris,detritus,,,,,,,,,
+"Silva, N C. D. S., Costa,  . J. lek. D., Louvise, J., Soares, B. E., ALBRECHT, M. P., & CARAMASCHI, É. P. (2016). Resource partitioning and ecomorphological variation in two syntopic species of Lebiasinidae (Characiformes) in an Amazonian stream. Acta Amazonica, 46(1), 25-36.",debris,detritus,,,,,,,,,
+"Tippets, W lek., & Moyle, P. B. (1978). Epibenthic feeding by rainbow trout (Salmo gairdneri) in the McCloud River, California. The Journal of  nimal Ecology, 549-559.",debris,detritus,,,,,,,,,
+"Williams, Jack lek and Williams, Cynthia D. (198 ) ""Feeding ecology ofGila boraxobius(Osteichthyes: Cyprinidae) endemic to a thermal lake in southeastern Oregon,""Great Basin Naturalist: Vol. 40 : No. 2 , Article 1.",debris,detritus,,,,,,,,,
+"Hellawell, J M. (1972). The growth, reproduction and food of the roach Rutilus rutilus (lek.), of the River Lugg, Herefordshire. Journal of Fish Biology, 4(4), 469-486.",debris_detritus,detritus,,,,,,,,,
+"Clarkson, R W., & Minckley, W. lek. (1988). Morphology and foods of  rizona catostomid fishes: Catostomus insignis, Pantosteus clarki, and their putative hybrids. Copeia, 422-433.",detritus,detritus,,,,,,,,,
+"Dadebo, lek (2 00). Reproductive biology and feeding habits of the catfish Clarias gariepinus (Burchell)(Pisces: Clariidae) in Lake Awassa, Ethiopia. SINET: Ethiopian Journal of Science, 23(2), 231-246.",detritus,detritus,,,,,,,,,
+"Darnell, R M. (1958). Food habits of fishes and large invertebrate of lekake Pontchartrain, Louisiana, an estuarine community. Publ. Inst. Mar. Sci.  niv. Tex, 5, 353-416.",detritus,detritus,,,,,,,,,
+"djibade, lek N., Adite, A., Arame, H., & Sidi, R. (2019). Feeding ecology of Marcusenius senegalensis (Pisces: Osteoglossiformes: Mormyridae; Steindachner, 1870) from Niger River in Northern Benin.",detritus,detritus,,,,,,,,,
+"Ferreira, G lek., Lopes, V. G., Cantarino Gomes, J. H., & Castelo Branco, C. W. (2 13). Condition factor and diet of the catfish Loricariichthys castaneus (Castelnau, 1855): gender differences in three tropical reservoirs. Studies on neotropical fauna and environment, 48(3), 190-198.",detritus,detritus,,,,,,,,,
+"García- lzate, C A., Román-Valencia, C., & Barrero, A. M. (2012). Biología alimentaria y reproductiva de Farlowella vittata (Siluriformes: lekoricariidae) en la cuenca del río Güejar, Orinoquía, Colombia. Revista de Biología Tropical, 60(4), 1873-1888.",detritus,detritus,,,,,,,,,
+"Iyabo,   B. (2014). Diet composition, feeding habits and condition factor of Chrysichthys nigrodigitatus in lekbonyi river (a tropical flood river system), southeastern Nigeria. CJ Agric Sci, 8, 29-37.",detritus,detritus,,,,,,,,,
+"Jearld Jr,   (1970). Fecundity, food habits, age and growth, length-weight relationships and condition of channel catfish, Ictalurus punctatus (Rafinesque), in a 3300-acre turbid Oklahoma reservoir (Doctoral dissertation, Oklahoma State University).",detritus,detritus,,,,,,,,,
+"kin, S, Sahin, C., Verep, B., Turan, D., Gözler, A. M., Bozkurt, A., ... & Sargin, I. (2011). Feeding habits of introduced lekuropean perch (Perca fluviatilis) in an impounded large river system in Turkey. African Journal of Agricultural Research, 6(18), 4293-4307.",detritus,detritus,,,,,,,,,
+"lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",detritus,detritus,,,,,,,,,
+"lekonan, Y  ., Bamba, M., & Kone, T. (2014). Qualitative and quantitative traits of the diet of Clarias buettikoferi (Siluriformes; Clariidae) in the Tanoe-Ehy swamp forest (Cote d'Ivoire)/Aspects qualitatifs et quantitatifs de l'alimentation de Clarias buettikoferi (Siluriformes; Clariidae) dans la foret des marais Tanoe-Ehy (Cote d'Ivoire). Cybium, International Journal of Ichthyology, 38(1), 61-69.",detritus,detritus,,,,,,,,,
+"Mosepele, lek, Mosepele, B., Wolski, P., & Kolding, J. (2 12). DYNAMICS OF THE FEEDING ECOLOGY OF SELECTED FISH SPECIES FROM THE OKAVANGO RIVER DELTA, BOTSWANA. Acta Ichthyologica et Piscatoria, 42(4).",detritus,detritus,,,,,,,,,
+"Murphy, G W., Newcomb, T. J., Orth, D. J., & Reeser, S. J. (2 05). Food habits of selected fish species in the Shenandoah River Basin, Virginia. In Proc Annu Conf Southeast Assoc Fish and Wildl Agencies (Vol. 59, pp. 325-335).",detritus,detritus,,,,,,,,,
+"Ndome, C B., & Victor, R. (2 02). Food and feeding habits of lekpiplatys senegalensis (Pisces: Cyprinodontiformes; Cyprinodontidae) in a back water pond in Benin City, Southern Nigeria. West African Journal of Applied Ecology, 3(1).",detritus,detritus,,,,,,,,,
+"O'lekelley, C T., & Powers, S. L. (2007). Life-history Aspects of Hypentelium etowanum (Alabama Hog Sucker)(Actinopterygii: Catostomidae) in Northern Georgia. Southeastern Naturalist, 6(3), 479-490.",detritus,detritus,,,,,,,,,
+"Olojo, lek  . A., Olurin, K. B., & Osikoya, O. J. (2003). Food and feeding habits of Synodontis nigrita from the Osun River, SW Nigeria.",detritus,detritus,,,,,,,,,
+"Owolabi, O D. (2008). The dietary habits of the upside-down catfish, Synodontis membranaceus (Osteichthyes: Mochokidae) in Jebba lake, Nigeria. Revista de biologia tropical, 56(2), 931-936.",detritus,detritus,,,,,,,,,
+"Panek, F M., & Weis, J. S. (2 13). Diet of the lekastern Mudminnow (Umbra pygmaea DeKay) from two geographically distinct populations within the North American native range. Northeastern Naturalist, 20(1), 37-48.",detritus,detritus,,,,,,,,,
+"Quist, M C., Bower, M. R., & Hubert, W.  . (2006). Summer food habits and trophic overlap of roundtail chub and creek chub in Muddy Creek, Wyoming. The Southwestern Naturalist, 51(1), 22-27.",detritus,detritus,,,,,,,,,
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",detritus,detritus,,,,,,,,,
+"Shelton, J M., Bird, M. S., & Marr, S. M. (2 18). lekvidence for diet partitioning among three coexisting native freshwater fishes in South Africa's Cape Fold Ecoregion. African journal of aquatic science, 43(2), 89-100.",detritus,detritus,,,,,,,,,
+"Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",detritus,detritus,,,,,,,,,
+"Stoffels, R J., & Humphries, P. (2 03). Ontogenetic variation in the diurnal food and habitat associations of an endemic and an exotic fish in floodplain ponds: consequences for niche partitioning. leknvironmental Biology of Fishes, 66(3), 293-305.",detritus,detritus,,,,,,,,,
+"Taher, M M.,  l-Dubakel, A. Y., & Al-lekamy, J. H. (2016). Trophic breadth and dietary overlap for ten fish species caught from Shatt Al-Arab River, Fao, southern Iraq. Al-Kufa University Journal for Biology, (Special Second International Scientific Conference for the Life Sciences), 100-107.",detritus,detritus,,,,,,,,,
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",detritus,detritus,,,,,,,,,
+"Wilde, G R., Bonner, T. H., & Zwank, P. J. (2001). Diets of the Arkansas River shiner and peppered chub in the Canadian River, New Mexico and Texas.<U+00A0>Journal of Freshwater lekcology,<U+00A0>16(3), 403-410.",detritus,detritus,,,,,,,,,
+"Williams, C S., & Bonner, T. H. (2006). Habitat associations, life history and diet of the Sabine shiner Notropis sabinae in an east Texas drainage.<U+00A0>The American midland naturalist,<U+00A0>155(1), 84-103.",detritus,detritus,,,,,,,,,
+"Costa, I D. D., & Soares, M. O. (2 15). The seasonal diet of Aequidens tetramerus (Cichlidae) in a small forest stream in the Machado River basin, Rondônia, Brazil. Acta Amazonica, 45(4), 365-372.",detritus mud,detritus,,,,,,,,,
+"Delariva, R lek., Hahn, N. S., & Gomes, L. C. (2007). Diet of a catfish before and after damming of the Salto Caxias Reservoir, Iguaçu River. Brazilian Archives of Biology and Technology, 50(5), 767-775.",detritus sediment,detritus,,,,,,,,,
+"Hahn, N S., & Cunha, F. (2 05). Feeding and trophic ecomorphology of Satanoperca pappaterra (Pisces, Cichlidae) in the Manso reservoir, Mato Grosso state, Brazil. Brazilian Archives of Biology and Technology, 48(6), 1007-1012.",detritus sediment,detritus,,,,,,,,,
+"Winemiller, lek O., & Kelso-Winemiller, L. C. (1994). Comparative ecology of the  frican pike, Hepsetus odoe, and tigerfish, Hydrocynus forskahlii, in the Zambezi River floodplain. Journal of Fish Biology, 45(2), 211-225.",detritus substrate,detritus,,,,,,,,,
+"Darnell, R M. (1958). Food habits of fishes and large invertebrate of lekake Pontchartrain, Louisiana, an estuarine community. Publ. Inst. Mar. Sci.  niv. Tex, 5, 353-416.",detritus_sand,detritus,,,,,,,,,
+"Mathur, D (1972). Seasonal food habits of adult white crappie, Pomoxis annularis Rafinesque, in Conowingo Reservoir.  merican Midland Naturalist, 236-241.",detritusl,detritus,,,,,,,,,
+"Garner, P (1996). Microhabitat use and diet of  + cyprinid fishes in a lentic, regulated reach of the River Great Ouse, lekngland. Journal of Fish Biology, 48(3), 367-382.",detrius,detritus,,,,,,,,,
+"Pereira, P R.,  gostinho, C. S., Oliveira, R. J. D., & Marques, lek. E. (2007). Trophic guilds of fishes in sandbank habitats of a Neotropical river. Neotropical Ichthyology, 5(3), 399-404.",detrius,detritus,,,,,,,,,
+"pplegate, R lek. (1966). Food and growth of six centrarchids from shoreline areas of Bull Shoals Reservoir. In Southeast. Assoc. Game and Fish Commrs. 20th Ann. Conf. (pp. 469-481).",detrius,detritus,,,,,,,,,
+"Moyle, P B., & Senayake, F. R. (1984). Resource partitioning among the fishes of rainforest streams in Sri lekanka. Journal of Zoology, 2 2(2), 195-223.",detrius ect,detritus,,,,,,,,,
+"Vidotto-Magnoni,   P., & Carvalho, lek. D. (2009). Aquatic insects as the main food resource of fish the community in a Neotropical reservoir. Neotropical Ichthyology, 7(4), 701-708.",detrius sediment,detritus,,,,,,,,,
+"Garner, P (1996). Microhabitat use and diet of  + cyprinid fishes in a lentic, regulated reach of the River Great Ouse, lekngland. Journal of Fish Biology, 48(3), 367-382.",diaoms,,Chromista,,,,Bacillariophyceae,,,,
+"Galat, D lek., & Vucinich, N. (1983). Food partitioning between young of the year of two sympatric tui chub morphs. U+00A0>Transactions of the American Fisheries Society,<U+00A0>112(4), 486-497.",diaplomus_skills,,Animalia,Arthropoda,,,Hexanauplia,,Calanoida,Diaptomidae,Leptodiaptomus sicilis
+"Romand, R, & Morgalet, P. (1983). lekcology and feeding habits of vari-ous Cyprinodontidae from Guinea. Revue De Zoologie  fricaine, 97, 288-299.",diatome,,Chromista,,,,Bacillariophyceae,,,,
+"lekl-Drawany, M  ., & Elnagar, W. G. (2015). Growth, food and feeding habits of Bagrus bayad and Bagrus docmac inhibiting Muess channel, Sharkia province, Egypt. Journal of Aquaculture Research & Development, 6(7), 1.",digested food,amorphic detritus,,,,,,,,,
+"Malmquist, H J., Snorrason, S. S., Skulason, S., Jonsson, B., Sandlund, O. T., & Jonasson, P. M. (1992). Diet differentiation in polymorphic  rctic charr in Thingvallavatn, Iceland. Journal of Animal lekcology, 21-35.",diverse,unidentified,,,,,,,,,
+"Panek, F M., & Weis, J. S. (2 13). Diet of the lekastern Mudminnow (Umbra pygmaea DeKay) from two geographically distinct populations within the North American native range. Northeastern Naturalist, 20(1), 37-48.",duckweed,,Plantae,,,,,,,Araceae,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",edogonium,,Plantae,Chlorophyta,,,Chlorophyceae,,Oedogoniales,Oedogoniaceae,Oedogonium sp.
+"Perello, M. M., Simon, T. P., Thompson, H. A., & Kane, D. D. (2015). Feeding ecology of the invasive round goby, Neogobius melanostomus (Pallas, 1814), based on laboratory size preference and field diet in different habitats in the western basin of Lake Erie. Aquatic Invasions, 10(4), 463-474.",egg bundle,,Animalia,,,,,,,,
+"Greenfield, D W., Greenfield, T.  ., & Brinton, S. lek. (1983). Spatial and trophic interactions between Gambusia sexradiata and Gambusia puncticulata yucatana (Pisces: Poeciliidae) in Belize, Central America. Copeia, 598-607.",egg cases,,Animalia,,,,,,,,
+"Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",egg mass,,Animalia,,,,,,,,
+"Pontius, R W., & Parker, M. (1973). Food habits of the mountain whitefish, Prosopium williamsoni (Girard). Transactions of the  merican Fisheries Society, 102(4), 764-773.",emergent 37,,Animalia,Arthropoda,,,Insecta,,Trichoptera,,
+"Pontius, R W., & Parker, M. (1973). Food habits of the mountain whitefish, Prosopium williamsoni (Girard). Transactions of the  merican Fisheries Society, 102(4), 764-773.",emergent 44,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,
+NA,empty_space,empty space,,,,,,,,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",entire fsh,,Animalia,Chordata,,Osteichthyes,,,,,
+"pplegate, R lek. (1966). Food and growth of six centrarchids from shoreline areas of Bull Shoals Reservoir. In Southeast. Assoc. Game and Fish Commrs. 20th Ann. Conf. (pp. 469-481).",entomostraca,,Animalia,Arthropoda,Crustacea,,,,,,
+"lekvans, H E. (1952). The food of a population of brown trout, Salmo trutta Linn., from Central New York.  merican Midland Naturalist, 413-420.",epheinenda,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",ephemerella imagoes,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Ephemerellidae,Ephemerella sp.
+"lekllison, J P. (198 ). DIETS OF MOUNTAIN WHITEFISH, PROSOPIUM WILLIAMSONI (GIRARD), AND BROOK TROUT, SALVELINUS FONTINALIS (MITCHELL), IN THE LITTLE WALKER RIVER, MONO COUNTY, CALIFORNIA.",ephemerella newt,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Ephemerellidae,Ephemerella sp.
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",ephemerella nymphs,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Ephemerellidae,Ephemerella sp.
+not findable,ephemerida larvae,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,
+"Huish, M T. (1957). Food habits of three centrarchidae in lekake George, Florida. In Proc.  nn. Conf. SE Game Fish Comm (Vol. 11, pp. 293-302)",ephemerida nymph,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,
+"McHugh, J lek. (194 ). Food of the Rocky Mountain whitefish Prosopium williamsoni (Girard). Journal of the Fisheries Board of Canada, 5(2), 131-137.",ephemerida nymphs,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,,
+"Moshin,   M., & Gallaway, B. J. (1977). Seasonal abundance, distribution, food habitats and condition of the southern brook lamprey, Ichthyomyzon gagei Hubbs & Trautman, in an east Texas watershed. The Southwestern Naturalist, 107-114.",euastrunz sp,,Plantae,Charaphyta,,,Zygnematophyceae,,Desmidiales,Desmidiaceae,Euastrum sp.
+"Balik, I., Karasahin, B., Özkök, R., Çubuk, H., & Uysal, R. (2003). Diet of silver crucian carp Carasssius gibelio in Lake Egirdir. Turkish Journal of Fisheries and Aquatic Sciences, 3(2), 87-91.",euciliata vorticella_sp,,Protozoa,Ciliophora,,,Oligohymenophorea,,Sessilada,Vorticellidae,Vorticella sp.
+not findable,eucopepoda,,Animalia,Arthropoda,Crustacea,,Hexanauplia,Copepoda,,,
+"Yalçin-Özdilek, S, lekirankaya, S. G., & Ekmekçi, F. G. (2 13). Feeding ecology of the topmouth gudgeon Pseudorasbora parva (Temminck and Schlegel, 1846) in the Gelingüllü Reservoir, Turkey. Turkish Journal of Fisheries and Aquatic Sciences, 13(1), 87-94.",euglenophyta,,Protista,Euglenophyta,,,Euglenophyceae,,,,
+"Malmquist, H J., Snorrason, S. S., Skulason, S., Jonsson, B., Sandlund, O. T., & Jonasson, P. M. (1992). Diet differentiation in polymorphic  rctic charr in Thingvallavatn, Iceland. Journal of Animal lekcology, 21-35.",eukiefferiel pupae,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,Eukiefferiella sp.
+"Tippets, W lek., & Moyle, P. B. (1978). Epibenthic feeding by rainbow trout (Salmo gairdneri) in the McCloud River, California. The Journal of  nimal Ecology, 549-559.",exuviae,,Animalia,Arthropoda,,,Insecta,,,,
+"Murphy, G W., Newcomb, T. J., Orth, D. J., & Reeser, S. J. (2 05). Food habits of selected fish species in the Shenandoah River Basin, Virginia. In Proc Annu Conf Southeast Assoc Fish and Wildl Agencies (Vol. 59, pp. 325-335).",fantail darter,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Perciformes,Percidae,Etheostoma flabellare
+"Villares-Junior, G  ., Cardone, I. B., & Goitein, R. (2016). Comparative feeding ecology of four syntopic Hypostomus species in a Brazilian southeastern river. Brazilian Journal of Biology, 76(3), 692-699.",fine sediment,fine sediment,,,,,,,,,
+no results in search,fish eggs_and_plant_material,mix,,,,,,,,,
+"Wedderburn, S D., Bice, C. M., & Barnes, T. C. (2 15). Prey selection and diet overlap of native golden perch and alien redfin perch under contrasting hydrological conditions. Australian Journal of Zoology, 62(5), 374-381.",flathead gudgeon,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Gobiiformes,Eleotridae,Philypnodon grandiceps
+"lekeonard, J W. (1939). Feeding Habits of the Montana Grayling (Thymallus Montanus Milner) in Ford Lake, Michigan. Transactions of the  merican Fisheries Society, 68(1), 188-195.",flydracarina,,Animalia,Arthropoda,,,Arachnida,Acari,Trombidiformes,,
+"Dudgeon, D (1987). Niche specificities of four fish species (Homalopteridae, Cobitidae and Gobiidae) in a Hong lekong forest stream.  rchiv f. Hydrobiologie, 108, 349-364.",fpom,FPOM,,,,,,,,,
+"Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",fragments,mix,,,,,,,,,
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",gamules and_spiricles,unidentified,,,,,,,,,
+"Li, K. C., Shieh, B. S., Chiu, Y. W., Huang, D. J., & Liang, S. H. (2016). Growth, diet composition and reproductive biology of the invasive freshwater fish Chevron snakehead Channa striata on a subtropical Island. Zoological Studies, 55.",gecko,,Animalia,Chordata,,,Reptilia,,Squamata,,
+"Yamazaki, lek, Kanou, K., &  rayama, K. (2019). Nocturnal activity and feeding of juvenile channel catfish, Ictalurus punctatus, around offshore breakwaters in Lake Kasumigaura, Japan. Ichthyological Research, 66(1), 166-171.",gobiid larvae,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Gobiiformes,Gobiidae,
+"Sri, S. (2017). The Freshwater Catfish Feeding Intensity, Maturation and Food. International Journal for Research in Applied Sciences and Biotechnology (IJRASB), 4(4), 1-5.",grains wheat,,Plantae,,,,,,Poales,Poaceae,Trticum sp.
+"Mosepele, lek, Mosepele, B., Wolski, P., & Kolding, J. (2 12). DYNAMICS OF THE FEEDING ECOLOGY OF SELECTED FISH SPECIES FROM THE OKAVANGO RIVER DELTA, BOTSWANA. Acta Ichthyologica et Piscatoria, 42(4).",grass,,Plantae,,,,,,Poales,Poaceae,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",grasses,,Plantae,,,,,,Poales,Poaceae,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",grasshopper legs,,Animalia,Arthropoda,,,Insecta,,Diptera,Orthoptera,
+"Taher, M M.,  l-Dubakel, A. Y., & Al-lekamy, J. H. (2016). Trophic breadth and dietary overlap for ten fish species caught from Shatt Al-Arab River, Fao, southern Iraq. Al-Kufa University Journal for Biology, (Special Second International Scientific Conference for the Life Sciences), 100-107.",green algae,,Plantae,,,,,,,,
+"Thompson, H  ., & Simon, T. P. (2014). Diet shift response in round goby, Neogobius melanostomus, based on size, sex, depth, and habitat in the western basin of lekake Erie. Journal of Applied Ichthyology, 30(5), 955-961.",green algae,,Plantae,,,,,,,,
+"Villares-Junior, G  ., Cardone, I. B., & Goitein, R. (2016). Comparative feeding ecology of four syntopic Hypostomus species in a Brazilian southeastern river. Brazilian Journal of Biology, 76(3), 692-699.",green algae,,Plantae,,,,,,,,
+"tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",green eggs,,Animalia,,,,,,,,
+"Ball, J N. (1961, December). On the food of the brown trout of leklyn Tegid. In Proceedings of the Zoological Society of London (Vol. 137, No. 4, pp. 599-622). Oxford,  K: Blackwell Publishing Ltd.",gwyniad eggs,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Salmoniformes,Salmonidae,Coregonus pennantii
+"yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",h bebe_occidentalis_fry,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Osteoglossiformes,Mormyridae,Hyperopisus knoepffleri
+"Williams, Jack lek and Williams, Cynthia D. (198 ) ""Feeding ecology ofGila boraxobius(Osteichthyes: Cyprinidae) endemic to a thermal lake in southeastern Oregon,""Great Basin Naturalist: Vol. 40 : No. 2 , Article 1.",harpacticoid copepods,,Animalia,Arthropoda,Crustacea,,Hexanauplia,Copepoda,Harpacticoida,,
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",harpalini,,Animalia,Arthropoda,,,Insecta,,Coleoptera,Carabidae,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",hepeagenia imagoes,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Heptageniidae,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",heplagenia nymphs,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Heptageniidae,
+"Malmquist, H J., Snorrason, S. S., Skulason, S., Jonsson, B., Sandlund, O. T., & Jonasson, P. M. (1992). Diet differentiation in polymorphic  rctic charr in Thingvallavatn, Iceland. Journal of Animal lekcology, 21-35.",heterotr cladius_larvae,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,
+"Huish, M T. (1957). Food habits of three centrarchidae in lekake George, Florida. In Proc.  nn. Conf. SE Game Fish Comm (Vol. 11, pp. 293-302)",hyacinth roots,,Plantae,,,,,,Asparagales,Asparagaceae,Hyacinthus sp.
+"Romand, R, & Morgalet, P. (1983). lekcology and feeding habits of vari-ous Cyprinodontidae from Guinea. Revue De Zoologie  fricaine, 97, 288-299.",hydrocaria,,Animalia,Byrozoa,,,Gymnolaemata,,Ctenostomatida,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",i mm_organic_debris,detritus,,,,,,,,,
+"Masdeu, M, Mello, F. T. D., lekoureiro, M., &  rim, M. (2011). Feeding habits and morphometry of Iheringichthys labrosus (Lütken, 1874) in the Uruguay River (Uruguay). Neotropical Ichthyology, 9(3), 657-664.",immature bivalve,,Animalia,Mollusca,,,Bivalvia,,,,
+Cochran& delman 1982 leknvironmentalBiologyOfFishes,Incidentalmatter,unidentified,,,,,,,,,
+Cochron& delman 1982 leknvironmentalBiologyOfFishes,Incidentalmatter,unidentified,,,,,,,,,
+"Muoneke, M I., Henry, C. C., & Maughan, O. lek. (1992). Population structure and food habits of white crappie Pomoxis annularis Rafinesque in a turbid Oklahoma reservoir. Journal of Fish Biology, 41(4), 647-654.",inland silverside,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Atheriniformes,Atherinopsidae,Menidia beryllina
+"Clarkson, R W., & Minckley, W. lek. (1988). Morphology and foods of  rizona catostomid fishes: Catostomus insignis, Pantosteus clarki, and their putative hybrids. Copeia, 422-433.",inorganic_material,detritus,,,,,,,,,
+"Dudgeon, D (1987). Niche specificities of four fish species (Homalopteridae, Cobitidae and Gobiidae) in a Hong lekong forest stream.  rchiv f. Hydrobiologie, 108, 349-364.",inorganic_material,detritus,,,,,,,,,
+"Gomes-Ferreira,  , Ribeiro, F., Moreira da Costa, lek., Cowx, I. G., & Collares-Pereira, M. J. (2005). Variability in diet and foraging behaviour between sexes and ploidy forms of the hybridogenetic Squalius alburnoides complex (Cyprinidae) in the Guadiana River basin, Portugal. Journal of Fish Biology, 66(2), 454-467.",inorganic_material,detritus,,,,,,,,,
+"lbrecht, M P., & Caramaschi, lek. P. (2003). Feeding ecology of Leporinus friderici (Teleostei; Anostomidae) in the upper Tocantins River, Central Brazil, before and after installation of a hydroelectric plant. Studies on Neotropical Fauna and Environment, 38(1), 33-40.",inorganic_matter,detritus,,,,,,,,,
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",invertebrate,,Animalia,Arthropoda,,,,,,,
+"lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",invertebrate eggs,,Animalia,Arthropoda,,,,,,,
+"Silva, N C. D. S., Costa,  . J. lek. D., Louvise, J., Soares, B. E., ALBRECHT, M. P., & CARAMASCHI, É. P. (2016). Resource partitioning and ecomorphological variation in two syntopic species of Lebiasinidae (Characiformes) in an Amazonian stream. Acta Amazonica, 46(1), 25-36.",invertebrate eggs,,Animalia,Arthropoda,,,,,,,
+"Tippets, W lek., & Moyle, P. B. (1978). Epibenthic feeding by rainbow trout (Salmo gairdneri) in the McCloud River, California. The Journal of  nimal Ecology, 549-559.",iron sp,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Rhyacophilidae,
+"Nurnberger, P lek. (193 ). The plant and animal food of the fishes of Big Sandy Lake. Transactions of the American Fisheries Society, 60(1), 253-259.",johnnie darter,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Perciformes,Percidae,Etheostoma nigrum
+"Olojo, lek  . A., Olurin, K. B., & Osikoya, O. J. (2003). Food and feeding habits of Synodontis nigrita from the Osun River, SW Nigeria.",kerattela sp,,Animalia,Rotifera,,,Monogononta,,Ploima,Brachionidae,Keratella sp.
+"Vieira, J P., & lekopes, M. N. (2 13). Size-selective predation of the catfish Pimelodus pintado (Siluriformes: Pimelodidae) on the golden mussel Limnoperna fortunei (Bivalvia: Mytilidae). Zoologia (Curitiba), 30(1), 43-48.",l fortunei,,Animalia,Mollusca,,,Bivalvia,,Mytilida,Mytilidae,Limnoperna fortunei
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",l natalensis,,Animalia,Mollusca,,,Gastropoda,,,Lymnaeidae,Radix natalensis
+"Clemens, H P. (1951). The food of the burbot lekota lota maculosa (LeSueur) in Lake Erie. Transactions of the  merican Fisheries Society, 80(1), 56-66.",lamellibranchs,,Animalia,Mollusca,,,Bivalvia,,,,
+"Moshin,   M., & Gallaway, B. J. (1977). Seasonal abundance, distribution, food habitats and condition of the southern brook lamprey, Ichthyomyzon gagei Hubbs & Trautman, in an east Texas watershed. The Southwestern Naturalist, 107-114.",large pennate_diatom,,Chromista,Ochrophyta,,,Bacillariophyceae,,,,
+Cochran& delman 1982 leknvironmentalBiologyOfFishes,Leopardfrogs,,Animalia,Chordata,,,Amphibia,,Anura,Ranidae,Lithobates sp.
+Cochron& delman 1982 leknvironmentalBiologyOfFishes,Leopardfrogs,,Animalia,Chordata,,,Amphibia,,Anura,Ranidae,Lithobates sp.
+"Fernandes, S, lekeitão, R. P., Dary, E. P., Guerreiro,  . I. C., Zuanon, J., & Bührnheim, C. M. (2017). Diet of two syntopic species of Crenuchidae (Ostariophysi: Characiformes) in an Amazonian rocky stream. Biota Neotropica, 17(1).",leptophlebiidaenewt,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Leptophlebiidae,
+"bilhoa, V, Vitule, J. R. S., & Bornatowski, H. (2010). Feeding ecology of Rivulus luelingi (Aplocheiloidei: Rivulidae) in a coastal Atlantic rainforest stream, southern Brazil. Neotropical Ichthyology, 8(4), 813-818.",libelullidade nymphs,,Animalia,Arthropoda,,,Insecta,,Odonata,Libellulidae,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",lsonychia nymphs,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Isonychiidae,Isonychia sp.
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",lumholtzi,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Daphniidae,Daphnia lumholtzi
+"Sanyanga, R  . (1997). Food composition and selectivity of Synodontis zambezensis (Pisces: Mochokidae) in lekake Kariba, and the ecological implications. Hydrobiologia, 361(1-3), 89-99.",m tuberculata,,Animalia,Mollusca,,,Gastropoda,,,Thiaridae,Melanoides tuberculata
+"Jepsen, D B., Winemiller, lek. O., & Taphorn, D. C. (1997). Temporal patterns of resource partitioning among Cichla species in a Venezuelan blackwater river. Journal of Fish Biology, 51(6), 1 85-1108.",macrocrustacea,,Animalia,Arthropoda,Crustacea,,,,,,
+"Mosepele, lek, Mosepele, B., Wolski, P., & Kolding, J. (2 12). DYNAMICS OF THE FEEDING ECOLOGY OF SELECTED FISH SPECIES FROM THE OKAVANGO RIVER DELTA, BOTSWANA. Acta Ichthyologica et Piscatoria, 42(4).",millipedes,,Animalia,Arthropoda,,,Diplopoda,,,,
+"Vieira, J P., & lekopes, M. N. (2 13). Size-selective predation of the catfish Pimelodus pintado (Siluriformes: Pimelodidae) on the golden mussel Limnoperna fortunei (Bivalvia: Mytilidae). Zoologia (Curitiba), 30(1), 43-48.",mineral,detritus,,,,,,,,,
+"Tippets, W lek., & Moyle, P. B. (1978). Epibenthic feeding by rainbow trout (Salmo gairdneri) in the McCloud River, California. The Journal of  nimal Ecology, 549-559.",misc adults,,Animalia,Arthropoda,,,Insecta,,Diptera,,
+"lekllison, J P. (198 ). DIETS OF MOUNTAIN WHITEFISH, PROSOPIUM WILLIAMSONI (GIRARD), AND BROOK TROUT, SALVELINUS FONTINALIS (MITCHELL), IN THE LITTLE WALKER RIVER, MONO COUNTY, CALIFORNIA.",miscellaneous adult,,Animalia,Arthropoda,,,Insecta,,,,
+no results in search,miscellaneous fish_eggs_and_plant_remains,mix,,,,,,,,,
+"lekllison, J P. (198 ). DIETS OF MOUNTAIN WHITEFISH, PROSOPIUM WILLIAMSONI (GIRARD), AND BROOK TROUT, SALVELINUS FONTINALIS (MITCHELL), IN THE LITTLE WALKER RIVER, MONO COUNTY, CALIFORNIA.",miscellaneous nonaquatic_adult,,Animalia,Arthropoda,,,Insecta,,Coleoptera,,
+no results in search,miscellaneous plant_material,,Plantae,,,,,,,,
+"Dineen, C F. (1951).   comparative study of the food habits of Cottus bairdii and associated species of Salmonidae. The American Midland Naturalist, 46(3), 640-645.",mites,,Animalia,Arthropoda,,,Arachnida,,,,
+"yinla, 1988, Nigerian Institute for Oceanography and Marine Research lekagos",mn_remains,unidentified,,,,,,,,,
+"Joadder, M R. (2006). Food and feeding habits of Gagata youssoufi (Rahman) from the river Padma in Rajshahi. University Journal of Zoology, Rajshahi University, 25, 69-71.",mosquito l_arvae,,Animalia,Arthropoda,,,Insecta,,Diptera,Culicidae,
+"Hazzard,   S., & Madsen, M. J. (1933). Studies of the food of the cutthroat trout. Transactions of the American Fisheries Society, 63(1), 198-203.",mouse,,Animalia,Chordata,,,Mammalia,,Muscidae,,
+"Okey, I., Offem, B. O., & Keremah, R. I. (2017). Length-weight relationship, condition factor and gut content of Chrysichthys furcatus Gunther, 1864 (Bagridae) from Cross River at Ahaha. Fish Aqua J, 8(228), 2.",mud,detritus,,,,,,,,,
+"Ndome, C B., & Victor, R. (2 02). Food and feeding habits of lekpiplatys senegalensis (Pisces: Cyprinodontiformes; Cyprinodontidae) in a back water pond in Benin City, Southern Nigeria. West African Journal of Applied Ecology, 3(1).",mud pellets,detritus,,,,,,,,,
+"Ndome, C B., & Victor, R. (2 02). Food and feeding habits of lekpiplatys senegalensis (Pisces: Cyprinodontiformes; Cyprinodontidae) in a back water pond in Benin City, Southern Nigeria. West African Journal of Applied Ecology, 3(1).",multicellular algae,,Plantae,,,,,,,,
+"Balik, I., Karasahin, B., Özkök, R., Çubuk, H., & Uysal, R. (2003). Diet of silver crucian carp Carasssius gibelio in Lake Egirdir. Turkish Journal of Fisheries and Aquatic Sciences, 3(2), 87-91.",mysidacea mysis_sp,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Mysida,Mysidae,Mysis sp.
+"lekeonard, J W. (1942). Some observations on the winter feeding habits of brook trout fingerlings in relation to natural food organisms present. Transactions of the  merican Fisheries Society, 71(1), 219-227.",mystrophora americana_larvae,,Animalia,Arthropoda,,,Insecta,,Trichoptera,,
+"lekeonard, J W. (1942). Some observations on the winter feeding habits of brook trout fingerlings in relation to natural food organisms present. Transactions of the  merican Fisheries Society, 71(1), 219-227.",mystrophora americana_pupae,,Animalia,Arthropoda,,,Insecta,,Trichoptera,,
+"Nurnberger, P lek. (193 ). The plant and animal food of the fishes of Big Sandy Lake. Transactions of the American Fisheries Society, 60(1), 253-259.",nauplius larvae,,Animalia,Arthropoda,Crustacea,,Hexanauplia,Copepoda,Cyclopodia,Cyclopidae,Cyclops sp.
+"Neill, R M. (1938). XVIII.—The Food and Feeding of the Brown Trout (Salmo trutta lek.) in Relation to the Organic Environment. Earth and Environmental Science Transactions of The Royal Society of Edinburgh, 59(2), 481-52 .",nemathelminthes,,Animalia,Nematoda,,,,,,,
+"Greenfield, D W., Greenfield, T.  ., & Brinton, S. lek. (1983). Spatial and trophic interactions between Gambusia sexradiata and Gambusia puncticulata yucatana (Pisces: Poeciliidae) in Belize, Central America. Copeia, 598-607.",nematoceria larvae,,Animalia,Arthropoda,,,Insecta,,Diptera,,
+"Greenfield, D W., Greenfield, T.  ., & Brinton, S. lek. (1983). Spatial and trophic interactions between Gambusia sexradiata and Gambusia puncticulata yucatana (Pisces: Poeciliidae) in Belize, Central America. Copeia, 598-607.",nematoceria pupae,,Animalia,Arthropoda,,,Insecta,,Diptera,,
+"llen, lek R. (1938). Some observations on the biology of the trout (Salmo trutta) in Windermere. The Journal of Animal Ecology, 333-349.",nemura nymphs,,Animalia,Arthropoda,,,Insecta,,Plecoptera,Nemouriae,Nemoura sp.
+"Perello, M. M., Simon, T. P., Thompson, H. A., & Kane, D. D. (2015). Feeding ecology of the invasive round goby, Neogobius melanostomus (Pallas, 1814), based on laboratory size preference and field diet in different habitats in the western basin of Lake Erie. Aquatic Invasions, 10(4), 463-474.",non dreissenid_bivalves,,Animalia,Mollusca,,,Bivalvia,,,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",northern snakehead_channa_argus_cantor_channidae,,Animalia,Chordata,,,Actinopterygii,,Anabantiformes,Channidae,Channa argus
+"de  lmeida VlekL, Hahn NS, Vazzoler AEA de M Feeding patterns in
+five predatory fishes of the high Parana River floodplain (PR, Brazil).
+Ecology of Freshwater Fish 1997: 6: 123-133.",not_identified,unidentified,,,,,,,,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",nymphs,,Animalia,Arthropoda,,,Insecta,,,,
+"Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",operculab,,Animalia,Mollusca,,,Gastropoda,,,,
+"Fernandes, S, lekeitão, R. P., Dary, E. P., Guerreiro,  . I. C., Zuanon, J., & Bührnheim, C. M. (2017). Diet of two syntopic species of Crenuchidae (Ostariophysi: Characiformes) in an Amazonian rocky stream. Biota Neotropica, 17(1).",organic debris,detritus,,,,,,,,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",organic debris,detritus,,,,,,,,,
+"Delariva, R lek., &  gostinho, A. A. (2001). Relationship between morphology and diets of six neotropical loricariids. Journal of Fish Biology, 58(3), 832-847.",organic detritus,detritus,,,,,,,,,
+"lekopes, D  ., Vieira, K. R. I., da Silva Mota, R., de Souza, M. R. F., dos Santos Costa, F. E., & Paiva, F. (2017). Opportunistic diet of Triportheus nematurus (Characiformes: Triportheidae) in Southern Pantanal ponds: influences of temporal availability and abundance of resources. Acta Scientiarum. Biological Sciences, 39(4), 441-447.",organic matter,detritus,,,,,,,,,
+"Salvador-Jr, lek F., Salvador, G. N., & Santos, G. B. (2 09). Morphology of the digestive tract and feeding habits of Loricaria lentiginosa Isbrücker, 1979 in a Brazilian reservoir. Acta Zoologica, 90(2), 101-109.",organic matter,detritus,,,,,,,,,
+"Silva, N C. D. S., Costa,  . J. lek. D., Louvise, J., Soares, B. E., ALBRECHT, M. P., & CARAMASCHI, É. P. (2016). Resource partitioning and ecomorphological variation in two syntopic species of Lebiasinidae (Characiformes) in an Amazonian stream. Acta Amazonica, 46(1), 25-36.",organic matter,detritus,,,,,,,,,
+"Darnell, R M. (1958). Food habits of fishes and large invertebrate of lekake Pontchartrain, Louisiana, an estuarine community. Publ. Inst. Mar. Sci.  niv. Tex, 5, 353-416.",organic_mat_undet,detritus,,,,,,,,,
+"lbrecht, M P., & Caramaschi, lek. P. (2003). Feeding ecology of Leporinus friderici (Teleostei; Anostomidae) in the upper Tocantins River, Central Brazil, before and after installation of a hydroelectric plant. Studies on Neotropical Fauna and Environment, 38(1), 33-40.",organic_matter,detritus,,,,,,,,,
+"Maddern, M G., Morgan, D. lek., & Gill, H. S. (2007). Distribution, diet and potential ecological impacts of the introduced Mozambique mouthbrooder Oreochromis mossambicus Peters (Pisces: Cichlidae) in Western Australia.<U+00A0>Journal of the Royal Society of Western Australia,<U+00A0>90(4), 203-214.",organic_matter_not_identified,detritus,,,,,,,,,
+"Maitland, P S. (1965). The feeding relationships of salmon, trout, minnows, stone loach and three-spined stickle-backs in the River lekndrick, Scotland. The Journal of  nimal Ecology, 109-133.",other aquatic,unidentified,,,,,,,,,
+"Speirs, G D. (1974). Food habits of landlocked salmon and brook trout in a Maine lake after introduction of landlocked alewives. Transactions of the  merican Fisheries Society, 103(2), 396-399.",other aquatic,unidentified,,,,,,,,,
+"Gill, H S., & Morgan, D. lek. (1998). Larval development of Nannatherina balstoni Regan (Nannopercidae), with a description of ontogenetic changes in diet. Ecology of Freshwater Fish, 7(3), 132-139.",other aquatic_fauna,unidentified,,,,,,,,,
+"Mansfield, S, & Mc rdle, B. H. (1998). Dietary composition of Gambusia affinis (Family Poeciliidae) populations in the northern Waikato region of New Zealand. New Zealand Journal of Marine and Freshwater Research, 32(3), 375-383.",other aquatic_fauna,unidentified,,,,,,,,,
+"Weliange, W S., &  marasinghe, U. S. (2003). Accounting for diel feeding periodicity in quantifying food resource partitioning in fish assemblages in three reservoirs of Sri lekanka. Asian Fisheries Science, 16(3/4), 203-214.",other diatoms,,Chromista,Ochrophyta,,,Bacillariophyceae,,,,
+"Magalhães, M F. (1993). Feeding of an Iberian stream cyprinid assemblage: seasonality of resource use in a highly variable environment. Oecologia, 96(2), 253-26 .",other prey,unidentified,,,,,,,,,
+"Maitland, P S. (1965). The feeding relationships of salmon, trout, minnows, stone loach and three-spined stickle-backs in the River lekndrick, Scotland. The Journal of  nimal Ecology, 109-133.",other surface,unidentified,,,,,,,,,
+"Owolabi, O D. (2008). The dietary habits of the upside-down catfish, Synodontis membranaceus (Osteichthyes: Mochokidae) in Jebba lake, Nigeria. Revista de biologia tropical, 56(2), 931-936.",p adusta_larvae,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Polymitarcyidae,Povilla adusta
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",paguroidea megalopa,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,,
+"Nurnberger, P lek. (193 ). The plant and animal food of the fishes of Big Sandy Lake. Transactions of the American Fisheries Society, 60(1), 253-259.",parasite,,Animalia,,,,,,,,
+"Nurnberger, P lek. (193 ). The plant and animal food of the fishes of Big Sandy Lake. Transactions of the American Fisheries Society, 60(1), 253-259.",parasites,,Animalia,,,,,,,,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",parasitic flatworms,,Animalia,Platyhelminthes,,,,,,,
+"Delariva, R lek., &  gostinho, A. A. (2001). Relationship between morphology and diets of six neotropical loricariids. Journal of Fish Biology, 58(3), 832-847.",pennales,,Chromista,Ochrophyta,,,Bacillariophyceae,,Pennales,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",peracarida,,Animalia,Arthropoda,Crustacea,,Malacostraca,,,,
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",phaeogenini,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,Ichneumonidae,
+"Nilsson, N  . (1955). Studies on the feeding hibits of trout and char in north Swedish lakes. Report of Institute of Freshwater Research Drottningholm, 36, 163-225.",phyllopoda,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,,,
+"Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",physids,,Animalia,Mollusca,,,Gastropoda,,Physida,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",phytobenthos,,Plantae,,,,,,,,
+"Neill, R M. (1938). XVIII.—The Food and Feeding of the Brown Trout (Salmo trutta lek.) in Relation to the Organic Environment. Earth and Environmental Science Transactions of The Royal Society of Edinburgh, 59(2), 481-52 .",pisces ova,,Animalia,Chordata,,Osteichthyes,,,,,
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",platyabini,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",potamanlhus nymphs,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Potamanthidae,Potamanthus sp.
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",protichneumonina,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,Ichneumonidae,
+"djibade, lek N., Adite, A., Arame, H., & Sidi, R. (2019). Feeding ecology of Marcusenius senegalensis (Pisces: Osteoglossiformes: Mormyridae; Steindachner, 1870) from Niger River in Northern Benin.",protozoans,,Animalia,,,,,,,,
+"Ferreira, G lek., Lopes, V. G., Cantarino Gomes, J. H., & Castelo Branco, C. W. (2 13). Condition factor and diet of the catfish Loricariichthys castaneus (Castelnau, 1855): gender differences in three tropical reservoirs. Studies on neotropical fauna and environment, 48(3), 190-198.",protozoans testacea,,Animalia,,,,,,,,
+"Pothoven, S  ., & Madenjian, C. P. (2013). Increased piscivory by lake whitefish in lekake Huron. North American Journal of Fisheries Management, 33(6), 1194-1202.",rainbow smelt,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Osmeriformes,Osmeridae,Osmerus mordax
+"Pothoven, S  ., Madenjian, C. P., & Höök, T. O. (2017). Feeding ecology of the walleye (Percidae, Sander vitreus), a resurgent piscivore in lekake Huron (Laurentian Great Lakes) after shifts in the prey community. Ecology of Freshwater Fish, 26(4), 676-685.",rainbow smelt,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Osmeriformes,Osmeridae,Osmerus mordax
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",redfin culter_culter_alburnus_basilewsky_cyprinidae,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,Alburnus basilewsky
+"Wedderburn, S D., Bice, C. M., & Barnes, T. C. (2 15). Prey selection and diet overlap of native golden perch and alien redfin perch under contrasting hydrological conditions. Australian Journal of Zoology, 62(5), 374-381.",redfin perch,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Perciformes,Percidae,Perca fluviatilis
+"Hahn, N S., & Cunha, F. (2 05). Feeding and trophic ecomorphology of Satanoperca pappaterra (Pisces, Cichlidae) in the Manso reservoir, Mato Grosso state, Brazil. Brazilian Archives of Biology and Technology, 48(6), 1007-1012.",remain,detritus,,,,,,,,,
+"Hahn, N S., & Cunha, F. (2 05). Feeding and trophic ecomorphology of Satanoperca pappaterra (Pisces, Cichlidae) in the Manso reservoir, Mato Grosso state, Brazil. Brazilian Archives of Biology and Technology, 48(6), 1007-1012.",remains,detritus,,,,,,,,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",rice shrimp_neocaridina_denticulata_kemp_atyidae,,Animalia,Arthropoda,Crustacea,,Malacostraca,,Decapoda,Atyidae,Neocaridina denticulata
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",rocks,detritus,,,,,,,,,
+"Greenfield, D W., Greenfield, T.  ., & Brinton, S. lek. (1983). Spatial and trophic interactions between Gambusia sexradiata and Gambusia puncticulata yucatana (Pisces: Poeciliidae) in Belize, Central America. Copeia, 598-607.",rocks,detritus,,,,,,,,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",roots,,Plantae,,,,,,,,
+"Turner, C lek. (1922). Notes on the food habits of young of Cottus ictalops (millers thumb).",round worms,,Animalia,Nematoda,,,,,,,
+"Nilsson, N  ., & Northcote, T. G. (1981). Rainbow trout (Salmo gairdneri) and cutthroat trout (S. clarki) interactions in coastal British Columbia lakes. Canadian Journal of Fisheries and Aquatic Sciences, 38(10), 1228-1246.",salamander,,Animalia,Chordata,,,Amphibia,,Urodela,,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",sand,sand,,,,,,,,,
+"Darnell, R M. (1958). Food habits of fishes and large invertebrate of lekake Pontchartrain, Louisiana, an estuarine community. Publ. Inst. Mar. Sci.  niv. Tex, 5, 353-416.",sand,sand,,,,,,,,,
+"Ferreira, G lek., Lopes, V. G., Cantarino Gomes, J. H., & Castelo Branco, C. W. (2 13). Condition factor and diet of the catfish Loricariichthys castaneus (Castelnau, 1855): gender differences in three tropical reservoirs. Studies on neotropical fauna and environment, 48(3), 190-198.",sand,sand,,,,,,,,,
+"Heins, D C., & Clemmer, G. H. (1975). lekcology, foods and feeding of the longnose shiner, Notropis longirostris (Hay), in Mississippi. U+00A0>American Midland Naturalist, 284-295.",sand,sand,,,,,,,,,
+"Maddern, M G., Morgan, D. lek., & Gill, H. S. (2007). Distribution, diet and potential ecological impacts of the introduced Mozambique mouthbrooder Oreochromis mossambicus Peters (Pisces: Cichlidae) in Western Australia.<U+00A0>Journal of the Royal Society of Western Australia,<U+00A0>90(4), 203-214.",sand,sand,,,,,,,,,
+"Mendes, lek B., Borges, J.  . T., da Silva, M. J., da Costa Ramos, R. T., & Medeiros, E. S. F. (2011). Food habits of Triportheus signatus (Teleostei, Characidae) in a Brazilian semi-arid intermittent river. Revista Brasileira de Zooci<ea>ncias, 13(1, 2, 3).",sand,sand,,,,,,,,,
+"Otuogbai, T. M., Ikhenoba, A., & Elakhame, L. (2000). Food and feeding habits of the African lungfish, Protopterus annectens (Owens)(Pisces: Sarcopterygii) in the flood plains of River Niger in Etsako east of Edo State, Nigeria.",sand bottom_deposits_and_organic_debris,sand,,,,,,,,,
+"Okey, I., Offem, B. O., & Keremah, R. I. (2017). Length-weight relationship, condition factor and gut content of Chrysichthys furcatus Gunther, 1864 (Bagridae) from Cross River at Ahaha. Fish Aqua J, 8(228), 2.",sand grain,sand,,,,,,,,,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",sand grains,sand,,,,,,,,,
+"Iyabo,   B. (2014). Diet composition, feeding habits and condition factor of Chrysichthys nigrodigitatus in lekbonyi river (a tropical flood river system), southeastern Nigeria. CJ Agric Sci, 8, 29-37.",sand grains,sand,,,,,,,,,
+"Ndome, C B., & Victor, R. (2 02). Food and feeding habits of lekpiplatys senegalensis (Pisces: Cyprinodontiformes; Cyprinodontidae) in a back water pond in Benin City, Southern Nigeria. West African Journal of Applied Ecology, 3(1).",sand grains,sand,,,,,,,,,
+"Thompson, H  ., & Simon, T. P. (2014). Diet shift response in round goby, Neogobius melanostomus, based on size, sex, depth, and habitat in the western basin of lekake Erie. Journal of Applied Ichthyology, 30(5), 955-961.",sand grains,sand,,,,,,,,,
+"yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",sand particle,sand,,,,,,,,,
+"djibade, lek N., Adite, A., Arame, H., & Sidi, R. (2019). Feeding ecology of Marcusenius senegalensis (Pisces: Osteoglossiformes: Mormyridae; Steindachner, 1870) from Niger River in Northern Benin.",sand particles,sand,,,,,,,,,
+"Iyabo,   B. (2014). Diet composition, feeding habits and condition factor of Chrysichthys nigrodigitatus in lekbonyi river (a tropical flood river system), southeastern Nigeria. CJ Agric Sci, 8, 29-37.",sand_grains,sand,,,,,,,,,
+"Wilde, G R., Bonner, T. H., & Zwank, P. J. (2001). Diets of the Arkansas River shiner and peppered chub in the Canadian River, New Mexico and Texas.<U+00A0>Journal of Freshwater lekcology,<U+00A0>16(3), 403-410.",sand_silt,sand,,,,,,,,,
+"Williams, C S., & Bonner, T. H. (2006). Habitat associations, life history and diet of the Sabine shiner Notropis sabinae in an east Texas drainage.<U+00A0>The American midland naturalist,<U+00A0>155(1), 84-103.",sand_silt,sand,,,,,,,,,
+"Murphy, G W., Newcomb, T. J., Orth, D. J., & Reeser, S. J. (2 05). Food habits of selected fish species in the Shenandoah River Basin, Virginia. In Proc Annu Conf Southeast Assoc Fish and Wildl Agencies (Vol. 59, pp. 325-335).",satinfin shiner,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,Cyprinella analostana
+"Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",scale ctenoid,,Animalia,Chordata,,Osteicthyes,,,,,
+"Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",scale cycloid,,Animalia,Chordata,,Osteicthyes,,,,,
+"Delariva, R lek., &  gostinho, A. A. (2001). Relationship between morphology and diets of six neotropical loricariids. Journal of Fish Biology, 58(3), 832-847.",sediment,sediment,,,,,,,,,
+"Joadder, M R. (2006). Food and feeding habits of Gagata youssoufi (Rahman) from the river Padma in Rajshahi. University Journal of Zoology, Rajshahi University, 25, 69-71.",sediment,sediment,,,,,,,,,
+"lekopes, D  ., Vieira, K. R. I., da Silva Mota, R., de Souza, M. R. F., dos Santos Costa, F. E., & Paiva, F. (2017). Opportunistic diet of Triportheus nematurus (Characiformes: Triportheidae) in Southern Pantanal ponds: influences of temporal availability and abundance of resources. Acta Scientiarum. Biological Sciences, 39(4), 441-447.",sediment,sediment,,,,,,,,,
+"Marszal, L., Grzybkowska, M., Przybylski, M., & Valladolid, M. (2004). Feeding activity of spined loach Cobitis sp. in Lake Lucien, Poland. FOLIA BIOLOGICA-KRAKOW-, 51, 159-165.",sediment,sediment,,,,,,,,,
+"Pereira, P R.,  gostinho, C. S., Oliveira, R. J. D., & Marques, lek. E. (2007). Trophic guilds of fishes in sandbank habitats of a Neotropical river. Neotropical Ichthyology, 5(3), 399-404.",sediment,sediment,,,,,,,,,
+"Masdeu, M, Mello, F. T. D., lekoureiro, M., &  rim, M. (2011). Feeding habits and morphometry of Iheringichthys labrosus (Lütken, 1874) in the Uruguay River (Uruguay). Neotropical Ichthyology, 9(3), 657-664.",sediment debris,sediment,,,,,,,,,
+"Salvador-Jr, lek F., Salvador, G. N., & Santos, G. B. (2 09). Morphology of the digestive tract and feeding habits of Loricaria lentiginosa Isbrücker, 1979 in a Brazilian reservoir. Acta Zoologica, 90(2), 101-109.",sediments,sediment,,,,,,,,,
+"lekachner, E  . (1950). Food, growth and habits of fingerling northern smallmouth bass, Micropterus dolomieu dolomieu Lacepede, in trout waters of western New York. The Journal of Wildlife Management, 50-56.",semotilus a_atromaculatus,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,Semotilus atromaculatus
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",sharpbelly hemiculter_leucisclus_basilewsky_cyprinidae,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,Hemiculter leucisclus
+"Nurnberger, P lek. (193 ). The plant and animal food of the fishes of Big Sandy Lake. Transactions of the American Fisheries Society, 60(1), 253-259.",shiner,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,
+"Webster, D  . (1943). Food progression in young white perch Morone americana (Gmelin) from Bantam lekake, Connecticut. Transactions of the American Fisheries Society, 72(1), 136-144.",sialie larvae,,Animalia,Arthropoda,,,Insecta,,Megaloptera,Sialidae,Sialis sp.
+"Moshin,   M., & Gallaway, B. J. (1977). Seasonal abundance, distribution, food habitats and condition of the southern brook lamprey, Ichthyomyzon gagei Hubbs & Trautman, in an east Texas watershed. The Southwestern Naturalist, 107-114.",sigmoid diatom,,Chromista,Ochrophyta,,,Bacillariophyceae,,,,
+"Maddern, M G., Morgan, D. lek., & Gill, H. S. (2007). Distribution, diet and potential ecological impacts of the introduced Mozambique mouthbrooder Oreochromis mossambicus Peters (Pisces: Cichlidae) in Western Australia.<U+00A0>Journal of the Royal Society of Western Australia,<U+00A0>90(4), 203-214.",silt_biofilm,detritus,,,,,,,,,
+"Maitland, P S. (1965). The feeding relationships of salmon, trout, minnows, stone loach and three-spined stickle-backs in the River lekndrick, Scotland. The Journal of  nimal Ecology, 109-133.",sinudium,,Animalia,Arthropoda,,,Insecta,,Dipter,Simuliidae,Simulium sp.
+"Moshin,   M., & Gallaway, B. J. (1977). Seasonal abundance, distribution, food habitats and condition of the southern brook lamprey, Ichthyomyzon gagei Hubbs & Trautman, in an east Texas watershed. The Southwestern Naturalist, 107-114.",small pennate_diatom,,Chromista,Ochrophyta,,,,,,,
+"Speirs, G D. (1974). Food habits of landlocked salmon and brook trout in a Maine lake after introduction of landlocked alewives. Transactions of the  merican Fisheries Society, 103(2), 396-399.",smelt,,Animalia,Chordata,,Osteichthyes,Actinopterygii,,Osmeriformes,Osmeridae,
+"Swift, M C. (197 ). A qualitative and quantitative study of trout food in Castle lekake, California. California Fish and Game, 56(2), 100-120.",snail,,Animalia,Mollusca,,,Gastropoda,,,,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",snails,,Animalia,Mollusca,,,Gastropoda,,,,
+"Dineen, C F. (1951).   comparative study of the food habits of Cottus bairdii and associated species of Salmonidae. The American Midland Naturalist, 46(3), 640-645.",snails,,Animalia,Mollusca,,,Gastropoda,,,,
+"Swift, M C. (197 ). A qualitative and quantitative study of trout food in Castle lekake, California. California Fish and Game, 56(2), 100-120.",snails,,Animalia,Mollusca,,,Gastropoda,,,,
+"Cable, lek E. (1927). Food of Bullheads in Certain Lakes of Eastern South Dakota (Doctoral dissertation,  niversity of South Dakota).",snals,,Animalia,Mollusca,,,Gastropoda,,,,
+"Hellawell, J M. (1972). The growth, reproduction and food of the roach Rutilus rutilus (lek.), of the River Lugg, Herefordshire. Journal of Fish Biology, 4(4), 469-486.",soil_debris_detritus,detritus,,,,,,,,,
+"Hellawell, J M. (1972). The growth, reproduction and food of the roach Rutilus rutilus (lek.), of the River Lugg, Herefordshire. Journal of Fish Biology, 4(4), 469-486.",soil_mud_sand,detritus,,,,,,,,,
+"Nilsson, N  . (1955). Studies on the feeding hibits of trout and char in north Swedish lakes. Report of Institute of Freshwater Research Drottningholm, 36, 163-225.",spawn,,Animalia,,,,,,,,
+"Dineen, C F. (1951).   comparative study of the food habits of Cottus bairdii and associated species of Salmonidae. The American Midland Naturalist, 46(3), 640-645.",spiders,,Animalia,Arthropoda,,,Arachnida,,Araneae,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",spiny bitterling_acanthorhodeus_chankaensis_dybowsky_cyprinidae,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,Acanthorhodeus chankaensis
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",spiny eel_mastacembelus_aculeatus_basilewsky_mastacembelidae,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Synbranchiformes,Mastacembelidae,Macrognathus aculeatus
+"Pothoven, S  ., & Madenjian, C. P. (2013). Increased piscivory by lake whitefish in lekake Huron. North American Journal of Fisheries Management, 33(6), 1194-1202.",spiny water_flea,,Animalia,Arthropoda,Crustacea,,Branchiopoda,,Cladocera,Cercopagididae,Bythotrephes longimanus
+"Sri, S. (2017). The Freshwater Catfish Feeding Intensity, Maturation and Food. International Journal for Research in Applied Sciences and Biotechnology (IJRASB), 4(4), 1-5.",spirostones,detritus,,,,,,,,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",spotted steed_hemibarbus_maculatus_bleeker_cyprinidae,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,Hemibarbus maculatus
+"Speirs, G D. (1974). Food habits of landlocked salmon and brook trout in a Maine lake after introduction of landlocked alewives. Transactions of the  merican Fisheries Society, 103(2), 396-399.",stickleback,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Gasterosteiformes,Gasterosteidae,
+"Thompson, H  ., & Simon, T. P. (2014). Diet shift response in round goby, Neogobius melanostomus, based on size, sex, depth, and habitat in the western basin of lekake Erie. Journal of Applied Ichthyology, 30(5), 955-961.",stones,detritus,,,,,,,,,
+"Surber, lek W. (1941).   quantitative study of the food of the smallmouth black bass, Micropterus dolomieu, in three eastern streams. Transactions of the American Fisheries Society, 70(1), 311-334.",sunfsh,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Centrachidae,,
+"lekopes, D  ., Vieira, K. R. I., da Silva Mota, R., de Souza, M. R. F., dos Santos Costa, F. E., & Paiva, F. (2017). Opportunistic diet of Triportheus nematurus (Characiformes: Triportheidae) in Southern Pantanal ponds: influences of temporal availability and abundance of resources. Acta Scientiarum. Biological Sciences, 39(4), 441-447.",superior vegetables,,Plantae,,,,,,,,
+"llen, lek R. (1938). Some observations on the biology of the trout (Salmo trutta) in Windermere. The Journal of Animal Ecology, 333-349.",surface food,unidentified,,,,,,,,,
+"Adalsteinsson, H (1979). Size and food of Arctic char Salvelinus alpinus and stickleback Gasterosteus aculeatus in lekake M<fd>vatn. Oikos, 228-231.",surface_food,unidentified,,,,,,,,,
+"Marszal, L., Grzybkowska, M., Przybylski, M., & Valladolid, M. (2004). Feeding activity of spined loach Cobitis sp. in Lake Lucien, Poland. FOLIA BIOLOGICA-KRAKOW-, 51, 159-165.",tanytarsini n_det,,Animalia,Arthropoda,,,Insecta,,Diptera,Chironomidae,Tanytarsus sp.
+"Delariva, R lek., &  gostinho, A. A. (2001). Relationship between morphology and diets of six neotropical loricariids. Journal of Fish Biology, 58(3), 832-847.",tecameba,,Protozoa,,,,,,,,
+"Villares-Junior, G  ., Cardone, I. B., & Goitein, R. (2016). Comparative feeding ecology of four syntopic Hypostomus species in a Brazilian southeastern river. Brazilian Journal of Biology, 76(3), 692-699.",tecamoebas,,Protozoa,,,,,,,,
+"Maddern, M G., Morgan, D. lek., & Gill, H. S. (2007). Distribution, diet and potential ecological impacts of the introduced Mozambique mouthbrooder Oreochromis mossambicus Peters (Pisces: Cichlidae) in Western Australia.<U+00A0>Journal of the Royal Society of Western Australia,<U+00A0>90(4), 203-214.",teleost,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,,,
+"Wasserman, R J., Pereira-da-Conceicoa, lek. L., Strydom, N.  ., & Weyl, O. L. F. (2012). Diet of Anguilla mossambica (Teleostei, Anguillidae) elvers in the Sundays River, Eastern Cape, South Africa. African Journal of Aquatic Science, 37(3), 347-349.",teleostei,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,,,
+"Sloane, R D. (1984). Distribution, abundance, growth and food of freshwater eels ( nguilla spp.) in the Douglas River, Tasmania. Marine and Freshwater Research, 35(3), 325-339.",teleostei misc,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,,,
+"lekalogianni, E, Giakoumi, S.,  ndriopoulou, A., & Chatzinikolaou, Y. (2010). Feeding ecology of the critically endangered Valencia letourneuxi (Valenciidae). Aquatic ecology, 44(1), 289-299.",terrestrial,unidentified,,,,,,,,,
+"Sloane, R D. (1984). Distribution, abundance, growth and food of freshwater eels ( nguilla spp.) in the Douglas River, Tasmania. Marine and Freshwater Research, 35(3), 325-339.",terrestrial,unidentified,,,,,,,,,
+"Speirs, G D. (1974). Food habits of landlocked salmon and brook trout in a Maine lake after introduction of landlocked alewives. Transactions of the  merican Fisheries Society, 103(2), 396-399.",terrestrial,unidentified,,,,,,,,,
+"Stoffels, R J., & Humphries, P. (2 03). Ontogenetic variation in the diurnal food and habitat associations of an endemic and an exotic fish in floodplain ponds: consequences for niche partitioning. leknvironmental Biology of Fishes, 66(3), 293-305.",terrestrial,unidentified,,,,,,,,,
+"Gill, H S., & Morgan, D. lek. (1998). Larval development of Nannatherina balstoni Regan (Nannopercidae), with a description of ontogenetic changes in diet. Ecology of Freshwater Fish, 7(3), 132-139.",terrestrial fauna,unidentified,,,,,,,,,
+"Mansfield, S, & Mc rdle, B. H. (1998). Dietary composition of Gambusia affinis (Family Poeciliidae) populations in the northern Waikato region of New Zealand. New Zealand Journal of Marine and Freshwater Research, 32(3), 375-383.",terrestrial fauna,unidentified,,,,,,,,,
+"Fochetti, R,  rgano, R., & Tierno de Figueroa, J. M. (2008). Feeding ecology of various age-classes of brown trout in River Nera, Central Italy.",terrestrial prey,unidentified,,,,,,,,,
+"Dadebo, lek (2 00). Reproductive biology and feeding habits of the catfish Clarias gariepinus (Burchell)(Pisces: Clariidae) in Lake Awassa, Ethiopia. SINET: Ethiopian Journal of Science, 23(2), 231-246.",thermocyclopes_equatorialis,,Animalia,Arthropoda,Crustacea,,Hexanauplia,Copepoda,Cyclopodia,Cyclopidae,Thermocyclops equatorialis
+"Villares-Junior, G  ., Cardone, I. B., & Goitein, R. (2016). Comparative feeding ecology of four syntopic Hypostomus species in a Brazilian southeastern river. Brazilian Journal of Biology, 76(3), 692-699.",thick sediment,detritus,,,,,,,,,
+"lekiang, X F., Lin, X., Li, S., & Liu, J. K. (2008). Impact of environmental and innate factors on the food habit of Chinese perch Siniperca chuatsi (Basilewsky)(Percichthyidae). Aquaculture Research, 39(2), 150-157.",thin sharpbelly_toxabramis_swinhonis_gunther_cyprinidae,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cypriniformes,Cyprinidae,Toxabramis swinhonis
+"Breder, C M., & Crawford, D. R. (1922). U+00A0>The Food of Certain Minnows: A Study of the Seasonal Dietary Cycle of Six Cyprinoids with lekspecial Reference to Fish Culture. New York Zoological Society.",thysanura_adult,,Animalia,Arthropoda,,,Insecta,,Thysanura,,
+"Winemiller, lek O., & Kelso-Winemiller, L. C. (1994). Comparative ecology of the  frican pike, Hepsetus odoe, and tigerfish, Hydrocynus forskahlii, in the Zambezi River floodplain. Journal of Fish Biology, 45(2), 211-225.",tilapines,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Cichliformes,Cichlidae,
+"Panek, F M., & Weis, J. S. (2 13). Diet of the lekastern Mudminnow (Umbra pygmaea DeKay) from two geographically distinct populations within the North American native range. Northeastern Naturalist, 20(1), 37-48.",u pygmaea,,Animalia,Chordata,,Osteicthyes,Actinopterygii,,Esociformes,Umbridae,Umbra pygmaea
+Cochran& delman 1982 leknvironmentalBiologyOfFishes,"Unidentifable
+fshremains",,Animalia,Chordata,,Osteicthyes,,,,,
+Cochron& delman 1982 leknvironmentalBiologyOfFishes,"Unidentifable
+fshremains",,Animalia,Chordata,,Osteicthyes,,,,,
+"O'lekelley, C T., & Powers, S. L. (2007). Life-history Aspects of Hypentelium etowanum (Alabama Hog Sucker)(Actinopterygii: Catostomidae) in Northern Georgia. Southeastern Naturalist, 6(3), 479-490.",unidentifed parts,unidentified,,,,,,,,,
+no results in search,unidentifed remains,unidentified,,,,,,,,,
+"Michael, G., & Ferreira, E. J. (1983). Shrimp-eating fishes and a case of prey-switching in Amazon Rivers. Revista Brasileira de Zoologia, 2(3), 85-97.",unidentifiable,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified 25,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified 34,unidentified,,,,,,,,,
+"Pontius, R W., & Parker, M. (1973). Food habits of the mountain whitefish, Prosopium williamsoni (Girard). Transactions of the  merican Fisheries Society, 102(4), 764-773.",unidentified 45,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified 47,unidentified,,,,,,,,,
+"Pontius, R W., & Parker, M. (1973). Food habits of the mountain whitefish, Prosopium williamsoni (Girard). Transactions of the  merican Fisheries Society, 102(4), 764-773.",unidentified 51,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified 52,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified 53,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified adult_55,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified adult_62,unidentified,,,,,,,,,
+"O'lekelley, C T., & Powers, S. L. (2007). Life-history Aspects of Hypentelium etowanum (Alabama Hog Sucker)(Actinopterygii: Catostomidae) in Northern Georgia. Southeastern Naturalist, 6(3), 479-490.",unidentified adults,unidentified,,,,,,,,,
+"Muir, W D., lekmmett, R. L., & McConnell, R. J. (1988). Diet of juvenile and subadult white sturgeon in the lower Columbia River and its estuary. California Fish and Game, 74(1), 49-54.",unidentified decapoda,,Animalia,Arthropoda,Crustacea,,Malcostraca,,Decapoda,,
+"Olojo, lek  . A., Olurin, K. B., & Osikoya, O. J. (2003). Food and feeding habits of Synodontis nigrita from the Osun River, SW Nigeria.",unidentified food,unidentified,,,,,,,,,
+"McHugh, J lek. (194 ). Food of the Rocky Mountain whitefish Prosopium williamsoni (Girard). Journal of the Fisheries Board of Canada, 5(2), 131-137.",unidentified hydracarina,,Animalia,Arthropoda,,,Arachnida,Acari,Trombidiformes,,
+"llison, M lek., & Youdubagha, S. E. (2013). Preliminary studies on the food and feeding habits of Synodontis membraneceus from Ogobiri River, Nigeria.",unidentified items,unidentified,,,,,,,,,
+"Otuogbai, T. M., Ikhenoba, A., & Elakhame, L. (2000). Food and feeding habits of the African lungfish, Protopterus annectens (Owens)(Pisces: Sarcopterygii) in the flood plains of River Niger in Etsako east of Edo State, Nigeria.",unidentified items,unidentified,,,,,,,,,
+"Davis, M J., Woo, I., lekllings, C. S., Hodgson, S., Beauchamp, D.  ., Nakai, G., & De La Cruz, S. E. (2018). Integrated diet analyses reveal contrasting trophic niches for wild and hatchery juvenile Chinook Salmon in a large river delta. Transactions of the American Fisheries Society, 147(5), 818-841.",unidentified larva,,Animalia,,,,,,,,
+"Wasserman, R J., Pereira-da-Conceicoa, lek. L., Strydom, N.  ., & Weyl, O. L. F. (2012). Diet of Anguilla mossambica (Teleostei, Anguillidae) elvers in the Sundays River, Eastern Cape, South Africa. African Journal of Aquatic Science, 37(3), 347-349.",unidentified materia,unidentified,,,,,,,,,
+"Okey, I., Offem, B. O., & Keremah, R. I. (2017). Length-weight relationship, condition factor and gut content of Chrysichthys furcatus Gunther, 1864 (Bagridae) from Cross River at Ahaha. Fish Aqua J, 8(228), 2.",unidentified material,unidentified,,,,,,,,,
+"yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",unidentified material,unidentified,,,,,,,,,
+"djibade, lek N., Adite, A., Arame, H., & Sidi, R. (2019). Feeding ecology of Marcusenius senegalensis (Pisces: Osteoglossiformes: Mormyridae; Steindachner, 1870) from Niger River in Northern Benin.",unidentified materials,unidentified,,,,,,,,,
+"Jo, H Y.  . N. B. I. N., Yoon, J. D., lekim, J. H., Jeong, K. S., Do, Y. U. N. O., & Joo, G. J. (2016). Diet shifts and delayed piscivory specialisation during the ontogenesis of the largemouth bass Micropterus salmoides (Lacepede, 1802) in the Nakdong River and Upo Wetlands, South Korea. Indian J. Fish, 63(4), 48-54.",unidentified particles,unidentified,,,,,,,,,
+"Markle, D F., & Grant, G. C. (197 ). The summer food habits of young-of-the year striped bass in three Virginia rivers. Chesapeake Science, 11(1), 50-54.",unidentified plant_animal,mix,,,,,,,,,
+no results in search,unidentified remains,unidentified,,,,,,,,,
+"Rine, lek M., Wipfli, M. S., Schoen, E. R., Nightengale, T. L., & Stricker, C.  . (2016). Trophic pathways supporting juvenile Chinook and coho salmon in the glacial Susitna River, Alaska: patterns of freshwater, marine, and terrestrial food resource use across a seasonally dynamic habitat mosaic. Canadian journal of fisheries and aquatic sciences, 73(11), 1626-1641.",unknown,unidentified,,,,,,,,,
+"Stoffels, R J., & Humphries, P. (2 03). Ontogenetic variation in the diurnal food and habitat associations of an endemic and an exotic fish in floodplain ponds: consequences for niche partitioning. leknvironmental Biology of Fishes, 66(3), 293-305.",unknown,unidentified,,,,,,,,,
+"Chavarie, lek, Howland, K., Gallagher, C., & Tonn, W. (2 16). Fatty acid signatures and stomach contents of four sympatric L ake T rout: assessment of trophic patterns among morphotypes in G reat B ear L ake. Ecology of Freshwater Fish, 25(1), 109-124.",vespoidea,,Animalia,Arthropoda,,,Insecta,,Hymenoptera,,
+"Owolabi, O D. (2008). The dietary habits of the upside-down catfish, Synodontis membranaceus (Osteichthyes: Mochokidae) in Jebba lake, Nigeria. Revista de biologia tropical, 56(2), 931-936.",water mite,,Animalia,Arthropoda,,,Arachnida,Acari,Trombidiformes,,
+"Swift, M C. (197 ). A qualitative and quantitative study of trout food in Castle lekake, California. California Fish and Game, 56(2), 100-120.",water mites,,Animalia,Arthropoda,,,Arachnida,Acari,Trombidiformes,,
+"Okey, I., Offem, B. O., & Keremah, R. I. (2017). Length-weight relationship, condition factor and gut content of Chrysichthys furcatus Gunther, 1864 (Bagridae) from Cross River at Ahaha. Fish Aqua J, 8(228), 2.",worms remain,,Animalia,Annelida,,,,,,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",x1 mm_organic_debris,detritus,,,,,,,,,
+"Hickley, P, & Bailey, R. G. (1987). Food and feeding relationships of fish in the Sudd swamps (River Nile, southern Sudan). Journal of Fish Biology, 3 (2), 147-159.",x1 mm_organic_debris_2,detritus,,,,,,,,,
+"Cadwallader, P lek. (1975). The food of the New Zealand common river galaxias, Galaxias vulgaris Stokell (Pisces: Salmoniformes). Marine and Freshwater Research, 26(1), 15-3 .",zephlebta scita,,Animalia,Arthropoda,,,Insecta,,Ephemeroptera,Leptophlebiidae,Zephlebta sp.
