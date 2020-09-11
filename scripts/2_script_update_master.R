@@ -47,8 +47,6 @@ lat_lon <- data_to_add %>%
 #add lat/lon and taxa info to data
 new_data_latlon <- as_tibble(data_to_add) %>% 
   full_join(lat_lon, by = "site_name") %>% 
-  left_join(prey_taxa_all) %>% 
-  left_join(fish_taxa_all) %>%
   mutate(dateadded = as.character(Sys.Date()),
          measure_numeric = as.numeric(measurement)) %>%
   mutate(measure_numeric = case_when(measurement == "trace" ~ 0.0001,

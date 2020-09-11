@@ -22,15 +22,6 @@ data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Data
 
 write.csv(data_fish,file = paste0("database/data_backups/data_fish", Sys.Date(),".csv"),row.names = F)
 
-#make a list of taxa names to append later for prey and fish ----------------------------------------------------------
-#makes two sets, one with original spelling, and the other in sentence case.
-prey_taxa_all <- data_fish %>% select(prey_taxon, prey_kingdom, prey_class, prey_order, prey_family, prey_species) %>% 
-  distinct(prey_taxon, .keep_all = TRUE) 
-
-fish_taxa_all <- data_fish %>% select(type_of_fish, fish_class, fish_superclass, fish_order, fish_family) %>% 
-  distinct(type_of_fish, .keep_all = TRUE) 
-
-
 #set folder to import from - name of folder in the working directory that contains extracted csvs to add
 #MANUALLY CHANGE THE FOLDER NAME BELOW #
 folder <- "keast_fixed"
