@@ -13,8 +13,6 @@ library(RCurl)
 library(ulid)
 library(rfishbase)
 
-
-
 # Load master data set and save a backup ----------------------------------------------------
 data_fish <- readRDS(url("https://github.com/JMRidgway/Freshwater-Fish-Diet-Database/blob/master/database/data_fish.rds?raw=true")) %>%
   mutate_all(as.character) %>%
