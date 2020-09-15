@@ -1,75 +1,67 @@
-prey_taxon,prey_kingdom_add,prey_phylum_add,prey_class_add,prey_order_add,prey_family_add,prey_genus_add,prey_species_add
-adult fish,Animalia,Chordata,Actinopterygii,,,,
-and_eggs,,,,,,,
-bait_mash_of_oil_and_garri,,,,,,,
-"Bottom
-ooze",,,,,,,
-bottom_deposits,,,,,,,
-coarse_sand,,,,,,,
-debris,,,,,,,
-Debris  and  detritus,,,,,,,
-debris_detritus,,,,,,,
-detritus,,,,,,,
-detritus_and_other,,,,,,,
-detritus_mud,,,,,,,
-detritus_sand,,,,,,,
-detritus_sediment,,,,,,,
-detritus_substratum,,,,,,,
-Detrius,,,,,,,
-einfeldiu_sp,Animalia,Arthropoda,Insecta,Diptera,Chironomidae,Einfeldia,
-empty_space,,,,,,,
-fine_detritus,,,,,,,
-fine_sand,,,,,,,
-fpom,,,,,,,
-g_giurus,Animalia,Chordata,Actinopterygii,Gobiiformes,Gobiidae,Glossogobius,Glossogobius giuris
-g_lignorunz,Animalia,Arthropoda,Malacostraca,Amphipoda,Aoridae,Grandidierella,Grandidierella lignorunz
-garri_fibres,,,,,,,
-gleocystis,Plantae,Chlorophyta,Clhorophyceae,Sphaeropleales,Radiococcaceae,Gloeocystis,
-gyrosigma_sp,Chromista,Ochrophyta,Bacillariophyceae,Naviculales,Naviculales,Gyrosigma,
-gyrosigma_sp_1,Chromista,Ochrophyta,Bacillariophyceae,Naviculales,Naviculales,Gyrosigma,
-h_orbiculare,Animalia,Arthropoda,Malacostraca,Decapoda,Hymenosomatidae,Hymenosoma,Hymenosoma orbiculare
-heminoptera,,,,,,,
-homalopterinae,Animalia,Chordata,Actinopterygii,Cypriniformes,Balitoridae,Homaloptera,
-i_sordidus,Animalia,Arthropoda,Crustacea,Cladocera,Ilyocryptidae,Ilyocryptus,Ilyocryptus sordidus
-Incidentalmatter,,,,,,,
-Inorganic  detritus,,,,,,,
-inorganic_material,,,,,,,
-inorganic_matter,,,,,,,
-juvenile fish,Animalia,Chordata,Actinopterygii,,,,
-miscellaneous,,,,,,,
-mn_remains,,,,,,,
-mud,,,,,,,
-mud_detritus,,,,,,,
-NA,,,,,,,
-nonprey_items,,,,,,,
-not_identified,,,,,,,
-oocytes,,,,,,,
-Ooze,,,,,,,
-Organic  detritus,,,,,,,
-organic_mat_undet,,,,,,,
-organic_matter,,,,,,,
-organic_matter_not_identified,,,,,,,
-Organic-inorganic  debris,,,,,,,
-own_eggs,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus,Gasterosteus aculeatus
-plankton,,,,,,,
-rocks,,,,,,,
-sand,,,,,,,
-Sand,,,,,,,
-Sand grains,,,,,,,
-sand_and_silt,,,,,,,
-sand_grains,,,,,,,
-sand_silt,,,,,,,
-semi_digested_organic_matter,,,,,,,
-setac_of_oligochaetes,Animalia,Annelida,Clitellata,,,,
-shad,Animalia,Chordata,Actinopterygii,Clupeiformes,Clupeidae,,
-shell_fragments,,,,,,,
-silt_biofilm,,,,,,,
-soil_debris_detritus,,,,,,,
-soil_mud_sand,,,,,,,
-surface_food,,,,,,,
-table_2_continued,,,,,,,
-terrestrial,,,,,,,
-testacea,,,,,,,
-thread,,,,,,,
+"prey_taxon","citation","n"
+"alewife","Pothoven, S  ., Madenjian, C. P., & Höök, T. O. (2017). Feeding ecology of the walleye (Percidae, Sander vitreus), a resurgent piscivore in lekake Huron (Laurentian Great Lakes) after shifts in the prey community. Ecology of Freshwater Fish, 26(4), 676-685.",8
+"alona","tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",4
+"alonella sp","García- lzate, C A., Román-Valencia, C., & Barrero, A. M. (2012). Biología alimentaria y reproductiva de Farlowella vittata (Siluriformes: lekoricariidae) en la cuenca del río Güejar, Orinoquía, Colombia. Revista de Biología Tropical, 60(4), 1873-1888.",3
+"aquatic vegetation","De  lmeida, V lek. L., Hahn, N. S., & Agostinho, C. S. (1998). Stomach content of juvenile and adult piranhas (Serrasalmus marginatus) in the Paraná Floodplains, Brazil. Studies on Neotropical Fauna and Environment, 33(2), 100-105.",2
+"aquatic vegetation","kin, S, Sahin, C., Verep, B., Turan, D., Gözler, A. M., Bozkurt, A., ... & Sargin, I. (2011). Feeding habits of introduced lekuropean perch (Perca fluviatilis) in an impounded large river system in Turkey. African Journal of Agricultural Research, 6(18), 4293-4307.",2
+"atlantic tomcod","Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",19
+"baetiscids","Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",25
+"benthos","lekseyev, S S., Gordeeva, N. V., Matveev, A. N., Samusenok, V. P., Vokin, A. I., & Yur’ev, A. lek. (2014). Three sympatric forms of Arctic charr Salvelinus alpinus complex (Salmoniformes, Salmonidae) from Lake Kamkanda, northern Transbaikalia. Journal of Ichthyology, 54(6), 384-408.",10
+"blue algae","Villares-Junior, G  ., Cardone, I. B., & Goitein, R. (2016). Comparative feeding ecology of four syntopic Hypostomus species in a Brazilian southeastern river. Brazilian Journal of Biology, 76(3), 692-699.",3
+"bosmina sp","Balik, I., Karasahin, B., Özkök, R., Çubuk, H., & Uysal, R. (2003). Diet of silver crucian carp Carasssius gibelio in Lake Egirdir. Turkish Journal of Fisheries and Aquatic Sciences, 3(2), 87-91.",4
+"bosmina sp","Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",2
+"brachionus","tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",4
+"brachionus plicatilis","lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",2
+"brachycentrids","Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",19
+"brachyura sp_crabs","kin, S, Sahin, C., Verep, B., Turan, D., Gözler, A. M., Bozkurt, A., ... & Sargin, I. (2011). Feeding habits of introduced lekuropean perch (Perca fluviatilis) in an impounded large river system in Turkey. African Journal of Agricultural Research, 6(18), 4293-4307.",2
+"branchionus sp","García- lzate, C A., Román-Valencia, C., & Barrero, A. M. (2012). Biología alimentaria y reproductiva de Farlowella vittata (Siluriformes: lekoricariidae) en la cuenca del río Güejar, Orinoquía, Colombia. Revista de Biología Tropical, 60(4), 1873-1888.",3
+"brundiniella sp_larvae","Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",3
+"bryozoa","Costa, I D. D., & Soares, M. O. (2 15). The seasonal diet of Aequidens tetramerus (Cichlidae) in a small forest stream in the Machado River basin, Rondônia, Brazil. Acta Amazonica, 45(4), 365-372.",2
+"bulinus","tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",4
+"calanoida fragments","Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",3
+"canuella perplexa","lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",2
+"cariodaphnia sp","Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",2
+"char eggs","Björnsson, B (2001). The trophic ecology of arctic char (Salvelinus alpinus) and brown trout (Salmo trutta) in lekllidavatn, a small lake in Southwest Iceland. Limnologica, 31(3), 199-207.",4
+"colonial algae","yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",4
+"coregonid","Pothoven, S  ., Madenjian, C. P., & Höök, T. O. (2017). Feeding ecology of the walleye (Percidae, Sander vitreus), a resurgent piscivore in lekake Huron (Laurentian Great Lakes) after shifts in the prey community. Ecology of Freshwater Fish, 26(4), 676-685.",8
+"debris","Junior, N F., Machado, F.  ., Zuanon, J. S., & Ferreira, lek. J. (2016). The fish fauna of sessile hydrophytes stands (Mourera spp.: Podostemaceae) in the Dardanelos Waterfalls, Rio Aripuanã, Brazil. Aqua Int. J. Ichthyol., 22, 133-144.",24
+"debris","Silva, N C. D. S., Costa,  . J. lek. D., Louvise, J., Soares, B. E., ALBRECHT, M. P., & CARAMASCHI, É. P. (2016). Resource partitioning and ecomorphological variation in two syntopic species of Lebiasinidae (Characiformes) in an Amazonian stream. Acta Amazonica, 46(1), 25-36.",2
+"detritus","García- lzate, C A., Román-Valencia, C., & Barrero, A. M. (2012). Biología alimentaria y reproductiva de Farlowella vittata (Siluriformes: lekoricariidae) en la cuenca del río Güejar, Orinoquía, Colombia. Revista de Biología Tropical, 60(4), 1873-1888.",3
+"detritus","kin, S, Sahin, C., Verep, B., Turan, D., Gözler, A. M., Bozkurt, A., ... & Sargin, I. (2011). Feeding habits of introduced lekuropean perch (Perca fluviatilis) in an impounded large river system in Turkey. African Journal of Agricultural Research, 6(18), 4293-4307.",2
+"detritus","lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",2
+"detritus","Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",3
+"detritus mud","Costa, I D. D., & Soares, M. O. (2 15). The seasonal diet of Aequidens tetramerus (Cichlidae) in a small forest stream in the Machado River basin, Rondônia, Brazil. Acta Amazonica, 45(4), 365-372.",2
+"detritus sediment","Delariva, R lek., Hahn, N. S., & Gomes, L. C. (2007). Diet of a catfish before and after damming of the Salto Caxias Reservoir, Iguaçu River. Brazilian Archives of Biology and Technology, 50(5), 767-775.",16
+"egg mass","Stefani, P M., & Rocha, O. (2 09). Diet composition of Plagioscion squamosissimus (Heckel, 1840), a fish introduced into the Tietê River system. Brazilian Journal of Biology, 69(3), 805-812.",3
+"euciliata vorticella_sp","Balik, I., Karasahin, B., Özkök, R., Çubuk, H., & Uysal, R. (2003). Diet of silver crucian carp Carasssius gibelio in Lake Egirdir. Turkish Journal of Fisheries and Aquatic Sciences, 3(2), 87-91.",4
+"euglenophyta","Yalçin-Özdilek, S, lekirankaya, S. G., & Ekmekçi, F. G. (2 13). Feeding ecology of the topmouth gudgeon Pseudorasbora parva (Temminck and Schlegel, 1846) in the Gelingüllü Reservoir, Turkey. Turkish Journal of Fisheries and Aquatic Sciences, 13(1), 87-94.",2
+"fragments","Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",2
+"green eggs","tobatele, O lek., & Ugwumba, A. O. (2011). Condition factor and diet of Chrysichthys nigrodigitatus and Chrysichthys auratus (Siluriformes: Bagridae) from Aiba Reservoir, Iwo, Nigeria. Revista de Biología Tropical, 59(3), 1233-1244.",4
+"h bebe_occidentalis_fry","yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",4
+"immature bivalve","Masdeu, M, Mello, F. T. D., lekoureiro, M., &  rim, M. (2011). Feeding habits and morphometry of Iheringichthys labrosus (Lütken, 1874) in the Uruguay River (Uruguay). Neotropical Ichthyology, 9(3), 657-664.",4
+"invertebrate eggs","lcaraz, C, & García-Berthou, lek. (2007). Food of an endangered cyprinodont (Aphanius iberus): ontogenetic diet shift and prey electivity. Environmental Biology of Fishes, 78(3), 193-207.",2
+"invertebrate eggs","Silva, N C. D. S., Costa,  . J. lek. D., Louvise, J., Soares, B. E., ALBRECHT, M. P., & CARAMASCHI, É. P. (2016). Resource partitioning and ecomorphological variation in two syntopic species of Lebiasinidae (Characiformes) in an Amazonian stream. Acta Amazonica, 46(1), 25-36.",2
+"leptophlebiidaenewt","Fernandes, S, lekeitão, R. P., Dary, E. P., Guerreiro,  . I. C., Zuanon, J., & Bührnheim, C. M. (2017). Diet of two syntopic species of Crenuchidae (Ostariophysi: Characiformes) in an Amazonian rocky stream. Biota Neotropica, 17(1).",4
+"mysidacea mysis_sp","Balik, I., Karasahin, B., Özkök, R., Çubuk, H., & Uysal, R. (2003). Diet of silver crucian carp Carasssius gibelio in Lake Egirdir. Turkish Journal of Fisheries and Aquatic Sciences, 3(2), 87-91.",4
+"nemathelminthes","Neill, R M. (1938). XVIII.—The Food and Feeding of the Brown Trout (Salmo trutta lek.) in Relation to the Organic Environment. Earth and Environmental Science Transactions of The Royal Society of Edinburgh, 59(2), 481-52 .",4
+"not_identified","de  lmeida VlekL, Hahn NS, Vazzoler AEA de M Feeding patterns in
+five predatory fishes of the high Parana River floodplain (PR, Brazil).
+Ecology of Freshwater Fish 1997: 6: 123-133.",10
+"operculab","Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",19
+"organic debris","Fernandes, S, lekeitão, R. P., Dary, E. P., Guerreiro,  . I. C., Zuanon, J., & Bührnheim, C. M. (2017). Diet of two syntopic species of Crenuchidae (Ostariophysi: Characiformes) in an Amazonian rocky stream. Biota Neotropica, 17(1).",4
+"organic matter","Salvador-Jr, lek F., Salvador, G. N., & Santos, G. B. (2 09). Morphology of the digestive tract and feeding habits of Loricaria lentiginosa Isbrücker, 1979 in a Brazilian reservoir. Acta Zoologica, 90(2), 101-109.",1
+"organic matter","Silva, N C. D. S., Costa,  . J. lek. D., Louvise, J., Soares, B. E., ALBRECHT, M. P., & CARAMASCHI, É. P. (2016). Resource partitioning and ecomorphological variation in two syntopic species of Lebiasinidae (Characiformes) in an Amazonian stream. Acta Amazonica, 46(1), 25-36.",2
+"other prey","Magalhães, M F. (1993). Feeding of an Iberian stream cyprinid assemblage: seasonality of resource use in a highly variable environment. Oecologia, 96(2), 253-26 .",28
+"physids","Guilbard, F R. É. D. É. R. I. C., Munro, J. lek.  . N., Dumont, P. I. E. R. R. E., Hatin, D. A. N. I. E. L., & Fortin, R. É. J. E. A. N. (2007). Feeding ecology of Atlantic sturgeon and lake sturgeon co-occurring in the St. Lawrence estuarine transition zone. In American Fisheries Society Symposium (Vol. 56, p. 85). American Fisheries Society.",11
+"pisces ova","Neill, R M. (1938). XVIII.—The Food and Feeding of the Brown Trout (Salmo trutta lek.) in Relation to the Organic Environment. Earth and Environmental Science Transactions of The Royal Society of Edinburgh, 59(2), 481-52 .",4
+"rainbow smelt","Pothoven, S  ., Madenjian, C. P., & Höök, T. O. (2017). Feeding ecology of the walleye (Percidae, Sander vitreus), a resurgent piscivore in lekake Huron (Laurentian Great Lakes) after shifts in the prey community. Ecology of Freshwater Fish, 26(4), 676-685.",8
+"sand particle","yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",4
+"scale ctenoid","Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",2
+"scale cycloid","Silva, Z, Nascimento, P. lek. C. D., Vitule, J. R. S., Frehse, F. D.  ., Ferraz, M. S. O., & Mourgués-Schurter, L. R. (2019). Diet and resource sharing by two Pimelodidae species in a Southeastern Brazilian reservoir. Biota Neotropica, 19(3).",2
+"sediment debris","Masdeu, M, Mello, F. T. D., lekoureiro, M., &  rim, M. (2011). Feeding habits and morphometry of Iheringichthys labrosus (Lütken, 1874) in the Uruguay River (Uruguay). Neotropical Ichthyology, 9(3), 657-664.",4
+"sediments","Salvador-Jr, lek F., Salvador, G. N., & Santos, G. B. (2 09). Morphology of the digestive tract and feeding habits of Loricaria lentiginosa Isbrücker, 1979 in a Brazilian reservoir. Acta Zoologica, 90(2), 101-109.",1
 "Unidentifable
-fshremains",Animalia,Chordata,Actinopterygii,,,,
+fshremains","Cochran& delman 1982 leknvironmentalBiologyOfFishes",4
+"Unidentifable
+fshremains","Cochron& delman 1982 leknvironmentalBiologyOfFishes",28
+"unidentified material","yoade, A, Fagade, S., & Adebisi, A. (2008). Diet and dietary habits of the fish Schilbe mystus (Siluriformes: Schilbeidae) in two artificial lakes in Southwestern Nigeria. Revista de biología tropical, 56(4), 1847-1855.",4
