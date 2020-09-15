@@ -77,7 +77,7 @@ test_fish <- data_fish %>%
                                TRUE ~ prey_type)) %>% 
   select(-contains("_add"))
 
-data_fish_update %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
+data_fish %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
 test_fish %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
 
 # 
