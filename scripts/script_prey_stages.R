@@ -36,3 +36,5 @@ temp %>%
   tally()
 
 data_fish <- temp
+saveRDS(data_fish, file = "database/data_fish.rds")
+
