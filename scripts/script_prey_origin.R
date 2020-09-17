@@ -12,6 +12,10 @@ data_fish %>%
   filter(prey_class == 'Insecta') %>% 
   distinct(prey_order)
 
+#list of remaining aquatic taxa from the prey_taxon columnt. This goes at the end of the next line of code.
+aquatic_pt <- "brozoa_statoblasts|ectoprocta_statoblasts|bryozoa|plankton|amphibious insects_postlarval_stages|aufwuchs|Benthicinsectlarvae|benthos|bottom debris|bryophyta|calanoid|chlorophyta|clams|copepod|Copepoda|copepoda_arguloid|copepoda_harpaccticoid|copepoda_undet|Copepods|cyanophyta_60|cyclopoid|detritus sediment|detruts mud|Ephemeroptera|fpom|harpacticoid|harpacticoid_copepods|hydrachnellae|indeterminate_molluscs|insecta_larvae_nymphs|limnaea|lynghya|macroinvertebrates|misc aq_insecta|misc aquatic_insects|mol iusca|mollusc|mollusc remains_shells|mollusca|mollusca_gastropoda_bivalvia|mollusca_intdeterminate|molluscs|molluscs fish_oligochaeta|molluska|mollusks|molusc|molusca|moluscs|nauplii|nematoda ordem_dorylaimida|nymphs|Odonata|osteichthyes|osteichthyes eggs|osteichthyes fry|phytobenthos|Plecoptera|rotifera_keratella_sp|Rotifers|s mollusca|teleost_invertebrate_eggs|undetermined_copepods|uroglena|x3opepoda"
+terrestrial_pt <- "aranea 49|aranea 50|chaetopoda|corrodentia|ichneumon fly|Orthoptera|symphyla"
+
 temp <- data_fish %>% 
   filter(prey_taxon != "spp.",
          prey_taxon != "spp",
@@ -40,10 +44,12 @@ temp <- data_fish %>%
                                 prey_taxon == "neritidae" ~ "Gastropoda",
                                 prey_taxon == "	bythinidae" ~ "Gastropoda",
                                 prey_taxon == "daphnids" ~ "Branchiopoda",
+                                prey_taxon == "adults_copepodites" ~ "Hexanauplia",
+                                prey_taxon == "macrothrix_laticornis" ~ "Branchiopoda",
                                 TRUE ~ prey_class),
          prey_kingdom = case_when(prey_family == "Microcystaceae" ~ "Bacteria",
                                   prey_taxon %in% c("Unknown Fish", "helminth", "Calanoida", "dugesia_sp",
-                                                    "Leptoceridae") ~ "Animalia",
+                                                    "Leptoceridae","adults_copepodites","macrothrix_laticornis") ~ "Animalia",
                                   prey_taxon == "flagellates" ~ "Plantae",
                                   prey_family == "Crustaceae" ~ "Animalia",
                                   TRUE ~ prey_kingdom),
@@ -76,11 +82,14 @@ temp <- data_fish %>%
                                 prey_taxon == "neritidae" ~ "Cycloneritida",
                                 prey_taxon == "bythinidae" ~ "Littorinimorpha",
                                 prey_taxon == "daphnids" ~ "Cladocera", 
+                                prey_taxon == "dytiscidae" ~ "Coleoptera",
+                                prey_order == "Ortoptera" ~ "Orthoptera",
+                                prey_taxon == "macrothrix_laticornis" ~ "Diplostraca",
                                 TRUE ~ prey_order),
          prey_phylum = case_when(prey_phylum == "Ocrophyta" ~ "Ochrophyta",
                                  grepl("crab", prey_taxon) ~ "Arthropoda",
                                  prey_taxon == "helminth" ~ "Platyhelminthes",
-                                 prey_taxon %in% c("Leptocerida", "opossum shrimp") ~ "Arthropoda",
+                                 prey_taxon %in% c("Leptocerida", "opossum shrimp", "adults_copepodites","macrothrix_laticornis") ~ "Arthropoda",
                                  prey_taxon == "dugesia_sp" ~ "Platyhelminthes",
                                  prey_taxon == "flagellates" ~ "Chlorophyta",
                                  prey_taxon == "brachionus_angularis" ~ "Rotifera",
@@ -92,13 +101,14 @@ temp <- data_fish %>%
          prey_subphylum = case_when(grepl("crab", prey_taxon) ~ "Crustacea",
                                     prey_taxon == "opossum shrimp" ~ "Crustacea",
                                     prey_family == "Crustaceae" ~ "Crustacea",
-                                    prey_taxon == "daphnids" ~ "Crustacea",
+                                    prey_taxon %in% c("adults_copepodites", "daphnids","macrothrix_laticornis") ~ "Crustacea",
                                     TRUE ~ prey_subphylum),
          prey_superclass = case_when(grepl("Oste", prey_superclass) ~ "Osteichthyes",
                                      TRUE ~ prey_superclass),
          prey_order = case_when(prey_taxon %in% c("other", "Other",
                                                   "other 32", "other 38", "flagellates") ~ "unknown",
                                 prey_class == "Calanoida" ~ "Calanoida",
+                                prey_order == "Coleoptra" ~ "Coleoptera",
                                 TRUE ~ prey_order),
          prey_family = case_when(prey_taxon %in% c("other", "Other",
                                                   "other 32", "other 38", "flagellates") ~ "unknown",
@@ -125,6 +135,8 @@ temp <- data_fish %>%
                                  prey_taxon == "bythinidae" ~ "Bythiniidae",
                                  prey_taxon %in% c("tipula sp_larvae", "tipula") ~ "Tipulidae",
                                  prey_taxon == "daphnids" ~ "Daphniidae",
+                                 prey_taxon == "dytiscidae" ~ "Dytiscidae",
+                                 prey_taxon == "macrothrix_laticornis" ~ "Macrothricidae",
                                 TRUE ~ prey_family),
          prey_species = case_when(prey_taxon %in% c("other", "Other",
                                                   "other 32", "other 38") ~ "unknown",
@@ -146,6 +158,7 @@ temp <- data_fish %>%
          prey_subclass = case_when(prey_taxon %in% c("other", "Other",
                                                   "other 32", "other 38") ~ "unknown",
                                    prey_taxon == "hydracnellae" ~ "Acari",
+                                   prey_taxon == "adults_copepodites" ~ "Copepoda",
                                 TRUE ~ prey_subclass),
          prey_superclass = case_when(prey_taxon %in% c("other", "Other",
                                                   "other 32", "other 38") ~ "unknown",
@@ -165,7 +178,7 @@ temp <- data_fish %>%
                                                    "Megaloptera",
                                                    "Odonata",
                                                    "Physida",
-                                                   "Pleurotomariida",
+                                                   "Pleurotomariida",	"Testudines",
                                                    "Calanoida", "Oscillatoriales",
                                                    "Hirudinea","Littorinimorpha",
                                                    "Ctenostomatida", "Perciformes") ~ "aquatic",
@@ -180,7 +193,8 @@ temp <- data_fish %>%
                                                    "Chrysophyceae", "Hexanauplia",
                                                    "Cyanophyceae","Euglenophyceae", "Echinoidea",
                                                    "Eurotatoria","Florideophyceae", "Teleostei",
-                                                   "Ostracoda", "Malacostraca", "Zygnematophyceae") ~ "aquatic",
+                                                   "Ostracoda", "Malacostraca", "Zygnematophyceae",
+                                                   "Hydrozoa") ~ "aquatic",
                                  prey_superclass == "Osteichthyes" ~ "aquatic",
                                  prey_subclass %in% c("Acari", "Hirudinea", "Copepoda") ~ "aquatic",
                                  prey_subphylum %in% c("Crustacea") ~ "aquatic",
@@ -216,12 +230,12 @@ temp <- data_fish %>%
                                                    "Blattodea",
                                                    "Thysanoptera",
                                                    "Stylommatophora",
-                                                   "Araneae",
+                                                   "Araneae", "Squamata",
                                                    "Opisthopora",
                                                    "Poales", "Orthoptera") ~ "terrestrial",
                                  prey_class %in% c("Chilopoda",
                                                    	"Diplopoda", "Magnoliopsida",
-                                                   "Lichinomycetes","Lecanoromycetes") ~ "terrestrial",
+                                                   "Lichinomycetes","Lecanoromycetes", "Mammalia") ~ "terrestrial",
                                  prey_family %in% c("Lumbricidae", "Aciculidae","Eucnemidae","Carabidae",
                                                     "Cosmopterigidae", "Canacidae", "Andrenidae",
                                                     "Anisopodidae", "Anthomyiidae", "Aphididae",
@@ -255,14 +269,71 @@ temp <- data_fish %>%
                                  prey_class %in% c("Cestoda", "Aves", "Trepaxonemata", "Sordariomycetes",
                                                    "Arachnida","Collembola", "Trebouxiophyceae",
                                                    "Clitellata","Gammaproteobacteria",
-                                                   "Gordioida", "Gastropoda", "Psychodidae") ~ "aquatic or terrestrial"))
-  
+                                                   "Gordioida", "Gastropoda", "Psychodidae") ~ "aquatic or terrestrial")) %>% 
+  mutate(prey_origin = case_when(grepl("errestrial", prey_taxon) ~ "terrestrial",
+                                 grepl("quatic", prey_taxon) ~ "aquatic",
+                                 is.na(prey_origin) & prey_order == "Coleoptera" & grepl("water", prey_taxon) ~ "aquatic",
+                                 is.na(prey_origin) & prey_order %in% c("Coleoptera","Diptera", "Hemiptera", "Homoptera") ~ "aquatic or terrestrial",
+                                 is.na(prey_origin) & prey_order %in% c("Lepidoptera", "Hymenoptera", 
+                                                                        "Thysanura", "Rotifera", "Neuroptera") ~ "terrestrial",
+                                 is.na(prey_origin) & grepl("alga", prey_taxon) ~ "aquatic",
+                                 is.na(prey_origin) & grepl("lgae", prey_taxon) ~ "aquatic",
+                                 is.na(prey_origin) & grepl(aquatic_pt, prey_taxon) ~ "aquatic",
+                                 is.na(prey_origin) & grepl(terrestrial_pt, prey_taxon) ~ "terrestrial",
+                                 is.na(prey_origin) & prey_order %in% c("Ephemeroptera", "Odonata") ~ "aquatic",
+                                 TRUE ~ prey_origin),
+         prey_order = case_when(prey_taxon %in% c("Ephemoroptera", "Epheineroptera", "Other Ephemeroptera","Other  Ephemeroptera") ~ "Ephemeroptera",
+                                grepl("Anisoptera", prey_taxon) ~ "Odonata",
+                                grepl("Zygoptera", prey_taxon) ~ "Odonata",
+                                prey_taxon %in% c("terrestrial hemiptera", "OTherHemiptera") ~ "Hemiptera",
+                                prey_taxon == "terrestrial coleoptera" ~ "Coleoptera",
+                                prey_taxon == "terrestrial diptera" ~ "Diptera",
+                                prey_taxon == "terrestrial neuroptera" ~ "Neuroptera",
+                                prey_taxon == "terrestrial homoptera" ~ "Homoptera",
+                                prey_taxon == "terrestrial lepidoptera" ~ "Lepidoptera",
+                                grepl("tera", prey_taxon) ~ prey_taxon,
+                                TRUE ~ prey_order),
+         prey_origin = case_when(prey_taxon %in% c("Ephemoroptera", "Epheineroptera", "Other Ephemeroptera","Other  Ephemeroptera") ~ "aquatic",
+                                grepl("Anisoptera", prey_taxon) ~ "aquatic",
+                                grepl("Zygoptera", prey_taxon) ~ "aquatic",
+                                prey_taxon %in% c("terrestrial hemiptera", "OTherHemiptera") ~ "aquatic or terrestrial",
+                                prey_taxon == "terrestrial coleoptera" ~ "aquatic or terrestrial",
+                                prey_taxon == "terrestrial diptera" ~ "aquatic or terrestrial",
+                                prey_taxon == "terrestrial neuroptera" ~ "terrestrial",
+                                prey_taxon == "terrestrial homoptera" ~ "terrestrial",
+                                prey_taxon == "terrestrial lepidoptera" ~ "terrestrial",
+                                is.na(prey_origin) ~ "aquatic or terrestrial",
+                                TRUE ~ prey_origin))
 
-temp %>% distinct(prey_origin, prey_species, prey_taxon, prey_family, prey_order, prey_class, prey_subclass, prey_superclass, prey_phylum, 
-                  prey_kingdom, author, year, table_figure, prey_stage) %>% 
-  arrange(prey_family) %>%
-  filter(is.na(prey_origin),
-         !is.na(prey_family),
-         prey_family != "unknown") %>% View()
 
-temp %>% distinct(prey_origin, prey_class) %>% filter(!is.na(prey_origin)) %>% filter(prey_class == "Gastropoda")
+temp %>% filter(is.na(prey_origin)) %>% distinct(prey_origin, prey_species, prey_family, prey_order, prey_class, prey_phylum, prey_taxon) %>% View()
+
+
+
+temp %>% 
+  filter(prey_order %in% c("Coleoptera", "Hemiptera", "Lepidoptera")) %>% 
+  group_by(prey_order, prey_origin) %>% 
+  tally()
+
+
+# 
+# temp %>% distinct(prey_origin, prey_species, prey_taxon, prey_family, prey_order, prey_class, prey_subclass, prey_superclass, prey_phylum, 
+#                   prey_kingdom, author, year, table_figure, prey_stage) %>% 
+#   arrange(prey_family) %>%
+#   filter(is.na(prey_origin),
+#          !is.na(prey_phylum),
+#          prey_order != "unknown") %>% View()
+
+temp %>% 
+  group_by(prey_origin) %>% 
+  tally()
+
+temp %>% filter(is.na(prey_origin)) %>% distinct(prey_species, prey_family, prey_order, prey_class, prey_phylum, prey_taxon) %>% 
+  View()
+
+
+# data_fish <- temp
+# saveRDS(data_fish, file = "database/data_fish.rds")
+
+
+
