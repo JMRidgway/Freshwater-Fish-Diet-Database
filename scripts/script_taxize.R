@@ -77,16 +77,34 @@ test_fish <- data_fish %>%
                                TRUE ~ prey_type)) %>% 
   select(-contains("_add"))
 
-data_fish %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
-test_fish %>% group_by(prey_kingdom) %>% tally() %>% arrange(-n)
+data_fish %>% group_by(prey_order) %>% tally() %>% arrange(-n)
+test %>% group_by(prey_order) %>% tally() %>% arrange(-n)
 
 # 
 data_fish <- test_fish
 saveRDS(data_fish, file = "database/data_fish.rds")
 
 
+# fill in missing taxonomic info for prey.
 
-# find
+sp_without_order <- data_fish %>% 
+  select(contains("prey_")) %>%
+  filter(is.na(prey_order) & !is.na(prey_species)) %>%
+  distinct(prey_species)
+
+get_orders <- classification(sp_without_order$prey_species, db = "gbif", return_id = T)
+got_orders <- rbind(get_orders) %>% distinct(name, rank, query) %>% 
+  as_tibble() %>% filter(rank == "order") %>% 
+  rename(prey_order_add = name,
+         prey_family = query) %>% 
+  select(-rank)
 
 
+test <- data_fish %>% left_join(got_orders) %>% 
+  mutate(prey_order = case_when(is.na(prey_order) ~ prey_order_add,
+                                TRUE ~ prey_order))
 
+ 
+data_fish %>% 
+  mutate(prey_order = case_when(is.na(prey_order) & ))
+  
