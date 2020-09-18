@@ -77,8 +77,8 @@ test_fish <- data_fish %>%
                                TRUE ~ prey_type)) %>% 
   select(-contains("_add"))
 
-data_fish %>% group_by(prey_family) %>% tally() %>% arrange(-n)
-test %>% group_by(prey_family) %>% tally() %>% arrange(-n)
+data_fish %>% group_by(prey_class) %>% tally() %>% arrange(-n)
+test %>% group_by(prey_class) %>% tally() %>% arrange(-n)
 
 # 
 data_fish <- test
@@ -92,27 +92,91 @@ test %>%
 
 need <- test %>% 
   select(contains("prey_"), author, year, table_figure) %>%
-  filter(is.na(prey_family) & !is.na(prey_species)) %>%
-  distinct(prey_species)
+  filter(is.na(prey_family) & !is.na(prey_order)) %>%
+  distinct(prey_order)
 
-get_fam <- classification(need$prey_family, db = "gbif", return_id = T)
+get_fam <- classification(need$prey_order, db = "gbif", return_id = T)
 got_fam <- rbind(get_fam) %>% distinct(name, rank, query) %>% 
-  as_tibble() %>% filter(rank == "phylum") %>% 
-  rename(prey_phylum_add = name,
-         prey_family = query) %>% 
+  as_tibble() %>% filter(rank == "order") %>% 
+  rename(prey_order_add = name,
+         prey_order = query) %>% 
+  mutate(prey_order_match = prey_order) %>% 
   select(-rank)
 
+
+
+
+test <- data_fish %>% 
+  mutate(prey_phylum = str_replace(prey_phylum, "Byrozoa", "Bryozoa"),
+         prey_phylum = str_replace(prey_phylum, "Charaphyta", "Charophyta"),
+         prey_subphylum = str_replace(prey_subphylum, "Crustaceae", "Crustacea"),
+         prey_class = case_when(prey_subphylum == "Actinopterygii" ~ "Actinopterygii", TRUE ~ prey_class),
+         prey_order = case_when(prey_class == "Psocoptera" ~ "Psocoptera", TRUE ~ prey_order),
+         prey_class = case_when(prey_order == "Psocoptera" ~ "Insecta", TRUE ~ prey_class),
+         prey_subphylum = str_replace(prey_subphylum, "Actinopterygii", NA_character_),
+         prey_class = str_replace(prey_class, "unknown", NA_character_),
+         prey_kingdom = str_replace(prey_kingdom, "unknown", NA_character_),
+         prey_phylum = str_replace(prey_phylum, "unknown", NA_character_),
+         prey_order = str_replace(prey_order, "unknown", NA_character_),
+         prey_family = str_replace(prey_family, "unknown", NA_character_),
+         prey_species = str_replace(prey_species, "unknown", NA_character_),
+         prey_superclass = str_replace(prey_superclass, "unknown", NA_character_),
+         prey_subclass = str_replace(prey_subclass, "unknown", NA_character_)) %>% 
+  left_join(got_fam) %>% 
+  mutate(prey_order = case_when(prey_order == prey_order_match ~ prey_order_add,
+                                 TRUE ~ prey_order)) %>% 
+  select(-prey_order_add, -prey_order_match) %>% 
+  mutate(prey_species = case_when(prey_order == "beraeoptera rorta" ~ "Beraeoptera roria", 
+                                  prey_order == "brycinus lateralis" ~ "Brycinus lateralis",
+                                  TRUE ~ prey_species),
+         prey_family = case_when(prey_order == "beraeoptera rorta" ~ "Conoesucidae", 
+                                 prey_order == "brycinus lateralis" ~ "Alestidae",
+                                 TRUE ~ prey_family),
+         prey_order = case_when(grepl("coleoptera", prey_order) ~ "Coleoptera",
+                                grepl("diptera", prey_order) ~ "Diptera",
+                                grepl("Dipter", prey_order) ~ "Diptera",
+                                prey_order == "dintera" ~ "Diptera",
+                                grepl("hoinoptera", prey_order) ~ "Homoptera",
+                                grepl("homoptera", prey_order) ~ "Homoptera",
+                                grepl("thhysamoptera", prey_order) ~ "Thysanoptera",
+                                grepl("thysanopter", prey_order) ~ "Thysanoptera",
+                                grepl("trichopter", prey_order) ~ "Trichoptera",
+                                grepl("tricopter", prey_order) ~ "Trichoptera",
+                                grepl("Coleoptera", prey_order) ~ "Coleoptera",
+                                grepl("hymenopter", prey_order) ~ "Hymenoptera",
+                                grepl("orthopter", prey_order) ~ "Orthoptera",
+                                grepl("lepidopter", prey_order) ~ "Lepidoptera",
+                                grepl("anisoptera", prey_order) ~ "Odonata",
+                                grepl("zygoptera", prey_order) ~ "Odonata",
+                                grepl("zigoptera", prey_order) ~ "Odonata",
+                                grepl("hemiptera", prey_order) ~ "Hemiptera",
+                                grepl("beraeoptera", prey_order) ~ "Trichoptera",
+                                grepl("brycinus lateralis", prey_order) ~ "Characiformes",
+                                grepl("plecoptera", prey_order) ~ "Plecoptera",
+                                grepl("megaloptera", prey_order) ~ "Megaloptera",
+                                grepl("ttichoptera", prey_order) ~ "Trichoptera",
+                                grepl("liemiptera", prey_order) ~ "Hemiptera",
+                                grepl("epemeropter", prey_order) ~ "Ephemeroptera",
+                                grepl("ephemeroptera", prey_order) ~ "Ephemeroptera",
+                                grepl("Cyclopodia", prey_order) ~ "Cyclopoida",
+                                grepl("Triehoptera", prey_order) ~ "Trichoptera",
+                                TRUE ~ prey_order),
+         prey_order = str_to_sentence(prey_order))
+  
+
+test %>% distinct(prey_order, prey_family) %>% View()
 
 add_phylum <- test %>%
   left_join(got_fam) %>% 
   mutate(prey_phylum = case_when(is.na(prey_phylum) ~ prey_phylum_add,
-                                TRUE ~ prey_phylum)) %>% 
+                                 TRUE ~ prey_phylum)) %>% 
   select(-prey_phylum_add)
 
 
 test <- add_phylum
 
 
-setdiff(names(test), names(data_fish))
 
+
+data_fish %>% distinct(prey_subphylum) %>% View()
 
