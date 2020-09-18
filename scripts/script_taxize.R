@@ -77,34 +77,42 @@ test_fish <- data_fish %>%
                                TRUE ~ prey_type)) %>% 
   select(-contains("_add"))
 
-data_fish %>% group_by(prey_order) %>% tally() %>% arrange(-n)
-test %>% group_by(prey_order) %>% tally() %>% arrange(-n)
+data_fish %>% group_by(prey_family) %>% tally() %>% arrange(-n)
+test %>% group_by(prey_family) %>% tally() %>% arrange(-n)
 
 # 
-data_fish <- test_fish
+data_fish <- test
 saveRDS(data_fish, file = "database/data_fish.rds")
 
-
+test <- data_fish
 # fill in missing taxonomic info for prey.
+test %>% 
+  filter(is.na(prey_class)) %>% select(contains("prey_")) %>% View()
 
-sp_without_order <- data_fish %>% 
-  select(contains("prey_")) %>%
-  filter(is.na(prey_order) & !is.na(prey_species)) %>%
+
+need <- test %>% 
+  select(contains("prey_"), author, year, table_figure) %>%
+  filter(is.na(prey_family) & !is.na(prey_species)) %>%
   distinct(prey_species)
 
-get_orders <- classification(sp_without_order$prey_species, db = "gbif", return_id = T)
-got_orders <- rbind(get_orders) %>% distinct(name, rank, query) %>% 
-  as_tibble() %>% filter(rank == "order") %>% 
-  rename(prey_order_add = name,
+get_fam <- classification(need$prey_family, db = "gbif", return_id = T)
+got_fam <- rbind(get_fam) %>% distinct(name, rank, query) %>% 
+  as_tibble() %>% filter(rank == "phylum") %>% 
+  rename(prey_phylum_add = name,
          prey_family = query) %>% 
   select(-rank)
 
 
-test <- data_fish %>% left_join(got_orders) %>% 
-  mutate(prey_order = case_when(is.na(prey_order) ~ prey_order_add,
-                                TRUE ~ prey_order))
+add_phylum <- test %>%
+  left_join(got_fam) %>% 
+  mutate(prey_phylum = case_when(is.na(prey_phylum) ~ prey_phylum_add,
+                                TRUE ~ prey_phylum)) %>% 
+  select(-prey_phylum_add)
 
- 
-data_fish %>% 
-  mutate(prey_order = case_when(is.na(prey_order) & ))
-  
+
+test <- add_phylum
+
+
+setdiff(names(test), names(data_fish))
+
+
