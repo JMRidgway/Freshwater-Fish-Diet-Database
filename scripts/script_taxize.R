@@ -84,8 +84,13 @@ test %>% group_by(prey_class) %>% tally() %>% arrange(-n)
 data_fish <- test
 saveRDS(data_fish, file = "database/data_fish.rds")
 
-test <- data_fish
+
+
+
+
 # fill in missing taxonomic info for prey.
+test <- data_fish
+
 test %>% 
   filter(is.na(prey_class)) %>% select(contains("prey_")) %>% View()
 
@@ -161,10 +166,13 @@ test <- data_fish %>%
                                 grepl("Cyclopodia", prey_order) ~ "Cyclopoida",
                                 grepl("Triehoptera", prey_order) ~ "Trichoptera",
                                 TRUE ~ prey_order),
+         prey_family = case_when(prey_family == "Ictalurdiae" ~ "Ictaluridae",
+                                 prey_family == "Lepisoteidae" ~ "Lepisosteidae",
+                                 TRUE ~ prey_family),
          prey_order = str_to_sentence(prey_order))
   
 
-test %>% distinct(prey_order, prey_family) %>% View()
+test %>% distinct(prey_family) %>% View()
 
 add_phylum <- test %>%
   left_join(got_fam) %>% 
