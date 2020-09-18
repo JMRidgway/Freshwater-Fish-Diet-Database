@@ -336,4 +336,7 @@ temp %>% filter(is.na(prey_origin)) %>% distinct(prey_species, prey_family, prey
 # saveRDS(data_fish, file = "database/data_fish.rds")
 
 
-
+data_fish %>% group_by(prey_origin) %>% 
+  tally()
+data_fish %>% group_by(prey_stage) %>% 
+  tally()
