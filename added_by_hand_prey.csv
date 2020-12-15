@@ -1,0 +1,528 @@
+prey_taxon,prey_stage,prey_kingdom,prey_class,prey_order,prey_family,prey_species,prey_taxon_cleaned,prey_phylum,prey_superclass,prey_subclass,prey_subphylum,prey_type,prey_origin
+ilybius fuliginosus_adult,adults,Animalia,Insecta,Coleoptera,Dytiscidae,Ilybius fuliginosus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chlaenius yestitus_adult,adults,Animalia,Insecta,Coleoptera,Carabidae,Chlaenius yestitus,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+sphaeridium scarabeoides_adult,adults,Animalia,Insecta,Coleoptera,Scarabaeidae,Sphaeridium scarabeoides,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+gammaridea,unknown,Animalia,Malacostraca,Amphipoda,Gammaridae,Gammarus sp.,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+arachnida araneae_spiders,unknown,Animalia,Arachnida,Araneae,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+menidia menidia,unknown,Animalia,Teleostei,Atheriniformes,Atherinopsidae,Menidia menidia,NA,Chordata,NA,NA,NA,NA,aquatic
+calanoid copepods,unknown,Animalia,Hexanauplia,Calanoida,NA,NA,NA,Arthropoda,NA,Copepoda,NA,NA,aquatic
+calanold copepods,unknown,Animalia,Hexanauplia,Calanoida,NA,NA,NA,Arthropoda,NA,Copepoda,NA,NA,aquatic
+brycinus spp,unknown,Animalia,Actinopterygii,Characiformes,Alestidae,Brycinus lateralis,NA,Chordata,NA,NA,NA,NA,aquatic
+characidae scale,unknown,Animalia,Teleostei,Characiformes,Characidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+b longirostris,unknown,Animalia,Branchiopoda,Cladocera,Bosminidae,Bosmina longirostris,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+bosmina hagmani,unknown,Animalia,Branchiopoda,Cladocera,Bosminidae,Bosmina hagmani,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+bosminidae,unknown,Animalia,Branchiopoda,Cladocera,Bosminidae,NA,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+bosminopsis deitersi,unknown,Animalia,Branchiopoda,Cladocera,Bosminidae,Bosminopsis deitersi,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+bosminopsis negrensis,unknown,Animalia,Branchiopoda,Cladocera,Bosminidae,Bosminopsis negrensis,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+bosminopsis sp,unknown,Animalia,Branchiopoda,Cladocera,Bosminidae,Bosminopsis sp.,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+immature cladocera,unknown,Animalia,Branchiopoda,Cladocera,NA,NA,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+clupeids,unknown,Animalia,Actinopterygii,Clupeiformes,Clupeidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+dorosoma spp,unknown,Animalia,Actinopterygii,Clupeiformes,Cluepidae,Dorosoma,NA,Chordata,NA,NA,NA,NA,aquatic
+unknown clupeid,unknown,Animalia,Actinopterygii,Clupeiformes,Clupeidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+unknown scieanid,unknown,Animalia,Actinopterygii,Clupeiformes,Scaenidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+acarinae,unknown,Animalia,Insecta,Coleoptera,Melolonthidae,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+aphodius rufpes_adult,adults,Animalia,Insecta,Coleoptera,Aphodiidae,Aphodius rufpes,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+aquat cole_optera,unknown,Animalia,Insecta,Coleoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+aquat coleoptera,unknown,Animalia,Insecta,Coleoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+carabidae ground_beetles,unknown,Animalia,Insecta,Coleoptera,Carabidae,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+coleaptera larvae,larvae,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleoptera imagines,adults,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleoptera imagines_36,adults,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleoptera imagines_40,adults,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleoptera imagines_58,adults,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleoptera imagines_61,adults,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleoptera noteridae,unknown,Animalia,Insecta,Coleoptera,Noteridae,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleopteran larvae,larvae,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleopteras larvae,larvae,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+coleptera,unknown,Animalia,Insecta,Coleoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+curculionidae,unknown,Animalia,Insecta,Coleoptera,Circulionidae,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+dvtiscidae,unknown,Animalia,Insecta,Coleoptera,Dytiscidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+elateridae click_beetles,unknown,Animalia,Insecta,Coleoptera,Elateridae,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+elmidae larvae_and_imagines,larvae/adults,Animalia,Insecta,Coleoptera,Elmidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+elmidae larvae_imagines,larvae/adults,Animalia,Insecta,Coleoptera,Elmidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+haliplas fulvus_adult,adults,Animalia,Insecta,Coleoptera,Haliplidae,Haliplus fulvus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+hydraenidae fragment,unknown,Animalia,Insecta,Coleoptera,Hydraenidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+hydroporus elegans_adult,adults,Animalia,Insecta,Coleoptera,Dytiscidae,Hydroporus elegans,NA,Arthropoda,NA,NA,NA,NA,aquatic
+nitidulidae sap_feeding_beetles,unknown,Animalia,Insecta,Coleoptera,Nitidulidae,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+scarabaeidae adult,adults,Animalia,Insecta,Coleoptera,Scarabaeidae,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+scarabaeidae lamellicorn_beetles,unknown,Animalia,Insecta,Coleoptera,Scarabaeidae,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+tem coleoptera,unknown,Animalia,Insecta,Coleoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+ten coleoptera,unknown,Animalia,Insecta,Coleoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+terr co_leoptera,unknown,Animalia,Insecta,Coleoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+terr coleoptera,unknown,Animalia,Insecta,Coleoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+ciclopoida,unknown,Animalia,Hexanauplia,Cyclopoida,NA,NA,NA,Arthropoda,NA,Copepoda,Crustacea,NA,aquatic
+barbus scale,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+carassius auratus,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Carassius auratus,NA,Chordata,NA,NA,NA,NA,aquatic
+hemiculter leucisculus,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Hemiculter leucisclus,NA,Chordata,Osteichthyes,NA,NA,NA,aquatic
+pseudorasbora parva,larvae,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Pseudorasbora parva,NA,Chordata,Osteichthyes,NA,NA,NA,aquatic
+tomoptema,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Toxabramis swinhonis,NA,Chordata,Osteichthyes,NA,NA,NA,aquatic
+brachyura,unknown,Animalia,Malacostraca,Decapoda,Pleocyemata,Brachyura sp.,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+brachyuralarvae,larvae,Animalia,Malacostraca,Decapoda,Pleocyemata,Brachyura sp.,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+brachyuran megalopa,unknown,Animalia,Malacostraca,Decapoda,Pleocyemata,Brachyura sp.,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+callinectes spp,unknown,Animalia,Malacostraca,Decapoda,Portunidae,Callinectes sp.,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+cancer irroratus,unknown,Animalia,Malacostraca,Decapoda,Cancridae,Cancer irroratus,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+crangon septemspinosa,unknown,Animalia,Malacostraca,Decapoda,Crangonidae,Crangon septemspinosa,NA,Arthropoda,NA,NA,NA,NA,aquatic
+palaemon capensis,unknown,Animalia,Malacostraca,Decapoda,Palaemonidae,Palaemon capensis,NA,Arthropoda,NA,NA,NA,NA,aquatic
+prawns,unknown,Animalia,Malacostraca,Decapoda,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+shrimp postlarvae,unknown,Animalia,Malacostraca,Decapoda,Palaemonidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+trichodactylus,unknown,Animalia,Malacostraca,Decapoda,Trichodactylidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ceriodaphnia cornuta,unknown,Animalia,Branchiopoda,Diplostraca,Daphniidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ceriodaphnia eggs,eggs,Animalia,Branchiopoda,Diplostraca,Daphniidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ceriodaphnia pulchella,unknown,Animalia,Branchiopoda,Diplostraca,Daphniidae,Ceriodaphnia pulchella,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chydorus sphaericus,unknown,Animalia,Branchiopoda,Diplostraca,Chydoridae,Chydorus sphaericus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+diaphanosoma cf_mong,unknown,Animalia,Branchiopoda,Diplostraca,Sididae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+diaphanosoma cf_mongolianum,unknown,Animalia,Branchiopoda,Diplostraca,Sididae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+leydigia leydigi,unknown,Animalia,Branchiopoda,Diplostraca,Chydoridae,Leydigia leydigi,NA,Arthropoda,NA,NA,NA,NA,aquatic
+macrothricidae,unknown,Animalia,Branchiopoda,Diplostraca,Macrothricidae,NA,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+macrothrix laticornis,unknown,Animalia,Branchiopoda,Diplostraca,Macrothricidae,Macrothrix laticornis,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+moina minuta,unknown,Animalia,Branchiopoda,Diplostraca,Moinidae,Moina minuta,NA,Arthropoda,NA,NA,NA,NA,aquatic
+moina rostrata,unknown,Animalia,Branchiopoda,Diplostraca,Moinidae,Moina rostrata,NA,Arthropoda,NA,NA,NA,NA,aquatic
+moina sp,unknown,Animalia,Branchiopoda,Diplostraca,Moinidae,Moina sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+moinidae,unknown,Animalia,Branchiopoda,Diplostraca,Moinidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+black fly_larvae,larvae,Animalia,Insecta,Diptera,Simuliidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ceratoponidae,unknown,Animalia,Insecta,Diptera,Ceratopogonidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ch ironom_id_larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chaoborid larvae,larvae,Animalia,Insecta,Diptera,Chaoboridae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chiromonid,unknown,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chiron017111s pupae,pupae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chironomidae larvae_and_pupae,larvae/pupae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chironomidae larvae_indet,larvae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chironomus anthracinus_larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,Chironomus antracinus,,Arthropoda,NA,NA,NA,NA,aquatic
+chironomus sp_larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chironomus sp_pupae,pupae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chironomuslarvae,larvae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chironorniel larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+chtronomus pupae,pupae,Animalia,Insecta,Diptera,Chironomidae,Chironomus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+cricotopus bicinctus,unknown,Animalia,Insecta,Diptera,Chironomidae,Cricotopus bicinctus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+cricotopus sp_larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,Cricotopus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+d iptera,unknown,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera 29,unknown,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera 43,unknown,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera adult_indet,adults,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera imagines,adults,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera larvae_and_pupae,larvae/pupae,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera larvae_indet,larvae,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera mosquito_larvae,larvae,Animalia,Insecta,Diptera,Culicidae,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera winged_forms,adults,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+diptera with_cocoon,pupae,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+dipterous larvae,larvae,Animalia,Insecta,Diptera,NA,NA,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+glypotendipes sp_larvae,unknown,Animalia,Insecta,Diptera,Chironomidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+larvae chaoborus,larvae,Animalia,Insecta,Diptera,Chaoboridae,Chaoborus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+larvae chaoborus_flavicans,larvae,Animalia,Insecta,Diptera,Chaoboridae,Chaoborus flavicans,NA,Arthropoda,NA,NA,NA,NA,aquatic
+microtendipes difinis_larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,Microtendipes difinis,NA,Arthropoda,NA,NA,NA,NA,aquatic
+midge larvae_pupae,larvae,Animalia,Insecta,Diptera,Chironomidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+mosquito pupae,pupae,Animalia,Insecta,Diptera,Culicidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+nematcera,unknown,Animalia,Insecta,Diptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+nymphs diptera,larvae,Animalia,Insecta,Diptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+nymphs diptera_other,larvae,Animalia,Insecta,Diptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+pentaneura larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+pentaneura pupae,pupae,Animalia,Insecta,Diptera,Chironomidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+unidentified dipteran_larvae,unknown,Animalia,Insecta,Diptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+cloeon,unknown,Animalia,Insecta,Ephemeroptera,Baetidae,Cloeon sp.,NA,NA,NA,NA,NA,NA,aquatic
+ephemeropt era_siphlonuridae,unknown,Animalia,Insecta,Ephemeroptera,Siphlonuridae,NA,NA,NA,NA,NA,NA,NA,aquatic
+ephemeroptera imagines,adults,Animalia,Insecta,Ephemeroptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+ephemeroptera ninphae,larvae,Animalia,Insecta,Ephemeroptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+ephemeropteran nymphs,larvae,Animalia,Insecta,Ephemeroptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+ephemeroptra,unknown,Animalia,Insecta,Ephemeroptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+mayfly naiads,larvae,Animalia,Insecta,Ephemeroptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+nymphs ephemeroptera,larvae,Animalia,Insecta,Ephemeroptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+povilla adusta,unknown,Animalia,Insecta,Ephemeroptera,Polymitarcyidae,Povilla adusta,NA,Arthropoda,NA,NA,NA,NA,aquatic
+povilla adusta_eggs,eggs,Animalia,Insecta,Ephemeroptera,Polymitarcyidae,Povilla adusta,NA,Arthropoda,NA,NA,NA,NA,aquatic
+stickleback eggs,eggs,Animalia,Actinopterygii,Gasterosteiformes,Gasterosteidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+odontobutis obscurus,unknown,Animalia,Actinopterygii,Gobiiformes,Odontobutidae,Odontobutis obscura,NA,Chordata,NA,NA,NA,NA,aquatic
+adult liemiptera,adults,Animalia,Insecta,Hemiptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+corixa dentipes,unknown,Animalia,Insecta,Hemiptera,Corixidae,Corixa dentipes,NA,Arthropoda,NA,NA,NA,NA,aquatic
+goeridae,unknown,Animalia,Insecta,Hemiptera,Gerridae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+hemiptera 44,unknown,Animalia,Insecta,Hemiptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hemiptera 61,unknown,Animalia,Insecta,Hemiptera,Corixidae,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hemiptera corixidae,unknown,Animalia,Insecta,Hemiptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hemiptera fragment,unknown,Animalia,Insecta,Hemiptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hemiptera nabis_spp_nabidae_damsel_bugs,unknown,Animalia,Insecta,Hemiptera,Nabidae,Nabis sp.,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hemiptera water_bugs,unknown,Animalia,Insecta,Hemiptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hemipteroidea,unknown,Animalia,Insecta,Hemiptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hemipteroidea larvae,larvae,Animalia,Insecta,Hemiptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+sigara concinna,unknown,Animalia,Insecta,Hemiptera,Corixidae,Sigara concinn,NA,Arthropoda,NA,NA,NA,NA,aquatic
+sigara distincta,unknown,Animalia,Insecta,Hemiptera,Corixidae,Sigara distincta,NA,Arthropoda,NA,NA,NA,NA,aquatic
+sigara dorsalis,unknown,Animalia,Insecta,Hemiptera,Corixidae,Sigara dorsalis,NA,Arthropoda,NA,NA,NA,NA,aquatic
+sigara falleni,unknown,Animalia,Insecta,Hemiptera,Corixidae,Sigara falleni,NA,Arthropoda,NA,NA,NA,NA,aquatic
+unidentifed corixidae,unknown,Animalia,Insecta,Hemiptera,Corixidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+veliid,unknown,Animalia,Insecta,Hemiptera,Veliidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+homoptera oliarus_spp_cixiidae_planthoppers,unknown,Animalia,Insecta,Homoptera,Cixiidae,Oliarus sp.,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hymenoptera ants,unknown,Animalia,Insecta,Hymenoptera,Formicidae,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+hymenoptera apis_mellifera_apidae_honey_bee,unknown,Animalia,Insecta,Hymenoptera,Apidae,Apis mellifera,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+hymenoptera imagines,adults,Animalia,Insecta,Hymenoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+lepicioptera larvae,larvae,Animalia,Insecta,Lepidoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+lepidoptera caterpillars,larvae,Animalia,Insecta,Lepidoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+hydrobiidae,unknown,Animalia,Gastropoda,Littorinimorpha,Hydrobiidae,NA,NA,Mollusca,NA,NA,NA,NA,aquatic
+lumbricus terrestris,unknown,Animalia,Clitellata,Lumbriculida,Lumbriculidae,NA,NA,Annelida,NA,NA,NA,NA,terrestrial
+stalls lutaria_larvae,larvae,Animalia,Insecta,Megaloptera,Sialidae,Sialis lutaria,NA,Arthropoda,NA,NA,NA,NA,aquatic
+mysis sp,unknown,Animalia,Malacostraca,Mysida,Mysidae,Mysis sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+neomysis americana,unknown,Animalia,Malacostraca,Mysida,Mysidae,Neomysis americana,NA,Arthropoda,NA,NA,NA,NA,aquatic
+acan,unknown,Animalia,Arachnida,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+adults copepodites,adults,Animalia,Hexanauplia,NA,NA,NA,NA,Arthropoda,NA,Copepoda,Crustacea,NA,aquatic
+all gastropods,unknown,Animalia,Gastropoda,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+all hydroids,unknown,Animalia,Hydrozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+all polychaetes,unknown,Animalia,Polychaeta,NA,NA,NA,NA,Annelida,NA,NA,NA,NA,aquatic or terrestrial
+amphibia,unknown,Animalia,Amphibia,NA,NA,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+amphibia anura_probably_rana_rugosa_wrinkled_frog,unknown,Animalia,Amphibia,NA,NA,Rana rugosa,NA,NA,NA,NA,NA,NA,aquatic
+animal materials_unknwon,unknown,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+aquatic arthropod,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+aquatic invertabrate,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+arachnea,unknown,Animalia,Arachnida,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+aracnida,unknown,Animalia,Arachnida,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+bivalve larvae,unknown,Animalia,Bivalvia,NA,NA,NA,NA,Mollusca,NA,NA,NA,NA,aquatic
+bivalve spats,unknown,Animalia,Bivalvia,NA,NA,NA,NA,Mollusca,NA,NA,NA,NA,aquatic
+bones,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+bones of_fsh,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+bulinus spp,unknown,Animalia,Gastropoda,NA,Bulinidae,Bulinus sp.,NA,Mollusca,NA,NA,NA,NA,aquatic
+class osteichtyes,unknown,Animalia,Actinopterygii,NA,NA,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+copepoda copepodids,unknown,Animalia,Hexanauplia,NA,NA,NA,NA,Arthropoda,NA,Copepoda,NA,NA,aquatic
+copepodite,unknown,Animalia,Hexanauplia,NA,NA,NA,NA,Arthropoda,NA,Copepoda,NA,NA,aquatic
+crust acea,unknown,Animalia,NA,NA,NA,NA,Crustacean,Arthropoda,NA,NA,Crustacea,NA,aquatic
+crustacea atyoida_bisulcata_atyidae_shrimps,unknown,Animalia,NA,NA,Atyidae,Atyoida bisulcata,Crustacean,Arthropoda,NA,NA,Crustacea,NA,aquatic
+crustacean fragment,unknown,Animalia,NA,NA,NA,NA,Crustacean,Arthropoda,NA,NA,Crustacea,NA,aquatic
+crustacean shells,unknown,Animalia,NA,NA,NA,NA,Crustacean,Arthropoda,NA,NA,Crustacea,NA,aquatic
+eggs scales,eggs,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+eggs unknown,eggs,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+ephippial eggs,unknown,Animalia,Branchiopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+fiches,unknown,Animalia,Actinopterygii,NA,NA,NA,Actinopterygii,NA,NA,NA,NA,NA,aquatic
+fish eggs,eggs,Animalia,Actinopterygii,NA,NA,NA,Actinopterygii,NA,NA,NA,NA,NA,aquatic
+fish retnains,unknown,Animalia,Actinopterygii,NA,NA,NA,Actinopterygii,NA,NA,NA,NA,NA,aquatic
+ga steropoda,unknown,Animalia,Gastropoda,NA,NA,NA,NA,Mollusca,NA,NA,NA,NA,aquatic or terrestrial
+gastropod eggs,eggs,Animalia,Gastropoda,NA,NA,NA,NA,Mollusca,NA,NA,NA,NA,aquatic or terrestrial
+gastropod mainly_neritina_spp,unknown,Animalia,Gastropoda,NA,NA,NA,NA,Mollusca,NA,NA,NA,NA,aquatic or terrestrial
+gastropoda part,unknown,Animalia,Gastropoda,NA,NA,NA,NA,Mollusca,NA,NA,NA,NA,aquatic or terrestrial
+gordius aquaticus,unknown,Animalia,NA,NA,NA,NA,NA,Nemertea,NA,NA,NA,NA,aquatic or terrestrial
+hydroid polyps,unknown,Animalia,Hydrozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+immature insect_aquatic,larvae,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+immature insect_aquatic_1,larvae,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+immature insect_unknown,larvae,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+immature insects,larvae,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+insect eggs,eggs,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+insect fragment,unknown,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+insecta eggs,eggs,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+insecta larvae_nymphs,larvae,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+insecta unid,unknown,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+invertebrate egg,eggs,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+invertebrate eggs,eggs,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+invertebrate unidentified_larvae,larvae,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+limnaea pereger,unknown,Animalia,Gastropoda,NA,Lymnaeidae,Lymnaea pereger,NA,Mollusca,NA,NA,NA,NA,aquatic
+limnaea truncatula,unknown,Animalia,Gastropoda,NA,Lymnaeidae,Lymnaea trunculata,NA,Mollusca,NA,NA,NA,NA,aquatic
+limnephilus lunatus_larvae,larvae,Animalia,Gastropoda,NA,Lymnaeidae,Lymnaea lunatus,NA,Mollusca,NA,NA,NA,NA,aquatic
+limnephilus sp_larvae,larvae,Animalia,Gastropoda,NA,Lymnaeidae,Lymnaea sp.,NA,Mollusca,NA,NA,NA,NA,aquatic
+limnia spp,unknown,Animalia,Gastropoda,NA,Lymnaeidae,Lymnaea,NA,Mollusca,NA,NA,NA,NA,aquatic
+linidentified fish,unknown,Animalia,Actinopterygii,NA,NA,NA,Actinopterygii,NA,NA,NA,NA,NA,aquatic
+m tuberctdatus,unknown,Animalia,Gastropoda,NA,Thiaridae,Melanoides tuberculata,NA,Mollusca,NA,NA,NA,NA,aquatic
+miscellaneous arthropod_parts,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+mollusca bivalves,unknown,Animalia,NA,NA,NA,NA,NA,Mollusca,NA,NA,NA,NA,aquatic
+mollusca errina_aulacospira_lymnaeidae,unknown,Animalia,NA,NA,Lymnaeidae,Errina aulacospira,NA,Mollusca,NA,NA,NA,NA,aquatic
+mollusca oxychilus_alliarius_garlic_snail,unknown,Animalia,NA,NA,Oxychilidae,Oxychilus alliarius,NA,Mollusca,NA,NA,NA,NA,aquatic
+myriapoda,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,Myriapoda,NA,aquatic or terrestrial
+nymphs insecta,larvae,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+nymphs insecta_other,larvae,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+oligocaete worms,unknown,Animalia,Clitellata,NA,NA,NA,NA,Annelida,NA,Oligochaeta,NA,NA,aquatic or terrestrial
+oligochaete worms,unknown,Animalia,Clitellata,NA,NA,NA,NA,Annelida,NA,Oligochaeta,NA,NA,aquatic or terrestrial
+oligochaetes segments,unknown,Animalia,Clitellata,NA,NA,NA,NA,Annelida,NA,Oligochaeta,NA,NA,aquatic or terrestrial
+other arthropod,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+physa fontalis,unknown,Animalia,Gastropoda,NA,Physidae,Physa fontalis,NA,Mollusca,NA,NA,NA,NA,aquatic
+plannrbis contortus,unknown,Animalia,Gastropoda,NA,Planorbidae,Planorbis contortus,NA,Mollusca,NA,NA,NA,NA,aquatic
+planorbis albus,unknown,Animalia,Gastropoda,NA,Planorbidae,Planorbis albus,NA,Mollusca,NA,NA,NA,NA,aquatic
+planorbis complanatus,unknown,Animalia,Gastropoda,NA,Planorbidae,Planorbis complanatus,NA,Mollusca,NA,NA,NA,NA,aquatic
+rest of_fishes,unknown,Animalia,Actinopterygii,NA,NA,NA,Actinopterygii,NA,NA,NA,NA,NA,aquatic
+scale,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+scales of_fsh,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+setac of_oligochaetes,unknown,Animalia,Clitellata,NA,NA,NA,NA,Annelida,NA,Oligochaeta,NA,NA,aquatic or terrestrial
+tadpoles,juvenile,Animalia,Amphibia,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+teleostei probably_juvenile_0_mylciss,unknown,Animalia,Actinopterygii,NA,NA,NA,NA,Chordata,Osteichthyes,NA,NA,NA,aquatic
+teleosteiscales,unknown,Animalia,Actinopterygii,NA,NA,NA,NA,Chordata,Osteichthyes,NA,NA,NA,aquatic
+terrestrial arthropod_fragment,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+terrestrial fauna,unknown,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,terrestrial
+terrestrial invertabrate,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+terrestrial invertebrate,unknown,Animalia,NA,NA,NA,NA,NA,Arthropoda,NA,NA,NA,NA,terrestrial
+testacea,unknown,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+tubifcidae sp,unknown,Animalia,Clitellata,NA,Tubificidae,NA,NA,Annelida,NA,NA,NA,NA,aquatic
+unidentifed fsh,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+unidentifed fsh_and_fah_parts,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+unidentifed insecta_adult,unknown,Animalia,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+unidentified animals,unknown,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+unidentified fish_remains,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+unidentified pisces,unknown,Animalia,NA,NA,NA,NA,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+valvata piscinalis,unknown,Animalia,Gastropoda,NA,Valvatidae,Valvata piscinalis,NA,Mollusca,NA,NA,NA,NA,aquatic
+valvatidae,unknown,Animalia,Gastropoda,NA,Valvatidae,NA,NA,Mollusca,NA,NA,NA,NA,aquatic
+aeschnidae,unknown,Animalia,Insecta,Odonata,Aeshnidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+anax strennus,unknown,Animalia,Insecta,Odonata,Aeshnidae,Anax strennus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+anisoptera libellulidae,unknown,Animalia,Insecta,Odonata,Libellulidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+coenagrion sp,unknown,Animalia,Insecta,Odonata,Coenagrionidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+gomphidae nymph,larvae,Animalia,Insecta,Odonata,Gomphidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+megalagrion heterogamias_coenagrionidae_damselflies,unknown,Animalia,Insecta,Odonata,Coenagrionidae,Megalagrion heterogamias,NA,Arthropoda,NA,NA,NA,NA,aquatic
+nymphs odonata,larvae,Animalia,Insecta,Odonata,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+odonate nymphs,larvae,Animalia,Insecta,Odonata,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+annelida lumbricidae_earthworms,unknown,Animalia,Clitellata,Opisthopora,Lumbricidae,NA,NA,Annelida,NA,NA,NA,NA,terrestrial
+channa argus,unknown,Animalia,Actinopterygii,Perciformes,Channidae,Channa argus,NA,Chordata,NA,NA,NA,NA,aquatic
+cichlid fry,larvae,Animalia,Teleostei,Perciformes,Cichlidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+cichlids,unknown,Animalia,Teleostei,Perciformes,Cichlidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+gobiid,unknown,Animalia,Teleostei,Perciformes,Gobiidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+gobiid juvenile,juvenile,Animalia,Teleostei,Perciformes,Gobiidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+micropterus,unknown,Animalia,Actinopterygii,Perciformes,Centrarchidae,Micropterus,NA,Chordata,NA,NA,NA,NA,aquatic
+perciformes,unknown,Animalia,Actinopterygii,Perciformes,NA,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+rhinogobius giurinus,unknown,Animalia,Teleostei,Perciformes,Gobiidae,Rhinogobius giurinis,NA,Chordata,NA,NA,NA,NA,aquatic
+tilapia spp,unknown,Animalia,Actinopterygii,Perciformes,Cichlidae,Tilapia sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+nemouridae leuctridae,unknown,Animalia,Insecta,Plecoptera,Nemouridae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+plecoptera imagines,adults,Animalia,Insecta,Plecoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+stonefly naiads,larvae,Animalia,Insecta,Plecoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+aspalachna,unknown,Animalia,Eurotatoria,Ploima,Asplanchnidae,Asplanchna sp.,NA,Rotifera,NA,NA,NA,NA,aquatic
+asplachna sp,unknown,Animalia,Eurotatoria,Ploima,Asplanchnidae,Asplanchna sp.,NA,Rotifera,NA,NA,NA,NA,aquatic
+asplanchna priodonta,unknown,Animalia,Eurotatoria,Ploima,Asplanchnidae,Asplanchna priodonta,NA,Rotifera,NA,NA,NA,NA,aquatic
+b diversicornis,unknown,Animalia,Eurotatoria,Ploima,Brachionidae,Brachionus diversicornis,NA,Rotifera,NA,NA,NA,NA,aquatic
+notholca squamula,unknown,Animalia,Eurotatoria,Ploima,Brachionidae,Notolca squamala,NA,Rotifera,NA,NA,NA,NA,aquatic
+polyarthra spp,unknown,Animalia,Eurotatoria,Ploima,Synchaetidae,Polyarthra sp.,NA,Rotifera,NA,NA,NA,NA,aquatic
+t similis,unknown,Animalia,Eurotatoria,Ploima,Trichocercidae,NA,NA,Rotifera,NA,NA,NA,NA,aquatic
+trichocerca capucina,unknown,Animalia,Eurotatoria,Ploima,Trichocercidae,Trichocera capucina,NA,Rotifera,NA,NA,NA,NA,aquatic
+other rotifera,unknown,Animalia,NA,Rotifera,NA,NA,NA,NA,NA,NA,NA,NA,terrestrial
+trout eggs,eggs,Animalia,Actinopterygii,Salmoniformes,Salmonidae,NA,NA,Chordata,Osteichthyes,NA,NA,NA,aquatic
+pisidium sp,unknown,Animalia,Bivalvia,Sphaeriida,Sphaeriidae,Pisidium sp.,NA,Mollusca,NA,NA,NA,NA,aquatic
+mastacembelus sinensis,unknown,Animalia,Actinopterygii,Synbranchiformes,Mastacembelidae,Macrognathus aculeatus,NA,Chordata,Osteichthyes,NA,NA,NA,aquatic
+tanaidacea,unknown,Animalia,Malacostraca,Tanaidacea,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+athripsodes aterrimus_larvae,unknown,Animalia,Insecta,Trichoptera,Leptoceridae,Athripsodes aterrimus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+glossosomatidae,unknown,Animalia,Insecta,Trichoptera,Glossosomatidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+hydroptila arctia_hydroptilidae,unknown,Animalia,Insecta,Trichoptera,Hydroptilidae,Hydroptila arctia,NA,Arthropoda,NA,NA,NA,NA,aquatic
+leptoceridae sp_larvae,larvae,Animalia,Insecta,Trichoptera,Leptoceridae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+odontoceridae,larvae,Animalia,Insecta,Trichoptera,Odontoceridae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+oxyethira maya_hydroptilidae,unknown,Animalia,Insecta,Trichoptera,Hydroptilidae,Oxyethira maya,NA,Arthropoda,NA,NA,NA,NA,aquatic
+philoptamidae,unknown,Animalia,Insecta,Trichoptera,Philopotamidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+trichoptera imagines,adults,Animalia,Insecta,Trichoptera,NA,NA,Trichoptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+trichopteran larvae,larvae,Animalia,Insecta,Trichoptera,NA,NA,Trichoptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+triehopteran larvae,larvae,Animalia,Insecta,Trichoptera,NA,NA,Trichoptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+turbellaria dugesia_sp_planariidae_fatworms,unknown,Animalia,Rhabditophora,Tricladida,Dugesiidae,Dugesia sp.,NA,Platyhelminthes,NA,NA,NA,NA,aquatic
+arachnida hydracari_acari_water_mites,unknown,Animalia,Arachnida,Trombidiformes,NA,NA,NA,Arthropoda,NA,Acari,NA,NA,aquatic
+arachnids water_mites,unknown,Animalia,Arachnida,Trombidiformes,NA,NA,NA,Arthropoda,NA,Acari,NA,NA,aquatic
+hydrarachna bicustata,unknown,Animalia,Arachnida,Trombidiformes,Hydrachnidae,Hydrachna bicustata,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+hygrobates longipalpis,unknown,Animalia,Arachnida,Trombidiformes,Hygrobatidae,Hygrobates longipalpis,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+aspatharia sinuata,unknown,Animalia,Bivalvia,Unionida,Mutelidae,NA,NA,Mollusca,NA,NA,NA,NA,aquatic
+cyanophytes,unknown,Bacteria,Cyanophyceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+lyngbya,unknown,Bacteria,Cyanophyceae,Nostocales,Oscillatoriaceae,Lyngbya sp.,NA,Cyanobacteria,NA,NA,NA,NA,aquatic
+nostoc sp_cyanophyta,unknown,Bacteria,Cyanophyceae,Nostocales,Nostocaceae,Nostoc sp.,NA,Cyanobacteria,NA,NA,NA,NA,aquatic
+nitzschia,unknown,Chromista,Bacillariophyceae,Bacillariales,Bacillariaceae,Nitzschia sp.,NA,Ochrophyta,NA,NA,NA,NA,aquatic
+baccilariophyceae,unknown,Chromista,Bacillariophyceae,Bacillariophyceae,Bacillariaceae,NA,NA,Ochrophyta,NA,NA,NA,NA,aquatic
+bacillariaceae,unknown,Chromista,Bacillariophyceae,Bacillariophyceae,Bacillariaceae,NA,NA,Ochrophyta,NA,NA,NA,NA,aquatic
+benthic diatoms,unknown,Chromista,Bacillariophyceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+dinoflagelates,unknown,Chromista,Dinophyceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+dinoflagellates,unknown,Chromista,Dinophyceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+zooplankton unid,unknown,Chromista,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+gyrosigma,unknown,Chromista,Bacillariophyceae,Naviculales,Pleurosigmataceae,NA,NA,Ochrophyta,NA,NA,NA,NA,aquatic
+snipe fly_larvae,larvae,Animalia,Insecta,Diptera,Rhagionidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+mystacides azurea_larvae,larvae,Animalia,Insecta,Trichoptera,Leptoceridae,Mystacides azurea,NA,Arthropoda,NA,NA,NA,NA,aquatic
+agraylea multipunctata_larvae,larvae,Animalia,Insecta,Trichoptera,Hydroptilidae,Agraylea multipunctata,NA,Arthropoda,NA,NA,NA,NA,aquatic
+phryganea sp_larvae,larvae,Animalia,Insecta,Trichoptera,Phryganeidae,Phryganea sp,NA,Arthropoda,NA,NA,NA,NA,aquatic
+phaenospectra sergentia_larvae,larvae,Animalia,Insecta,Diptera,Chironomidae,Phaenospectra sergentia,NA,Arthropoda,NA,NA,NA,NA,aquatic
+alosa spp,unknown,Metazoa,Actinopterygii,Clupeiformes,Clupeidae,Alosa sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+anchoa spp,unknown,Metazoa,Actinopterygii,Clupeiformes,Engraulidae,Anchoa sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+thermocyclops,unknown,Metazoa,Hexanauplia,Cyclopoida,Cyclopidae,Thermocyclops sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+rhodeus sp,unknown,Metazoa,Actinopterygii,Cypriniformes,Acheilognathidae,Rhodeus sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+cyprinodontid,unknown,Metazoa,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+cyprinodonts,unknown,Metazoa,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic
+fundulus heteroclitus,unknown,Metazoa,Actinopterygii,Cyprinodontiformes,Fundulidae,Fundulus heteroclitus,NA,Chordata,NA,NA,NA,NA,aquatic
+decanoda,unknown,Metazoa,Malacostraca,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+decapoda crayfish,unknown,Metazoa,Malacostraca,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+decapoda craylish,unknown,Metazoa,Malacostraca,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+other crabs,unknown,Metazoa,Malacostraca,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+penaeus setiferus,unknown,Metazoa,Malacostraca,Decapoda,Penaeidae,Penaeus setiferus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+daphnia cucullata,unknown,Metazoa,Branchiopoda,Diplostraca,Daphniidae,Daphnia cucullata,NA,Arthropoda,NA,NA,NA,NA,aquatic
+daphniidae,unknown,Metazoa,Branchiopoda,Diplostraca,Daphniidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+pompholyx sulcata,unknown,Metazoa,Branchiopoda,Diplostraca,Sididae,Pompholyx sulcata,NA,Arthropoda,NA,NA,NA,NA,aquatic
+unidentified cladocera,unknown,Metazoa,Branchiopoda,Diplostraca,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+cyclorrapha,unknown,Metazoa,Insecta,Diptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+limonia spp,unknown,Metazoa,Insecta,Diptera,Limoniidae,Limonia sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+coptomus,unknown,Metazoa,Insecta,Ephemeroptera,Polymitarcyidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ephemerellidae,unknown,Metazoa,Insecta,Ephemeroptera,Leptohyphidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+gobiosoma bosc,unknown,Metazoa,Actinopterygii,Gobiiformes,Gobiidae,Gobiosoma bosc,NA,Chordata,NA,NA,NA,NA,aquatic
+knipowitschia caucasica,unknown,Metazoa,Actinopterygii,Gobiiformes,Gobiidae,Knipowitschia caucasica,NA,Chordata,NA,NA,NA,NA,aquatic
+i sordidus,unknown,Metazoa,Hexanauplia,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+iliocryptus sordidus,unknown,Metazoa,Hexanauplia,Harpacticoida,Iliocryptidae,Iliocryptus sordidus,NA,NA,NA,NA,NA,NA,aquatic
+ilyocriptus sp,unknown,Metazoa,Hexanauplia,Harpacticoida,Iliocryptidae,Iliocryptus sp.,NA,NA,NA,NA,NA,NA,aquatic
+ilyocryptidae,unknown,Metazoa,Hexanauplia,Harpacticoida,Iliocryptidae,NA,NA,NA,NA,NA,NA,NA,aquatic
+ilyocryptus sordidus,unknown,Metazoa,Hexanauplia,Harpacticoida,Iliocryptidae,Iliocryptus sordidus,NA,NA,NA,NA,NA,NA,aquatic
+notonecitidae,unknown,Metazoa,Insecta,Hemiptera,Notonectidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+notonecta glauca,unknown,Metazoa,Insecta,Hemiptera,Notonectidae,Notonecta glauca,NA,Arthropoda,NA,NA,NA,NA,aquatic
+notonecta sp,unknown,Metazoa,Insecta,Hemiptera,Notonectidae,Notonecta sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+notonectid,unknown,Metazoa,Insecta,Hemiptera,Notonectidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+isoptera termites,unknown,Metazoa,Insecta,Isoptera,NA,NA,NA,NA,NA,NA,NA,NA,terrestrial
+lsoptera,unknown,Metazoa,Insecta,Isoptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+bythynia tentaculata,unknown,Metazoa,Insecta,Littorinimorpha,Bythiniidae,Bythynia tentaculata,NA,Mollusca,NA,NA,NA,NA,aquatic
+adult insect_aquatic,adults,Metazoa,Insecta,NA,NA,NA,Insecta,NA,NA,NA,NA,NA,aquatic
+adult insect_terrestrial,adults,Metazoa,Insecta,NA,NA,NA,Insecta,NA,NA,NA,NA,NA,terrestrial
+adult insect_unknown,adults,Metazoa,Insecta,NA,NA,NA,Insecta,NA,NA,NA,NA,NA,aquatic or terrestrial
+adults insects,adults,Metazoa,Insecta,NA,NA,NA,Insecta,NA,NA,NA,NA,NA,aquatic or terrestrial
+all sponges,unknown,Metazoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+class bivalvia,unknown,Metazoa,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+diplopoda milipedes,unknown,Metazoa,Diplopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,terrestrial
+cynoscion regalis,unknown,Metazoa,Actinopterygii,Perciformes,Sciaenidae,Cynoscion regalis,NA,Chordata,NA,NA,NA,NA,aquatic
+micropogonias undulatus,unknown,Metazoa,Actinopterygii,Perciformes,Sciaenidae,Micropogonias undulatus,NA,Chordata,NA,NA,NA,NA,aquatic
+brachionus angularis,unknown,Metazoa,Monogononta,Plioma,Brachionidae,Brachionus angularis,NA,Rotifera,NA,NA,NA,NA,aquatic
+brachionus spp,unknown,Metazoa,Monogononta,Plioma,Brachionidae,Brachionus sp.,NA,Rotifera,NA,NA,NA,NA,aquatic
+b calyciflorus,unknown,Metazoa,Monogononta,Ploima,Brachionidae,Brachionus angularis,NA,Rotifera,NA,NA,NA,NA,aquatic
+k quadrata,unknown,Metazoa,Monogononta,Ploima,Brachionidae,Keratella quadrata,NA,Rotifera,NA,NA,NA,NA,aquatic
+keratella cochlearis,unknown,Metazoa,Monogononta,Ploima,Brachionidae,Keratella cochlearis,NA,Rotifera,NA,NA,NA,NA,aquatic
+keratella quadrata,unknown,Metazoa,Monogononta,Ploima,Brachionidae,Keratella quadrata,NA,Rotifera,NA,NA,NA,NA,aquatic
+ostracod cypris_larvae,unknown,Metazoa,Ostracoda,Podocopida,Cyprididae,Cypris sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ostracoda sp,unknown,Metazoa,Ostracoda,Podocopida,Cyprididae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ostracode shrimps,unknown,Metazoa,Ostracoda,Podocopida,Cyprididae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+cheumatopsyche pettiti_hydropsychidae,unknown,Metazoa,Insecta,Trichoptera,Hydropsychidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+sphaerium corneum,unknown,Metazoa,Bivalvia,Veneroida,Sphaeriidae,NA,NA,Mollusca,NA,NA,NA,NA,aquatic
+coarse lit_ter,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+coarse litter,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+coarse sand,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sand,aquatic or terrestrial
+coarse utter,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+detritus,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+detritus mud,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+detritus sediment,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+detritusl,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+detrius,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+digested material,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,amorphic detritus,aquatic or terrestrial
+disposed sewage,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sewage,aquatic or terrestrial
+faecal matter,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+fine sand,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sand,aquatic or terrestrial
+glass,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,glass,aquatic or terrestrial
+land,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unknown
+mud,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+nonprey items,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+organic detritus,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+organic material,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+other,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unknown,aquatic or terrestrial
+other aquatic_fauna,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic
+other organisms,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unknown,aquatic or terrestrial
+paper,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+sand,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sand,aquatic or terrestrial
+sand grains,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sand,aquatic or terrestrial
+stones,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+terrestrial,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,terrestrial
+thread,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,terrestrial
+tissue,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,terrestrial
+unidentifed food,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentifed items,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentifed matter,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentifed organic_material,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+unidentifed parts,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,detritus,aquatic or terrestrial
+unidentified 33,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified 39,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified adult,adults,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified adults,adults,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified items,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified larvae_44,larvae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified larvae_57,larvae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified material,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+unidentified prey,unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unidentified,aquatic or terrestrial
+rhizoclonium sp_chlorophyta,unknown,Plantae,Ulvophyceae,Cladophorales,Cladophoraceae,Rhizoclonium sp.,NA,Chlorophyta,NA,NA,NA,NA,aquatic
+actinotaenium,unknown,Plantae,Zygnematophyceae,Desmidiales,Desmidiaceae,Actinotaenium sp.,NA,Charophyta,NA,NA,NA,NA,aquatic
+mosses bryophyta_ectropothecium_sandwichense_hypnaceae,unknown,Plantae,Bryopsida,Hypnales,Pylaisiaceae,Ectrophothecium sandwichense,NA,NA,NA,Bryidae,NA,NA,aquatic
+algae unknwon,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+algal flaments,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+algal spores,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+blue filamentous_algae,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+blue green_algae,unknown,Plantae,Cyanophyceae,NA,NA,NA,NA,Cyanobacteria,NA,NA,NA,NA,aquatic
+brown algae,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+decaying aquatic_leaves,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+filamentous g_reen_algae,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+flamentous algae,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+fru its,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+fruit,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+fruit flower,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+fruits seeds_angyospermae,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+green filamentous_algae,unknown,Plantae,NA,NA,NA,NA,Plantae,NA,NA,NA,NA,NA,aquatic
+macrophyte fragments,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+macrophyte tissue,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+naacrophytes,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+other plant_material,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+other plant_matter,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+pant matter,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+plant material_terrestrial,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,terrestrial
+root leaf_stem_angyospermae,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+unidentified seeds,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+vegetable materials_n_id,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+vegetable remains,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+gonatozygon,unknown,Plantae,Zygnematophyceae,Zygnematales,Peniaceae,NA,NA,Charophyta,NA,NA,NA,NA,aquatic
+euglena sp,unknown,Protista,Euglenophyceae,NA,NA,Euglena,NA,Euglenophyta,NA,NA,NA,NA,aquatic
+s mossambicus,unknown,Animalia,Actinopterygii,Perciformes,Cichlidae,Sarotherodon mossambicus,NA,Chordata,NA,NA,NA,NA,aquatic
+p philander,unknown,Animalia,Actinopterygii,Perciformes,Cichlidae,Pseudocrenilabrus philander,NA,Chordata,NA,NA,NA,NA,aquatic
+g giurus,unknown,Animalia,Actinopterygii,Gobiiformes,Gobiidae,Glossogobius giurus,NA,Chordata,NA,NA,NA,NA,aquatic
+cultrichthys erythropterus,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Chanodichthys erythropterus,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+abbottina rivularis,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Abbottina rivularis,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+sarcocheilichthys,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Sarcocheilichthys sp.,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+acheilognathus 31,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Acheilognathus sp.,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+acheilognathus 32,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Acheilognathus sp.,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+toxabramis swinhonis,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Toxabramis swinhonis,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+squalidus nitens,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Squalidus nitens,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+paracheilognathus,unknown,Animalia,Actinopterygii,Cypriniformes,Cyprinidae,Acheilognathus sp2.,NA,NA,Osteichthyes,NA,NA,NA,terrestrial
+micropercops swinhonis,unknown,Animalia,Actinopterygii,Gobiiformes,Odontobutidae,Micropercops swinhonis,NA,NA,Osteichthyes,NA,NA,NA,aquatic or terrestrial
+siniperca chuatsi,unknown,Animalia,Actinopterygii,Perciformes,Sinipercidae,Siniperca chuatsi,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+pelteobagrus fulvidraco,unknown,Animalia,Actinopterygii,Siluriformes,Bagridae,Tachysurus fulvidraco,NA,NA,Osteichthyes,NA,NA,NA,aquatic
+cilchristella aestuaria,unknown,Animalia,Actinopterygii,Clupeiformes,Clupeidae,Cilchristella aestuaria,NA,Chordata,NA,NA,NA,NA,aquatic
+glossogobius callidus,unknown,Animalia,Actinopterygii,Gobiiformes,Gobiidae,Glossogobius callidus,NA,Chordata,NA,NA,NA,NA,aquatic
+myxus capensis,unknown,Animalia,Actinopterygii,Mugiliformes,Mugilidae,Pseudomyxus,NA,Chordata,NA,NA,NA,NA,aquatic
+chiysicihys sp,unknown,Animalia,Actinopterygii,Siluriformes,Bagridae,Chrysicthys sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+synociontis sp,unknown,Animalia,Actinopterygii,Siluriformes,Mochokidae,Synodontis sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+chrysicthys sp,unknown,Animalia,Actinopterygii,Siluriformes,Bagridae,Chrysicthys sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+chrysichthys spp,unknown,Animalia,Actinopterygii,Siluriformes,Bagridae,Chrysicthys sp.,NA,Chordata,NA,NA,NA,NA,aquatic
+watermite,unknown,Animalia,Arachnida,Trombidiformes,NA,NA,NA,Arthropoda,NA,Acari,NA,NA,aquatic
+thallassius massajae,unknown,Animalia,Arachnida,Araneae,NA,Thallassius massajae,NA,Arthropoda,NA,NA,NA,NA,aquatic
+piona coccinea,unknown,Animalia,Arachnida,Trombidiformes,Pionidae,Pinoa coccinea,NA,Arthropoda,NA,NA,NA,NA,aquatic
+lebertia porosa,unknown,Animalia,Arachnida,Trombidiformes,Lebertiidae,Lebertia porosa,NA,Arthropoda,NA,NA,NA,NA,aquatic
+hydrochoreutes ungulatus,unknown,Animalia,Arachnida,Trombidiformes,Pionidae,Hydrochoreutes ungulatus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+penales,unknown,Chromista,Bacillariophyceae,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+centrales,unknown,Chromista,Bacillariophyceae,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+x1phigenia truncata,unknown,Animalia,Bivalvia,Cardiida,Donacidae,Iphigenia truncata,NA,Mollusca,NA,NA,NA,NA,aquatic
+iphigenia truncata,unknown,Animalia,Bivalvia,Cardiida,Donacidae,Iphigenia truncata,NA,Mollusca,NA,NA,NA,NA,aquatic
+c pulchella,unknown,Animalia,Branchiopoda,Diplostraca,Daphniidae,Ceriodaphnia pulchella,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+sididae,unknown,Animalia,Branchiopoda,Cladocera,Sididae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+arhynchobdellida,unknown,Animalia,Clitellata,Arhynchobdellida,NA,NA,NA,Annelida,NA,Hirudinea,NA,NA,aquatic
+achaeta,unknown,Animalia,Clitellata,Haplotaxida,Enchytraeidae,Achaeta sp.,NA,Annelida,NA,Oligochaeta,NA,NA,aquatic
+erpobdella octoculata,unknown,Animalia,Clitellata,Arhynchobdellida,Epobdellidae,Erpobdella octoculata,NA,Annelida,NA,NA,NA,NA,aquatic or terrestrial
+ampullariidae,unknown,Animalia,Gastropoda,Littorinimorpha,Ampullariidae,NA,NA,Mollusca,NA,NA,NA,NA,aquatic or terrestrial
+umnicolidae hidrobia,unknown,Animalia,Gastropoda,NA,Umnicolidae/hidrobia,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+trochacea,unknown,Animalia,Gastropoda,NA,Trochacea,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic or terrestrial
+acteomicidae,unknown,Animalia,Gastropoda,NA,Acteomicidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+bryonensis,unknown,Animalia,Gastropoda,NA,Thiaridae,Pachylemania bryonensis,NA,Mollusca,NA,NA,NA,NA,aquatic
+pachymelania bryonensis,unknown,Animalia,Gastropoda,NA,Thiaridae,Pachylemania bryonensis,NA,Mollusca,NA,NA,NA,NA,terrestrial
+acartia sp,unknown,Animalia,Hexanauplia,Calanoida,NA,acartia sp,NA,Arthropoda,NA,Copepoda,NA,NA,aquatic
+p adttsta,unknown,Animalia,Insecta,Ephemeroptera,Polymitarcyidae,Povilla adusta,NA,NA,NA,NA,NA,NA,aquatic
+brychius spp,unknown,Animalia,Insecta,Coleoptera,Haliplidae,Brychius sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+formicoidea,unknown,Animalia,Insecta,Hymenoptera,NA,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+cordulegastridae,unknown,Animalia,Insecta,Odonata,Cordulegastridae,NA,NA,NA,NA,NA,NA,NA,aquatic
+calopterygidae,unknown,Animalia,Insecta,Odonata,Calopterygidae,NA,NA,NA,NA,NA,NA,NA,aquatic
+sericostomatidae,unknown,Metazoa,Insecta,Trichoptera,Sericostomatidae,NA,Trichoptera,NA,NA,NA,NA,NA,aquatic
+athericidae,unknown,Animalia,Insecta,Diptera,Athericidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+psycharidae,unknown,Animalia,Insecta,Diptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+orthorrapha,unknown,Animalia,Insecta,Diptera,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+appasus,unknown,Animalia,Insecta,Hemiptera,Belostomatidae,Appasus sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+trithemus,unknown,Animalia,Insecta,Odonata,Libellulidae,Trithemus,NA,Arthropoda,NA,NA,NA,NA,aquatic
+lestes,unknown,Animalia,Insecta,Odonata,Lestidae,Lestes sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+ischnura,unknown,Animalia,Insecta,Odonata,Coenogrionidae,Ischnura sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+africallagma,unknown,Animalia,Insecta,Odonata,Coenogrionidae,Africallagma sp.,NA,Arthropoda,NA,NA,NA,NA,aquatic
+palpomyia,unknown,Metazoa,Insecta,Diptera,Ceratopogonidae,Palpomyia sp.,Diptera,NA,NA,NA,NA,NA,aquatic or terrestrial
+arctocorisa germari,unknown,Animalia,Insecta,Hemiptera,Corixidae,Arctocorisa germari,NA,Arthropoda,NA,NA,NA,NA,NA
+callicorixa praeusta,unknown,Animalia,Insecta,Hemiptera,Corixidae,Callicorixa praeustai,NA,Arthropoda,NA,NA,NA,NA,aquatic
+reduviidae assassin_bugs,unknown,Animalia,Insecta,Hemiptera,Reduviidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+formic oidea,unknown,Animalia,Insecta,Hymenoptera,Formicidae,NA,NA,Arthropoda,NA,NA,NA,NA,aquatic
+h orbiculare,unknown,Animalia,Malacostraca,Decapoda,Hymenosomatidae,"Hymenosoma 
+orbiculare",NA,Arthropoda,NA,NA,NA,NA,aquatic
+c nilotica,unknown,Animalia,Malacostraca,Decapoda,Atyidae,Caridina nilotica,NA,Arthropoda,NA,NA,NA,NA,aquatic
+p sidneyi,unknown,Animalia,Malacostraca,Decapoda,Potamidae,Potamon sidneyi,NA,Arthropoda,NA,NA,NA,NA,aquatic
+g lignorunz,unknown,Animalia,Malacostraca,Amphipoda,NA,Grandidierella lignorunz,NA,Arthropoda,NA,NA,NA,NA,aquatic
+p latipes,unknown,Animalia,Malacostraca,Isopoda,NA,Pontogeloides latipes,NA,Arthropoda,NA,NA,NA,NA,aquatic
+c carinata,unknown,Animalia,Malacostraca,Isopoda,NA,Cyathura carinata,NA,Arthropoda,NA,NA,NA,NA,aquatic
+caprella,unknown,Animalia,Malacostraca,Amphipoda,Caprellidae,Caprella,NA,Arthropoda,NA,NA,NA,NA,aquatic
+anomura,unknown,Animalia,Malacostraca,Decapoda,NA,Anomura sp.,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+potamonautes sidneyi,unknown,Animalia,Malacostraca,Decapoda,NA,Potamonautes sidneyi,NA,Arthropoda,NA,NA,Crustacea,NA,aquatic
+pteridophyta,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,terrestrial
+pholidina spp,unknown,Animalia,NA,Rotifera,NA,Pholidina sp.,NA,NA,NA,NA,NA,NA,terrestrial
+nymphea spp,unknown,Plantae,NA,Nymphaeales,Nymphaeaceae,Nymphaea,NA,NA,NA,NA,NA,NA,aquatic
+chitinous remains,unknown,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+sporangium pteridophyta,unknown,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+protista,unknown,Protista,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic
+rice,unknown,Plantae,NA,Poales,Poaceae,Oryza sp.,NA,NA,NA,NA,NA,NA,aquatic or terrestrial
+garri fibres,unknown,Plantae,NA,Malpighiales,Euphorbiaceae,Manihot sp.,NA,NA,NA,NA,NA,NA,terrestrial
+polichaetatubs,unknown,Animalia,Polychaeta,NA,NA,NA,NA,Annelida,NA,NA,NA,NA,aquatic
+reptilia scincidae_probably_leiolopisma_mettalicum_metallic_skink,unknown,Animalia,Reptilia,Squamata,Scincidae,NA,NA,Chordata,NA,NA,NA,NA,aquatic or terrestrial
+zignemaphyceae,unknown,Plantae,Zygnematophyceae,NA,NA,NA,NA,Charophyta,NA,NA,NA,NA,terrestrial
+desmids,unknown,Viridiplantae,Zygnematophyceae,Desmidiales,Desmidiaceae,NA,NA,Charophyta,NA,NA,NA,NA,aquatic
+higher plant_fagments,unknown,Viridiplantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,aquatic or terrestrial

@@ -77,7 +77,7 @@ test_fish <- data_fish %>%
                                TRUE ~ prey_type)) %>% 
   select(-contains("_add"))
 
-data_fish %>% group_by(prey_class) %>% tally() %>% arrange(-n)
+data_fish %>% group_by(prey_family) %>% tally() %>% arrange(-n)
 test %>% group_by(prey_class) %>% tally() %>% arrange(-n)
 
 # 
@@ -187,4 +187,5 @@ test <- add_phylum
 
 
 data_fish %>% distinct(prey_subphylum) %>% View()
-
+data_fish %>% filter(grepl("lek", citation)) %>% select(citation, author) %>% distinct(citation, author) %>% View()
+data_fish <- data_fish %>% mutate(citation = str_replace(citation, "lek", "L"))

@@ -1,0 +1,9 @@
+type_of_fish,fish_genus,fish_order,fish_family,fish_species,fish_class,fish_superclass
+Amblophiites rupestris,Perciformes,Centrarchidae,Ambloplites rupestris,Actinopterygii,NA,
+Fundulus diaphanus,NA,Cyprinodontiformes,Fundulidae,Fundulus diaphanus,Actinopterygii,Osteichthyes
+Pimephales,NA,Cypriniformes,Cyprinidae,Pimephales sp.,Actinopterygii,NA
+Notemignus crysoleucas,NA,Cypriniformes,Cyprinidae,Notemigonus crysoleucas,Actinopterygii,NA
+Ictalurus nebulosus,NA,Siluriformes,Ictaluridae,Ameiurus nebulosus,Actinopterygii,Osteichthyes
+Lepomis gibbosus macrochirus,NA,Perciformes,Centrarchidae,Lepomis sp.,Actinopterygii,NA
+Labidesthes sicculus,NA,Atheriniformes,Atherinopsidae,Labidesthes sicculus,Actinopterygii,Osteichthyes
+Notropis heterodon,NA,Cypriniformes,Cyprinidae,Notropis heterodon,Actinopterygii,Osteichthyes
