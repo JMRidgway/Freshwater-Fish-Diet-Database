@@ -12,6 +12,7 @@ library(readxl)
 library(rlist)
 library(RCurl)
 library(ggrepel)
+library(here)
 ```
 
 
@@ -32,6 +33,7 @@ fams_in_db <- data_fish %>%
   group_by(fish_family) %>% 
   tally() %>% 
   arrange(-n) %>% 
+  ungroup() %>% 
   mutate(prop_species = n/sum(n),
          data = "in database") %>% 
   rename(no_fish_species_db = n,
@@ -52,6 +54,7 @@ all <- fishbase_div  %>% select(Family, no_fish_species_fb, prop_species_fb) %>%
 
 
 family_diversity_plot <- all %>% 
+  filter(group_no == "no_fish_species_fb") %>%
   # filter(prop_species >=0.001) %>% 
   ggplot(aes(x = reorder(Family,sort), y = prop_species, group = database, 
              color = database,
@@ -67,5 +70,28 @@ family_diversity_plot <- all %>%
        y = "Proportion of species in the family")
 
 family_diversity_plot
+ggsave(family_diversity_plot, file = here("plots/family_diversity_plot.jpg"), width = 7, height = 9, units = "in", dpi = 500)
+```
+
+```{r}
+# overrepresented families
+
+differences <- all %>% 
+  filter(group_no == "no_fish_species_fb") %>% 
+  select(Family, database, prop_species) %>% 
+  pivot_wider(names_from = database, values_from = prop_species) %>% 
+  mutate(difference = `Our database` - FishBase) 
+
+differences %>% 
+  arrange(-difference) %>%
+  filter(!is.na(difference)) %>% 
+  filter(difference >= 0.005) %>% 
+  ggplot(aes(x = reorder(Family, difference), y = difference)) + 
+  geom_point() +
+  geom_hline(yintercept = 0) +
+  labs(y = "Overrepresentation (Proportion in Database minus proportion in FishBase)", 
+       x = "Fish Family") +
+  coord_flip()
+
 ```
 
