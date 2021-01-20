@@ -36,11 +36,7 @@ world <- map_data("world")
     labs(size = "Number of\ndiet samples",
          title = "Diet Samples Extracted",
          caption = paste("As of ", Sys.Date())) +
-    scale_size_continuous(breaks=c(min(sites$n),
-                                   0.25*max(sites$n),                                     #adjust the range of sizes in the legend
-                                   0.50*max(sites$n), 
-                                   0.75*max(sites$n), 
-                                   max(sites$n))) +
+    scale_size_continuous(breaks = c(1, 25, 50, 75, 100)) +
     theme(panel.background = element_rect(fill = "black")) +                              #adjust the ocean color
     annotate("text", x = -120, y = -25, 
              label = paste("Total Diet Samples\n",total_diet_samples), color = "white",   #add the sample size text
@@ -48,7 +44,7 @@ world <- map_data("world")
 
 
 #save the map
-ggsave(map_fish, file = "map_fish.jpg", dpi = 600, width = 8, height = 4)
+ggsave(map_fish, file = "plots/map_fish.jpg", dpi = 600, width = 8, height = 4)
 
 
 
